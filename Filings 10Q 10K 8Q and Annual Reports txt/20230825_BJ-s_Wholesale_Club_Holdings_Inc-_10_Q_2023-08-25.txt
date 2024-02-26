@@ -1,0 +1,4066 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+_______________________________
+
+FORM 10-Q
+_______________________________
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the quarterly period ended July 29, 2023
+
+OR
+
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the transition period from                 to                
+
+Commission File Number: 001-38559
+
+_______________________________
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+(Exact name of registrant as speciﬁed in its charter)
+
+_______________________________
+
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+
+350 Campus Drive
+
+Marlborough, Massachusetts
+(Address of principal executive oﬃces)
+
+45-2936287
+(I.R.S. Employer
+Identiﬁcation No.)
+
+01752
+(Zip Code)
+
+(774) 512-7400
+(Registrant’s telephone number, including area code)
+
+N/A
+(Former name, former address and former ﬁscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.01
+
+Trading symbol(s)
+BJ
+
+Name of each exchange on which
+registered
+New York Stock Exchange
+
+Indicate  by  check  mark  whether  the  registrant  (1)  has  ﬁled  all  reports  required  to  be  ﬁled  by  Section  13  or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant  was  required  to  ﬁle  such  reports),  and  (2)  has  been  subject  to  such  ﬁling  requirements  for  the  past  90
+days. Yes ☒ No ☐
+
+Indicate  by  check  mark  whether  the  registrant  has  submitted  electronically  every  Interactive  Data  File
+required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit such ﬁles). Yes ☒ No ☐
+
+Indicate  by  check  mark  whether  the  registrant  is  a  large  accelerated  ﬁler,  an  accelerated  ﬁler,  a  non-
+accelerated  ﬁler,  a  smaller  reporting  company,  or  an  emerging  growth  company.  See  the  deﬁnitions  of  "large
+accelerated ﬁler," "accelerated ﬁler," "smaller reporting company," and "emerging growth company" in Rule 12b-2
+of the Exchange Act. 
+
+Large accelerated ﬁler
+
+Non-accelerated ﬁler
+
+☒
+☐
+
+Accelerated ﬁler
+
+Smaller reporting company
+
+Emerging growth Company
+
+☐
+
+☐
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition  period  for  complying  with  any  new  or  revised  ﬁnancial  accounting  standards  provided  pursuant  to
+Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as deﬁned in Rule 12b-2 of the Exchange
+
+Act). Yes ☐ No ☒
+
+As  of  August  18,  2023,  the  registrant  had  133,731,549  shares  of  common  stock,  $0.01  par  value  per  share,
+
+outstanding.
+
+Table of Contents
+
+PART I.
+
+FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements (Unaudited)
+
+Condensed Consolidated Balance Sheets
+
+Condensed Consolidated Statements of Operations and Comprehensive Income
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+Condensed Consolidated Statements of Cash Flows
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+Controls and Procedures
+
+Item 2.
+
+Item 3.
+
+Item 4.
+
+PART II.
+
+OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+Item 1A.
+
+Risk Factors
+
+Item 2.
+
+Item 3.
+
+Item 4.
+
+Item 5.
+
+Item 6.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+Defaults Upon Senior Securities
+
+Mine Safety Disclosures
+
+Other Information
+
+Exhibits
+
+Signature
+
+Page
+
+4
+
+5
+
+4
+
+5
+
+7
+
+9
+
+10
+
+19
+
+28
+
+28
+
+29
+
+29
+
+29
+
+29
+
+30
+
+30
+
+30
+
+30
+
+31
+
+2
+
+TRADEMARKS 
+
+®
+
+®
+
+®
+
+®
+
+®
+
+®
+
+®
+
+® 
+
+BJ’s Wholesale Club , BJ’s , Wellsley Farms , Berkley Jensen , My BJ’s Perks , BJ’s Easy Renewal
+
+®
+, BJ’s Gas ,
+®
+BJ's  One ,  BJ's  One+ ,  BJ’s  Perks  Elite ,  BJ’s  Perks  Plus ,  Inner  Circle ,  Same-Day-Select ,  ExpressPay and  BJ’s
+Perks  Rewards are  all  registered  trademarks  of  BJ’s  Wholesale  Club,  Inc.  Other  trademarks,  tradenames  and
+service marks appearing in this Quarterly Report on Form 10-Q are the property of their respective owners. We do
+not intend our use or display of those other parties’ trademarks, trade names or service marks to imply, and such
+use or display should not be construed to imply, a relationship with, or endorsement or sponsorship of us by, these
+other  parties.  Solely  for  convenience,  trademarks,  trade  names  and  service  marks  referred  to  in  this  Quarterly
+Report on Form 10-Q may appear without the 
+ symbols, but such references are not intended to indicate,
+in  any  way,  that  we  will  not  assert,  to  the  fullest  extent  under  applicable  law,  our  rights  or  the  right  of  the
+applicable licensor to these trademarks, trade names and service marks. 
+
+® ™
+, 
+
+ or 
+
+SM
+
+® 
+
+®
+
+®
+
+®
+
+®
+
+DEFINED TERMS
+
+As used in this Quarterly Report on Form 10-Q, unless the context otherwise requires: 
+
+•        "The  Company",  "BJ’s",  "we",  "us"  and  "our"  mean  BJ’s  Wholesale  Club  Holdings,  Inc.  and,  unless  the
+
+•
+•
+
+context otherwise requires, its consolidated subsidiaries;
+"ABL Revolving Facility" means the Company's revolving credit facility entered into on July 28, 2022;
+"ABL  Revolving  Commitment"  means  the  aggregate  committed  amount  of  $1.2  billion  under  the  ABL
+Revolving Facility;
+
+•    "First Lien Term Loan" means the Company’s senior secured ﬁrst lien term loan facility that was amended
+
+•
+
+on January 5, 2023;
+"Third Amendment" means the Company’s third amendment to the senior secured former ﬁrst lien term
+loan facility that was entered into on January 5, 2023;
+
+•    "ﬁscal year 2022" means the 52 weeks ended January 28, 2023;
+•    "ﬁscal year 2023" means the 53 weeks ending February 3, 2024;  
+•    "GAAP" means generally accepted accounting principles in the United States of America;
+•    "ESPP" means the Company's Employee Stock Purchase Plan;
+•    "LIBOR" means the London Interbank Oﬀered Rate; and
+•    "SOFR" means the Secured Overnight Financing Rate.
+
+3
+
+Item 1. Financial Statements.
+
+PART I—FINANCIAL INFORMATION
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands, except par value)
+(Unaudited)
+
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents
+
+Accounts receivable, net
+
+Merchandise inventories
+
+Prepaid expenses and other current assets
+
+Total current assets
+
+Operating lease right-of-use assets, net
+
+Property and equipment, net
+
+Goodwill
+
+Intangibles, net
+
+Deferred income taxes
+
+Other assets
+
+Total assets
+
+LIABILITIES
+
+Current liabilities:
+
+Short-term debt
+
+Current portion of operating lease liabilities
+
+Accounts payable
+
+Accrued expenses and other current liabilities
+
+Total current liabilities
+
+Long-term operating lease liabilities
+
+Long-term debt
+
+Deferred income taxes
+
+Other non-current liabilities
+
+Commitments and contingencies (see Note 5)
+STOCKHOLDERS’ EQUITY
+
+July 29, 2023
+
+January 28,
+2023
+
+July 30, 2022
+
+$
+
+26,210  $
+
+33,915  $
+
+200,279 
+
+1,540,508 
+
+76,309 
+
+1,843,306 
+
+2,165,125 
+
+1,428,576 
+
+1,008,816 
+
+111,568 
+
+7,928 
+
+38,577 
+
+239,746 
+
+1,378,551 
+
+51,033 
+
+1,703,245 
+
+2,142,925 
+
+1,337,029 
+
+1,008,816 
+
+115,505 
+
+11,498 
+
+30,938 
+
+163,681 
+
+204,495 
+
+1,376,526 
+
+57,844 
+
+1,802,546 
+
+2,192,548 
+
+1,232,103 
+
+1,008,816 
+
+120,123 
+
+4,525 
+
+26,583 
+
+$
+
+$
+
+6,603,896  $
+
+6,349,956  $
+
+6,387,244 
+
+411,000  $
+
+405,000  $
+
+179,423 
+
+1,226,490 
+
+774,235 
+
+2,591,148 
+
+2,075,058 
+
+448,135 
+
+64,095 
+
+194,171 
+
+177,233 
+
+1,195,697 
+
+767,411 
+
+2,545,341 
+
+2,058,797 
+
+447,880 
+
+57,024 
+
+194,077 
+
+350,000 
+
+171,568 
+
+1,243,286 
+
+719,291 
+
+2,484,145 
+
+2,118,467 
+
+699,406 
+
+64,354 
+
+167,281 
+
+Preferred stock; par value $0.01; 5,000 shares authorized, and no shares
+issued
+
+Common stock, par value $0.01; 300,000 shares authorized, 147,443
+
+shares issued and 133,720 outstanding at July 29, 2023; 146,347 shares
+issued and 133,903 outstanding at January 28, 2023; and 146,157 shares
+issued and 135,052 outstanding at July 30, 2022
+
+Additional paid-in capital
+
+Retained earnings
+
+Accumulated other comprehensive income
+
+Treasury stock, at cost, 13,723 shares at July 29, 2023; 12,444 shares at
+
+January 28, 2023; and 11,105 shares at July 30, 2022
+
+Total stockholders’ equity
+
+Total liabilities and stockholders’ equity
+
+— 
+
+— 
+
+— 
+
+1,474 
+
+983,366 
+
+891,892 
+
+1,049 
+
+1,463 
+
+958,555 
+
+644,490 
+
+1,550 
+
+(646,492)
+
+1,231,289 
+
+(559,221)
+
+1,046,837 
+
+1,461 
+
+928,548 
+
+384,770 
+
+2,010 
+
+(463,198)
+
+853,591 
+
+$
+
+6,603,896  $
+
+6,349,956  $
+
+6,387,244 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+4
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Net sales
+
+Membership fee income
+
+Total revenues
+
+Cost of sales
+
+Selling, general and administrative expenses
+
+Pre-opening expenses
+
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Loss from discontinued operations, net of income taxes
+
+Net income
+
+Income per share attributable to common stockholders—basic:
+
+Income from continuing operations
+
+Loss from discontinued operations
+
+Net income
+
+Income per share attributable to common stockholders—diluted:
+
+Income from continuing operations
+
+Loss from discontinued operations
+
+Net income
+
+Weighted-average shares of common stock outstanding:
+
+Basic
+
+Diluted
+
+Other comprehensive income:
+
+Total other comprehensive income
+
+Total comprehensive income
+
+Thirteen Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+$
+
+4,859,842  $
+
+5,005,030 
+
+103,698 
+
+4,963,540 
+
+4,066,727 
+
+694,960 
+
+1,584 
+
+200,269 
+
+16,274 
+
+183,995 
+
+52,670 
+
+131,325 
+
+— 
+
+98,786 
+
+5,103,816 
+
+4,243,769 
+
+651,236 
+
+5,901 
+
+202,910 
+
+10,874 
+
+192,036 
+
+51,022 
+
+141,014 
+
+(7)
+
+$
+
+$
+
+$
+
+$
+
+$
+
+131,325  $
+
+141,007 
+
+0.99  $
+
+— 
+
+0.99  $
+
+0.97  $
+
+— 
+
+0.97  $
+
+1.05 
+
+— 
+
+1.05 
+
+1.03 
+
+— 
+
+1.03 
+
+133,317 
+
+135,129 
+
+134,341 
+
+136,567 
+
+— 
+
+— 
+
+$
+
+131,325  $
+
+141,007 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+5
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Net sales
+Membership fee income
+
+Total revenues
+
+Cost of sales
+Selling, general and administrative expenses
+Pre-opening expenses
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations, net of income taxes
+
+Net income
+
+Income per share attributable to common stockholders—basic:
+
+Income from continuing operations
+
+Income (loss) from discontinued operations
+
+Net income
+
+Income per share attributable to common stockholders—diluted:
+
+Income from continuing operations
+
+Income (loss) from discontinued operations
+
+Net income
+
+Weighted-average shares of common stock outstanding:
+
+Basic
+
+Diluted
+
+Other comprehensive income (loss):
+
+Amounts released from other comprehensive income, net of tax
+Unrealized gain on cash ﬂow hedge, net of income tax provision of $229, at July 30, 2022
+Total other comprehensive income (loss)
+
+Total comprehensive income
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+$
+
+9,480,462  $
+206,220 
+
+9,686,682 
+7,909,877 
+1,384,288 
+5,478 
+
+387,039 
+30,964 
+
+356,075 
+108,762 
+
+247,313 
+89 
+
+247,402  $
+
+1.86  $
+
+— 
+1.86  $
+
+1.82  $
+
+0.01 
+1.83  $
+
+133,314 
+
+135,515 
+
+(501) $
+— 
+(501)
+246,901  $
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+9,404,840 
+195,411 
+
+9,600,251 
+7,949,043 
+1,287,180 
+10,801 
+
+353,227 
+18,715 
+
+334,512 
+81,041 
+
+253,471 
+(14)
+
+253,457 
+
+1.89 
+
+— 
+1.89 
+
+1.86 
+
+(0.01)
+1.85 
+
+134,293 
+
+136,635 
+
+117 
+588 
+705 
+254,162 
+
+The accompanying notes are an integral part of the consolidated ﬁnancial statements.
+
+6
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Amounts in thousands)
+(Unaudited)
+
+Common Stock
+
+Shares Amount
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated
+Other
+Comprehensive
+Income
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Total
+Stockholders’
+Equity
+
+Balance, January 28, 2023 146,347  $ 1,463  $ 958,555  $ 644,490  $
+
+1,550 
+
+(12,444) $(559,221) $
+
+1,046,837 
+
+Net income
+
+— 
+
+— 
+
+— 
+
+116,077 
+
+— 
+
+— 
+
+— 
+
+116,077 
+
+Amounts reclassiﬁed from
+accumulated other
+comprehensive income, net
+of tax
+
+Common stock issued
+under stock incentive plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+1,033 
+
+— 
+
+— 
+
+— 
+
+— 
+
+10 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(10)
+
+10,007 
+
+1,675 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(501)
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(560)
+
+(42,369)
+
+(501)
+
+— 
+
+10,007 
+
+1,675 
+
+(42,369)
+
+Balance, April 29, 2023
+
+147,380 
+
+1,473 
+
+970,227 
+
+760,567 
+
+1,049 
+
+(13,004)
+
+(601,590)
+
+1,131,726 
+
+Net income
+
+Common stock issued
+under stock incentive plans
+
+Common stock issued
+under ESPP
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+2 
+
+61 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+131,325 
+
+— 
+
+3,254 
+
+9,624 
+
+261 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+131,325 
+
+— 
+
+3,255 
+
+9,624 
+
+261 
+
+(719)
+
+(44,902)
+
+(44,902)
+
+Balance, July 29, 2023
+
+147,443  $ 1,474  $ 983,366  $ 891,892  $
+
+1,049 
+
+(13,723) $(646,492) $
+
+1,231,289 
+
+7
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Amounts in thousands)
+(Unaudited)
+
+Common Stock
+
+Shares Amount
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated
+Other
+Comprehensive
+Income
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Total
+Stockholders’
+Equity
+
+Balance, January 29, 2022 145,451  $ 1,454  $ 902,704  $ 131,313  $
+
+1,305 
+
+(9,945) $(388,668) $
+
+648,108 
+
+Net income
+
+— 
+
+— 
+
+— 
+
+112,450 
+
+— 
+
+— 
+
+— 
+
+112,450 
+
+Amounts reclassiﬁed from
+accumulated other
+comprehensive income, net
+of tax
+
+Unrealized gain on cash
+ﬂow hedge, net of tax
+
+Common stock issued
+under stock incentive plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+— 
+
+490 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+5 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(5)
+
+9,115 
+
+2,306 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+117 
+
+588 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(801)
+
+(51,342)
+
+Balance, April 30, 2022
+
+145,941 
+
+1,459 
+
+914,120 
+
+243,763 
+
+2,010 
+
+(10,746)
+
+(440,010)
+
+Net income
+
+Common stock issued
+under stock incentive plans
+
+Common stock issued
+under ESPP
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+172 
+
+44 
+
+— 
+
+— 
+
+— 
+
+— 
+
+2 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+141,007 
+
+(2)
+
+2,331 
+
+9,387 
+
+2,712 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+117 
+
+588 
+
+— 
+
+9,115 
+
+2,306 
+
+(51,342)
+
+721,342 
+
+141,007 
+
+— 
+
+2,331 
+
+9,387 
+
+2,712 
+
+Balance, July 30, 2022
+
+146,157  $ 1,461  $ 928,548  $ 384,770  $
+
+2,010 
+
+(11,105) $(463,198) $
+
+853,591 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+8
+
+(359)
+
+(23,188)
+
+(23,188)
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+(Unaudited)
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+Net income
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation and amortization
+
+Amortization of debt issuance costs and accretion of original issue discount
+
+Debt extinguishment charges
+
+Stock-based compensation expense
+
+Deferred income tax provision
+
+Changes in operating leases and other non-cash items
+
+Increase (decrease) in cash due to changes in:
+
+Accounts receivable
+
+Merchandise inventories
+
+Prepaid expenses and other current assets
+
+Other assets
+
+Accounts payable
+
+Accrued expenses and other current liabilities
+
+Other non-current liabilities
+
+Net cash provided by operating activities
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+Additions to property and equipment, net of disposals
+
+Proceeds from sale-leaseback transactions
+
+Acquisitions
+
+Net cash used in investing activities
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+Payments on long-term debt
+
+Proceeds from revolving lines of credit
+
+Payments on revolving lines of credit
+
+Debt issuance costs paid
+
+Net cash received from stock option exercises
+
+Net cash received from ESPP
+
+Acquisition of treasury stock
+
+Proceeds from ﬁnancing obligations
+
+Other ﬁnancing activities
+
+Net cash (used in) provided by ﬁnancing activities
+
+Net (decrease) increase in cash and cash equivalents
+
+Cash and cash equivalents at beginning of period
+
+Cash and cash equivalents at end of period
+
+Supplemental cash ﬂow information:
+
+Interest paid
+
+Income taxes paid
+
+Operating lease liabilities arising from obtaining right-of-use assets and other non-cash lease-
+related operating items
+
+Non-cash ﬁnancing and investing activities:
+
+Finance lease liabilities arising from obtaining right-of-use assets
+
+Property additions included in accrued expenses
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+$
+
+247,402  $
+
+253,457 
+
+109,015 
+
+655 
+
+— 
+
+19,631 
+
+10,641 
+
+762 
+
+39,797 
+
+(161,957)
+
+(14,083)
+
+(8,038)
+
+30,793 
+
+(3,606)
+
+(1,512)
+
+269,500 
+
+(214,240)
+
+5,988 
+
+— 
+
+(208,252)
+
+— 
+
+312,000 
+
+(306,000)
+
+— 
+
+1,571 
+
+3,255 
+
+(87,271)
+
+9,058 
+
+(1,566)
+
+(68,953)
+
+(7,705)
+
+33,915 
+
+26,210  $
+
+97,093 
+
+1,663 
+
+389 
+
+18,502 
+
+12,212 
+
+32,067 
+
+(29,605)
+
+(45,519)
+
+1,097 
+
+(1,858)
+
+130,503 
+
+(31,019)
+
+4,070 
+
+443,052 
+
+(191,534)
+
+2,674 
+
+(376,521)
+
+(565,381)
+
+(50,000)
+
+905,000 
+
+(555,000)
+
+(2,701)
+
+5,018 
+
+2,331 
+
+(74,530)
+
+13,083 
+
+(2,627)
+
+240,574 
+
+118,245 
+
+45,436 
+
+163,681 
+
+28,509  $
+
+113,016 
+
+15,689 
+
+81,512 
+
+111,465 
+
+181,411 
+
+1,449 
+
+30,535 
+
+— 
+
+19,489 
+
+$
+
+$
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+9
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Description of Business
+
+BJ’s  Wholesale  Club  Holdings,  Inc.  and  its  wholly-owned  subsidiaries  is  a  leading  warehouse  club  operator
+concentrated  primarily  in  the  eastern  half  of  the  United  States.  As  of  July  29,  2023,  the  Company
+operated 238 warehouse clubs and 168 gas stations in 19 states.
+
+The Company follows and reports based on the National Retail Federation’s ﬁscal calendar. The thirteen-week
+periods ended July 29, 2023 and July 30, 2022 are referred to herein as the "second quarter of ﬁscal year 2023" and
+the "second quarter of ﬁscal year 2022," respectively.
+
+2. Summary of Signiﬁcant Accounting Policies
+
+Basis of Presentation
+
+The accompanying interim ﬁnancial statements of BJ’s Wholesale Club Holdings, Inc. are unaudited and, in the
+opinion of management, reﬂect all normal recurring adjustments considered necessary for a fair statement of the
+Company’s ﬁnancial statements in accordance with GAAP. 
+
+The  condensed  consolidated  balance  sheet  as  of  January  28,  2023  is  derived  from  the  audited  consolidated
+balance  sheet  as  of  that  date.  The  unaudited  results  of  operations  for  the  second  quarter  of  ﬁscal
+year  2023  are  not  necessarily  indicative  of  future  results  or  results  to  be  expected  for  ﬁscal  year  2023.  The
+Company’s  business,  in  common  with  the  business  of  retailers  generally,  is  subject  to  seasonal  inﬂuences.  The
+Company’s sales and operating income have typically been highest in the fourth quarter holiday season and lowest
+in the ﬁrst quarter of each ﬁscal year. 
+
+These unaudited condensed consolidated ﬁnancial statements should be read in conjunction with the audited
+consolidated ﬁnancial statements and footnotes thereto included in our Annual Report on Form 10-K for the ﬁscal
+year 2022, as ﬁled with the Securities and Exchange Commission on March 16, 2023.
+
+Recent Accounting Pronouncements and Policies
+
+The  Company’s  accounting  policies  are  set  forth  in  the  audited  ﬁnancial  statements  included  in  the
+Company’s  Annual  Report  on  Form  10-K  for  ﬁscal  year  2022.  There  have  been  no  material  changes  to  these
+accounting  policies  and  no  accounting  pronouncements  adopted  that  had  a  material  impact  on  the  Company’s
+ﬁnancial statements.
+
+3. Revenue Recognition
+
+Performance Obligations
+
+The  Company  identiﬁes  each  distinct  performance  obligation  to  transfer  goods  (or  bundle  of  goods)  or
+services.  The  Company  recognizes  revenue  as  it  satisﬁes  a  performance  obligation  by  transferring  control  of  the
+goods or services to the customer.
+
+Net sales—The Company recognizes net sales at clubs and gas stations when the customer takes possession
+of the goods and tenders payment. Sales tax is recorded as a liability at the point of sale. Revenue is recorded at
+the  point  of  sale  based  on  the  transaction  price  on  the  shelf  sign,  net  of  any  applicable  discounts,  sales  tax  and
+expected  refunds.  For  e-commerce  sales,  the  Company  recognizes  sales  when  control  of  the  merchandise  is
+transferred  to  the  customer,  which  is  typically  at  the  time  of  shipment.  The  following  table  summarizes  the
+Company’s  point  of  sale  transactions  at  clubs  and  gas  stations,  excluding  sales  tax,  as  a  percentage  of  both  net
+sales and total revenues:
+
+10
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+July 29, 2023
+
+July 30, 2022
+
+Point of sale transactions, excluding
+sales tax, as a percent of net sales
+Point of sale transactions, excluding
+sales tax, as a percent of total
+revenues
+
+92 %
+
+90 %
+
+92 %
+
+90 %
+
+91 %
+
+89 %
+
+92 %
+
+90 %
+
+BJ’s  Perks  Rewards  and  My  BJ’s  Perks  programs—The  Company’s  BJ’s  Perks  Rewards  membership  program
+which  was  in  place  in  ﬁscal  year  2022  and  the  ﬁrst  month  of  ﬁscal  year  2023,  allowed  participating  members  to
+earn  2%  cash  back,  up  to  a  maximum  of  $500  per  year,  on  qualiﬁed  purchases  made  at  BJ’s.  The  Company  also
+oﬀered a co-branded credit card program, the My BJ’s Perks program, which allowed My BJ’s Perks Mastercard credit
+card  holders  to  earn  up  to  a  10  cent-per-gallon  discount  on  gasoline,  up  to  5%  cash  back  on  eligible  purchases
+made at BJ’s and up to 2% cash back on purchases made with the card outside of BJ’s. Cash back was in the form of
+electronic  awards  issued  in  $10  increments  that  could  be  used  online  or  in-club  at  the  register  and  expired  six
+months from the date issued. 
+
+In  the  ﬁrst  quarter  of  ﬁscal  year  2023,  the  Company  rebranded  the  rewards  program.  The  former  BJ's  Perks
+Rewards membership program is now the Club+ program, whereby participating members earn 2% cash back, up
+to  a  maximum  of  $500  per  year,  on  qualiﬁed  purchases  made  at  BJs  and  a  5  cent-per-gallon  discount  at  BJ's  gas
+locations.  Cash  back  is  in  the  form  of  electronic  awards  issued  to  each  member  once  $10  in  rewards  have  been
+earned. The Company's co-branded credit card program is now the BJ's One and BJ's One+ program, which allows
+cardholders with the opportunity to earn up to 5% cash back on purchases made in BJ's clubs or online at bjs.com
+and up to a 15 cent-per-gallon discount on gasoline when paying with a BJ's One or BJ's One+ Mastercard at our BJ’s
+gas  locations.  Cash  back  is  in  the  form  of  electronic  awards  issued  to  each  member  monthly  on  their  credit  card
+statement date. Earned rewards under these two programs do not expire.
+
+The Company accounts for these transactions as multiple element arrangements and allocates the transaction
+price  to  separate  performance  obligations  using  their  relative  fair  values.  The  Company  includes  the  fair  value  of
+award dollars earned in deferred revenue at the time the award dollars are earned. This liability was $43.1 million
+at  July  29,  2023,  $34.7  million  at  January  28,  2023,  and  $40.0  million  at  July  30,  2022  and  is  included  in  accrued
+expenses  and  other  current  liabilities  in  the  condensed  consolidated  balance  sheets.  Earned  awards  may  be
+redeemed on future purchases made at the Company. The Company recognizes revenue for earned awards when
+customers redeem such awards as part of a purchase at one of the Company’s clubs or on the Company’s website
+or mobile app. During the twenty-six weeks ended July 29, 2023, the Company recognized $34.7 million of revenue
+that was included in the deferred liability as of January 28, 2023. The Company expects to recognize $43.1 million
+of deferred revenue during the remainder of ﬁscal year 2023. During the twenty-six weeks ended July 30, 2022, the
+Company recognized $30.3 million that was included in the deferred liability as of January 29, 2022.
+
+The Company’s total deferred royalty revenue related to the outstanding My BJ's Perks and BJ's One and BJ's
+One+  credit  card  program  was  $5.6  million,  $17.9  million,  and  $28.5  million  at  July  29,  2023,  January  28,
+2023,  and  July  30,  2022,  respectively,  and  is  included  in  accrued  expenses  and  other  current  liabilities  in  the
+condensed  consolidated  balance  sheets.  The  timing  of  revenue  recognition  of  these  awards  is  driven  by  actual
+customer activities, such as reward redemptions and expirations. During the twenty-six weeks ended July 29, 2023,
+the Company recognized $17.9 million of revenue that was included in the deferred liability as of January 28, 2023.
+As  of  July  29,  2023,  the  Company  expects  to  recognize  $5.6  million  of  deferred  revenue  during  the  remainder  of
+ﬁscal year 2023.
+
+In  connection  with  the  new  co-brand  credit  card  program,  the  Company  had  deferred  revenue  of
+approximately $11.9 million and $18.9 million for funds received related to marketing and other integration costs
+as  of  July  29,  2023  and  January  28,  2023,  respectively.  During  the  twenty-six  weeks  ended  July  29,  2023,  the
+Company  recognized  $5.0  million  of  revenue  that  was  included  in  the  deferred  liability  as  of  January  28,  2023,
+related  to  these  marketing  and  other  integration  costs.  The  Company  expects  to  recognize  approximately  $2.1
+million  of  deferred  revenue  during  the  remainder  of  ﬁscal  year  2023,  which  is  included  in  accrued  expenses  and
+other  current  liabilities.  The  Company  expects  to  recognize  approximately  $9.8  million  thereafter,  of  which  $2.6
+million is included in accrued expenses and other current liabilities and $7.2 million is included in other non-current
+liabilities in the condensed consolidated balance sheets.
+
+Membership—The  Company  charges  a  membership  fee  to  its  customers,  which  allows  customers  to  shop  in
+the Company’s clubs, shop on the Company’s website, and purchase gasoline at the Company’s gas stations for the
+duration of the membership, which is generally 12 months. As the Company has the obligation to provide access to
+its clubs, website, and gas stations for the duration of the membership term, the Company recognizes membership
+fees  on  a  straight-line  basis  over  the  life  of  the  membership.  The  Company’s  deferred  revenue  related  to
+membership fees was $195.3 million, $183.7 million, and
+
+11
+
+$185.4  million  at  July  29,  2023,  January  28,  2023,  and  July  30,  2022,  respectively,  and  is  included  in  accrued
+expenses and other current liabilities in the condensed consolidated balance sheets.
+
+Gift  Card  Programs—The  Company  sells  BJ’s  gift  cards  that  allow  customers  to  redeem  the  card  for  future
+purchases equal to the amount of the face value of the gift card. Revenue from gift card sales is recognized upon
+redemption of the gift card because the Company’s performance obligation to redeem the gift card for merchandise
+is satisﬁed when the gift card is redeemed. Deferred revenue related to gift cards was $13.4 million, $14.1 million,
+and  $11.9  million  at  July  29,  2023,  January  28,  2023,  and  July  30,  2022,  respectively.  The  Company
+recognized  $10.9  million  and  $12.7  million  of  revenue  from  gift  card  redemptions  in  the  second  quarters  of  ﬁscal
+years 2023 and 2022, respectively. The Company recognized $22.5 million and $23.2 million of revenue from gift
+card redemptions in the twenty-six weeks ended July 29, 2023 and July 30, 2022, respectively.
+
+Disaggregation of Revenue
+
+The Company’s club retail operations, which include retail club and other sales procured from our clubs and
+distribution  centers,  represent  substantially  all  of  its  consolidated  total  revenues,  and  are  the  Company’s  only
+reportable  segment.  All  the  Company’s  identiﬁable  assets  are  in  the  United  States.  The  Company  does  not  have
+signiﬁcant sales outside the United States, nor does any customer represent more than 10% of total revenues for
+any period presented.
+
+The following table summarizes the Company’s percentage of net sales disaggregated by category:
+
+Grocery
+General Merchandise and Services
+Gasoline and Other
+
+70 %
+11 %
+19 %
+
+64 %
+12 %
+24 %
+
+71 %
+10 %
+19 %
+
+65 %
+12 %
+23 %
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+July 29, 2023
+
+July 30, 2022
+
+4. Debt and Credit Arrangements
+
+The following table summarizes the Company’s debt (in thousands):
+
+ABL Revolving Facility
+First Lien Term Loan
+Unamortized original issue discount and debt issuance
+costs
+Less: Short-term debt
+
+Long-term debt
+
+ABL Revolving Facility
+
+July 29, 2023
+
+January 28,
+2023
+
+July 30, 2022
+
+$
+
+$
+
+411,000  $
+450,000 
+
+405,000  $
+450,000 
+
+(1,865)
+(411,000)
+448,135  $
+
+(2,120)
+(405,000)
+447,880  $
+
+350,000 
+701,920 
+
+(2,514)
+(350,000)
+699,406 
+
+On July 28, 2022, the Company entered into the ABL Revolving Facility with an ABL Revolving Commitment of
+$1.2  billion  pursuant  to  that  certain  credit  agreement  (the  "Credit  Agreement")  with  Bank  of  America,  N.A.,  as
+administrative  agent  and  collateral  agent,  and  the  other  lenders  party  thereto.  The  maturity  date  of  the  ABL
+Revolving  Facility  is  July  28,  2027.  In  connection  with  this  transaction,  the  Company  extinguished  the  previous
+senior secured asset based revolving credit and term facility.
+
+Revolving loans under the ABL Revolving Facility are available in an aggregate amount equal to the lesser of
+the aggregate ABL Revolving Commitment or a borrowing base based on the value of certain inventory, accounts
+and credit card receivables, subject to speciﬁed advance rebates and reserves as set forth in the Credit Agreement.
+Indebtedness under the ABL Revolving Facility is secured by substantially all of the assets (other than real estate) of
+the  Company  and  its  subsidiaries,  subject  to  customary  exceptions.  As  amended,  interest  on  the  ABL  Revolving
+Facility  is  calculated  either  at  the  SOFR  plus  a  range  of  100  to  125  basis  points  or  a  base  rate  plus  0  to  25  basis
+points, based on excess availability. The Company will also pay an unused commitment fee of 20 basis points per
+annum on the unused ABL Revolving Commitment. Each borrowing is
+
+12
+
+for  a  period  of  one,  three,  or  six  months,  as  selected  by  the  Company,  or  for  such  other  period  that  is  twelve
+months or less requested by the Company and consented to by the lenders and administrative agent.
+
+The  ABL  Revolving  Facility  places  certain  restrictions  (i.e.,  covenants)  upon  the  Borrower’s,  and  its
+subsidiaries’, ability to, among other things, incur additional indebtedness, pay dividends and make certain loans,
+investments, and divestitures. The ABL Revolving Facility contains customary events of default (including payment
+defaults, cross-defaults to certain of the Company's other indebtedness, breach of representations and covenants
+and  change  of  control).  The  occurrence  of  an  event  of  default  under  the  ABL  Revolving  Facility  would  permit  the
+lenders to accelerate the indebtedness and terminate the ABL Revolving Facility.
+
+As of July 29, 2023, there was $411.0 million outstanding in loans under the ABL Revolving Facility and $11.3
+million  in  outstanding  letters  of  credit.  The  interest  rate  on  the  ABL  Revolving  Facility  was  6.42%  and  unused
+capacity was $726.2 million.
+
+First Lien Term Loan
+
+On  January  5,  2023,  the  Company  entered  into  the  Third  Amendment  to  the  First  Lien  Term  Loan  Credit
+Agreement,  with  Nomura  Corporate  Funding  Americas,  LLC,  as  administrative  agent  and  collateral  agent  and  the
+lenders party thereto. BofA Securities, Inc., Deutsche Bank Securities Inc., and Wells Fargo Securities LLC acted as
+joint lead arrangers and joint bookrunners of the Third Amendment.
+
+The  Third  Amendment,  among  other  things,  extended  the  maturity  date  with  respect  to  the  term  loans
+outstanding  under  the  First  Lien  Term  Loan  Credit  Agreement  from  February  3,  2024  to  February  3,  2027.  In
+addition,  the  Third  Amendment  transitioned  the  interest  rate,  immediately,  from  LIBOR  to  SOFR  and  changed  the
+applicable margin from LIBOR plus 200 – 225 basis points per annum to SOFR plus 275 basis points per annum.
+
+Voluntary prepayments are permitted. Principal payments must be made on the First Lien Term Loan pursuant
+to an annual excess cash ﬂow calculation when the net leverage ratio exceeds 3.50 to 1.00. As of July 29, 2023, the
+Company's net leverage ratio did not exceed 3.50 to 1.00, and therefore, no incremental principal payments were
+required.  The  First  Lien  Term  Loan  is  subject  to  certain  aﬃrmative  and  negative  covenants  but  no  ﬁnancial
+covenants. It is secured on a senior basis by certain "ﬁxed assets" of the Company and on a junior basis by certain
+"liquid" assets of the Company.
+
+There was $450.0 million outstanding on the First Lien Term Loan at July 29, 2023 and January 28, 2023, and
+$701.9  million  outstanding  at  July  30,  2022.  The  interest  rates  were  7.89%,  7.11%,  and  3.96%  at  July  29,  2023,
+January 28, 2023, and July 30, 2022, respectively.
+
+5. Commitments and Contingencies
+
+The Company is involved in various legal proceedings that are typical of a retail business. In accordance with
+applicable  accounting  guidance,  an  accrual  will  be  established  for  legal  proceedings  if  and  when  those  matters
+present loss contingencies that are both probable and estimable. The Company does not believe the resolution of
+any current proceedings will result in a material loss to the condensed consolidated ﬁnancial statements.
+
+6. Stock Incentive Plans
+
+On  June  13,  2018,  the  Company’s  board  of  directors  adopted,  and  its  stockholders  approved,  the  BJ’s
+Wholesale Club Holdings, Inc. 2018 Incentive Award Plan (the "2018 Plan"). The 2018 Plan provides for the grant of
+stock  options,  restricted  stock,  dividend  equivalents,  stock  payments,  restricted  stock  units,  performance  shares,
+other  incentive  awards,  stock  appreciation  rights,  and  cash  awards.  Prior  to  the  adoption  of  the  2018  Plan,  the
+Company granted stock-based compensation to employees and non-employee directors under the Fourth Amended
+and  Restated  2011  Stock  Option  Plan  of  BJ’s  Wholesale  Club,  Inc.  (f/k/a  Beacon  Holding  Inc.),  as  amended
+(the  "2011  Plan")  and  the  2012  Director  Stock  Option  Plan  of  BJ’s  Wholesale  Club  Holdings,  Inc.  (f/k/a  Beacon
+Holding,  Inc.),  as  amended  (the  "2012  Director  Plan").  No  further  grants  will  be  made  under  the  2011  Plan  or
+the 2012 Director Plan.
+
+The  2018  Plan  authorizes  the  issuance  of  13,148,058  shares,  including  985,369  shares  that  were  reserved
+but not issued under the 2011 Plan and the 2012 Director Plan. If an award under the 2018 Plan, the 2011 Plan, or
+the  2012  Director  Plan  is  forfeited,  expires,  or  is  settled  for  cash,  any  shares  subject  to  such  award  may,  to  the
+extent of such forfeiture, expiration, or
+
+13
+
+cash  settlement,  be  used  again  for  new  grants  under  the  2018  Plan.  Additionally,  shares  tendered  or  withheld  to
+satisfy  grant  or  exercise  price,  or  tax  withholding  obligations  associated  with  an  award  under  the  2018  Plan,
+the 2011 Plan, or the 2012 Director Plan will be added to the shares authorized for grant under the 2018 Plan. The
+following shares may not be used again for grant under the 2018 Plan: (1) shares subject to a stock appreciation
+right ("SAR") that are not issued in connection with the stock settlement of the SAR upon its exercise and (2) shares
+purchased on the open market with the cash proceeds from the exercise of options under the 2018 Plan, 2011 Plan,
+or  2012  Director  Plan.  As  of  July  29,  2023,  there  were  4,916,649  shares  available  for  future  issuance  under
+the 2018 Plan.
+
+The  following  table  summarizes  the  Company’s  stock  award  activity  during  the  twenty-six  weeks
+
+ended July 29, 2023 (shares in thousands):
+
+Stock Options
+
+Restricted Stock
+
+Restricted Stock
+Units
+
+Performance
+Stock
+
+Weighted-
+Average
+Exercise
+Price
+
+Shares
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+1,788  $
+— 
+— 
+(93)
+
+20.35 
+— 
+— 
+20.85 
+
+750  $
+322 
+(39)
+(386)
+
+50.10 
+76.07 
+63.09 
+42.94 
+
+24  $
+22 
+(5)
+(19)
+
+58.61 
+62.13 
+58.61 
+58.61 
+
+854  $
+503 
+(40)
+(640)
+
+45.70 
+76.07 
+58.81 
+24.35 
+
+1,695  $
+
+20.33 
+
+647  $
+
+66.50 
+
+22  $
+
+62.13 
+
+677  $
+
+58.84 
+
+(a)
+
+Outstanding, January 28,
+2023
+Granted 
+Forfeited/canceled
+Exercised/vested
+Outstanding, July 29,
+2023
+
+(a)     Includes 320 incremental Performance Stock awards granted in ﬁscal year 2020 with a weighted-average
+grant date fair value of $24.35, that vested in ﬁscal year 2023 at greater than 100% of target based on
+performance.
+
+Stock-based  compensation  expense  was  $9.6  million  and  $9.4  million  for  the  thirteen  weeks  ended  July  29,
+2023 and July 30, 2022, respectively, and $19.6 million and $18.5 million for the twenty-six weeks ended July 29,
+2023 and July 30, 2022, respectively.
+
+On June 14, 2018, the Company’s board of directors adopted, and its stockholders approved, the ESPP, which
+became  eﬀective  July  1,  2018.  The  aggregate  number  of  shares  of  common  stock  that  were  to  be  reserved  for
+issuance  under  the  ESPP  was  to  be  equal  to  the  sum  of  (i)  973,014  shares  and  (ii)  an  annual  increase  on
+the ﬁrst day of each calendar year beginning in 2019 and ending in 2028 equal to the lesser of (A) 486,507 shares,
+(B) 0.5% of the shares outstanding (on an as converted basis) on the last day of the immediately preceding ﬁscal
+year  and  (C)  such  smaller  number  of  shares  as  determined  by  the  Company's  board  of  directors.  The  amount  of
+expense  recognized  related  to  the  ESPP  was  $0.4  million  and  $0.3  million  for  the  thirteen  weeks  ended  July  29,
+2023  and  July  30,  2022,  respectively,  and  $0.7  million  and  $0.5  million  for  the  twenty-six  weeks  ended  July  29,
+2023 and July 30, 2022, respectively. As of July 29, 2023, there were 2,463,889 shares available for issuance under
+the ESPP.
+
+7. Treasury Shares and Share Repurchase Program
+
+Treasury Shares Acquired on Restricted Stock and Performance Stock Awards
+
+The  Company  acquired  3,625  shares  to  satisfy  employees’  tax  withholding  obligations  upon  the  vesting  of
+restricted stock awards in the thirteen weeks ended July 29, 2023, which was recorded as $0.3 million of treasury
+stock.  The  Company  acquired  5,945  shares  to  satisfy  employees'  tax  withholding  obligations  upon  the  vesting  of
+restricted stock awards in the thirteen weeks ended July 30, 2022, which was recorded as $0.3 million of treasury
+stock.
+
+The Company acquired 359,827 shares to satisfy employees’ tax withholding obligations upon the vesting of
+restricted stock and performance stock awards in the twenty-six weeks ended July 29, 2023, which was recorded as
+$27.4  million  of  treasury  stock.  The  Company  acquired  235,845  shares  to  satisfy  employees'  tax  withholding
+obligations  upon  the  vesting  of  restricted  stock  awards  in  the  twenty-six  weeks  ended  July  30,  2022,  which  was
+recorded as $15.9 million of treasury stock.
+
+Share Repurchase Program
+
+On November 16, 2021, the Company's board of directors approved a share repurchase program (the "2021
+Repurchase  Program")  that  allows  the  Company  to  repurchase  up  to  $500.0  million  of  its  outstanding  common
+
+stock from time to time as
+
+14
+
+market conditions warrant. The 2021 Repurchase Program expires in January 2025. The Company initiated the 2021
+Repurchase Program to mitigate potentially dilutive eﬀects of stock options and shares of restricted stock granted
+by the Company, in addition to enhancing shareholder value.
+
+The Company repurchased 715,122 shares for $44.6 million and 353,000 shares for $22.8 million during the
+thirteen weeks ended July 29, 2023 and July 30, 2022, respectively. The Company repurchased 919,162 shares for
+$59.9  million  and  923,506  shares  for  $58.6  million  during  the  twenty-six  weeks  ended  July  29,  2023  and  July  30,
+2022, respectively. As of July 29, 2023, $258.8 million remained available to purchase under the 2021 Repurchase
+Program.
+
+8. Income Taxes
+
+The Company projects the estimated annual eﬀective tax rate for ﬁscal year 2023 to be 28.3%, excluding the
+tax  eﬀect  of  discrete  events,  such  as  excess  tax  beneﬁts  from  stock-based  compensation,  changes  in  tax
+legislation, settlements of tax audits and changes in uncertain tax positions, among others.
+
+The  Company’s  eﬀective  income  tax  rate  from  continuing  operations  was  28.6%  and  26.6%  for  the  thirteen
+weeks ended July 29, 2023 and July 30, 2022, respectively, primarily due to a reduction in excess tax beneﬁts from
+stock-based compensation and tax credits in the current period. For the twenty-six weeks ended July 29, 2023 and
+July 30, 2022, the Company's eﬀective tax rate from continuing operations was and 30.5% and 24.2%, respectively,
+and  the  increase  was  primarily  due  to  an  immaterial  adjustment  to  certain  deferred  tax  assets  related  to  prior
+periods,  as  well  as  lower  excess  tax  beneﬁts  from  stock-based  compensation  and  lower  tax  credits  in  the  current
+period.
+
+The Company is subject to taxation in the U.S. federal and various state taxing jurisdictions. The Company’s
+tax years from 2018 forward remain open and subject to examination by the Internal Revenue Service and various
+state taxing authorities.
+
+On August 16, 2022, the Inﬂation Reduction Act was signed into law in the United States. We currently do not
+
+expect the legislation to have a material impact on our ﬁnancial statements.
+
+9. Fair Value Measurements
+
+Certain  assets  and  liabilities  are  required  to  be  carried  at  fair  value  in  accordance  with  GAAP.  Fair  value  is
+deﬁned as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the
+principal  or  most  advantageous  market  for  the  asset  or  liability  in  an  orderly  transaction  between  market
+participants on the measurement date.
+
+The Company uses a three-level hierarchy that prioritizes the inputs used to measure fair value. This hierarchy
+requires entities to maximize the use of observable inputs and minimize the use of unobservable inputs. Financial
+assets and liabilities carried at fair value are to be classiﬁed and disclosed in one of the following three levels of the
+fair value hierarchy, of which the ﬁrst two are considered observable and the last is considered unobservable:
+
+Level 1: Quoted market prices in active markets for identical assets or liabilities.
+
+Level 2: Observable inputs other than quoted market prices included in Level 1 such as quoted market prices
+for  markets  that  are  not  active  or  other  inputs  that  are  observable  or  can  be  corroborated  by  observable
+market data.
+
+Level 3: Unobservable inputs that are supported by little or no market activity and that are signiﬁcant to the
+fair  value  of  the  assets  or  liabilities,  including  certain  pricing  models,  discounted  cash  ﬂow  methodologies  and
+similar techniques that use signiﬁcant unobservable inputs.
+
+15
+
+Financial Assets and Liabilities
+
+The  fair  value  of  the  Company's  long-term  debt  is  estimated  based  on  current  market  rates  for  our  speciﬁc
+debt  instrument.  Judgment  is  required  to  develop  these  estimates.  As  such,  the  estimated  fair  value  of  long-term
+debt is classiﬁed within Level 2, as deﬁned under U.S. GAAP.
+
+The gross carrying amount and fair value of the Company’s debt at July 29, 2023 are as follows (in thousands):
+
+First Lien Term Loan
+ABL Revolving Facility
+
+Total Debt
+
+Carrying
+Amount
+
+Fair Value
+
+$
+
+$
+
+450,000  $
+411,000 
+861,000  $
+
+450,311 
+411,000 
+861,311 
+
+The  gross  carrying  amount  and  fair  value  of  the  Company’s  debt  at  January  28,  2023  are  as  follows  (in
+
+thousands):
+
+First Lien Term Loan
+ABL Revolving Facility
+
+Total Debt
+
+Carrying
+Amount
+
+Fair Value
+
+$
+
+$
+
+450,000  $
+405,000 
+855,000  $
+
+450,482 
+405,000 
+855,482 
+
+The gross carrying amount and fair value of the Company’s debt at July 30, 2022 are as follows (in thousands):
+
+First Lien Term Loan
+ABL Revolving Facility
+
+Total Debt
+
+Carrying
+Amount
+
+$
+
+$
+
+701,920  $
+350,000 
+1,051,920  $
+
+Fair Value
+
+700,797 
+350,000 
+1,050,797 
+
+Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis
+
+The Company measures certain non-ﬁnancial assets and liabilities, including long-lived assets, at fair value on
+
+a non-recurring basis.
+
+The Company believes that the carrying amounts of its other ﬁnancial instruments, including cash, accounts
+receivable,  and  accounts  payable,  approximate  their  fair  values  due  to  the  short-term  maturities  of  these
+instruments.
+
+10. Earnings Per Share
+
+The table below reconciles basic weighted-average shares of common stock outstanding to diluted weighted-
+average  shares  of  common  stock  outstanding  for  the  thirteen  and  twenty-six  weeks  ended  July  29,
+2023 and July 30, 2022 (in thousands):
+
+Weighted-average shares of common stock
+outstanding, used for basic computation
+
+Plus: Incremental shares of potentially dilutive
+securities:
+
+Weighted-average shares of common stock and dilutive
+potential shares of common stock outstanding
+
+Thirteen Weeks Ended
+July 30,
+July 29,
+2022
+2023
+
+Twenty-six Weeks Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+133,317 
+
+134,341 
+
+133,314 
+
+134,293 
+
+1,812 
+
+2,226 
+
+2,201 
+
+2,342 
+
+135,129 
+
+136,567 
+
+135,515 
+
+136,635 
+
+The  table  below  summarizes  awards  that  were  excluded  from  the  computation  of  diluted  earnings  for  the
+thirteen  and  twenty-six  weeks  ended  July  29,  2023  and  July  30,  2022,  as  their  inclusion  would  have  been  anti-
+dilutive (in thousands):
+
+16
+
+Restricted shares
+Restricted stock units
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+July 29, 2023
+
+July 30, 2022
+
+193 
+12 
+
+203 
+5 
+
+145 
+6 
+
+304 
+11 
+
+17
+
+FORWARD-LOOKING STATEMENTS 
+
+This  Quarterly  Report  on  Form  10-Q  contains  forward-looking  statements.  We  intend  such  forward-looking
+statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of
+the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act"). All statements other than statements of historical facts contained in this Quarterly Report on Form
+10-Q  should  be  considered  forward-looking  statements,  including,  without  limitation,  statements  regarding  our
+future results of operations and ﬁnancial position, business strategy, transformation, strategic priorities and future
+progress, including expectations regarding deferred revenue, lease commencement dates, impact of infrastructure
+investments on our operating model and selling, general and administrative expenses, sales of gasoline and gross
+proﬁt  margin  rates,  and  new  club  and  gas  station  openings,  as  well  as  statements  that  include  terms  such  as
+"may",  "will",  "should",  "expect",  "plan",  "anticipate",  "could",  "intend",  "project",  "believe",  "estimate",  "predict",
+"continue",  "forecast",  "would",  or  the  negative  of  these  terms  or  other  similar  expressions.  The  forward-looking
+statements  in  this  Quarterly  Report  on  Form  10-Q  are  only  predictions.  We  have  based  these  forward-looking
+statements  largely  on  our  current  expectations  and  projections  about  future  events  and  ﬁnancial  trends  that  we
+believe may aﬀect our business, ﬁnancial condition and results of operations. These statements involve known and
+unknown  risks,  uncertainties  and  other  important  factors  that  may  cause  our  actual  results,  performance  or
+achievements to be materially diﬀerent from any future results, performance or achievements expressed or implied
+by the forward-looking statements, including, but not limited to:
+
+•    uncertainties in the ﬁnancial markets and the eﬀect of certain economic conditions or events on consumer
+
+and small business spending patterns and debt levels;
+
+•    risks related to our dependence on having a large and loyal membership;
+•        domestic  and  international  economic  conditions,  including  volatility  in  inﬂation  or  interest  rates,  supply
+
+chain disruptions, construction delays and exchange rates;
+
+•    our ability to procure the merchandise we sell at the best possible prices;
+•    the eﬀects of competition in, and regulation of, the retail industry;
+•    our dependence on vendors to supply us with quality merchandise at the right time and at the right price;
+•    risks related to our indebtedness;
+•    changes in laws related to, or the governments administration of, the Supplemental Nutrition Assistance
+
+Program or its electronic beneﬁt transfer systems;
+
+•        the  risks  and  uncertainties  related  to  the  impact  of  any  future  pandemic,  epidemic  or  outbreak  of  any
+
+other highly infectious disease;
+
+•    risks related to climate change and natural disasters;
+•        our  ability  to  identify  and  respond  eﬀectively  to  consumer  trends,  including  our  ability  to  successfully
+
+maintain a relevant omnichannel experience for our members;
+
+•    risks related to cybersecurity, which may be heightened due to our e-commerce business, including our
+ability  to  protect  the  privacy  of  member  or  business  information  and  the  security  of  payment  card
+information;
+
+•    risks relating to our ability to attract and retain a qualiﬁed management team and other team members;
+•    risks relating to our ability to implement our growth strategy by opening new clubs, and gasoline stations;
+
+and
+
+•    the other risk factors identiﬁed in our ﬁlings with the Securities and Exchange Commission, including in
+particular those set forth under "Risk Factors" in our Annual Report on Form 10-K for the ﬁscal year ended
+January 28, 2023 (the "Annual Report on Form 10-K for the ﬁscal year 2022").
+
+Given these uncertainties, you should not place undue reliance on any forward-looking statements. Except as
+required  by  applicable  law,  we  assume  no  obligation  to  update  these  forward-looking  statements,  even  if  new
+information becomes available in the future, and you should not rely upon these forward-looking statements after
+the date of this Quarterly Report on Form 10-Q.
+
+18
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The  following  discussion  and  analysis  is  intended  to  promote  an  understanding  of  the  results  of  operations
+and ﬁnancial condition of the Company and is provided as a supplement to, and should be read in conjunction with,
+our  condensed  consolidated  ﬁnancial  statements  and  related  notes  thereto  included  elsewhere  in  this  Quarterly
+Report on Form 10-Q, as well as the audited consolidated ﬁnancial statements and the related notes thereto in our
+Annual  Report  on  Form  10-K  for  the  ﬁscal  year  2022.  The  following  discussion  may  contain  forward-looking
+statements that reﬂect our plans, estimates and assumptions. Our actual results could diﬀer materially from those
+discussed  in  the  forward-looking  statements.  Factors  that  could  cause  such  diﬀerences  are  discussed  in  the
+sections  of  this  Quarterly  Report  on  Form  10-Q  titled  "Forward-Looking  Statements"  and  in  Part  I.  "Item  1A.  Risk
+Factors" in our Annual Report on Form 10-K for the ﬁscal year 2022.
+
+We report on the basis of a 52- or 53-week ﬁscal year, which ends on the Saturday closest to the last day of
+January. Accordingly, references herein to "ﬁscal year 2023" relate to the 53 weeks ending February 03, 2024, and
+references herein to "ﬁscal year 2022" relate to the 52 weeks ended January 28, 2023. The second quarter of ﬁscal
+year  2023  ended  on  July  29,  2023,  and  the  second  quarter  of  ﬁscal  year  2022  ended  on  July  30,  2022,  and  both
+include thirteen weeks.
+
+Overview
+
+BJ’s  Wholesale  Club  is  a  leading  warehouse  club  operator  concentrated  primarily  on  the  eastern  half  of  the
+United  States.  We  deliver  signiﬁcant  value  to  our  members,  consistently  oﬀering  25%  or  more  savings  on  a
+representative  basket  of  manufacturer-branded  groceries  compared  to  traditional  supermarket  competitors.  We
+provide  a  curated  assortment  focused  on  perishable  products,  continuously  refreshed  general  merchandise,
+gasoline and other ancillary services, coupon books, and promotions to deliver a diﬀerentiated shopping experience
+that is further enhanced by our digital capabilities.
+
+Since  pioneering  the  warehouse  club  model  in  New  England  in  1984,  we  have  grown  our  footprint  to
+238  large-format,  high  volume  warehouse  clubs  and  168  gas  stations  spanning  19  states  as  of  the  date  of  this
+ﬁling. In our core New England markets, which have high population density and generate a disproportionate part
+of U.S. gross domestic product, we operate almost three times the number of clubs compared to the next largest
+warehouse  club  competitor.  In  addition  to  shopping  in  our  clubs,  members  are  able  to  shop  when  and  how  they
+want  through  our  website,  bjs.com,  and  our  highly  rated  mobile  app,  which  allows  them  to  use  our  buy-online-
+pickup-in-club ("BOPIC") service, curbside delivery, same-day home delivery or traditional ship-to-home service, as
+well  as  through  the  DoorDash  and  Instacart  marketplaces  where  members  receive  preferential  pricing  by  linking
+their membership. We also oﬀer Same-Day Select, which oﬀers BJ’s members the ability to pay a one-time fee for
+either unlimited or twelve same-day grocery deliveries over a one-year period.
+
+Our leadership team continues to focus on utilizing data to improve member experience, instilling a culture of
+cost discipline, adopting a more proactive approach to growing our membership base and building an omnichannel
+oﬀering oriented towards making shopping at BJ’s more convenient.
+
+Our  goal  is  to  oﬀer  our  members  signiﬁcant  value  and  a  meaningful  return  in  savings  on  their  annual
+membership  fee.  We  have  approximately  7.0  million  members  paying  annual  fees  to  gain  access  to  savings  on
+groceries  and  general  merchandise  and  services.  The  annual  membership  fee  for  our  Club  Card  membership  is
+generally  $55,  and  the  annual  membership  fee  for  our  BJ’s  Club+  membership,  which  oﬀers  additional  value-
+enhancing  features,  is  generally  $110.  We  believe  that  members  can  save  over  ten  times  their  $55  Club  Card
+membership  fee  versus  what  they  would  otherwise  pay  at  traditional  supermarket  competitors  when  they  spend
+$2,500 or more per year at BJ’s on manufacturer-branded groceries. In addition to providing signiﬁcant savings on a
+representative  basket  of  manufacturer-branded  groceries,  we  accept  all  manufacturer  coupons  and  also  carry  our
+own exclusive brands that enable members to save on price without compromising on quality. Our two private label
+brands,  Wellsley  Farms®  and  Berkley  Jensen®,  represented  over  $3.7  billion  in  annual  sales  for  ﬁscal  year  2022
+and  are  the  largest  brands  we  sell  in  terms  of  volume.  Our  customers  recognize  the  relevance  of  our  value
+proposition  across  economic  environments,  as  demonstrated  by  over  25  consecutive  years  of  membership  fee
+income growth. Our membership fee income was $407.5 million for the trailing twelve-months ended July 29, 2023.
+
+Our business is moderately seasonal in nature. Historically, our business has realized a slightly higher portion
+of net sales, operating income, and cash ﬂows from operations in the second and fourth ﬁscal quarters, attributable
+primarily to the impact of the summer and year-end holiday season, respectively. Our quarterly results have been,
+and will continue to be, aﬀected by the timing of new club openings and their associated pre-opening expenses. As
+a  result  of  these  factors,  our  ﬁnancial  results  for  any  single  quarter  or  for  periods  of  less  than  a  year  are  not
+necessarily indicative of the results that may be achieved for a full ﬁscal year.
+
+19
+
+Factors Aﬀecting Our Business
+
+Overall economic trends
+
+The overall economic environment and related changes in consumer behavior have a signiﬁcant impact on our
+business.  In  general,  positive  conditions  in  the  broader  economy  promote  customer  spending  in  our  clubs,  while
+economic  weakness,  which  generally  results  in  a  reduction  of  customer  spending,  may  have  a  diﬀerent  or  more
+extreme eﬀect on spending at our clubs. Macroeconomic factors that can aﬀect customer spending patterns, and
+thereby  our  results  of  operations,  include  employment  rates,  changes  to  the  Supplemental  Nutrition  Assistance
+Program  (SNAP),  government  stimulus  programs,  tax  legislation,  business  conditions,  changes  in  the  housing
+market,  the  availability  of  credit,  interest  rates,  tax  rates  and  fuel  and  energy  costs.  In  addition,  unemployment
+rates and beneﬁts may cause us to experience higher labor costs.
+
+Size and loyalty of membership base
+
+The membership model is a critical element of our business. Members drive our results of operations through
+their  membership  fee  income  and  their  purchases.  The  majority  of  members  renew  within  six  months  following
+their  renewal  date.  Therefore,  our  renewal  rate  is  a  trailing  calculation  that  captures  renewals  during  the  period
+seven to eighteen months prior to the reporting date. We have grown our membership fee income each year for the
+past 25 years and the quality of our membership mix is strong as evidenced by our higher tier penetration growth
+in  the  ﬁrst  twenty-six  weeks  of  ﬁscal  year  2023.  Our  membership  renewal  rate,  a  key  indicator  of  membership
+engagement, satisfaction and loyalty, was 90% at the end of ﬁscal year 2022.
+
+Eﬀective sourcing and distribution of products and consumer demands
+
+Our  net  sales  and  gross  proﬁt  are  aﬀected  by  our  ability  to  purchase  our  products  in  suﬃcient  quantities  at
+competitive  prices.  Further,  our  ability  to  maintain  our  appeal  to  existing  customers  and  attract  new  customers
+primarily  depends  on  our  ability  to  originate,  develop  and  oﬀer  a  compelling  product  assortment  responsive  to
+customer  preferences.  As  a  result,  our  level  of  net  sales  could  be  adversely  aﬀected  due  to  constraints  in  our
+supply  chain,  including  our  inability  to  procure  and  stock  suﬃcient  quantities  of  some  merchandise  in  a  manner
+that is able to match market demand from our customers.
+
+Infrastructure investment
+
+Our historical operating results reﬂect the impact of our ongoing investments to support our growth. We have
+made  signiﬁcant  investments  in  our  business  that  we  believe  have  laid  the  foundation  for  continued  proﬁtable
+growth. We believe that expanding our club footprint, bringing substantially all of our end-to-end perishable supply
+chain  in-house,  enhancing  our  information  systems,  including  our  distribution  center  and  transportation
+management systems, and investing in hardware and digitally enabled shopping capabilities for convenience, such
+as BOPIC, curbside pickup, and same day home delivery will enable us to replicate our proﬁtable club format and
+provide a diﬀerentiated shopping experience. We expect these infrastructure investments to support our successful
+operating model across our club operations.
+
+Gasoline prices
+
+The  market  price  of  gasoline  impacts  our  net  sales  and  comparable  club  sales,  and  large  ﬂuctuations  in  the
+price of gasoline may produce a short-term impact on our margins. Retail gasoline prices are driven by daily crude
+oil  and  wholesale  commodity  market  changes  and  are  volatile,  as  they  are  inﬂuenced  by  factors  that  include
+changes in demand and supply of oil and reﬁned products, global geopolitical events, regional market conditions,
+and supply interruptions caused by severe weather conditions. Typically, the change in crude oil prices impacts the
+purchase  price  of  wholesale  petroleum  fuel  products,  which  in  turn  impacts  retail  gasoline  prices  at  the  pump.
+During  times  when  prices  are  particularly  volatile,  diﬀerences  in  pricing  and  procurement  strategies  between  the
+Company  and  its  competitors  may  lead  to  temporary  margin  contraction  or  expansion,  depending  on  whether
+prices are rising or falling, and this impact could aﬀect our overall results for a ﬁscal quarter.
+
+In addition, the relative level of gasoline prices from period to period may lead to diﬀerences in our net sales
+between  those  periods.  Further,  because  we  generally  attempt  to  maintain  a  fairly  stable  gross  proﬁt  per  gallon,
+this  variance  in  net  sales,  which  may  be  substantial,  may  or  may  not  have  a  signiﬁcant  impact  on  our  operating
+income.
+
+Inﬂation and deﬂation trends
+
+20
+
+Our ﬁnancial results can be directly impacted by substantial changes in product costs due to commodity cost
+increases or general inﬂation, which could lead to a reduction in our sales, as well as greater margin pressure, as
+costs  may  not  be  able  to  be  passed  on  to  consumers.  Changes  in  commodity  prices  and  general  inﬂation  have
+impacted  several  categories  of  our  business.  Inﬂationary  pressures  can  be  attributed  to  macro  economic  factors
+including supply chain disruptions, government stimulus, interest rates, and other factors. In response to increasing
+commodity prices or general inﬂation, we seek to minimize the impact of such events by sourcing our merchandise
+from diﬀerent vendors, changing our product mix or increasing our pricing when necessary.
+
+Results of Operations 
+
+The following table summarizes key components of our results of operations for the periods indicated: 
+
+Statement of Operations Data
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+(dollars in thousands, except per share
+amounts)
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+
+Net sales
+
+Membership fee income
+
+Total revenues
+
+Cost of sales
+
+Selling, general and administrative expenses
+
+Pre-opening expenses
+
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before
+income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations,
+net of income taxes
+
+Net income
+
+Weighted-average shares outstanding—basic
+Basic EPS
+
+(a)
+
+Weighted-average shares outstanding—diluted
+Diluted EPS
+
+(a)
+
+$
+
+4,859,842  $
+103,698 
+
+5,005,030  $
+98,786 
+
+9,480,462  $
+206,220 
+
+4,963,540 
+
+4,066,727 
+
+694,960 
+1,584 
+
+200,269 
+16,274 
+
+183,995 
+52,670 
+
+131,325 
+
+5,103,816 
+
+4,243,769 
+
+651,236 
+5,901 
+
+202,910 
+10,874 
+
+192,036 
+51,022 
+
+141,014 
+
+9,686,682 
+
+7,909,877 
+
+1,384,288 
+5,478 
+
+387,039 
+30,964 
+
+356,075 
+108,762 
+
+247,313 
+
+— 
+
+(7)
+
+89 
+
+131,325  $
+
+141,007  $
+
+247,402  $
+
+133,317 
+
+134,341 
+
+133,314 
+
+0.99  $
+
+1.05  $
+
+1.86  $
+
+135,129 
+
+136,567 
+
+135,515 
+
+0.97  $
+
+1.03  $
+
+1.83  $
+
+$
+
+$
+
+$
+
+Operational Data:
+
+Total clubs at end of period
+
+Comparable club sales 
+
+(b)
+
+Merchandise comparable club sales 
+(b)
+
+Adjusted EBITDA 
+(b)
+
+Free cash ﬂow 
+
+(b)
+
+238
+
+(5.3)%
+
+1.1%
+
+229
+
+19.8%
+
+7.6%
+
+238
+
+(1.9)%
+
+3.3%
+
+$
+
+268,760  $
+
+273,700  $
+
+525,743  $
+
+34,200 
+
+300,417 
+
+61,248 
+
+9,404,840 
+195,411 
+
+9,600,251 
+
+7,949,043 
+
+1,287,180 
+10,801 
+
+353,227 
+18,715 
+
+334,512 
+81,041 
+
+253,471 
+
+(14)
+253,457 
+
+134,293 
+1.89 
+
+136,635 
+1.85 
+
+229
+
+17.2%
+
+5.9%
+
+494,501 
+
+254,192 
+
+(a) Basic and diluted EPS are calculated using net income.
+
+(b) See "Non-GAAP Financial Measures" and "Liquidity and Capital Resources" within Item 2. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations for deﬁnitions.
+
+21
+
+Thirteen Weeks Ended July 29, 2023 (Second Quarter of Fiscal Year 2023) Compared to Thirteen Weeks
+Ended July 30, 2022 (Second Quarter of Fiscal Year 2022) 
+
+Net Sales 
+
+Net  sales  are  derived  from  direct  retail  sales  to  customers,  net  of  merchandise  returns  and  discounts.
+
+Fluctuations in net sales are impacted by opening new clubs and comparable club sales.
+
+Net sales for the second quarter of ﬁscal year 2023 were $4.9 billion, a 2.9% decrease from net sales reported
+for the second quarter of ﬁscal year 2022 of $5.0 billion. The decrease was due primarily to a decrease in gasoline
+sales during the second quarter of ﬁscal year 2023.
+
+Comparable Club Sales and Merchandise Comparable Club Sales
+
+We believe net sales is an important driver of our proﬁtability, particularly comparable club sales. Changes in
+comparable sales are driven by variations in shopping frequency from new and existing members and the amount
+they spend on each visit. Sales comparisons can be inﬂuenced by certain factors that are beyond our control such
+as changes in the cost of gasoline and macro-economic factors such as inﬂation. The higher comparable club sales,
+the more we can leverage certain of our selling, general and administrative (SG&A) expenses, reducing them as a
+percentage of sales and enhancing proﬁtability. 
+
+Comparable club sales
+
+Less: impact from gasoline sales
+
+Merchandise comparable club sales
+
+Thirteen Weeks
+Ended
+
+July 29, 2023
+
+(5.3)%
+
+(6.4)%
+1.1 %
+
+Merchandise comparable club sales increased by 1.1% in the second quarter of ﬁscal year 2023 compared to
+the second quarter of ﬁscal year 2022 primarily driven by an increase in sales of groceries of 4.1%, partially oﬀset
+by a decrease in sales of general merchandise and services of approximately 13.3%.
+
+In  grocery,  sales  increased  for  snacks,  beverages,  breakfast  items,  dairy,  frozen,  and  bakery  categories
+compared to the second quarter of ﬁscal year 2022, partially oﬀset by a decrease in sales of fresh meat, vitamins,
+and household categories.
+
+Sales of general merchandise decreased in the second quarter of ﬁscal year 2023 due to decreased demand
+for electronics, home, and seasonal merchandise compared to the second quarter of ﬁscal year 2022, driven by the
+unfavorable impact of weather and macroeconomic factors.
+
+The impact of gasoline sales is a result of lower retail prices in the second quarter of ﬁscal 2023 as compared
+
+to the second quarter of ﬁscal year 2022, as well as a slight decline in comparable gallons.
+
+Membership fee income 
+
+We continue to see growth in the size of our membership base and continued quality. Membership fee income
+was  $103.7  million  in  the  second  quarter  of  ﬁscal  year  2023  compared  to  $98.8  million  in  the  second  quarter  of
+ﬁscal year 2022, a 5.0% increase. The increase was primarily driven by membership renewals, new members, and
+greater penetration of higher-tier membership levels, evidencing the strength of our membership quality.
+
+In  connection  with  our  co-brand  credit  card  transition  in  the  ﬁrst  quarter  of  ﬁscal  year  2023,  we  oﬀered  a  5
+cent-per-gallon  discount  on  gasoline  purchases  to  our  Club+  members.  We  believe  the  new  program  has  helped
+drive continued growth in our higher-tier membership penetration.
+
+Cost of sales 
+
+Cost  of  sales  consists  primarily  of  the  direct  cost  of  merchandise  and  gasoline  sold  at  our  clubs,  including
+costs  associated  with  operating  our  distribution  centers,  including  payroll,  payroll  beneﬁts,  occupancy  costs,  and
+depreciation; freight
+
+ 
+22
+
+expenses  associated  with  moving  merchandise  from  vendors  to  our  distribution  centers  and  from  distribution
+centers to our clubs; and vendor allowances, rebates, and cash discounts.
+
+Cost  of  sales  was  $4.1  billion,  or  83.7%  of  net  sales,  in  the  second  quarter  of  ﬁscal  year  2023  compared  to
+$4.2 billion, or 84.8% of net sales, in the second quarter of ﬁscal year 2022. Merchandise gross margin rate, which
+excludes  gasoline  sales  and  membership  fee  income,  increased  90  basis  points  over  the  prior  year  period.  The
+improvement  in  merchandise  margins  was  primarily  due  to  disinﬂation,  moderated  supply  chain  costs,  and
+improvement of inventory management.
+
+Selling, general and administrative expenses 
+
+SG&A consists of various expenses related to supporting and facilitating the sale of merchandise in our clubs,
+including  the  following:  payroll  and  payroll  beneﬁts  for  team  members;  rent,  depreciation,  and  other  occupancy
+costs  for  retail  and  corporate  locations;  share-based  compensation,  advertising  expenses;  tender  costs,  including
+credit  and  debit  card  fees;  amortization  of  intangible  assets;  and  consulting,  legal,  insurance,  acquisition  and
+integration costs, and other professional services expenses.
+
+SG&A includes both ﬁxed and variable components and, therefore, is not directly correlated with net sales. We
+expect that our SG&A will increase in future periods due to investments to spur comparable club sales growth and
+our  expanding  footprint  as  we  open  new  clubs.  In  addition,  any  future  increases  in  wages,  stock-based  grants  or
+modiﬁcations will increase our SG&A.
+
+SG&A increased by 6.7% to $695.0 million in the second quarter of ﬁscal year 2023 from $651.2 million in the
+second  quarter  of  ﬁscal  year  2022.  The  year-over-year  increase  in  SG&A  was  primarily  driven  by  increased  labor
+and occupancy costs as a result of new club and gas station openings, as well as other continued investments to
+drive  strategic  priorities.  Our  growth  proﬁle  this  year  is  weighted  toward  owned  clubs,  elevating  our  depreciation
+expense. We remain focused on investing in member engagement, marketing and digital strategies.
+
+Pre-opening expenses
+
+Pre-opening  expenses  include  startup  costs  for  new  clubs.  Expenses  will  vary  based  on  the  number  of  new
+club openings, geography of the club, whether the club is owned or leased, and timing of the opening relative to
+our period end.
+
+Pre-opening expenses were $1.6 million in the second quarter of ﬁscal year 2023 compared to $5.9 million in
+the second quarter of ﬁscal year 2022. Pre-opening expenses decreased due to timing of spend for club openings
+year-over-year. 
+
+Interest expense, net
+
+Interest expense, net was $16.3 million in the second quarter of ﬁscal year 2023 compared to $10.9 million in
+
+the second quarter of ﬁscal year 2022. The increase was primarily due to rising interest rates year-over-year.
+
+Provision for income taxes 
+
+The  Company’s  eﬀective  income  tax  rate  from  continuing  operations  was  28.6%  and  26.6%  for  the  second
+quarters  of  ﬁscal  years  2023  and  2022,  respectively.  The  increase  in  the  eﬀective  tax  rate  is  primarily  due  to  a
+reduction in excess tax beneﬁts from stock-based compensation and lower tax credits in the current period.
+
+Twenty-six Weeks Ended July 29, 2023 (First Six Months of Fiscal Year 2023) Compared to Twenty-six
+Weeks Ended July 30, 2022 (First Six Months of Fiscal Year 2022) 
+
+Net Sales 
+
+Net sales for the ﬁrst six months of ﬁscal year 2023 were $9.5 billion, a 0.8% increase from net sales reported
+for the ﬁrst six months of ﬁscal year 2022 of $9.4 billion. The increase was due primarily to a net increase of nine
+club openings, partially oﬀset by lower gasoline sales.
+
+23
+
+Comparable club sales
+
+Comparable club sales
+
+Less: impact from gasoline sales
+
+Merchandise comparable club sales
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+(1.9)%
+
+(5.2)%
+3.3 %
+
+Merchandise comparable club sales increased by 3.3% in the ﬁrst six months of ﬁscal year 2023 compared to
+the ﬁrst six months of ﬁscal year 2022 driven by an increase in sales of groceries of approximately 6.0%, partially
+oﬀset by a decrease in sales of general merchandise and services of approximately 11.0%.
+
+In  grocery,  sales  increased  in  the  current  year  period  as  demand  for  beverages,  candy,  snacks,  dairy,  and
+bakery categories increased compared to the ﬁrst six months of ﬁscal year 2022, partially oﬀset by a decrease in
+demand for fresh meat and household categories.
+
+General  merchandise  decreased  in  the  current  year  period  due  to  decreased  demand  for  electronics  and
+
+seasonal merchandise compared to the ﬁrst six months of ﬁscal year 2022.
+
+The  impact  of  gasoline  sales  is  a  result  of  lower  retail  prices  through  the  ﬁrst  six  months  of  ﬁscal  2023  as
+
+compared to the ﬁrst six months of ﬁscal year 2022. Gallons remained relatively ﬂat period over period.
+
+Membership fee income 
+
+Membership  fee  income  was  $206.2  million  in  the  ﬁrst  six  months  of  ﬁscal  year  2023  compared  to  $195.4
+million  in  the  ﬁrst  six  months  of  ﬁscal  year  2022,  a  5.5%  increase.  The  increase  was  primarily  driven  by
+membership renewals, new members, and increased penetration of higher-tier membership levels, evidencing the
+strength of our membership quality. 
+
+Cost of sales 
+
+Cost of sales was $7.9 billion, or 83.4% of net sales, in the ﬁrst six months of ﬁscal year 2023, remaining ﬂat
+compared  to  $7.9  billion,  or  84.5%  of  net  sales,  in  the  ﬁrst  six  months  of  ﬁscal  year  2022.  Merchandise  gross
+margin rate, which excludes gasoline sales and membership fee income, increased 100 basis points in the current
+year period over the ﬁrst six months of ﬁscal year 2022. The improvement in merchandise margins was primarily
+due to disinﬂation, moderated supply chain costs, and improved inventory management.
+
+Selling, general and administrative expenses 
+
+SG&A increased by 7.5% to $1.4 billion in the ﬁrst six months of ﬁscal year 2023 from $1.3 billion in the ﬁrst
+six  months  of  ﬁscal  year  2022.  The  year-over-year  increase  in  SG&A  was  primarily  driven  by  increased  labor  and
+occupancy costs as a result of new club and gas station openings, as well as other continued investments to drive
+strategic  priorities.  Our  growth  proﬁle  this  year  is  weighted  toward  owned  clubs,  elevating  our  depreciation
+expense. We remain focused on investing in member engagement, marketing and digital strategies.
+
+Pre-opening expenses
+
+Pre-opening expenses were $5.5 million in the ﬁrst six months of ﬁscal year 2023 compared to $10.8 million in
+the ﬁrst six months of ﬁscal year 2022. Pre-opening expenses decreased due to timing of spend for club openings
+year-over-year. 
+
+Interest expense, net
+
+Interest expense, net was $31.0 million in the ﬁrst six months of ﬁscal year 2023 compared to $18.7 million in
+
+the ﬁrst six months of ﬁscal year 2022. The increase was primarily due to rising interest rates year-over-year.
+
+Provision for income taxes 
+
+The  Company’s  eﬀective  income  tax  rate  from  continuing  operations  was  30.5%  and  24.2%  for  the  ﬁrst  six
+months of ﬁscal years 2023 and 2022, respectively. The increase was primarily due to an immaterial adjustment to
+certain deferred tax
+
+ 
+24
+
+assets related to prior periods, as well as lower excess tax beneﬁts from stock-based compensation and lower tax
+credits in the current period.
+
+Non-GAAP Financial Measures
+
+The accompanying Condensed Consolidated Financial Statements, including the related notes, are presented
+in  accordance  with  GAAP.  In  addition  to  relevant  GAAP  measures  we  also  provide  non-GAAP  measures,  including
+adjusted EBITDA, comparable club sales, free cash ﬂow, adjusted net income and adjusted net income per diluted
+share because management believes these metrics are useful to investors and analysts by excluding items that we
+do  not  believe  are  indicative  of  our  core  operating  performance.  These  measures  are  customary  for  our  industry
+and  commonly  used  by  competitors.  These  non-GAAP  ﬁnancial  measures  should  not  be  reviewed  in  isolation  or
+considered as an alternative to any other performance measure derived in accordance with GAAP and should not
+be  construed  as  an  inference  that  our  future  results  will  be  unaﬀected  by  unusual  or  non-recurring  items.  In
+addition, adjusted EBITDA, comparable club sales, free cash ﬂow, adjusted net income and adjusted net income per
+diluted share may not be comparable to similarly titled measures used by other companies in our industry or across
+diﬀerent industries. Free cash ﬂow is discussed within the Liquidity and Capital Resources section below.
+
+Adjusted EBITDA
+
+Adjusted  EBITDA  is  deﬁned  as  income  from  continuing  operations  before  interest  expense,  net,  provision  for
+income  taxes  and  depreciation  and  amortization,  adjusted  for  the  impact  of  certain  other  items,  including  stock-
+based  compensation  expense;  pre-opening  expenses;  non-cash  rent;  acquisition  and  integration  costs;  and  other
+adjustments.
+
+The  following  is  a  reconciliation  of  our  income  from  continuing  operations  to  Adjusted  EBITDA  and  Adjusted
+
+EBITDA as a percentage of net sales for the periods presented:
+
+(in thousands)
+Income from continuing operations
+Interest expense, net
+Provision for income taxes
+Depreciation and amortization
+Stock-based compensation expense
+Pre-opening expenses 
+Non-cash rent 
+Acquisition and integration costs 
+Other adjustments 
+
+(b)
+
+(d)
+
+(a)
+
+(c)
+
+Adjusted EBITDA
+Adjusted EBITDA as a percentage of
+net sales
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+131,325 
+16,274 
+52,670 
+54,825 
+9,624 
+1,584 
+2,281 
+— 
+177 
+268,760 
+
+$
+
+$
+
+July 30, 2022
+141,014 
+10,874 
+51,022 
+49,984 
+9,387 
+5,901 
+1,256 
+3,588 
+674 
+273,700 
+
+$
+
+$
+
+July 29, 2023
+247,313 
+30,964 
+108,762 
+109,015 
+19,631 
+5,478 
+3,832 
+— 
+748 
+525,743 
+
+$
+
+$
+
+July 30, 2022
+253,471 
+18,715 
+81,041 
+97,093 
+18,502 
+10,801 
+2,102 
+11,467 
+1,309 
+494,501 
+
+$
+
+$
+
+5.5 %
+
+5.5 %
+
+5.5 %
+
+5.3 %
+
+(a)    Represents direct incremental costs of opening or relocating a facility that are charged to operations as incurred.
+(b)    Consists of an adjustment to remove the non-cash portion of rent expense.
+(c)    Represents costs related to the acquisition of four distribution centers and the related private transportation ﬂeet from Burris Logistics on
+
+May 2, 2022 ("the Acquisition"), including due diligence, legal, and other consulting expenses.
+
+(d)        Other  non-cash  items,  including  non-cash  accretion  on  asset  retirement  obligations,  obligations  associated  with  our  post-retirement
+
+medical plan and incremental rent expense as the Company transitioned home oﬃce locations in ﬁscal 2022.
+
+Comparable Club Sales and Merchandise Comparable Club Sales
+
+Comparable  club  sales,  also  known  as  same-store  sales,  includes  all  clubs  that  were  open  for  at  least  13
+months at the beginning of the period and were in operation during the entirety of both periods being compared,
+including relocated clubs and expansions.
+
+Comparable  club  sales  allow  us  to  evaluate  how  our  club  base  is  performing  by  measuring  the  change  in
+period-over-period  net  sales  in  clubs  that  have  been  open  for  the  applicable  period.  Various  factors  aﬀect
+comparable club sales, including
+
+25
+
+consumer  preferences  and  trends,  product  sourcing,  promotional  oﬀerings  and  pricing,  customer  experience  and
+purchase amounts, weather and holiday shopping period timing and length.
+
+Merchandise  comparable  club  sales  represents  comparable  club  sales  from  all  merchandise  other  than  our
+
+gasoline operations for the applicable period.
+
+Adjusted Net Income
+
+The adjusted net income and adjusted net income per diluted share metrics are important measures used by
+management  to  compare  the  performance  of  core  operating  results  between  periods.  We  deﬁne  adjusted  net
+income as net income as reported, adjusted for non-recurring, infrequent, or unusual charges, net of the tax impact
+of  such  adjustments.  We  deﬁne  adjusted  net  income  per  diluted  share  as  adjusted  net  income  divided  by  the
+weighted-average diluted shares outstanding.
+
+We believe adjusted net income and adjusted net income per diluted share are useful metrics to investors and
+analysts because they present more accurate year-over-year comparisons for our net income and net income per
+diluted share because adjusted items are not the result of our normal operations.
+
+(in thousands, except per share
+amounts)
+Net income as reported
+Adjustments:
+Acquisition and integration costs 
+Home oﬃce transition costs 
+Charges related to debt payments 
+Other adjustments 
+Tax impact of adjustments to net income 
+
+(b)
+
+(d)
+
+(a)
+
+(c)
+
+Adjusted net income
+
+Weighted-average shares outstanding—
+diluted
+Adjusted EPS
+
+(f)
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+July 29, 2023
+
+July 30, 2022
+
+$
+
+131,325  $
+
+141,007  $
+
+247,402  $
+
+253,457 
+
+— 
+— 
+— 
+(185)
+52 
+
+131,192  $
+
+3,587 
+600 
+389 
+— 
+(1,287)
+144,296  $
+
+— 
+— 
+— 
+(786)
+223 
+246,839  $
+
+11,467 
+1,199 
+389 
+(165)
+(3,625)
+262,722 
+
+135,129 
+
+136,567 
+
+135,515 
+
+0.97  $
+
+1.06  $
+
+1.82  $
+
+136,635 
+1.92 
+
+(e)
+
+$
+
+$
+
+(a) Represents costs related to the Acquisition, including due diligence, legal, and other consulting expenses.
+(b) Represents incremental rent expense as the Company transitioned home oﬃce locations in ﬁscal 2022.
+(c) Represents  the  expensing  of  fees  and  deferred  fees  associated  with  the  extinguishment  of  the  Company's  senior  secured  asset  based
+
+revolving credit and term facility ("ABL Facility") in ﬁscal 2022.
+
+(d) Other  non-cash  items  related  to  the  reclassiﬁcation  into  earnings  of  accumulated  other  comprehensive  income  /  loss  associated  with  the
+
+de-designation of hedge accounting and other adjustments.
+
+(e) Represents the tax eﬀect of the above adjustments at a statutory tax rate of approximately 28%.
+(f) Adjusted EPS is measured using weighted-average diluted shares outstanding.
+
+Liquidity and Capital Resources 
+
+Our primary sources of liquidity are cash ﬂows generated from club operations and borrowings from our ABL
+Revolving Facility. As of July 29, 2023, cash and cash equivalents totaled $26.2 million and we had $726.2 million of
+unused  capacity  under  our  ABL  Revolving  Facility.  Our  principal  liquidity  needs  for  the  next  twelve  months  and
+beyond  are  to  fund  normal  recurring  operational  expenses  and  anticipated  capital  expenditures;  fund  possible
+acquisitions; fund share repurchases; and meet debt service and principal repayment obligations. We believe that
+our current resources, together with anticipated cash ﬂows from operations and borrowing capacity under our ABL
+Revolving Facility, will be suﬃcient to ﬁnance our operations for at least the next twelve months.
+
+In  the  ﬁrst  six  months  of  ﬁscal  year  2023,  we  used  $59.9  million  of  available  cash  to  repurchase  919,162
+
+shares under the 2021 Repurchase Program.
+
+We  do  not  have  any  oﬀ-balance  sheet  arrangements  that  have,  or  are,  in  the  opinion  of  management,
+reasonably likely to have, a current or future material eﬀect on our results of operations or ﬁnancial position. We do,
+however, enter into letters of credit and purchase obligations in the normal course of our operations.
+
+26
+
+Summary of Cash Flows
+
+A  summary  of  our  cash  ﬂows  from  operating,  investing  and  ﬁnancing  activities  is  presented  in  the  following
+
+table: 
+
+(in thousands)
+
+Net cash provided by operating activities
+
+Net cash used in investing activities
+
+Net cash (used in) provided by ﬁnancing activities
+
+Net (decrease) increase in cash and cash equivalents
+
+Net Operating Cash Flows 
+
+Twenty-six Weeks Ended
+
+July 29, 2023
+
+July 30, 2022
+
+$
+
+$
+
+269,500  $
+
+(208,252)
+
+(68,953)
+
+(7,705) $
+
+443,052 
+
+(565,381)
+
+240,574 
+
+118,245 
+
+Net cash provided by operating activities was $269.5 million for the ﬁrst half of ﬁscal year 2023 compared to
+$443.1  million  for  the  ﬁrst  half  of  ﬁscal  year  2022.  The  decrease  in  operating  cash  ﬂow  was  primarily  due  to
+unfavorable  ﬂuctuations  in  working  capital  and  a  decrease  in  pre-tax  net  income.  The  unfavorable  ﬂuctuations  in
+working capital were primarily due to merchandise inventories and accounts payable.
+
+Net Investing Cash Flows 
+
+Cash used in investing activities was $208.3 million for the ﬁrst half of ﬁscal year 2023, compared to $565.4
+million for the ﬁrst half of ﬁscal year 2022. The decrease is primarily due to $376.5 million of cash outﬂows in the
+prior year related to the Acquisition.
+
+Net Financing Cash Flows 
+
+Net  cash  used  in  ﬁnancing  activities  for  the  ﬁrst  half  of  ﬁscal  year  2023  was  $69.0  million  compared  to  net
+cash provided by ﬁnancing activities of $240.6 million for the ﬁrst half of ﬁscal year 2022. The $309.5 million net
+increase  in  ﬁnancing  cash  outﬂows  was  primarily  due  to  a  $344.0  million  reduction  in  net  proceeds  from  our  ABL
+Revolving  Facility  in  the  ﬁrst  half  of  ﬁscal  year  2023  compared  to  the  ﬁrst  half  of  ﬁscal  year  2022,  as  well  as  an
+incremental $12.7 million outﬂow for the acquisition of treasury stock, partially oﬀset by a $50.0 million payment
+on long-term debt in the prior year.
+
+Free Cash Flow
+
+We  present  free  cash  ﬂow  because  we  use  it  to  report  to  our  board  of  directors  and  we  believe  it  assists
+investors and analysts in evaluating our liquidity. Free cash ﬂow should not be considered as an alternative to cash
+ﬂows from operations as a liquidity measure. We deﬁne free cash ﬂow as net cash provided by operating activities
+less additions to property and equipment, net of disposals, plus proceeds from sale-leaseback transactions.
+
+The following is a reconciliation of our net cash provided by operating activities to free cash ﬂow for the
+
+periods presented:
+
+Thirteen Weeks Ended
+
+Twenty-six Weeks Ended
+
+(in thousands)
+Net cash provided by operating activities
+Less: Additions to property and equipment, net
+of disposals
+Plus: Proceeds from sale leaseback transactions
+
+Free cash ﬂow
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+443,052 
+$
+
+150,368  $
+
+398,744  $
+
+269,500  $
+
+122,156 
+5,988 
+34,200  $
+
+101,001 
+2,674 
+300,417  $
+
+214,240 
+5,988 
+61,248  $
+
+191,534 
+2,674 
+254,192 
+
+$
+
+Free  cash  ﬂow  decreased  to  $34.2  million  for  the  second  quarter  of  ﬁscal  year  2023  compared  to  $300.4
+million for the second quarter of ﬁscal year 2022. Free cash ﬂow decreased to $61.2 million for the ﬁrst half of ﬁscal
+year  2023  compared  to  $254.2  million  for  the  ﬁrst  half  of  ﬁscal  year  2022.  For  each  comparative  period,  the
+decrease  is  the  primary  result  of  lower  cash  ﬂows  from  operating  activities  as  a  result  of  ﬂuctuations  in  working
+capital.
+
+27
+
+ 
+Debt and Borrowing Capacity  
+
+Our primary sources of borrowing capacity are the ABL Revolving Facility and the First Lien Term Loan, which
+
+are further discussed in Note 4, "Debt and Credit Arrangements," included in this Quarterly Report on Form 10-Q.
+
+On  July  28,  2022,  the  Company  entered  into  the  ABL  Revolving  Facility  with  an  aggregate  ABL  Revolving
+Commitment of $1.2 billion pursuant to that certain credit agreement with Bank of America, N.A., as administrative
+agent  and  collateral  agent,  and  other  lenders  party  thereto.  The  maturity  date  of  the  ABL  Revolving  Facility  is
+July 28, 2027. As part of this transaction, the Company extinguished the ABL Facility.
+
+On  January  5,  2023,  the  Company  amended  the  First  Lien  Term  Loan  to  extend  the  maturity  date  from
+February 3, 2024 to February 3, 2027 and transition the interest rate from London Interbank Oﬀered Rate (“LIBOR”)
+to  the  Secured  Overnight  Financing  Rate  (“SOFR”)  and  changes  the  applicable  margin  from  LIBOR  plus  200  –  225
+basis points per annum to SOFR plus 275 basis points per annum. In connection with the amendment the Company
+made a paid approximately $151.9 million of the principal amount.
+
+At  July  29,  2023,  there  was  $411.0  million  outstanding  in  loans  under  the  ABL  Revolving  Facility  and  $11.3
+million  in  outstanding  letters  of  credit.  The  interest  rate  on  the  revolving  credit  facility  was  6.42%  and  unused
+capacity was $726.2 million.
+
+At  July  29,  2023,  the  interest  rate  for  the  First  Lien  Term  Loan  was  7.89%  and  there  was  $450.0
+
+million outstanding.
+
+Material Cash Commitments 
+
+Our material cash commitments consist primarily of debt obligations, interest payments, leases, and purchase
+orders for merchandise inventory. These material cash commitments impact our short-term and long-term liquidity
+and capital needs. As of July 29, 2023, other than those items related to the ordinary course of operations of our
+business such as inventory purchases, new leases and lease amendments, there were no material changes to our
+material cash commitments from those described in our Annual Report on Form 10-K for the ﬁscal year 2022. 
+
+Critical Accounting Policies and Use of Estimates 
+
+This  discussion  and  analysis  of  our  ﬁnancial  condition  and  results  of  operations  is  based  on  our  condensed
+consolidated  ﬁnancial  statements,  which  we  have  prepared  in  accordance  with  GAAP.  The  preparation  of  our
+ﬁnancial statements and related disclosures requires us to make estimates, assumptions and judgments that aﬀect
+the  reported  amount  of  assets,  liabilities,  revenue,  costs  and  expenses,  and  related  disclosures.  There  were  no
+material changes in critical accounting policies and estimates during the period covered by this Quarterly Report on
+Form  10-Q.  Refer  to  Item  7.,  "Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of
+Operations— Critical Accounting Policies and Estimates," in our Annual Report on Form 10-K for the ﬁscal year 2022
+for a complete list of our Critical Accounting Policies and Estimates.
+
+Recent Accounting Pronouncements
+
+There  have  been  no  recent  accounting  pronouncements  since  those  disclosed  in  our  Annual  Report  on  Form
+
+10-K for the ﬁscal year 2022 that have had a material impact on our ﬁnancial statements.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+
+We  are  exposed  to  changes  in  market  interest  rates  and  these  changes  in  rates  will  impact  our  net  interest
+expense and our cash ﬂow from operations. Substantially all of our borrowings carry variable interest rates. There
+have been no material changes in our market risk from the disclosure included in Part II. "Item 7A. Quantitative and
+Qualitative Disclosures of Market Risk" in the Annual Report on Form 10-K for the ﬁscal year 2022.
+
+Item 4. Controls and Procedures. 
+
+Limitations on Eﬀectiveness of Controls and Procedures 
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any controls
+and  procedures,  no  matter  how  well  designed  and  operated,  can  provide  only  reasonable  assurance  of  achieving
+the desired control
+
+28
+
+objectives.  In  addition,  the  design  of  disclosure  controls  and  procedures  must  reﬂect  the  fact  that  there  are
+resource  constraints  and  that  management  is  required  to  apply  judgment  in  evaluating  the  beneﬁts  of  possible
+controls and procedures relative to their costs. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation of our Chief Executive Oﬃcer and Chief Financial Oﬃcer, evaluated,
+as  of  the  end  of  the  period  covered  by  this  Quarterly  Report  on  Form  10-Q,  the  eﬀectiveness  of  our  disclosure
+controls  and  procedures,  as  deﬁned  in  Rules  13a-15(e)  and  15d-15(e)  under  the  Exchange  Act.  Based  on  that
+evaluation,  our  Chief  Executive  Oﬃcer  and  Chief  Financial  Oﬃcer  concluded  that  our  disclosure  controls  and
+procedures were eﬀective at the reasonable assurance level as of July 29, 2023. 
+
+Changes in Internal Control
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in management’s evaluation
+pursuant  to  Rules  13a-15  or  15d-15  of  the  Exchange  Act  during  the  most  recently  completed  ﬁscal  quarter  that
+materially aﬀected, or are reasonably likely to materially aﬀect, our internal control over ﬁnancial reporting.
+
+Item 1. Legal Proceedings.
+
+PART II—OTHER INFORMATION
+
+We are subject to various litigation, claims and other proceedings that arise from time to time in the ordinary
+course of business. We believe these actions are routine and incidental to the business. While the outcome of these
+actions cannot be predicted with certainty, we do not believe that any will have a material adverse impact on our
+business, ﬁnancial condition or results of operations.
+
+Item 1A. Risk Factors.
+
+There have been no material changes to the risk factors relating to the Company set forth under the caption
+
+"Item 1A. Risk Factors" in our Annual Report on Form 10-K for the ﬁscal year 2022.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+The following table sets forth information regarding our purchases of shares of our common stock during the
+
+second quarter of ﬁscal year 2023.
+
+Total Number
+of Shares
+Purchased 
+
+(a)
+
+Average
+Price Paid
+per Share
+
+Total Number
+of Shares
+Purchased as
+Part of
+Publicly
+Announced
+Plans or
+Programs
+
+Approximate
+Dollar Value
+of Shares that
+May Yet Be
+Purchased
+Under the
+Plans or
+Programs 
+
+(b)
+
+(in
+thousands)
+
+146,625
+
+572,122
+
+— 
+718,747
+
+$64.47
+
+61.93 
+
+— 
+
+143,000  $
+572,122 
+— 
+715,122
+
+294,252 
+
+258,819 
+
+258,819 
+
+Period
+
+April 30, 2023 to May 27, 2023
+
+May 28, 2023 to July 1, 2023
+
+July 2, 2023 to July 29, 2023
+
+Total
+
+(a)
+
+Includes 3,625 shares of common stock for the period April 30, 2023 to May 27, 2023 surrendered to the Company by employees to satisfy
+their  tax  withholding  obligations  in  connection  with  the  vesting  of  restricted  stock  awards.  See  Note  7  "Treasury  Shares  and  Share
+Repurchase  Programs"  of  our  condensed  consolidated  ﬁnancial  statements  included  in  this  Quarterly  Report  on  Form  10-Q  for  additional
+information.
+
+(b) On November 16, 2021, the Company's board of directors approved the 2021 Repurchase Program that allows the Company to repurchase
+
+up to $500.0 million of its outstanding common stock. The 2021 Repurchase Program expires in January 2025.
+
+29
+
+Item 3. Defaults Upon Senior Securities.
+
+None.
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Item 5. Other Information.
+
+10b5-1 Trading Plans                          
+
+On  May  30,  2023,  Mr.  Scott  Kessler,  our  former  Executive  Vice  President,  Chief  Information  Oﬃcer  of  the
+Company, terminated a trading arrangement he had previously adopted with respect to the sale of securities of the
+Company’s common stock (a “Rule 10b5-1 Trading Plan”) in connection with his resignation from the Company. Mr.
+Kessler’s  Rule  10b5-1  Trading  Plan  was  adopted  on  March  14,  2023,  had  a  term  of  one  year  and  provided  for  the
+sale of up to 80,239 shares of common stock pursuant to the terms of the plan. As of the date of termination of his
+Rule 10b5-1 Trading Plan, Mr. Kessler had not sold any shares of common stock under its terms.
+
+On July 12, 2023, Ms. Laura Felice, Executive Vice President, Chief Financial Oﬃcer of the Company, adopted a
+Rule  10b5-1  Trading  Plan  that  is  intended  to  satisfy  the  aﬃrmative  defense  conditions  of  Securities  Exchange  Act
+Rule 10b5-1(c). Ms. Felice’s Rule 10b5-1 Trading Plan, which has a term of 11 months, provides for the sale of up to
+26,586 shares of common stock pursuant to the terms of the plan.
+
+On  July  13,  2023,  Mr.  Jeﬀ  Desroches,  Executive  Vice  President,  Chief  Operations  Oﬃcer  of  the  Company,
+terminated a Rule 10b5-1 Trading Plan. Mr. Desroches’ Rule 10b5-1 Trading Plan was adopted on January 13, 2023,
+had a term of 11 months and provided for the sale of up to 12,250 shares of common stock pursuant to the terms
+of the plan. As of the date of termination of his Rule 10b5-1 Trading Plan, Mr. Desroches had sold 8,775 shares of
+common  stock  under  its  terms.  On  July  14,  2023,  Mr.  Desroches,  adopted  a  new  Rule  10b5-1  Trading  Plan  that  is
+intended  to  satisfy  the  aﬃrmative  defense  conditions  of  Securities  Exchange  Act  Rule  10b5-1(c).  Mr.  Desroches’
+new  Rule  10b5-1  Trading  Plan,  which  has  a  term  of  one  year,  provides  for  the  sale  of  up  to  33,934  shares  of
+common stock pursuant to the terms of the plan.
+
+Item 6. Exhibits.
+
+Exhibit
+Number
+
+31.1
+
+31.2
+
+32.1
+
+32.2
+
+Exhibit Description
+
+Certiﬁcation  of  Principal  Executive  Oﬃcer  Pursuant  to  Rules  13a-14(a)  and  15d-14(a)  under  the
+Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+(ﬁled herewith).
+
+Certiﬁcation of Principal Financial Oﬃcer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities
+Exchange  Act  of  1934,  as  Adopted  Pursuant  to  Section  302  of  the  Sarbanes-Oxley  Act  of  2002  (ﬁled
+herewith).
+
+Certiﬁcation  of  Principal  Executive  Oﬃcer  Pursuant  to  18  U.S.C.  Section  1350,  as  Adopted  Pursuant  to
+Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+
+Certiﬁcation  of  Principal  Financial  Oﬃcer  Pursuant  to  18  U.S.C.  Section  1350,  as  Adopted  Pursuant  to
+Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+
+101.INS
+
+Inline XBRL Instance Document (ﬁled herewith)
+
+101.SCH Inline XBRL Taxonomy Extension Schema Document (ﬁled herewith)
+
+101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document (ﬁled herewith)
+
+101.DEF Inline XBRL Taxonomy Extension Deﬁnition Linkbase Document (ﬁled herewith)
+
+101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document (ﬁled herewith)
+
+101.PRE Inline XBRL Taxonomy Extension Linkbase Document (ﬁled herewith)
+
+104
+
+Cover  Page  Interactive  Data  File  (formatted  as  inline  XBRL  with  applicable  taxonomy  extension
+information contained in Exhibits 101.*) (ﬁled herewith)
+
+30
+
+Pursuant  to  the  requirements  of  the  Securities  Exchange  Act  of  1934,  the  registrant  has  duly  caused  this
+
+report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+SIGNATURE
+
+Date: August 25, 2023
+
+By:
+
+/s/ Laura L. Felice
+
+Laura L. Felice
+
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer and
+Authorized Signatory)
+
+31
+
+Exhibit 31.1
+
+I, Robert W. Eddy, certify that:
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+1.
+
+I have reviewed this Quarterly Report on Form 10-Q of BJ’s Wholesale Club Holdings, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+
+material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly
+present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls
+and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial
+reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+
+designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period
+in which this report is being prepared;
+
+b. Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in accordance with
+generally accepted accounting principles;
+
+c. Evaluated the eﬀectiveness of the registrant’s disclosure controls and procedures and presented in this
+
+report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant’s internal control over ﬁnancial reporting that occurred
+during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the case of an
+annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the registrant’s
+internal control over ﬁnancial reporting; and
+
+5. The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of
+directors (or persons performing the equivalent functions):
+
+a. All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+
+ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant’s ability to record, process,
+summarize and report ﬁnancial information; and
+
+b. Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant
+
+role in the registrant’s internal control over ﬁnancial reporting.
+
+Date: August 25, 2023
+
+By:
+
+/s/ Robert W. Eddy
+Robert W. Eddy
+President and Chief Executive Oﬃcer
+(Principal Executive Oﬃcer)
+
+Exhibit 31.2
+
+I, Laura L. Felice, certify that:
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+1.
+
+I have reviewed this Quarterly Report on Form 10-Q of BJ’s Wholesale Club Holdings, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+
+material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly
+present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls
+and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial
+reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+
+designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period
+in which this report is being prepared;
+
+b. Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in accordance with
+generally accepted accounting principles;
+
+c. Evaluated the eﬀectiveness of the registrant’s disclosure controls and procedures and presented in this
+
+report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant’s internal control over ﬁnancial reporting that occurred
+during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the case of an
+annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the registrant’s
+internal control over ﬁnancial reporting; and
+
+5. The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of
+directors (or persons performing the equivalent functions):
+
+a. All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+
+ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant’s ability to record, process,
+summarize and report ﬁnancial information; and
+
+b. Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant
+
+role in the registrant’s internal control over ﬁnancial reporting.
+
+Date: August 25, 2023
+
+By:
+
+/s/ Laura L. Felice
+Laura L. Felice
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer)
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the
+undersigned oﬃcer of BJ’s Wholesale Club Holdings, Inc. (the “Company”), hereby certiﬁes, to his knowledge, that:
+
+1. The Company’s Quarterly Report on Form 10-Q for the ﬁscal quarter ended July 29, 2023 (the “Report”) fully
+
+complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934,
+as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company.
+
+Date: August 25, 2023
+
+By:
+
+/s/ Robert W. Eddy
+Robert W. Eddy
+President and Chief Executive Oﬃcer
+(Principal Executive Oﬃcer)
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the
+undersigned oﬃcer of BJ’s Wholesale Club Holdings, Inc. (the “Company”), hereby certiﬁes, to her knowledge, that:
+
+1. The Company’s Quarterly Report on Form 10-Q for the ﬁscal quarter ended July 29, 2023 (the “Report”) fully
+
+complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934,
+as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company.
+
+Date: August 25, 2023
+
+By:
+
+/s/ Laura L. Felice
+Laura L. Felice
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer)
+
+

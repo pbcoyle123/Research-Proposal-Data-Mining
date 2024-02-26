@@ -1,0 +1,5504 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+_______________________________
+
+FORM 10-Q
+_______________________________
+
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the quarterly period ended October 28, 2023
+
+OR
+
+☐  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the transition period from                 to                
+
+Commission File Number: 001-38559
+
+_______________________________
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+(Exact name of registrant as speciﬁed in its charter)
+
+_______________________________
+
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+
+350 Campus Drive
+
+Marlborough, Massachusetts
+(Address of principal executive oﬃces)
+
+45-2936287
+(I.R.S. Employer
+Identiﬁcation No.)
+
+01752
+(Zip Code)
+
+(774) 512-7400
+(Registrant’s telephone number, including area code)
+
+N/A
+(Former name, former address and former ﬁscal year, if changed since last report)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.01
+
+Trading symbol(s)
+BJ
+
+Name of each exchange on which
+registered
+New York Stock Exchange
+
+Indicate  by  check  mark  whether  the  registrant  (1)  has  ﬁled  all  reports  required  to  be  ﬁled  by  Section  13  or
+15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the
+registrant  was  required  to  ﬁle  such  reports),  and  (2)  has  been  subject  to  such  ﬁling  requirements  for  the  past  90
+days. Yes ☒ No ☐
+
+Indicate  by  check  mark  whether  the  registrant  has  submitted  electronically  every  Interactive  Data  File
+required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required to submit such ﬁles). Yes ☒ No ☐
+
+Indicate  by  check  mark  whether  the  registrant  is  a  large  accelerated  ﬁler,  an  accelerated  ﬁler,  a  non-
+accelerated  ﬁler,  a  smaller  reporting  company,  or  an  emerging  growth  company.  See  the  deﬁnitions  of  "large
+accelerated ﬁler," "accelerated ﬁler," "smaller reporting company," and "emerging growth company" in Rule 12b-2
+of the Exchange Act. 
+
+Large accelerated ﬁler
+
+Non-accelerated ﬁler
+
+☒
+☐
+
+Accelerated ﬁler
+
+Smaller reporting company
+
+Emerging growth Company
+
+☐
+
+☐
+
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition  period  for  complying  with  any  new  or  revised  ﬁnancial  accounting  standards  provided  pursuant  to
+Section 13(a) of the Exchange Act. ☐
+
+Indicate by check mark whether the registrant is a shell company (as deﬁned in Rule 12b-2 of the Exchange
+
+Act). Yes ☐ No ☒
+
+As of November 16, 2023, the registrant had 133,381,006 shares of common stock, $0.01 par value per share,
+
+outstanding.
+
+Table of Contents
+
+PART I.
+
+FINANCIAL INFORMATION
+
+Item 1.
+
+Financial Statements (Unaudited)
+
+Condensed Consolidated Balance Sheets
+
+Condensed Consolidated Statements of Operations and Comprehensive Income
+
+Condensed Consolidated Statements of Stockholders’ Equity
+
+Condensed Consolidated Statements of Cash Flows
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Quantitative and Qualitative Disclosures About Market Risk
+
+Controls and Procedures
+
+Item 2.
+
+Item 3.
+
+Item 4.
+
+PART II.
+
+OTHER INFORMATION
+
+Item 1.
+
+Legal Proceedings
+
+Item 1A.
+
+Risk Factors
+
+Item 2.
+
+Item 3.
+
+Item 4.
+
+Item 5.
+
+Item 6.
+
+Unregistered Sales of Equity Securities and Use of Proceeds
+
+Defaults Upon Senior Securities
+
+Mine Safety Disclosures
+
+Other Information
+
+Exhibits
+
+Signature
+
+Page
+
+4
+
+5
+
+4
+
+5
+
+7
+
+9
+
+10
+
+19
+
+28
+
+28
+
+28
+
+28
+
+29
+
+29
+
+29
+
+29
+
+29
+
+31
+
+32
+
+2
+
+TRADEMARKS 
+
+®
+
+®
+
+®
+
+®
+
+®
+
+®
+
+®
+
+® 
+
+BJ’s Wholesale Club , BJ’s , Wellsley Farms , Berkley Jensen , My BJ’s Perks , BJ’s Easy Renewal
+
+®
+, BJ’s Gas ,
+®
+BJ's  One ,  BJ's  One+ ,  BJ’s  Perks  Elite ,  BJ’s  Perks  Plus ,  Inner  Circle ,  Same-Day-Select ,  ExpressPay and  BJ’s
+Perks  Rewards are  all  registered  trademarks  of  BJ’s  Wholesale  Club,  Inc.  Other  trademarks,  tradenames  and
+service marks appearing in this Quarterly Report on Form 10-Q are the property of their respective owners. We do
+not intend our use or display of those other parties’ trademarks, trade names or service marks to imply, and such
+use or display should not be construed to imply, a relationship with, or endorsement or sponsorship of us by, these
+other  parties.  Solely  for  convenience,  trademarks,  trade  names  and  service  marks  referred  to  in  this  Quarterly
+ symbols, but such references are not intended to indicate,
+Report on Form 10-Q may appear without the 
+in  any  way,  that  we  will  not  assert,  to  the  fullest  extent  under  applicable  law,  our  rights  or  the  right  of  the
+applicable licensor to these trademarks, trade names and service marks. 
+
+® ™
+, 
+
+ or 
+
+SM
+
+® 
+
+®
+
+®
+
+®
+
+®
+
+DEFINED TERMS
+
+As used in this Quarterly Report on Form 10-Q, unless the context otherwise requires: 
+
+•        "The  Company",  "BJ’s",  "we",  "us"  and  "our"  mean  BJ’s  Wholesale  Club  Holdings,  Inc.  and,  unless  the
+
+•
+•
+
+context otherwise requires, its consolidated subsidiaries;
+"ABL Revolving Facility" means the Company's revolving credit facility entered into on July 28, 2022;
+"ABL  Revolving  Commitment"  means  the  aggregate  committed  amount  of  $1.2  billion  under  the  ABL
+Revolving Facility;
+
+•    "First Lien Term Loan" means the Company’s senior secured ﬁrst lien term loan facility that was amended
+
+•
+
+on October 12, 2023;
+"Fourth Amendment" means the Company’s fourth amendment to the senior secured former ﬁrst lien term
+loan facility that was entered into on October 12, 2023;
+
+•    "ﬁscal year 2022" means the 52 weeks ended January 28, 2023;
+•    "ﬁscal year 2023" means the 53 weeks ending February 3, 2024;  
+•    "GAAP" means generally accepted accounting principles in the United States of America;
+•    "ESPP" means the Company's Employee Stock Purchase Plan; and
+•    "SOFR" means the Secured Overnight Financing Rate.
+
+3
+
+Item 1. Financial Statements.
+
+PART I—FINANCIAL INFORMATION
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands, except par value)
+(Unaudited)
+
+ASSETS
+
+Current assets:
+
+Cash and cash equivalents
+
+Accounts receivable, net
+
+Merchandise inventories
+
+Prepaid expenses and other current assets
+
+Total current assets
+
+Operating lease right-of-use assets, net
+
+Property and equipment, net
+
+Goodwill
+
+Intangibles, net
+
+Deferred income taxes
+
+Other assets
+
+Total assets
+
+LIABILITIES
+
+Current liabilities:
+
+Short-term debt
+
+Current portion of operating lease liabilities
+
+Accounts payable
+
+Accrued expenses and other current liabilities
+
+Total current liabilities
+
+Long-term operating lease liabilities
+
+Long-term debt
+
+Deferred income taxes
+
+Other non-current liabilities
+
+Commitments and contingencies (see Note 5)
+STOCKHOLDERS’ EQUITY
+
+Preferred stock; par value $0.01; 5,000 shares authorized, and no shares
+issued
+
+Common stock, par value $0.01; 300,000 shares authorized, 147,470
+
+shares issued and 133,494 outstanding at October 28,
+2023; 146,347 shares issued and 133,903 outstanding at January 28,
+2023; and 146,243 shares issued and 134,429 outstanding at
+October 29, 2022
+
+Additional paid-in capital
+
+Retained earnings
+
+Accumulated other comprehensive income
+
+Treasury stock, at cost, 13,976 shares at October 28, 2023; 12,444 shares
+
+at January 28, 2023; and 11,814 shares at October 29, 2022
+
+Total stockholders’ equity
+
+Total liabilities and stockholders’ equity
+
+October 28,
+2023
+
+January 28,
+2023
+
+October 29,
+2022
+
+$
+
+33,551  $
+
+33,915  $
+
+224,505 
+
+1,661,852 
+
+80,550 
+
+2,000,458 
+
+2,174,706 
+
+1,495,912 
+
+1,008,816 
+
+109,600 
+
+7,429 
+
+40,323 
+
+239,746 
+
+1,378,551 
+
+51,033 
+
+1,703,245 
+
+2,142,925 
+
+1,337,029 
+
+1,008,816 
+
+115,505 
+
+11,498 
+
+30,938 
+
+34,644 
+
+251,978 
+
+1,504,368 
+
+72,285 
+
+1,863,275 
+
+2,163,504 
+
+1,296,151 
+
+1,008,816 
+
+117,814 
+
+4,341 
+
+25,002 
+
+$
+
+$
+
+6,837,244  $
+
+6,349,956  $
+
+6,478,903 
+
+434,000  $
+
+405,000  $
+
+180,490 
+
+1,318,959 
+
+805,607 
+
+2,739,056 
+
+2,084,744 
+
+398,355 
+
+65,104 
+
+196,289 
+
+177,233 
+
+1,195,697 
+
+767,411 
+
+2,545,341 
+
+2,058,797 
+
+447,880 
+
+57,024 
+
+194,077 
+
+295,000 
+
+176,659 
+
+1,363,734 
+
+764,572 
+
+2,599,965 
+
+2,085,625 
+
+600,123 
+
+70,432 
+
+179,883 
+
+— 
+
+— 
+
+— 
+
+1,475 
+
+993,178 
+
+1,022,359 
+
+1,049 
+
+(664,365)
+
+1,353,696 
+
+1,463 
+
+958,555 
+
+644,490 
+
+1,550 
+
+(559,221)
+
+1,046,837 
+
+1,461 
+
+939,855 
+
+514,712 
+
+2,010 
+
+(515,163)
+
+942,875 
+
+$
+
+6,837,244  $
+
+6,349,956  $
+
+6,478,903 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+4
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Net sales
+
+Membership fee income
+
+Total revenues
+
+Cost of sales
+
+Selling, general and administrative expenses
+
+Pre-opening expenses
+
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Loss from discontinued operations, net of income taxes
+
+Net income
+
+Income per share attributable to common stockholders—basic:
+
+Income from continuing operations
+
+Loss from discontinued operations
+
+Net income
+
+Income per share attributable to common stockholders—diluted:
+
+Income from continuing operations
+
+Loss from discontinued operations
+
+Net income
+
+Weighted-average shares of common stock outstanding:
+
+Basic
+
+Diluted
+
+Other comprehensive income:
+
+Total other comprehensive income
+
+Total comprehensive income
+
+Thirteen Weeks Ended
+
+October 28, 2023 October 29, 2022
+
+$
+
+4,818,670  $
+
+4,685,834 
+
+106,053 
+
+4,924,723 
+
+4,022,243 
+
+697,104 
+
+6,001 
+
+199,375 
+
+18,004 
+
+181,371 
+
+50,904 
+
+130,467 
+
+— 
+
+130,467  $
+
+0.98  $
+
+— 
+
+0.98  $
+
+0.97  $
+
+— 
+
+0.97  $
+
+99,485 
+
+4,785,319 
+
+3,908,219 
+
+674,426 
+
+10,706 
+
+191,968 
+
+12,450 
+
+179,518 
+
+48,124 
+
+131,394 
+
+(1,452)
+
+129,942 
+
+0.98 
+
+(0.01)
+
+0.97 
+
+0.96 
+
+(0.01)
+
+0.95 
+
+$
+
+$
+
+$
+
+$
+
+$
+
+133,069 
+
+134,984 
+
+134,091 
+
+136,621 
+
+— 
+
+— 
+
+$
+
+130,467  $
+
+129,942 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+5
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Net sales
+Membership fee income
+
+Total revenues
+
+Cost of sales
+Selling, general and administrative expenses
+Pre-opening expenses
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations, net of income taxes
+
+Net income
+
+Income per share attributable to common stockholders—basic:
+
+Income from continuing operations
+
+Income (loss) from discontinued operations
+
+Net income
+
+Income per share attributable to common stockholders—diluted:
+
+Income from continuing operations
+
+Income (loss) from discontinued operations
+
+Net income
+
+Weighted-average shares of common stock outstanding:
+
+Basic
+
+Diluted
+
+Other comprehensive income (loss):
+
+Amounts released from other comprehensive income, net of tax
+Unrealized gain on cash ﬂow hedge, net of income tax provision of $229, at October 29,
+2022
+Total other comprehensive income (loss)
+
+Total comprehensive income
+
+Thirty-Nine Weeks Ended
+October 28, 2023 October 29, 2022
+
+$
+
+14,299,132  $
+312,273 
+
+14,611,405 
+11,932,120 
+2,081,392 
+11,479 
+
+586,414 
+48,968 
+
+537,446 
+159,666 
+
+377,780 
+89 
+
+377,869  $
+
+2.84  $
+
+— 
+2.84  $
+
+2.79  $
+
+— 
+2.79  $
+
+133,232 
+
+135,338 
+
+(501) $
+
+— 
+
+(501)
+377,368  $
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+14,090,673 
+294,897 
+
+14,385,570 
+11,857,263 
+1,961,606 
+21,508 
+
+545,193 
+31,166 
+
+514,027 
+129,165 
+
+384,862 
+(1,466)
+
+383,396 
+
+2.87 
+
+(0.01)
+2.86 
+
+2.82 
+
+(0.01)
+2.81 
+
+134,225 
+
+136,630 
+
+117 
+
+588 
+
+705 
+384,101 
+
+The accompanying notes are an integral part of the consolidated ﬁnancial statements.
+
+6
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Amounts in thousands)
+(Unaudited)
+
+Common Stock
+
+Shares Amount
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated
+Other
+Comprehensive
+Income
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Total
+Stockholders’
+Equity
+
+Balance, January 28, 2023 146,347  $ 1,463  $ 958,555  $ 644,490  $
+
+1,550 
+
+(12,444) $(559,221) $
+
+1,046,837 
+
+Net income
+
+— 
+
+— 
+
+— 
+
+116,077 
+
+— 
+
+— 
+
+— 
+
+116,077 
+
+Amounts reclassiﬁed from
+accumulated other
+comprehensive income,
+net of tax
+
+Common stock issued
+under stock incentive
+plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury
+stock
+
+— 
+
+— 
+
+— 
+
+1,033 
+
+10 
+
+(10)
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+10,007 
+
+1,675 
+
+— 
+
+Balance, April 29, 2023
+
+147,380 
+
+1,473 
+
+970,227 
+
+Net income
+
+Common stock issued
+under stock incentive
+plans
+
+Common stock issued
+under ESPP
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury
+stock
+
+— 
+
+2 
+
+61 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+3,254 
+
+9,624 
+
+261 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+760,567 
+
+131,325 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(501)
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(501)
+
+— 
+
+10,007 
+
+1,675 
+
+(560)
+
+(42,369)
+
+(42,369)
+
+1,049 
+
+(13,004)
+
+(601,590)
+
+1,131,726 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+131,325 
+
+— 
+
+3,255 
+
+9,624 
+
+261 
+
+(719)
+
+(44,902)
+
+(44,902)
+
+Balance, July 29, 2023
+
+147,443 
+
+1,474 
+
+983,366 
+
+891,892 
+
+1,049 
+
+(13,723)
+
+(646,492)
+
+1,231,289 
+
+Net income
+
+Common stock issued
+under stock incentive
+plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury
+stock
+
+— 
+
+27 
+
+— 
+
+— 
+
+— 
+
+— 
+
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+130,467 
+
+(1)
+
+9,380 
+
+433 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+130,467 
+
+— 
+
+9,380 
+
+433 
+
+(253)
+
+(17,873)
+
+(17,873)
+
+Balance, October 28, 2023 147,470  $ 1,475  $ 993,178  $1,022,359  $
+
+1,049 
+
+(13,976) $(664,365) $
+
+1,353,696 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+7
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+(Amounts in thousands)
+(Unaudited)
+
+Common Stock
+
+Shares Amount
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated
+Other
+Comprehensive
+Income
+
+Treasury Stock
+
+Shares
+
+Amount
+
+Total
+Stockholders’
+Equity
+
+Balance, January 29, 2022 145,451  $ 1,454  $ 902,704  $ 131,313  $
+
+1,305 
+
+(9,945) $(388,668) $
+
+648,108 
+
+Net income
+
+— 
+
+— 
+
+— 
+
+112,450 
+
+— 
+
+— 
+
+— 
+
+112,450 
+
+Amounts reclassiﬁed from
+accumulated other
+comprehensive income, net
+of tax
+
+Unrealized gain on cash
+ﬂow hedge, net of tax
+
+Common stock issued
+under stock incentive plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+— 
+
+490 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+5 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(5)
+
+9,115 
+
+2,306 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+117 
+
+588 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(801)
+
+(51,342)
+
+Balance, April 30, 2022
+
+145,941 
+
+1,459 
+
+914,120 
+
+243,763 
+
+2,010 
+
+(10,746)
+
+(440,010)
+
+Net income
+
+Common stock issued
+under stock incentive plans
+
+Common stock issued
+under ESPP
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+172 
+
+44 
+
+— 
+
+— 
+
+— 
+
+— 
+
+2 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+141,007 
+
+(2)
+
+2,331 
+
+9,387 
+
+2,712 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(359)
+
+(23,188)
+
+Balance, July 30, 2022
+
+146,157 
+
+1,461 
+
+928,548 
+
+384,770 
+
+2,010 
+
+(11,105)
+
+(463,198)
+
+Net income
+
+Common stock issued
+under stock incentive plans
+
+Stock-based compensation
+expense
+
+Exercise of stock options
+
+Acquisition of treasury stock
+
+— 
+
+86 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+129,942 
+
+— 
+
+9,463 
+
+1,844 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+117 
+
+588 
+
+— 
+
+9,115 
+
+2,306 
+
+(51,342)
+
+721,342 
+
+141,007 
+
+— 
+
+2,331 
+
+9,387 
+
+2,712 
+
+(23,188)
+
+853,591 
+
+129,942 
+
+— 
+
+9,463 
+
+1,844 
+
+Balance, October 29, 2022 146,243  $ 1,461  $ 939,855  $ 514,712  $
+
+2,010 
+
+(11,814) $(515,163) $
+
+942,875 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+8
+
+(709)
+
+(51,965)
+
+(51,965)
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands)
+(Unaudited)
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+Net income
+
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+$
+
+377,869  $
+
+383,396 
+
+Depreciation and amortization
+
+166,421 
+
+149,259 
+
+Amortization of debt issuance costs and accretion of original issue discount
+
+Debt extinguishment charges
+
+Stock-based compensation expense
+
+Deferred income tax provision
+
+Changes in operating leases and other non-cash items
+
+Increase (decrease) in cash due to changes in:
+
+Accounts receivable
+
+Merchandise inventories
+
+Prepaid expenses and other current assets
+
+Other assets
+
+Accounts payable
+
+Accrued expenses and other current liabilities
+
+Other non-current liabilities
+
+Net cash provided by operating activities
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+Additions to property and equipment, net of disposals
+
+Proceeds from sale-leaseback transactions
+
+Acquisitions
+
+Net cash used in investing activities
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+Proceeds from the issuance of long term-debt
+
+Payments on long-term debt
+
+Proceeds from revolving lines of credit
+
+Payments on revolving lines of credit
+
+Debt issuance costs paid
+
+Net cash received from stock option exercises
+
+Net cash received from ESPP
+
+Acquisition of treasury stock
+
+Proceeds from ﬁnancing obligations
+
+Other ﬁnancing activities
+
+Net cash (used in) provided by ﬁnancing activities
+
+Net decrease in cash and cash equivalents
+
+Cash and cash equivalents at beginning of period
+
+Cash and cash equivalents at end of period
+
+Supplemental cash ﬂow information:
+
+Interest paid
+
+Income taxes paid
+
+Operating lease liabilities arising from obtaining right-of-use assets and other non-cash lease-
+related operating items
+
+Non-cash ﬁnancing and investing activities:
+
+Finance lease liabilities arising from obtaining right-of-use assets
+
+Financing obligations arising from failed sale-leasebacks
+
+Property additions included in accrued expenses
+
+Treasury stock repurchases included in accrued expenses
+
+900 
+
+1,830 
+
+29,011 
+
+12,149 
+
+3,684 
+
+15,205 
+
+(283,301)
+
+(23,628)
+
+(9,917)
+
+123,262 
+
+29,916 
+
+1,130 
+
+444,531 
+
+(347,951)
+
+12,310 
+
+— 
+
+(335,641)
+
+305,041 
+
+(355,041)
+
+564,000 
+
+(535,000)
+
+(1,722)
+
+2,369 
+
+3,255 
+
+2,282 
+
+687 
+
+27,965 
+
+18,474 
+
+26,235 
+
+(73,162)
+
+(173,361)
+
+(5,248)
+
+(444)
+
+250,951 
+
+(3,802)
+
+9,625 
+
+612,857 
+
+(294,308)
+
+11,092 
+
+(376,521)
+
+(659,737)
+
+— 
+
+(150,000)
+
+1,110,000 
+
+(815,000)
+
+(2,733)
+
+6,545 
+
+2,331 
+
+$
+
+$
+
+(101,819)
+
+(127,458)
+
+11,691 
+
+(2,028)
+
+(109,254)
+
+(364)
+
+33,915 
+
+33,551  $
+
+16,949 
+
+(4,546)
+
+36,088 
+
+(10,792)
+
+45,436 
+
+34,644 
+
+44,335  $
+
+156,632 
+
+25,031 
+
+134,021 
+
+165,931 
+
+190,803 
+
+4,467 
+
+— 
+
+32,104 
+
+3,325 
+
+7,443 
+
+3,487 
+
+29,192 
+
+770 
+
+The accompanying notes are an integral part of the condensed consolidated ﬁnancial statements.
+
+9
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Description of Business
+
+BJ’s  Wholesale  Club  Holdings,  Inc.  and  its  wholly-owned  subsidiaries  is  a  leading  operator  of  membership
+warehouse clubs concentrated primarily in the eastern half of the United States. The Company provides a curated
+assortment  focused  on  grocery,  general  merchandise,  gasoline  and  other  ancillary  services,  coupon  books,  and
+promotions to oﬀer a diﬀerentiated shopping experience that is further enhanced by its omnichannel capabilities.
+As of October 28, 2023, the Company operated 238 warehouse clubs and 169 gas stations in 20 states.
+
+2. Summary of Signiﬁcant Accounting Policies
+
+(a) Basis of Presentation
+
+The accompanying interim ﬁnancial statements of BJ’s Wholesale Club Holdings, Inc. are unaudited and, in the
+opinion of management, reﬂect all normal recurring adjustments considered necessary for a fair statement of the
+Company’s ﬁnancial statements in accordance with GAAP. 
+
+The  condensed  consolidated  balance  sheet  as  of  January  28,  2023  is  derived  from  the  audited  consolidated
+balance  sheet  as  of  that  date.  The  Company’s  business,  as  is  common  with  the  business  of  retailers  generally,  is
+subject  to  seasonal  inﬂuences.  The  Company’s  sales  and  operating  income  have  typically  been  highest  in
+the fourth quarter holiday season and lowest in the ﬁrst quarter of each ﬁscal year. 
+
+These unaudited condensed consolidated ﬁnancial statements should be read in conjunction with the audited
+consolidated ﬁnancial statements and footnotes thereto included in our Annual Report on Form 10-K for the ﬁscal
+year 2022, as ﬁled with the Securities and Exchange Commission on March 16, 2023.
+
+(b) Fiscal Year
+
+The Company follows the National Retail Federation’s ﬁscal calendar and reports ﬁnancial information on a 52-
+or  53-week  year  ending  on  the  Saturday  closest  to  January  31.  The  thirteen-week  periods  ended  October  28,
+2023 and October 29, 2022 are referred to herein as the "third quarter of ﬁscal year 2023" and the "third quarter of
+ﬁscal  year  2022,"  respectively.  The  thirty-nine  week  periods  ended  October  28,  2023  and  October  29,  2022  are
+referred to herein as the "thirty-nine weeks ended October 28, 2023" and the "thirty-nine weeks ended October 29,
+2022," respectively. Operating results for the thirteen-week and thirty-nine week periods ended October 28, 2023
+are  not  necessarily  indicative  of  the  results  that  may  be  expected  for  the  53-week  ﬁscal  year  ending  February  3,
+2024.
+
+(c) Recent Accounting Pronouncements and Policies
+
+The  Company’s  accounting  policies  are  set  forth  in  the  audited  ﬁnancial  statements  included  in  the
+Company’s  Annual  Report  on  Form  10-K  for  ﬁscal  year  2022.  There  have  been  no  material  changes  to  these
+accounting  policies  and  no  accounting  pronouncements  adopted  that  had  a  material  impact  on  the  Company’s
+ﬁnancial statements.
+
+3. Revenue Recognition
+
+(a) Performance Obligations
+
+The  Company  identiﬁes  each  distinct  performance  obligation  to  transfer  goods  (or  bundle  of  goods)  or
+services.  The  Company  recognizes  revenue  as  it  satisﬁes  a  performance  obligation  by  transferring  control  of  the
+goods or services to the customer.
+
+Net sales
+
+The Company recognizes net sales at clubs and gas stations when the customer takes possession of the goods
+and tenders payment. Sales tax is recorded as a liability at the point-of-sale. Revenue is recorded at the point-of-
+sale  based  on  the  transaction  price,  net  of  any  applicable  discounts,  sales  tax  and  expected  refunds.  For  e-
+commerce  sales,  the  Company  recognizes  sales  when  control  of  the  merchandise  is  transferred  to  the  customer,
+which is typically at the time of shipment.
+
+10
+
+The following table summarizes the Company’s point-of-sale transactions at clubs and gas stations, excluding
+
+sales tax, as a percentage of both net sales and total revenues:
+
+Point-of-sale transactions, excluding
+sales tax, as a percent of net sales
+Point-of-sale transactions, excluding
+sales tax, as a percent of total
+revenues
+
+Rewards programs
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+92 %
+
+90 %
+
+92 %
+
+90 %
+
+91 %
+
+89 %
+
+92 %
+
+90 %
+
+The Company’s BJ’s Perks Rewards membership program which was in place in ﬁscal year 2022 and the ﬁrst
+month  of  ﬁscal  year  2023,  allowed  participating  members  to  earn  2%  cash  back,  up  to  a  maximum  of
+$500 per year, on qualiﬁed purchases made at BJ’s. The Company also oﬀered a co-branded credit card program,
+the My BJ’s Perks program, which allowed My BJ’s Perks Mastercard credit card holders to earn up to a 10 cent-per-
+gallon discount on gasoline, up to 5% cash back on eligible purchases made in BJ’s clubs or online at bjs.com, and
+up  to  2%  cash  back  on  purchases  made  with  the  card  outside  of  BJ’s.  Cash  back  was  in  the  form  of  electronic
+awards issued in $10 increments that could be used online or in-club and expired six months from the date issued. 
+
+In  the  ﬁrst  quarter  of  ﬁscal  year  2023,  the  Company  rebranded  the  rewards  program.  The  former  BJ's  Perks
+Rewards membership program is now the Club+ program, whereby participating members earn 2% cash back, up
+to  a  maximum  of  $500  per  year,  on  qualiﬁed  purchases  made  at  BJs  and  a  5  cent-per-gallon  discount  at  BJ's  gas
+locations.  Cash  back  is  in  the  form  of  electronic  awards  issued  to  each  member  once  $10  in  rewards  have  been
+earned. The Company's co-branded credit card program is now the BJ's One and BJ's One+ program, which allows
+cardholders with the opportunity to earn up to 5% cash back on purchases made in BJ's clubs or online at bjs.com
+and up to a 15 cent-per-gallon discount on gasoline when paying with a BJ's One or BJ's One+ Mastercard at our BJ’s
+gas  locations.  Cash  back  is  in  the  form  of  electronic  awards  issued  to  each  member  monthly  on  their  credit  card
+statement date. Earned rewards under these two programs do not expire.
+
+The Company accounts for these transactions as multiple-element arrangements and allocates the transaction
+price  to  separate  performance  obligations  using  their  relative  fair  values.  The  Company  includes  the  fair  value  of
+award  dollars  earned  in  deferred  revenue  at  the  time  the  award  dollars  are  earned.  Earned  awards  may  be
+redeemed on future purchases made at the Company. The Company recognizes revenue related to earned awards
+when  customers  redeem  such  awards  as  part  of  a  purchase  at  one  of  the  Company’s  clubs  or  on  the  Company’s
+website or mobile app. The Company recognizes royalty revenue related to the outstanding My BJ's Perks and BJ's
+One  and  BJ's  One+  credit  card  programs  based  upon  actual  customer  activities,  such  as  reward  redemptions.
+Additionally, the Company deferred revenue for funds received related to marketing and other integration costs in
+connection  with  the  new  co-brand  credit  card  program  and  will  recognize  these  into  revenue  as  performance
+obligations are satisﬁed.
+
+Membership
+
+The Company charges a membership fee to its customers, which allows customers to shop in the Company’s
+clubs, shop on the Company’s website, and purchase gasoline at the Company’s gas stations for the duration of the
+membership, which is generally 12 months. In addition, members have access to other ancillary services, coupon
+books, and promotions. As the Company has the obligation to provide access to its clubs, website, and gas stations
+for  the  duration  of  the  membership  term,  the  Company  recognizes  membership  fees  on  a  straight-line  basis  over
+the life of the membership.
+
+Gift Card Programs
+
+The Company sells BJ’s gift cards that allow customers to redeem the cards for future purchases equal to the
+amount  of  the  face  value  of  the  gift  card.  Revenue  from  gift  card  sales  is  recognized  upon  redemption  of  the  gift
+cards and control of the purchased goods or services is transferred to the customer.
+
+11
+
+(b) Contract Balances
+
+The following table summarizes the Company's deferred revenue balance related to outstanding performance
+
+obligations for contracts with customers:
+
+Current:
+
+   Rewards programs:
+
+   Earned award dollars
+   Royalty revenue
+   Co-brand marketing & integration
+
+   Total rewards programs
+
+    Membership
+    Gift card programs
+
+Long-term:
+
+    Rewards programs:
+
+   Co-brand marketing & integration
+
+      Total deferred revenue
+
+October 28,
+2023
+
+January 28,
+2023
+
+October 29,
+2022
+
+$
+
+$
+
+46,816  $
+5,454 
+3,996 
+56,266 
+193,879 
+13,644 
+
+34,676  $
+17,877 
+6,960 
+59,513 
+183,692 
+14,092 
+
+44,490 
+23,255 
+— 
+67,745 
+178,297 
+12,080 
+
+7,147 
+270,936  $
+
+11,895 
+269,192  $
+
+— 
+258,122 
+
+Current  and  long-term  deferred  revenue  balances  are  included  within  accrued  expenses  and  other  current
+
+liabilities and other non-current liabilities, respectively, in the condensed consolidated balance sheets.
+
+The following table summarizes the Company's revenue recognized during the period that was included in the
+
+opening deferred balance as of January 28, 2023:
+
+Rewards programs:
+
+Earned award dollars
+Royalty revenue
+Co-brand marketing & integration
+
+Total rewards programs
+
+Membership
+Gift card programs
+
+Total revenue
+
+Thirty-Nine Weeks
+Ended
+October 28, 2023
+
+$
+
+$
+
+34,676 
+17,877 
+7,467 
+60,020 
+174,678 
+4,765 
+239,463 
+
+(c) Transaction Price Allocated to Remaining Performance Obligations
+
+Performance obligations related to earned award dollars, royalty revenue and membership fees are typically
+satisﬁed over a period of twelve months or less. Funds received related to marketing and other integration costs in
+connection  with  our  co-brand  credit  card  program  are  recognized  as  performance  obligations  are  satisﬁed.  The
+timing and recognition of gift card redemptions varies depending on consumer behavior and spending patterns.
+
+(d) Disaggregation of Revenue
+
+The Company’s club retail operations, which include retail club and other sales procured from our clubs and
+distribution  centers,  represent  substantially  all  of  its  consolidated  total  revenues,  and  are  the  Company’s  only
+reportable segment. All the
+
+12
+
+Company’s  identiﬁable  assets  are  in  the  United  States.  The  Company  does  not  have  signiﬁcant  sales  outside  the
+United States, nor does any customer represent more than 10% of total revenues for any period presented.
+
+The following table summarizes the Company’s percentage of net sales disaggregated by category:
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+Grocery
+General Merchandise and Services
+Gasoline and Other
+
+70 %
+10 %
+20 %
+
+70 %
+10 %
+20 %
+
+71 %
+10 %
+19 %
+
+67 %
+11 %
+22 %
+
+4. Debt and Credit Arrangements
+
+The following table summarizes the Company’s debt (in thousands):
+
+ABL Revolving Facility
+First Lien Term Loan
+Unamortized original issue discount and debt issuance
+costs
+Less: Short-term debt
+
+Long-term debt
+
+ABL Revolving Facility
+
+October 28,
+2023
+
+January 28,
+2023
+
+October 29,
+2022
+
+$
+
+$
+
+434,000  $
+400,000 
+
+405,000  $
+450,000 
+
+(1,645)
+(434,000)
+398,355  $
+
+(2,120)
+(405,000)
+447,880  $
+
+295,000 
+601,920 
+
+(1,797)
+(295,000)
+600,123 
+
+On July 28, 2022, the Company entered into the ABL Revolving Facility with an ABL Revolving Commitment of
+$1.2  billion  pursuant  to  that  certain  credit  agreement  (the  "Credit  Agreement")  with  Bank  of  America,  N.A.,  as
+administrative  agent  and  collateral  agent,  and  the  other  lenders  party  thereto.  The  maturity  date  of  the  ABL
+Revolving Facility is July 28, 2027.
+
+Revolving loans under the ABL Revolving Facility are available in an aggregate amount equal to the lesser of
+the aggregate ABL Revolving Commitment or a borrowing base based on the value of certain inventory, accounts
+and credit card receivables, subject to speciﬁed advance rebates and reserves as set forth in the Credit Agreement.
+Indebtedness under the ABL Revolving Facility is secured by substantially all of the assets (other than real estate) of
+the  Company  and  its  subsidiaries,  subject  to  customary  exceptions.  As  amended,  interest  on  the  ABL  Revolving
+Facility  is  calculated  either  at  the  SOFR  plus  a  range  of  100  to  125  basis  points  or  a  base  rate  plus  0  to  25  basis
+points, based on excess availability. The Company will also pay an unused commitment fee of 20 basis points per
+annum on the unused ABL Revolving Commitment. Each borrowing is for a period of one, three, or six months, as
+selected  by  the  Company,  or  for  such  other  period  that  is  twelve  months  or  less  requested  by  the  Company  and
+consented to by the lenders and administrative agent.
+
+The  ABL  Revolving  Facility  places  certain  restrictions  (i.e.,  covenants)  upon  the  Borrower’s,  and  its
+subsidiaries’, ability to, among other things, incur additional indebtedness, pay dividends and make certain loans,
+investments, and divestitures. The ABL Revolving Facility contains customary events of default (including payment
+defaults, cross-defaults to certain of the Company's other indebtedness, breach of representations and covenants
+and  change  of  control).  The  occurrence  of  an  event  of  default  under  the  ABL  Revolving  Facility  would  permit  the
+lenders to accelerate the indebtedness and terminate the ABL Revolving Facility.
+
+As  of  October  28,  2023,  there  was  $434.0  million  outstanding  in  loans  under  the  ABL  Revolving  Facility  and
+$12.3 million in outstanding letters of credit. The interest rate on the ABL Revolving Facility was 6.43% and unused
+capacity was $753.7 million.
+
+First Lien Term Loan
+
+On  October  12,  2023,  the  Company  entered  into  an  amendment  (the  “Fourth  Amendment”)  to  the  First  Lien
+Term Loan Credit Agreement, with Nomura Corporate Funding Americas, LLC, as administrative agent and collateral
+agent and the
+
+13
+
+lenders party thereto. Deutsche Bank Securities Inc. acted as the left lead arranger and bookrunner, and Nomura
+Securities International, Inc., BofA Securities, Inc. and Wells Fargo Securities LLC acted as joint lead arrangers and
+joint bookrunners of the Fourth Amendment.
+
+The  Fourth  Amendment,  among  other  things,  extends  the  maturity  date  with  respect  to  the  term  loans
+outstanding  under  the  First  Lien  Term  Loan  Credit  Agreement  from  February  3,  2027  to  February  3,  2029.  In
+addition,  the  Fourth  Amendment  reduces  applicable  margin  in  respect  of  the  interest  rate,  eﬀective  immediately,
+from SOFR plus 275 basis points per annum to SOFR plus 200 basis points per annum.
+
+Voluntary prepayments are permitted. Principal payments must be made on the First Lien Term Loan pursuant
+to an annual excess cash ﬂow calculation when the net leverage ratio exceeds 3.50 to 1.00. As of October 28, 2023,
+the  Company's  net  leverage  ratio  did  not  exceed  3.50  to  1.00,  and  therefore,  no  incremental  principal  payments
+were  required.  The  First  Lien  Term  Loan  is  subject  to  certain  aﬃrmative  and  negative  covenants  but  no  ﬁnancial
+covenants. It is secured on a senior basis by certain "ﬁxed assets" of the Company and on a junior basis by certain
+"liquid" assets of the Company.
+
+Total fees incurred in connection with the reﬁnancing were approximately $1.7 million. The Company expensed
+$1.4 million of previously capitalized debt issuance costs and original issue discount and expensed $0.4 million of
+new third-party fees. The Company deferred $1.3 million of new debt issuance costs.
+
+As  of  October  28,  2023,  there  was  $400.0  million  outstanding  under  the  First  Lien  Term  Loan,  which  reﬂects
+the  Company's  repayment  of  $50.0  million  of  the  principal  amount  outstanding  under  the  First  Lien  Term  Credit
+Agreement  during  the  third  quarter  of  ﬁscal  year  2023  prior  to  the  Fourth  Amendment.  There  was  $450.0  million
+outstanding on the First Lien Term Loan at January 28, 2023 and $601.9 million outstanding at October 29, 2022.
+The  interest  rates  were  7.35%,  7.11%,  and  5.35%  at  October  28,  2023,  January  28,  2023,  and  October  29,  2022,
+respectively.
+
+5. Commitments and Contingencies
+
+The Company is involved in various legal proceedings that are typical of a retail business. In accordance with
+applicable  accounting  guidance,  an  accrual  will  be  established  for  legal  proceedings  if  and  when  those  matters
+present loss contingencies that are both probable and estimable. The Company does not believe the resolution of
+any current proceedings will result in a material loss to the condensed consolidated ﬁnancial statements.
+
+6. Stock Incentive Plans
+
+On  June  13,  2018,  the  Company’s  board  of  directors  adopted,  and  its  stockholders  approved,  the  BJ’s
+Wholesale Club Holdings, Inc. 2018 Incentive Award Plan (the "2018 Plan"). The 2018 Plan provides for the grant of
+stock  options,  restricted  stock,  dividend  equivalents,  stock  payments,  restricted  stock  units,  performance  shares,
+other  incentive  awards,  stock  appreciation  rights,  and  cash  awards.  Prior  to  the  adoption  of  the  2018  Plan,  the
+Company granted stock-based compensation to employees and non-employee directors under the Fourth Amended
+and  Restated  2011  Stock  Option  Plan  of  BJ’s  Wholesale  Club,  Inc.  (f/k/a  Beacon  Holding  Inc.),  as  amended
+(the  "2011  Plan")  and  the  2012  Director  Stock  Option  Plan  of  BJ’s  Wholesale  Club  Holdings,  Inc.  (f/k/a  Beacon
+Holding,  Inc.),  as  amended  (the  "2012  Director  Plan").  No  further  grants  will  be  made  under  the  2011  Plan  or
+the 2012 Director Plan.
+
+The  2018  Plan  authorizes  the  issuance  of  13,148,058  shares,  including  985,369  shares  that  were  reserved
+but not issued under the 2011 Plan and the 2012 Director Plan. If an award under the 2018 Plan, the 2011 Plan, or
+the  2012  Director  Plan  is  forfeited,  expires,  or  is  settled  for  cash,  any  shares  subject  to  such  award  may,  to  the
+extent  of  such  forfeiture,  expiration,  or  cash  settlement,  be  used  again  for  new  grants  under  the  2018  Plan.
+Additionally, shares tendered or withheld to satisfy grant or exercise price, or tax withholding obligations associated
+with an award under the 2018 Plan, the 2011 Plan, or the 2012 Director Plan will be added to the shares authorized
+for  grant  under  the  2018  Plan.  The  following  shares  may  not  be  used  again  for  grant  under  the  2018  Plan:
+(1) shares subject to a stock appreciation right ("SAR") that are not issued in connection with the stock settlement
+of the SAR upon its exercise and (2) shares purchased on the open market with the cash proceeds from the exercise
+of  options  under  the  2018  Plan,  2011  Plan,  or  2012  Director  Plan.  As  of  October  28,  2023,  there
+were 4,932,865 shares available for future issuance under the 2018 Plan.
+
+14
+
+The  following  table  summarizes  the  Company’s  stock  award  activity  during  the  thirty-nine  weeks
+
+ended October 28, 2023 (shares in thousands):
+
+Stock Options
+
+Restricted Stock
+
+Restricted Stock
+Units
+
+Performance
+Stock
+
+Weighted-
+Average
+Exercise
+Price
+
+Shares
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+1,788  $
+— 
+— 
+(126)
+
+20.35 
+— 
+— 
+18.78 
+
+750  $
+329 
+(52)
+(409)
+
+50.10 
+75.85 
+64.62 
+43.03 
+
+24  $
+22 
+(5)
+(19)
+
+58.61 
+62.13 
+58.61 
+58.61 
+
+854  $
+503 
+(40)
+(640)
+
+45.70 
+76.07 
+58.81 
+24.35 
+
+1,662  $
+
+20.47 
+
+618  $
+
+67.28 
+
+22  $
+
+62.13 
+
+677  $
+
+58.84 
+
+(a)
+
+Outstanding, January 28,
+2023
+Granted 
+Forfeited/canceled
+Exercised/vested
+Outstanding, October 28,
+2023
+
+(a)     Includes 320 incremental Performance Stock awards granted in ﬁscal year 2020 with a weighted-average
+grant date fair value of $24.35, that vested in ﬁscal year 2023 at greater than 100% of target based on
+performance.
+
+Stock-based  compensation  expense  was  $9.4  million  and  $9.5  million 
+
+for  the  thirteen  weeks
+ended October 28, 2023 and October 29, 2022, respectively, and $29.0 million and $28.0 million for the thirty-nine
+weeks ended October 28, 2023 and October 29, 2022, respectively.
+
+On June 14, 2018, the Company’s board of directors adopted, and its stockholders approved, the ESPP, which
+became  eﬀective  July  1,  2018.  The  aggregate  number  of  shares  of  common  stock  that  were  to  be  reserved  for
+issuance  under  the  ESPP  was  to  be  equal  to  the  sum  of  (i)  973,014  shares  and  (ii)  an  annual  increase  on
+the ﬁrst day of each calendar year beginning in 2019 and ending in 2028 equal to the lesser of (A) 486,507 shares,
+(B) 0.5% of the shares outstanding (on an as converted basis) on the last day of the immediately preceding ﬁscal
+year  and  (C)  such  smaller  number  of  shares  as  determined  by  the  Company's  board  of  directors.  The  amount  of
+expense recognized related to the ESPP was $0.4 million and $0.3 million for the thirteen weeks ended October 28,
+2023  and  October  29,  2022,  respectively,  and  $1.1  million  and  $0.8  million  for  the  thirty-nine  weeks  ended
+October  28,  2023  and  October  29,  2022,  respectively.  As  of  October  28,  2023,  there  were  2,463,889  shares
+available for issuance under the ESPP.
+
+7. Treasury Shares and Share Repurchase Program
+
+Treasury Shares Acquired on Restricted Stock and Performance Stock Awards
+
+The  Company  acquired  11,052  shares  to  satisfy  employees’  tax  withholding  obligations  upon  the  vesting  of
+restricted  stock  awards  in  the  thirteen  weeks  ended  October  28,  2023,  which  was  recorded  as  $0.8  million  of
+treasury  stock.  The  Company  acquired  24,885  shares  to  satisfy  employees'  tax  withholding  obligations  upon  the
+vesting  of  restricted  stock  awards  in  the  thirteen  weeks  ended  October  29,  2022,  which  was  recorded  as  $1.9
+million of treasury stock.
+
+The Company acquired 370,879 shares to satisfy employees’ tax withholding obligations upon the vesting of
+restricted  stock  and  performance  stock  awards  in  the  thirty-nine  weeks  ended  October  28,  2023,  which  was
+recorded  as  $28.1  million  of  treasury  stock.  The  Company  acquired  260,730  shares  to  satisfy  employees'  tax
+withholding  obligations  upon  the  vesting  of  restricted  stock  awards  in  the  thirty-nine  weeks  ended  October  29,
+2022, which was recorded as $17.8 million of treasury stock.
+
+Share Repurchase Program
+
+On November 16, 2021, the Company's board of directors approved a share repurchase program (the "2021
+Repurchase  Program")  that  allows  the  Company  to  repurchase  up  to  $500.0  million  of  its  outstanding  common
+stock from time to time as market conditions warrant. The 2021 Repurchase Program expires in January 2025. The
+Company initiated the 2021 Repurchase Program to mitigate potentially dilutive eﬀects of stock awards granted by
+the Company, in addition to enhancing shareholder value.
+
+The Company repurchased 242,000 shares for $17.1 million and 684,819 shares for $50.1 million during the
+thirteen  weeks  ended  October  28,  2023  and  October  29,  2022, 
+respectively.  The  Company
+repurchased  1,161,162  shares  for  $77.0  million  and  1,608,325  shares  for  $108.7  million  during  the  thirty-nine
+weeks ended October 28, 2023 and October 29, 2022,
+
+15
+
+respectively. The Company accounts for treasury stock under the cost method based on the fair market value of the
+shares on the dates of repurchase plus any direct costs incurred.
+
+As of October 28, 2023, $241.9 million remained available to purchase under the 2021 Repurchase Program.
+
+8. Income Taxes
+
+The Company projects the estimated annual eﬀective tax rate for ﬁscal year 2023 to be 28.2%, excluding the
+tax  eﬀect  of  discrete  events,  such  as  excess  tax  beneﬁts  from  stock-based  compensation,  changes  in  tax
+legislation, settlements of tax audits and changes in uncertain tax positions, among others.
+
+The  Company’s  eﬀective  income  tax  rate  from  continuing  operations  was  28.1%  and  26.8%  for  the  thirteen
+weeks  ended  October  28,  2023  and  October  29,  2022,  respectively.  For  the  thirty-nine  weeks  ended  October  28,
+2023  and  October  29,  2022,  the  Company's  eﬀective  tax  rate  from  continuing  operations  was  and  29.7%  and
+25.1%,  respectively.  The  increase  for  both  comparative  periods  was  primarily  driven  by  lower  tax  beneﬁts  from
+stock-based  compensation.  The  increase  for  the  ﬁrst  nine  months  of  ﬁscal  2023  was  also  due  to  an  immaterial
+adjustment to certain deferred tax assets related to prior periods.
+
+The Company is subject to taxation in the U.S. federal and various state taxing jurisdictions. The Company’s
+tax years from 2018 forward remain open and subject to examination by the Internal Revenue Service and various
+state taxing authorities.
+
+9. Fair Value Measurements
+
+Certain  assets  and  liabilities  are  required  to  be  carried  at  fair  value  in  accordance  with  GAAP.  Fair  value  is
+deﬁned as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the
+principal  or  most  advantageous  market  for  the  asset  or  liability  in  an  orderly  transaction  between  market
+participants on the measurement date.
+
+The Company uses a three-level hierarchy that prioritizes the inputs used to measure fair value. This hierarchy
+requires entities to maximize the use of observable inputs and minimize the use of unobservable inputs. Financial
+assets and liabilities carried at fair value are to be classiﬁed and disclosed in one of the following three levels of the
+fair value hierarchy, of which the ﬁrst two are considered observable and the last is considered unobservable:
+
+Level 1: Quoted market prices in active markets for identical assets or liabilities.
+
+Level 2: Observable inputs other than quoted market prices included in Level 1 such as quoted market prices
+for  markets  that  are  not  active  or  other  inputs  that  are  observable  or  can  be  corroborated  by  observable
+market data.
+
+Level 3: Unobservable inputs that are supported by little or no market activity and that are signiﬁcant to the
+fair value of the assets or liabilities, including certain pricing models, discounted cash ﬂow methodologies and
+similar techniques that use signiﬁcant unobservable inputs.
+
+Financial Assets and Liabilities
+
+The  fair  value  of  the  Company's  long-term  debt  is  estimated  based  on  current  market  rates  for  our  speciﬁc
+debt  instrument.  Judgment  is  required  to  develop  these  estimates.  As  such,  the  estimated  fair  value  of  long-term
+debt is classiﬁed within Level 2, as deﬁned under U.S. GAAP.
+
+The  gross  carrying  amount  and  fair  value  of  the  Company’s  debt  at  October  28,  2023  are  as  follows  (in
+
+thousands):
+
+ABL Revolving Facility
+First Lien Term Loan
+
+Total Debt
+
+Carrying
+Amount
+
+Fair Value
+
+$
+
+$
+
+434,000  $
+400,000 
+834,000  $
+
+434,000 
+400,252 
+834,252 
+
+16
+
+The  gross  carrying  amount  and  fair  value  of  the  Company’s  debt  at  January  28,  2023  are  as  follows  (in
+
+thousands):
+
+ABL Revolving Facility
+First Lien Term Loan
+
+Total Debt
+
+Carrying
+Amount
+
+Fair Value
+
+$
+
+$
+
+405,000  $
+450,000 
+855,000  $
+
+405,000 
+450,482 
+855,482 
+
+The  gross  carrying  amount  and  fair  value  of  the  Company’s  debt  at  October  29,  2022  are  as  follows  (in
+
+thousands):
+
+ABL Revolving Facility
+First Lien Term Loan
+
+Total Debt
+
+Carrying
+Amount
+
+Fair Value
+
+$
+
+$
+
+295,000  $
+601,920 
+896,920  $
+
+295,000 
+601,920 
+896,920 
+
+Assets and Liabilities Measured at Fair Value on a Non-Recurring Basis
+
+The Company measures certain non-ﬁnancial assets and liabilities, including long-lived assets, at fair value on
+
+a non-recurring basis.
+
+The Company believes that the carrying amounts of its other ﬁnancial instruments, including cash, accounts
+receivable,  and  accounts  payable,  approximate  their  fair  values  due  to  the  short-term  maturities  of  these
+instruments.
+
+10. Earnings Per Share
+
+The table below reconciles basic weighted-average shares of common stock outstanding to diluted weighted-
+average  shares  of  common  stock  outstanding  for  the  thirteen  and  thirty-nine  weeks  ended  October  28,
+2023 and October 29, 2022 (in thousands):
+
+Thirteen Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+Thirty-Nine Weeks Ended
+October 29,
+October 28,
+2022
+2023
+
+Weighted-average shares of common stock
+outstanding, used for basic computation
+
+Plus: Incremental shares of potentially dilutive
+securities
+
+Weighted-average shares of common stock and dilutive
+potential shares of common stock outstanding
+
+133,069 
+
+134,091 
+
+133,232 
+
+134,225 
+
+1,915 
+
+2,530 
+
+2,106 
+
+2,405 
+
+134,984 
+
+136,621 
+
+135,338 
+
+136,630 
+
+The  table  below  summarizes  awards  that  were  excluded  from  the  computation  of  diluted  earnings  for  the
+thirteen and thirty-nine weeks ended October 28, 2023 and October 29, 2022, as their inclusion would have been
+anti-dilutive (in thousands):
+
+Stock-based awards
+
+203
+
+— 
+
+207
+
+100
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+17
+
+FORWARD-LOOKING STATEMENTS 
+
+This  Quarterly  Report  on  Form  10-Q  contains  forward-looking  statements.  We  intend  such  forward-looking
+statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of
+the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the
+"Exchange Act"). All statements other than statements of historical facts contained in this Quarterly Report on Form
+10-Q  should  be  considered  forward-looking  statements,  including,  without  limitation,  statements  regarding  our
+future results of operations and ﬁnancial position, business strategy, transformation, strategic priorities and future
+progress, including expectations regarding deferred revenue, lease commencement dates, impact of infrastructure
+investments on our operating model and selling, general and administrative expenses, sales of gasoline and gross
+proﬁt  margin  rates,  and  new  club  and  gas  station  openings,  as  well  as  statements  that  include  terms  such  as
+"may",  "will",  "should",  "expect",  "plan",  "anticipate",  "could",  "intend",  "project",  "believe",  "estimate",  "predict",
+"continue",  "forecast",  "would",  or  the  negative  of  these  terms  or  other  similar  expressions.  The  forward-looking
+statements  in  this  Quarterly  Report  on  Form  10-Q  are  only  predictions.  We  have  based  these  forward-looking
+statements  largely  on  our  current  expectations  and  projections  about  future  events  and  ﬁnancial  trends  that  we
+believe may aﬀect our business, ﬁnancial condition and results of operations. These statements involve known and
+unknown  risks,  uncertainties  and  other  important  factors  that  may  cause  our  actual  results,  performance  or
+achievements to be materially diﬀerent from any future results, performance or achievements expressed or implied
+by the forward-looking statements, including, but not limited to:
+
+•    uncertainties in the ﬁnancial markets including, without limitation, as a result of disruptions and instability
+in the banking and ﬁnancial services industries or as a result of wars and global political conﬂicts, and the
+eﬀect  of  certain  economic  conditions  or  events  on  consumer  and  small  business  spending  patterns  and
+debt levels;
+
+•    risks related to our dependence on having a large and loyal membership;
+•        domestic  and  international  economic  conditions,  including  volatility  in  inﬂation  or  interest  rates,  supply
+
+chain disruptions, construction delays and exchange rates;
+
+•    our ability to procure the merchandise we sell at the best possible prices;
+•    the eﬀects of competition in, and regulation of, the retail industry;
+•    our dependence on vendors to supply us with quality merchandise at the right time and at the right price;
+•    risks related to our indebtedness;
+•    changes in laws related to, or the governments administration of, the Supplemental Nutrition Assistance
+
+Program or its electronic beneﬁt transfer systems;
+
+•        the  risks  and  uncertainties  related  to  the  impact  of  any  future  pandemic,  epidemic  or  outbreak  of  any
+
+other highly infectious disease;
+
+•    risks related to climate change and natural disasters;
+•        our  ability  to  identify  and  respond  eﬀectively  to  consumer  trends,  including  our  ability  to  successfully
+
+maintain a relevant omnichannel experience for our members;
+
+•    risks related to cybersecurity, which may be heightened due to our e-commerce business, including our
+ability  to  protect  the  privacy  of  member  or  business  information  and  the  security  of  payment  card
+information;
+
+•    risks relating to our ability to attract and retain a qualiﬁed management team and other team members;
+•    risks relating to our ability to implement our growth strategy by opening new clubs, and gasoline stations;
+
+and
+
+•    the other risk factors identiﬁed in our ﬁlings with the Securities and Exchange Commission, including in
+particular those set forth under "Risk Factors" in our Annual Report on Form 10-K for the ﬁscal year ended
+January 28, 2023 (the "Annual Report on Form 10-K for the ﬁscal year 2022") and our other ﬁlings with the
+Securities and Exchange Commission.
+
+Given these uncertainties, you should not place undue reliance on any forward-looking statements. Except as
+required  by  applicable  law,  we  assume  no  obligation  to  update  these  forward-looking  statements,  even  if  new
+information becomes available in the future, and you should not rely upon these forward-looking statements after
+the date of this Quarterly Report on Form 10-Q.
+
+18
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+The  following  discussion  and  analysis  is  intended  to  promote  an  understanding  of  the  results  of  operations
+and ﬁnancial condition of the Company and is provided as a supplement to, and should be read in conjunction with,
+our  condensed  consolidated  ﬁnancial  statements  and  related  notes  thereto  included  elsewhere  in  this  Quarterly
+Report on Form 10-Q, as well as the audited consolidated ﬁnancial statements and the related notes thereto in our
+Annual  Report  on  Form  10-K  for  the  ﬁscal  year  2022.  The  following  discussion  may  contain  forward-looking
+statements that reﬂect our plans, estimates and assumptions. Our actual results could diﬀer materially from those
+discussed  in  the  forward-looking  statements.  Factors  that  could  cause  such  diﬀerences  are  discussed  in  the
+sections  of  this  Quarterly  Report  on  Form  10-Q  titled  "Forward-Looking  Statements"  and  in  Part  I.  "Item  1A.  Risk
+Factors" in our Annual Report on Form 10-K for the ﬁscal year 2022.
+
+We report on the basis of a 52- or 53-week ﬁscal year, which ends on the Saturday closest to the last day of
+January. Accordingly, references herein to "ﬁscal year 2023" relate to the 53 weeks ending February 03, 2024, and
+references herein to "ﬁscal year 2022" relate to the 52 weeks ended January 28, 2023. The third quarter of ﬁscal
+year 2023 ended on October 28, 2023, and the third quarter of ﬁscal year 2022 ended on October 29, 2022, and
+both include thirteen weeks.
+
+Overview
+
+BJ’s  Wholesale  Club  is  a  leading  operator  of  membership  warehouse  clubs  concentrated  primarily  on  the
+eastern half of the United States. We deliver signiﬁcant value to our members, consistently oﬀering 25% or more
+savings  on  a  representative  basket  of  manufacturer-branded  groceries  compared  to  traditional  supermarket
+competitors. We provide a curated assortment focused on groceries, continuously refreshed general merchandise,
+gasoline and other ancillary services, coupon books, and promotions to deliver a diﬀerentiated shopping experience
+that is further enhanced by our omnichannel capabilities.
+
+Since  pioneering  the  warehouse  club  model  in  New  England  in  1984,  we  have  grown  our  footprint  to
+239  large-format,  high  volume  warehouse  clubs  and  169  gas  stations  spanning  20  states  as  of  the  date  of  this
+ﬁling. In our core New England markets, which have high population density and generate a disproportionate part
+of U.S. gross domestic product, we operate almost three times the number of clubs compared to the next largest
+warehouse  club  competitor.  In  addition  to  shopping  in  our  clubs,  members  are  able  to  shop  when  and  how  they
+want  through  our  website,  bjs.com,  and  our  highly  rated  mobile  app,  which  allows  them  to  use  our  buy-online-
+pickup-in-club ("BOPIC") service, curbside delivery, same-day home delivery or traditional ship-to-home service, as
+well as through the DoorDash and Instacart marketplaces where members receive the same preferential pricing as
+in-club shoppers by linking their membership. We also oﬀer Same-Day Select, which oﬀers BJ’s members the ability
+to pay a one-time fee for either unlimited or twelve same-day grocery deliveries over a one-year period.
+
+Our leadership team continues to focus on utilizing data to improve member experience, instilling a culture of
+cost discipline, adopting a more proactive approach to growing our membership base and building an omnichannel
+oﬀering oriented towards making shopping at BJ’s more convenient.
+
+Our  goal  is  to  oﬀer  our  members  signiﬁcant  value  and  a  meaningful  return  in  savings  on  their  annual
+membership  fee.  We  have  approximately  7.1  million  members  paying  annual  fees  to  gain  access  to  savings  on
+groceries  and  general  merchandise  and  services.  The  annual  membership  fee  for  our  Club  Card  membership  is
+generally $55, and the annual membership fee for our Club+ membership, which oﬀers additional value-enhancing
+features, is generally $110. We believe that members can save over ten times their $55 Club Card membership fee
+versus what they would otherwise pay at traditional supermarket competitors when they spend $2,500 or more per
+year  at  BJ’s  on  manufacturer-branded  groceries.  In  addition  to  providing  signiﬁcant  savings  on  a  representative
+basket  of  manufacturer-branded  groceries,  we  accept  all  manufacturer  coupons  and  also  carry  our  own  exclusive
+brands  that  enable  members  to  save  on  price  without  compromising  on  quality.  Our  two  private  label  brands,
+Wellsley Farms® and Berkley Jensen®, represented approximately $3.7 billion in annual sales for ﬁscal year 2022
+and represented the largest brands we sell in terms of volume. Our customers recognize the relevance of our value
+proposition  across  economic  environments,  as  demonstrated  by  over  25  consecutive  years  of  membership  fee
+income growth. Our membership fee income was $414.1 million for the trailing twelve-months ended October 28,
+2023.
+
+Our business is moderately seasonal in nature. Historically, our business has realized a slightly higher portion
+of net sales, operating income, and cash ﬂows from operations in the second and fourth ﬁscal quarters, attributable
+primarily to the impact of the summer and year-end holiday season, respectively. Our quarterly results have been,
+and will continue to be, aﬀected by the timing of new club openings and their associated pre-opening expenses. As
+a  result  of  these  factors,  our  ﬁnancial  results  for  any  single  quarter  or  for  periods  of  less  than  a  year  are  not
+necessarily indicative of the results that may be achieved for a full ﬁscal year.
+
+19
+
+Factors Aﬀecting Our Business
+
+Overall economic trends
+
+The overall economic environment and related changes in consumer behavior have a signiﬁcant impact on our
+business.  In  general,  positive  conditions  in  the  broader  economy  promote  customer  spending  in  our  clubs,  while
+economic  weakness,  which  generally  results  in  a  reduction  of  customer  spending,  may  have  a  diﬀerent  or  more
+extreme eﬀect on spending at our clubs. Macroeconomic factors that can aﬀect customer spending patterns, and
+thereby  our  results  of  operations,  include  employment  rates,  changes  to  the  Supplemental  Nutrition  Assistance
+Program  (SNAP),  government  stimulus  programs,  tax  legislation,  business  conditions,  changes  in  the  housing
+market,  the  availability  of  credit,  interest  rates,  tax  rates  and  fuel  and  energy  costs.  In  addition,  unemployment
+rates and beneﬁts may cause us to experience higher labor costs.
+
+Size and loyalty of membership base
+
+The membership model is a critical element of our business. Members drive our results of operations through
+their  membership  fee  income  and  their  purchases.  The  majority  of  members  renew  within  six  months  following
+their  renewal  date.  Therefore,  our  renewal  rate  is  a  trailing  calculation  that  captures  renewals  during  the  period
+seven to eighteen months prior to the reporting date. We have grown our membership fee income each year for the
+past 25 years and the quality of our membership mix is strong as evidenced by our higher tier penetration growth
+in  the  ﬁrst  thirty-nine  weeks  of  ﬁscal  year  2023.  Our  membership  renewal  rate,  a  key  indicator  of  membership
+engagement, satisfaction and loyalty, was 90% at the end of ﬁscal year 2022.
+
+Eﬀective sourcing and distribution of products and consumer demands
+
+Our  net  sales  and  gross  proﬁt  are  aﬀected  by  our  ability  to  purchase  our  products  in  suﬃcient  quantities  at
+competitive  prices.  Further,  our  ability  to  maintain  our  appeal  to  existing  customers  and  attract  new  customers
+primarily  depends  on  our  ability  to  originate,  develop  and  oﬀer  a  compelling  product  assortment  responsive  to
+customer  preferences.  As  a  result,  our  level  of  net  sales  could  be  adversely  aﬀected  due  to  constraints  in  our
+supply  chain,  including  our  inability  to  procure  and  stock  suﬃcient  quantities  of  some  merchandise  in  a  manner
+that is able to match market demand from our customers.
+
+Infrastructure investment
+
+Our historical operating results reﬂect the impact of our ongoing investments to support our growth. We have
+made  signiﬁcant  investments  in  our  business  that  we  believe  have  laid  the  foundation  for  continued  proﬁtable
+growth. We believe that expanding our club footprint, bringing substantially all of our end-to-end perishable supply
+chain  in-house,  enhancing  our  information  systems,  including  our  distribution  center  and  transportation
+management systems, and investing in hardware and digitally enabled shopping capabilities for convenience, such
+as BOPIC, curbside pickup, and same day home delivery will enable us to replicate our proﬁtable club format and
+provide a diﬀerentiated shopping experience. We expect these infrastructure investments to support our successful
+operating model across our club operations.
+
+Gasoline prices
+
+The  market  price  of  gasoline  impacts  our  net  sales  and  comparable  club  sales,  and  large  ﬂuctuations  in  the
+price of gasoline may produce a short-term impact on our margins. Retail gasoline prices are driven by daily crude
+oil  and  wholesale  commodity  market  changes  and  are  volatile,  as  they  are  inﬂuenced  by  factors  that  include
+changes in demand and supply of oil and reﬁned products, global geopolitical events, regional market conditions,
+and supply interruptions caused by severe weather conditions. Typically, the change in crude oil prices impacts the
+purchase  price  of  wholesale  petroleum  fuel  products,  which  in  turn  impacts  retail  gasoline  prices  at  the  pump.
+During  times  when  prices  are  particularly  volatile,  diﬀerences  in  pricing  and  procurement  strategies  between  the
+Company  and  its  competitors  may  lead  to  temporary  margin  contraction  or  expansion,  depending  on  whether
+prices are rising or falling, and this impact could aﬀect our overall results for a ﬁscal quarter.
+
+In addition, the relative level of gasoline prices from period to period may lead to diﬀerences in our net sales
+between  those  periods.  Further,  because  we  generally  attempt  to  maintain  a  fairly  stable  gross  proﬁt  per  gallon,
+this  variance  in  net  sales,  which  may  be  substantial,  may  or  may  not  have  a  signiﬁcant  impact  on  our  operating
+income.
+
+Inﬂation and deﬂation trends
+
+20
+
+Our ﬁnancial results can be directly impacted by substantial changes in product costs due to commodity cost
+ﬂuctuations  or  general  inﬂation,  disinﬂation  or  deﬂation,  which  could  lead  to  a  reduction  in  our  sales,  as  well  as
+greater  margin  pressure,  as  costs  may  not  be  able  to  be  passed  on  to  consumers.  Changes  in  commodity  prices
+and  changes  in  inﬂation  rates  have  impacted  several  categories  of  our  business.  Inﬂationary  volatility  can  be
+attributed to macro economic factors including supply chain disruptions, government stimulus, interest rates, and
+other  factors.  In  response  to  general  inﬂationary  volatility,  we  seek  to  minimize  the  impact  of  such  events  by
+sourcing  our  merchandise  from  diﬀerent  vendors,  changing  our  product  mix  or  increasing  our  pricing  when
+necessary.
+
+Results of Operations 
+
+The following table summarizes key components of our results of operations for the periods indicated: 
+
+Statement of Operations Data
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+(dollars in thousands, except per share
+amounts)
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+Net sales
+
+Membership fee income
+
+Total revenues
+
+Cost of sales
+
+Selling, general and administrative expenses
+
+Pre-opening expenses
+
+Operating income
+
+Interest expense, net
+
+Income from continuing operations before
+income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations,
+net of income taxes
+
+Net income
+
+Weighted-average shares outstanding—basic
+Basic EPS
+
+(a)
+
+Weighted-average shares outstanding—diluted
+Diluted EPS
+
+(a)
+
+$
+
+$
+
+$
+
+$
+
+4,818,670  $
+106,053 
+
+4,685,834  $ 14,299,132  $ 14,090,673 
+294,897 
+312,273 
+
+99,485 
+
+4,924,723 
+
+4,022,243 
+
+697,104 
+6,001 
+
+199,375 
+18,004 
+
+181,371 
+50,904 
+
+130,467 
+
+4,785,319 
+
+14,611,405 
+
+14,385,570 
+
+3,908,219 
+
+11,932,120 
+
+11,857,263 
+
+674,426 
+10,706 
+
+191,968 
+12,450 
+
+179,518 
+48,124 
+
+131,394 
+
+2,081,392 
+11,479 
+
+586,414 
+48,968 
+
+537,446 
+159,666 
+
+377,780 
+
+1,961,606 
+21,508 
+
+545,193 
+31,166 
+
+514,027 
+129,165 
+
+384,862 
+
+— 
+
+130,467  $
+
+(1,452)
+129,942  $
+
+89 
+
+377,869  $
+
+(1,466)
+383,396 
+
+133,069 
+
+134,091 
+
+133,232 
+
+0.98  $
+
+0.97  $
+
+2.84  $
+
+134,984 
+
+136,621 
+
+135,338 
+
+0.97  $
+
+0.95  $
+
+2.79  $
+
+Operational Data:
+
+Total clubs at end of period
+
+Comparable club sales 
+
+(b)
+
+Merchandise comparable club sales 
+(b)
+
+Adjusted EBITDA 
+(b)
+
+Free cash ﬂow 
+
+(b)
+
+238
+
+0.3%
+
+(0.1)%
+
+232
+
+9.7%
+
+5.3%
+
+238
+
+(1.2)%
+
+2.1%
+
+$
+
+274,920  $
+
+272,305  $
+
+800,663  $
+
+47,642 
+
+75,449 
+
+108,890 
+
+(a) Basic and diluted EPS are calculated using net income.
+
+(b) See "Non-GAAP Financial Measures" and "Liquidity and Capital Resources" within Item 2. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations for deﬁnitions.
+
+Net Sales 
+
+Net  sales  are  derived  from  direct  retail  sales  to  customers,  net  of  merchandise  returns  and  discounts.
+
+Fluctuations in net sales are impacted by opening new clubs and comparable club sales.
+
+21
+
+134,225 
+2.86 
+
+136,630 
+2.81 
+
+232
+
+14.6%
+
+5.7%
+
+766,804 
+
+329,641 
+
+Net sales for the third quarter of ﬁscal year 2023 were $4.8 billion, a 2.8% increase from net sales reported for
+the third quarter of ﬁscal year 2022 of $4.7 billion. The increase was due primarily to growth in traﬃc and market
+share, particularly in the grocery division as well as comparable gallons at our gas stations.
+
+Net  sales  for  the  ﬁrst  nine  months  of  ﬁscal  year  2023  were  $14.3  billion,  a  1.5%  increase  from  net  sales
+reported for the ﬁrst nine months of ﬁscal year 2022 of $14.1 billion. The increase was due primarily to strength in
+the grocery division and an increase of six clubs, partially oﬀset by lower gasoline sales.
+
+Comparable Club Sales and Merchandise Comparable Club Sales
+
+We believe net sales is an important driver of our proﬁtability, particularly comparable club sales. Comparable
+club sales, which is a non-GAAP metric, also known as same-store sales in the retail industry, includes all clubs that
+were open for at least 13 months at the beginning of the period and were in operation during the entirety of both
+periods being compared, including relocated clubs and expansions. Comparable club sales allow us to evaluate how
+our club base is performing by measuring the change in period-over-period net sales in clubs that have been open
+for the applicable period.
+
+Various  factors  aﬀect  comparable  club  sales,  including  customer  preferences  and  trends,  product  sourcing,
+promotional oﬀerings and pricing, shopping frequency from new and existing members and the amount they spend
+on  each  visit,  weather  and  holiday  shopping  period  timing  and  length.  Sales  comparisons  can  be  inﬂuenced  by
+certain  factors  that  are  beyond  our  control  such  as  changes  in  the  cost  of  gasoline  and  macro-economic  factors
+such as inﬂation. The higher comparable club sales, the more we can leverage certain of our selling, general and
+administrative (SG&A) expenses, reducing them as a percentage of sales and enhancing proﬁtability. 
+
+Comparable club sales
+
+Less: impact from gasoline sales
+
+Merchandise comparable club sales
+
+Thirteen Weeks
+Ended
+
+Thirty-Nine Weeks
+Ended
+
+October 28, 2023
+
+October 28, 2023
+
+0.3 %
+
+0.4 %
+(0.1)%
+
+(1.2)%
+
+(3.3)%
+2.1 %
+
+Merchandise  comparable  club  sales  represents  comparable  club  sales  from  all  merchandise  other  than  our
+gasoline operations for the applicable period. Merchandise comparable club sales remained approximately ﬂat, with
+a  decrease  of  0.1%  in  the  third  quarter  of  ﬁscal  year  2023  compared  to  the  third  quarter  of  ﬁscal  year  2022,
+primarily driven by a decrease in sales of general merchandise and services of approximately 10.9%, partially oﬀset
+by an increase in sales of groceries of 1.6%.
+
+In  the  grocery  division,  growth  was  led  by  the  breakfast,  nutrition,  candy,  snack,  fresh  produce  and  bakery
+categories when compared to the third quarter of ﬁscal year 2022, partially oﬀset by a decrease in sales of fresh
+meat and seafood categories.
+
+Sales of general merchandise decreased in the third quarter of ﬁscal year 2023 due to decreased demand for
+electronics,  home,  and  seasonal  merchandise  compared  to  the  third  quarter  of  ﬁscal  year  2022,  driven  by  the
+unfavorable  impact  of  weather  and  macroeconomic  conditions  with  consumers  generally  spending  less  on  larger
+ticket items.
+
+The impact of gasoline sales is a result of an increase in comparable gallons in the third quarter of ﬁscal 2023
+
+as compared to the third quarter of ﬁscal year 2022, as retail prices remained approximately ﬂat.
+
+Merchandise comparable club sales increased by 2.1% in the ﬁrst nine months of ﬁscal year 2023 compared
+to  the  ﬁrst  nine  months  of  ﬁscal  year  2022  driven  by  an  increase  in  sales  of  groceries  of  approximately  4.5%,
+partially oﬀset by a decrease in sales of general merchandise and services of approximately 11.0%.
+
+Sales increased during the ﬁrst nine months as demand for beverages, candy, snacks, packaged goods, dairy,
+and  bakery  categories  increased  compared  to  the  ﬁrst  nine  months  of  ﬁscal  year  2022,  partially  oﬀset  by  a
+decrease in demand for fresh meat and seafood categories.
+
+General  merchandise  decreased  during  the  ﬁrst  nine  months  due  to  decreased  demand  for  electronics  and
+
+seasonal merchandise compared to the ﬁrst nine months of ﬁscal year 2022.
+
+ 
+22
+
+The impact of gasoline sales is primarily a result of lower retail prices through the ﬁrst nine months of ﬁscal
+
+2023 as compared to the ﬁrst nine months of ﬁscal year 2022.
+
+Membership fee income 
+
+We continue to see growth in the size of our membership base and continued quality. Membership fee income
+was $106.1 million in the third quarter of ﬁscal year 2023 compared to $99.5 million in the third quarter of ﬁscal
+year 2022, a 6.6% increase.
+
+Membership  fee  income  was  $312.3  million  in  the  ﬁrst  nine  months  of  ﬁscal  year  2023  compared  to  $294.9
+million in the ﬁrst nine months of ﬁscal year 2022, a 5.9% increase. The increase for both comparative periods was
+primarily  driven  by  membership  renewals,  new  members,  and  increased  penetration  of  higher-tier  membership
+levels, evidencing the strength of our membership quality. 
+
+Cost of sales 
+
+Cost  of  sales  consists  primarily  of  the  direct  cost  of  merchandise  and  gasoline  sold  at  our  clubs,  including
+costs  associated  with  operating  our  distribution  centers,  including  payroll,  payroll  beneﬁts,  occupancy  costs,  and
+depreciation;  freight  expenses  associated  with  moving  merchandise  from  vendors  to  our  distribution  centers  and
+from distribution centers to our clubs; and vendor allowances, rebates, and cash discounts.
+
+Cost of sales was $4.0 billion, or 83.5% of net sales, in the third quarter of ﬁscal year 2023 compared to $3.9
+billion,  or  83.4%  of  net  sales,  in  the  third  quarter  of  ﬁscal  year  2022.  Merchandise  gross  margin  rate,  which
+excludes gasoline sales and membership fee income, increased 30 basis points over the prior year period.
+
+Cost of sales was $11.9 billion, or 83.4% of net sales, in the ﬁrst nine months of ﬁscal year 2023, remaining
+ﬂat compared to $11.9 billion, or 84.1% of net sales, in the ﬁrst nine months of ﬁscal year 2022. Merchandise gross
+margin rate, which excludes gasoline sales and membership fee income, increased 70 basis points compared to the
+ﬁrst  nine  months  of  ﬁscal  year  2022.  Merchandise  margins  were  positively  impacted  by  moderated  supply  chain
+costs and improved inventory cost management for both comparative periods.
+
+Selling, general and administrative expenses 
+
+SG&A consists of various expenses related to supporting and facilitating the sale of merchandise in our clubs,
+including  the  following:  payroll  and  payroll  beneﬁts  for  team  members;  rent,  depreciation,  and  other  occupancy
+costs  for  retail  and  corporate  locations;  share-based  compensation,  advertising  expenses;  tender  costs,  including
+credit  and  debit  card  fees;  amortization  of  intangible  assets;  and  consulting,  legal,  insurance,  acquisition  and
+integration costs, and other professional services expenses.
+
+SG&A includes both ﬁxed and variable components and, therefore, is not directly correlated with net sales. We
+expect that our SG&A will increase in future periods due to investments to spur comparable club sales growth and
+our  expanding  footprint  as  we  open  new  clubs.  In  addition,  any  future  increases  in  wages,  stock-based  grants  or
+modiﬁcations will increase our SG&A.
+
+SG&A increased by 3.4% to $697.1 million in the third quarter of ﬁscal year 2023 from $674.4 million in the
+
+third quarter of ﬁscal year 2022.
+
+SG&A increased by 6.1% to $2.1 billion in the ﬁrst nine months of ﬁscal year 2023 from $2.0 billion in the ﬁrst
+nine  months  of  ﬁscal  year  2022.  The  increase  in  SG&A  for  both  comparative  periods  was  primarily  driven  by
+increased labor and occupancy costs as a result of new club and gas station openings, as well as other continued
+investments to drive strategic priorities. Our growth proﬁle this year is weighted toward owned clubs, elevating our
+depreciation expense. We remain focused on investing in member engagement, marketing and digital strategies.
+
+Pre-opening expenses
+
+Pre-opening  expenses  include  startup  costs  for  new  clubs  and  costs  for  relocated  clubs.  Expenses  will  vary
+based on the number of club openings, geography of the club, whether the club is owned or leased, and timing of
+the opening relative to our period end.
+
+23
+
+Pre-opening expenses were $6.0 million in the third quarter of ﬁscal year 2023 compared to $10.7 million in
+
+the third quarter of ﬁscal year 2022.
+
+  Pre-opening  expenses  were  $11.5  million  in  the  ﬁrst  nine  months  of  ﬁscal  year  2023  compared  to  $21.5
+million in the ﬁrst nine months of ﬁscal year 2022. Pre-opening expenses decreased due to timing of spend for club
+openings year-over-year for both comparative periods.
+
+Interest expense, net
+
+Interest expense, net was $18.0 million in the third quarter of ﬁscal year 2023 compared to $12.5 million in
+
+the third quarter of ﬁscal year 2022.
+
+Interest expense, net was $49.0 million in the ﬁrst nine months of ﬁscal year 2023 compared to $31.2 million
+in the ﬁrst nine months of ﬁscal year 2022. The increase for both comparative periods was primarily due to rising
+interest rates year-over-year as well as an increase in debt extinguishment charges due to entering into the Fourth
+Amendment of the First Lien Term Loan.
+
+Provision for income taxes 
+
+The  Company’s  eﬀective  income  tax  rate  from  continuing  operations  was  28.1%  and  26.8%  for  the  third
+
+quarters of ﬁscal years 2023 and 2022, respectively.
+
+The Company’s eﬀective income tax rate from continuing operations was 29.7% and 25.1% for the ﬁrst nine
+months of ﬁscal years 2023 and 2022, respectively. The increases in the eﬀective tax rate and income tax expense
+for  both  comparative  periods  are  driven  by  lower  tax  beneﬁts  from  stock-based  compensation.  The  eﬀective  tax
+rate for the ﬁrst nine months of ﬁscal 2023 was also increased due to an immaterial adjustment to certain deferred
+tax assets related to prior periods.
+
+Non-GAAP Financial Measures
+
+The accompanying Condensed Consolidated Financial Statements, including the related notes, are presented
+in  accordance  with  GAAP.  In  addition  to  relevant  GAAP  measures  we  also  provide  non-GAAP  measures,  including
+adjusted EBITDA, comparable club sales, free cash ﬂow, adjusted net income and adjusted net income per diluted
+share because management believes these metrics are useful to investors and analysts by excluding items that we
+do  not  believe  are  indicative  of  our  core  operating  performance.  These  measures  are  customary  for  our  industry
+and  commonly  used  by  competitors.  These  non-GAAP  ﬁnancial  measures  should  not  be  reviewed  in  isolation  or
+considered as an alternative to any other performance measure derived in accordance with GAAP and should not
+be  construed  as  an  inference  that  our  future  results  will  be  unaﬀected  by  unusual  or  non-recurring  items.  In
+addition, adjusted EBITDA, comparable club sales, free cash ﬂow, adjusted net income and adjusted net income per
+diluted share may not be comparable to similarly titled measures used by other companies in our industry or across
+diﬀerent  industries.  See  Results  of  Operations  above  for  our  comparable  club  sales  and  merchandise  comparable
+club sales results. Free cash ﬂow is discussed within the Liquidity and Capital Resources section below.
+
+Adjusted EBITDA
+
+Adjusted  EBITDA  is  deﬁned  as  income  from  continuing  operations  before  interest  expense,  net,  provision  for
+income  taxes  and  depreciation  and  amortization,  adjusted  for  the  impact  of  certain  other  items,  including  stock-
+based  compensation  expense;  pre-opening  expenses;  non-cash  rent;  acquisition  and  integration  costs;  and  other
+adjustments.
+
+24
+
+The  following  is  a  reconciliation  of  our  income  from  continuing  operations  to  Adjusted  EBITDA  and  Adjusted
+
+EBITDA as a percentage of net sales for the periods presented:
+
+(in thousands)
+Income from continuing operations
+Interest expense, net
+Provision for income taxes
+Depreciation and amortization
+Stock-based compensation expense
+Pre-opening expenses 
+Non-cash rent 
+Acquisition and integration costs 
+Home oﬃce transition costs 
+Other adjustments 
+
+(b)
+
+(d)
+
+(e)
+
+(a)
+
+(c)
+
+Adjusted EBITDA
+Adjusted EBITDA as a percentage of
+net sales
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+$
+
+$
+
+130,467 
+18,004 
+50,904 
+57,406 
+9,380 
+6,001 
+2,394 
+— 
+— 
+364 
+274,920 
+
+$
+
+$
+
+131,394 
+12,450 
+48,124 
+52,166 
+9,463 
+10,707 
+1,025 
+857 
+5,897 
+222 
+272,305 
+
+$
+
+$
+
+377,780 
+48,968 
+159,666 
+166,421 
+29,011 
+11,479 
+6,226 
+— 
+— 
+1,112 
+800,663 
+
+$
+
+$
+
+384,862 
+31,166 
+129,165 
+149,259 
+27,965 
+21,508 
+3,127 
+12,324 
+7,096 
+332 
+766,804 
+
+5.7 %
+
+5.8 %
+
+5.6 %
+
+5.4 %
+
+(a)    Represents direct incremental costs of opening or relocating a facility that are charged to operations as incurred.
+(b)    Consists of an adjustment to remove the non-cash portion of rent expense.
+(c)    Represents costs related to the acquisition of four distribution centers and the related private transportation ﬂeet from Burris Logistics on
+
+May 2, 2022 ("the Acquisition"), including due diligence, legal, and other consulting expenses.
+
+(d)    Represents incremental rent expense, other non-recurring lease costs, and write-oﬀ of impaired assets as the Company transitioned home
+
+oﬃce locations in ﬁscal 2022.
+
+(e)    Other non-cash items, including non-cash accretion on asset retirement obligations and obligations associated with our post-retirement
+
+medical plan.
+
+Adjusted Net Income
+
+The adjusted net income and adjusted net income per diluted share metrics are important measures used by
+management  to  compare  the  performance  of  core  operating  results  between  periods.  We  deﬁne  adjusted  net
+income as net income as reported, adjusted for non-recurring, infrequent, or unusual charges, net of the tax impact
+of  such  adjustments.  We  deﬁne  adjusted  net  income  per  diluted  share  as  adjusted  net  income  divided  by  the
+weighted-average diluted shares outstanding.
+
+We believe adjusted net income and adjusted net income per diluted share are useful metrics to investors and
+analysts because they present more accurate year-over-year comparisons for our net income and net income per
+diluted share because adjusted items are not the result of our normal operations.
+
+(in thousands, except per share
+amounts)
+Net income as reported
+Adjustments:
+Acquisition and integration costs 
+Home oﬃce transition costs 
+Impairment expense on discontinued
+operations
+Charges related to debt 
+Other adjustments 
+Tax impact of adjustments to net income 
+
+(b)
+
+(d)
+
+(a)
+
+(c)
+
+Adjusted net income
+
+Weighted-average shares outstanding—
+diluted
+Adjusted EPS
+
+(f)
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+$
+
+130,467  $
+
+129,942  $
+
+377,869  $
+
+383,396 
+
+— 
+— 
+
+— 
+1,830 
+— 
+(518)
+131,779  $
+
+857 
+5,897 
+
+1,199 
+298 
+— 
+(2,363)
+135,830  $
+
+— 
+— 
+
+— 
+1,830 
+(786)
+(296)
+378,617  $
+
+12,324 
+7,096 
+
+1,199 
+687 
+(165)
+(5,987)
+398,550 
+
+134,984 
+
+136,621 
+
+135,338 
+
+0.98  $
+
+0.99  $
+
+2.80  $
+
+136,630 
+2.92 
+
+(e)
+
+$
+
+$
+
+25
+
+(a) Represents costs related to the Acquisition, including due diligence, legal, and other consulting expenses.
+(b) Represents incremental rent expense, other non-recurring lease costs and write-oﬀ of impaired assets as the Company transitioned home
+
+oﬃce locations in ﬁscal 2022.
+
+(c) Represents the expensing of fees and deferred fees and original issue discount associated with the extinguishment of the Company's senior
+
+secured asset based revolving credit and term facility ("ABL Facility") in ﬁscal 2022 and the Fourth Amendment in ﬁscal 2023.
+
+(d) Other  non-cash  items  related  to  the  reclassiﬁcation  into  earnings  of  accumulated  other  comprehensive  income  /  loss  associated  with  the
+
+de-designation of hedge accounting and other adjustments.
+
+(e) Represents the tax eﬀect of the above adjustments at a statutory tax rate of approximately 28%.
+(f) Adjusted EPS is measured using weighted-average diluted shares outstanding.
+
+Liquidity and Capital Resources 
+
+Our primary sources of liquidity are cash ﬂows generated from club operations and borrowings from our ABL
+Revolving  Facility.  As  of  October  28,  2023,  cash  and  cash  equivalents  totaled  $33.6  million  and  we  had  $753.7
+million of unused capacity under our ABL Revolving Facility. Our principal liquidity needs for the next twelve months
+and beyond are to fund normal recurring operational expenses and anticipated capital expenditures; fund possible
+acquisitions; fund share repurchases; and meet debt service and principal repayment obligations. We believe that
+our current resources, together with anticipated cash ﬂows from operations and borrowing capacity under our ABL
+Revolving Facility, will be suﬃcient to ﬁnance our operations for at least the next twelve months.
+
+In  the  ﬁrst  nine  months  of  ﬁscal  year  2023,  we  repurchased  1,161,162  shares  under  the  2021  Repurchase
+
+Program totaling $77.0 million.
+
+We  do  not  have  any  oﬀ-balance  sheet  arrangements  that  have,  or  are,  in  the  opinion  of  management,
+reasonably likely to have, a current or future material eﬀect on our results of operations or ﬁnancial position. We do,
+however, enter into letters of credit and purchase obligations in the normal course of our operations.
+
+Summary of Cash Flows
+
+A  summary  of  our  cash  ﬂows  from  operating,  investing  and  ﬁnancing  activities  is  presented  in  the  following
+
+table: 
+
+(in thousands)
+
+Net cash provided by operating activities
+
+Net cash used in investing activities
+
+Net cash (used in) provided by ﬁnancing activities
+
+Net decrease in cash and cash equivalents
+
+Net Operating Cash Flows 
+
+Thirty-Nine Weeks Ended
+
+October 28, 2023
+
+October 29, 2022
+
+$
+
+$
+
+444,531  $
+
+(335,641)
+
+(109,254)
+
+(364) $
+
+612,857 
+
+(659,737)
+
+36,088 
+
+(10,792)
+
+Net  cash  provided  by  operating  activities  was  $444.5  million  for  the  ﬁrst  nine  months  of  ﬁscal  year  2023
+compared to $612.9 million for the ﬁrst nine months of ﬁscal year 2022. The decrease in operating cash ﬂow was
+primarily due to unfavorable ﬂuctuations in working capital and a decrease in pre-tax net income. The unfavorable
+ﬂuctuations in working capital were primarily due to merchandise inventories and accounts payable, partially oﬀset
+by favorable ﬂuctuations due to accounts receivable and accrued expenses and other current liabilities.
+
+Net Investing Cash Flows 
+
+Cash used in investing activities was $335.6 million for the ﬁrst nine months of ﬁscal year 2023, compared to
+$659.7 million for the ﬁrst nine months of ﬁscal year 2022. The decrease is primarily due to $376.5 million of cash
+outﬂows  in  the  prior  year  related  to  the  Acquisition,  partially  oﬀset  by  an  increase  in  capital  spending  of  $53.6
+million as our growth proﬁle this year is weighted toward owned clubs.
+
+Net Financing Cash Flows 
+
+Net cash used in ﬁnancing activities for the ﬁrst nine months of ﬁscal year 2023 was $109.3 million compared
+to net cash provided by ﬁnancing activities of $36.1 million for the ﬁrst nine months of ﬁscal year 2022. The $145.3
+million net increase in ﬁnancing cash outﬂows was primarily due to a $266.0 million reduction in net proceeds from
+our ABL Revolving
+
+26
+
+ 
+Facility, partially oﬀset by a net decrease of $100.0 million of principal payments on long-term debt and a decrease
+of $25.6 million for the acquisition of treasury stock compared to the prior year.
+
+Free Cash Flow
+
+We  present  free  cash  ﬂow  because  we  use  it  to  report  to  our  board  of  directors  and  we  believe  it  assists
+investors and analysts in evaluating our liquidity. Free cash ﬂow should not be considered as an alternative to cash
+ﬂows from operations as a liquidity measure. We deﬁne free cash ﬂow as net cash provided by operating activities
+less additions to property and equipment, net of disposals, plus proceeds from sale-leaseback transactions.
+
+The following is a reconciliation of our net cash provided by operating activities to free cash ﬂow for the
+
+periods presented:
+
+(in thousands)
+Net cash provided by operating activities
+Less: Additions to property and equipment, net
+of disposals
+Plus: Proceeds from sale leaseback transactions
+
+Free cash ﬂow
+
+Thirteen Weeks Ended
+
+Thirty-Nine Weeks Ended
+
+October 28,
+2023
+
+October 29,
+2022
+
+October 28,
+2023
+
+October 29,
+2022
+
+$
+
+$
+
+175,031  $
+
+169,805  $
+
+444,531  $
+
+612,857 
+
+(133,711)
+6,322 
+47,642  $
+
+(102,774)
+8,418 
+75,449  $
+
+(347,951)
+12,310 
+108,890  $
+
+(294,308)
+11,092 
+329,641 
+
+Free cash ﬂow decreased to $47.6 million for the third quarter of ﬁscal year 2023 compared to $75.4 million
+for the third quarter of ﬁscal year 2022 primarily due to an increase in capital spending. Free cash ﬂow decreased
+to $108.9 million for the ﬁrst nine months of ﬁscal year 2023 compared to $329.6 million for the ﬁrst nine months
+of  ﬁscal  year  2022.  The  decrease  is  primarily  the  result  of  lower  cash  ﬂows  from  operating  activities  due  to
+unfavorable ﬂuctuations in working capital and an increase capital spending.
+
+Debt and Borrowing Capacity  
+
+Our primary sources of borrowing capacity are the ABL Revolving Facility and the First Lien Term Loan, which
+
+are further discussed in Note 4, "Debt and Credit Arrangements," included in this Quarterly Report on Form 10-Q.
+
+On  July  28,  2022,  the  Company  entered  into  the  ABL  Revolving  Facility  with  an  aggregate  ABL  Revolving
+Commitment of $1.2 billion pursuant to that certain credit agreement with Bank of America, N.A., as administrative
+agent  and  collateral  agent,  and  other  lenders  party  thereto.  The  maturity  date  of  the  ABL  Revolving  Facility  is
+July 28, 2027.
+
+On  December  20,  2022,  the  Company  repaid  $151.9  million  of  the  principal  amount  outstanding  under  the
+
+First Lien Term Loan.
+
+On  October  12,  2023,  the  Company  amended  the  First  Lien  Term  Loan  to  extend  the  maturity  date  from
+February  3,  2027  to  February  3,  2029  and  reduce  applicable  margin  in  respect  of  the  interest  rate,  eﬀective
+immediately,  from  SOFR  plus  275  basis  points  per  annum  to  SOFR  plus  200  basis  points  per  annum.  Prior  to  the
+amendment, the Company repaid $50.0 million of the principal amount outstanding under the First Lien Term Loan.
+
+At October 28, 2023, there was $434.0 million outstanding in loans under the ABL Revolving Facility and $12.3
+million  in  outstanding  letters  of  credit.  The  interest  rate  on  the  revolving  credit  facility  was  6.43%  and  unused
+capacity was $753.7 million.
+
+At  October  28,  2023,  the  interest  rate  for  the  First  Lien  Term  Loan  was  7.35%  and  there  was  $400.0
+
+million outstanding.
+
+Material Cash Commitments 
+
+Our material cash commitments consist primarily of debt obligations, interest payments, leases, and purchase
+orders for merchandise inventory. These material cash commitments impact our short-term and long-term liquidity
+and capital needs. As of October 28, 2023, other than those items related to the ordinary course of operations of
+our business such as inventory purchases, new leases and lease amendments, there were no material changes to
+our material cash commitments from those described in our Annual Report on Form 10-K for the ﬁscal year 2022. 
+
+27
+
+Critical Accounting Policies and Use of Estimates 
+
+This  discussion  and  analysis  of  our  ﬁnancial  condition  and  results  of  operations  is  based  on  our  condensed
+consolidated  ﬁnancial  statements,  which  we  have  prepared  in  accordance  with  GAAP.  The  preparation  of  our
+ﬁnancial statements and related disclosures requires us to make estimates, assumptions and judgments that aﬀect
+the  reported  amount  of  assets,  liabilities,  revenue,  costs  and  expenses,  and  related  disclosures.  There  were  no
+material changes in critical accounting policies and estimates during the period covered by this Quarterly Report on
+Form  10-Q.  Refer  to  Item  7.,  "Management’s  Discussion  and  Analysis  of  Financial  Condition  and  Results  of
+Operations— Critical Accounting Policies and Estimates," in our Annual Report on Form 10-K for the ﬁscal year 2022
+for a complete list of our Critical Accounting Policies and Estimates.
+
+Recent Accounting Pronouncements
+
+There  have  been  no  recent  accounting  pronouncements  since  those  disclosed  in  our  Annual  Report  on  Form
+
+10-K for the ﬁscal year 2022 that have had a material impact on our ﬁnancial statements.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+
+We  are  exposed  to  changes  in  market  interest  rates  and  these  changes  in  rates  will  impact  our  net  interest
+expense and our cash ﬂow from operations. Substantially all of our borrowings carry variable interest rates. There
+have been no material changes in our market risk from the disclosure included in Part II. "Item 7A. Quantitative and
+Qualitative Disclosures of Market Risk" in the Annual Report on Form 10-K for the ﬁscal year 2022.
+
+Item 4. Controls and Procedures. 
+
+Limitations on Eﬀectiveness of Controls and Procedures 
+
+In designing and evaluating our disclosure controls and procedures, management recognizes that any controls
+and  procedures,  no  matter  how  well  designed  and  operated,  can  provide  only  reasonable  assurance  of  achieving
+the  desired  control  objectives.  In  addition,  the  design  of  disclosure  controls  and  procedures  must  reﬂect  the  fact
+that there are resource constraints and that management is required to apply judgment in evaluating the beneﬁts
+of possible controls and procedures relative to their costs. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation of our Chief Executive Oﬃcer and Chief Financial Oﬃcer, evaluated,
+as  of  the  end  of  the  period  covered  by  this  Quarterly  Report  on  Form  10-Q,  the  eﬀectiveness  of  our  disclosure
+controls  and  procedures,  as  deﬁned  in  Rules  13a-15(e)  and  15d-15(e)  under  the  Exchange  Act.  Based  on  that
+evaluation,  our  Chief  Executive  Oﬃcer  and  Chief  Financial  Oﬃcer  concluded  that  our  disclosure  controls  and
+procedures were eﬀective at the reasonable assurance level as of October 28, 2023. 
+
+Changes in Internal Control
+
+There were no changes in our internal control over ﬁnancial reporting identiﬁed in management’s evaluation
+pursuant  to  Rules  13a-15  or  15d-15  of  the  Exchange  Act  during  the  most  recently  completed  ﬁscal  quarter  that
+materially aﬀected, or are reasonably likely to materially aﬀect, our internal control over ﬁnancial reporting.
+
+Item 1. Legal Proceedings.
+
+PART II—OTHER INFORMATION
+
+We are subject to various litigation, claims and other proceedings that arise from time to time in the ordinary
+course of business. We believe these actions are routine and incidental to the business. While the outcome of these
+actions cannot be predicted with certainty, we do not believe that any will have a material adverse impact on our
+business, ﬁnancial condition or results of operations.
+
+28
+
+Item 1A. Risk Factors.
+
+There have been no material changes to the risk factors relating to the Company set forth under the caption
+
+"Item 1A. Risk Factors" in our Annual Report on Form 10-K for the ﬁscal year 2022.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+The following table sets forth information regarding our purchases of shares of our common stock during the
+
+third quarter of ﬁscal year 2023.
+
+Period
+
+July 30, 2023 to August 26, 2023
+
+August 27, 2023 to September 30, 2023
+
+October 1, 2023 to October 28, 2023
+
+Total
+
+Total Number
+of Shares
+Purchased 
+
+(a)
+
+Average
+Price Paid
+(b)
+per Share
+
+4,438
+
+834
+
+247,780 
+253,052
+
+$67.45
+
+72.96 
+
+69.69 
+
+Total Number
+of Shares
+Purchased as
+Part of
+Publicly
+Announced
+Plans or
+Programs
+
+Approximate
+Dollar Value
+of Shares that
+May Yet Be
+Purchased
+Under the
+Plans or
+Programs 
+(in
+thousands)
+
+(c)
+
+—  $
+— 
+242,000 
+242,000
+
+258,819 
+
+258,819 
+
+241,947 
+
+(a)
+
+Includes 4,438 shares of common stock for the period July 30, 2023 to August 26, 2023, 834 shares of common stock for the period August
+27, 2023 to September 30, 2023, and 5,780 shares of common stock for the period October 1, 2023 to October 28, 2023 surrendered to the
+Company  by  employees  to  satisfy  their  tax  withholding  obligations  in  connection  with  the  vesting  of  restricted  stock  awards.  See  Note
+7 "Treasury Shares and Share Repurchase Programs" of our condensed consolidated ﬁnancial statements included in this Quarterly Report
+on Form 10-Q for additional information.
+
+(b) Excludes the impact of excise tax imposed on share repurchases pursuant to the Inﬂation Reduction Act.
+(c) On November 16, 2021, the Company's board of directors approved the 2021 Repurchase Program that allows the Company to repurchase
+
+up to $500.0 million of its outstanding common stock. The 2021 Repurchase Program expires in January 2025.
+
+Item 3. Defaults Upon Senior Securities.
+
+None.
+
+Item 4. Mine Safety Disclosures.
+
+Not applicable.
+
+Item 5. Other Information.
+
+10b5-1 Trading Plans                          
+
+On  August  31,  2023,  Mr.  Paul  Cichocki,  executive  vice  president,  chief  commercial  oﬃcer  of  the  company,
+adopted  a  trading  arrangement  with  respect  to  the  sale  of  securities  of  the  company’s  common  stock  that  is
+intended  to  satisfy  the  aﬃrmative  defense  conditions  of  Securities  Exchange  Act  Rule  10b5-1(c)  (a  “Rule  10b5-1
+Trading Plan”). Mr. Cichocki’s Rule 10b5-1 Trading Plan, which has a term of six months, provides for the sale of up
+to 179,497 shares of common stock pursuant to the terms of the plan.
+
+On September 11, 2023, Mr. Joseph McGrail, senior vice president, controller of the company, adopted a Rule
+10b5-1 Trading Plan. Mr. McGrail’s Rule 10b5-1 Trading Plan, which has a term of six months, provides for the sale of
+up to 1,000 shares of common stock pursuant to the terms of the plan.
+
+On  September  21,  2023,  Mr.  Graham  Luce,  executive  vice  president,  secretary  of  the  company,  adopted  a
+Rule 10b5-1 Trading Plan. Mr. Luce’s Rule 10b5-1 Trading Plan, which has a term of three months, provides for the
+sale of up to 7,479 shares of common stock pursuant to the terms of the plan.
+
+29
+
+Our Quarterly Report on Form 10-Q for the quarter ended July 29, 2023 contained an immaterial clerical error
+with regard to the number of shares covered by Laura Felice’s Rule 10b5-1 Trading Plan which was adopted on July
+12, 2023 and has a term of 11 months. The Rule 10b5-1 Trading Plan provides for the sale of up to 65,727 shares of
+common stock pursuant to the terms of the plan.
+
+Non-Qualiﬁed Deferred Compensation Plan
+
+On November 20, 2023, the compensation committee of the board of directors of the Company adopted the
+BJ's Wholesale Club, Inc. Non-Qualiﬁed Deferred Compensation Plan (the “Plan”) to be eﬀective on January 1, 2024.
+
+The  Plan  is  an  unfunded  arrangement  intended  to  be  exempt  from  the  participation,  vesting,  funding  and
+ﬁduciary  requirements  set  forth  in  Title  I  of  the  Employee  Retirement  Income  Security  Act  of  1974,  as  amended
+(“ERISA”)  and  to  comply  with  Section  409A  of  the  Internal  Revenue  Code  of  1986,  as  amended  (the  “Code”).  The
+obligations of the Company under the Plan will be general unsecured obligations of the Company to pay deferred
+compensation in the future to eligible participants (as deﬁned below) in accordance with the terms of the Plan. Any
+assets  held  in  the  Plan  remain  subject  to  claims  of  the  Company’s  general  creditors  and  no  participant’s  or
+beneﬁciary’s  claim  to  Plan  assets  has  any  priority  over  any  general  unsecured  creditor  of  the  Company.  The
+Company may establish a trust in respect of its obligations under the Plan. The establishment of such a trust shall
+in no way deem the Plan to be “funded” for purposes of ERISA or the Code.
+
+Pursuant  to  the  Plan,  a  select  group  of  management  or  highly  compensated  employees  of  the  Company
+("participants"),  including  the  Company's  named  executive  oﬃcers,  will  be  eligible  to  participate  by  making  an
+irrevocable election to defer up to ﬁfty percent (50%) of the participant's annual base salary, as well as up to one
+hundred percent (100%) of any annual bonus award. A participant will be 100% vested at all times in their elective
+deferral account within the Plan.
+
+In addition, the Company may elect, during any single plan year, to provide a discretionary contribution to the
+Plan to a select management participant (deﬁned in the Plan as a participant who is senior vice president level or
+higher) on such participant's behalf equal to a percentage of such participant’s base salary grossed up for taxes as
+determined by the Company in its sole discretion. Select management participants include the Company’s named
+executive  oﬃcers.  A  select  management  participant  shall  become  100%  vested  in  their  select  management
+employer  contribution  account  upon  the  earlier  of  such  participant’s  death,  disability,  attainment  of  the  age  of
+sixty-ﬁve,  a  change  in  control  of  the  Company,  or  third  anniversary  of  such  participant’s  date  of  hire  with  the
+Company. The Company may, in its sole discretion, choose to accelerate such vesting based on criteria satisfactory
+to the Company.
+
+Further,  the  Company  may  credit  a  participant  with  additional  discretionary  deferred  compensation.  The
+amount  and  frequency  of  such  deferred  compensation  shall  be  determined  by  the  Company  in  its  sole  discretion
+and will become vested upon successful completion of the conditions, if any, established by the Company.
+
+The  beneﬁts  under  the  Plan  will  be  paid  to  the  participant,  or  in  the  event  of  death,  to  the  participant’s
+beneﬁciary, following the earliest of the participant’s separation from service, death, disability, or the speciﬁed time
+elected  by  the  participant,  either  in  installments  or  in  a  lump  sum  payment  in  accordance  with  the  terms  of  the
+Plan and provisions established by the Company.
+
+The Company may, at any time, amend the Plan to comply with the Code or other applicable laws, regulation,
+or guidance, provided that such amendment will not result in taxation to any participant under the Code and will
+not, without the consent of the participant, aﬀect such participant’s rights with respect to deferred compensation
+previously vested. The Company may terminate the Plan under circumstances set forth in Section 7.02 of the Plan.
+
+The  foregoing  summary  of  the  Plan  does  not  purport  to  be  complete  and  is  qualiﬁed  in  its  entirety  by
+
+reference to the Plan, a copy of which is ﬁled as Exhibit 10.2 to this Quarterly Report on Form 10-Q.
+
+30
+
+Item 6. Exhibits.
+
+Exhibit
+Number
+
+10.1
+
+10.2
+
+31.1
+
+31.2
+
+32.1
+
+32.2
+
+Exhibit Description
+
+Fourth Amendment to First Lien Term Loan Credit Agreement, by and among BJ’s Wholesale Club, Inc.,
+the Company, the lenders party thereto from time to time and Nomura Corporate Funding Americas, LLC,
+as administrative agent and as collateral agent, dated as of October 12, 2023 (previously ﬁled as Exhibit
+10.1 to the Company’s Current Report on Form 8-K (File No. 001-38559) ﬁled on October 12, 2023 and
+incorporated herein by reference).
+
+BJ's Wholesale Club, Inc. Non-Qualiﬁed Deferred Compensation Plan (ﬁled herewith).
+
+Certiﬁcation  of  Principal  Executive  Oﬃcer  Pursuant  to  Rules  13a-14(a)  and  15d-14(a)  under  the
+Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+(ﬁled herewith).
+
+Certiﬁcation of Principal Financial Oﬃcer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities
+Exchange  Act  of  1934,  as  Adopted  Pursuant  to  Section  302  of  the  Sarbanes-Oxley  Act  of  2002  (ﬁled
+herewith).
+
+Certiﬁcation  of  Principal  Executive  Oﬃcer  Pursuant  to  18  U.S.C.  Section  1350,  as  Adopted  Pursuant  to
+Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+
+Certiﬁcation  of  Principal  Financial  Oﬃcer  Pursuant  to  18  U.S.C.  Section  1350,  as  Adopted  Pursuant  to
+Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+
+101.INS
+
+Inline XBRL Instance Document (ﬁled herewith)
+
+101.SCH Inline XBRL Taxonomy Extension Schema Document (ﬁled herewith)
+
+101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document (ﬁled herewith)
+
+101.DEF Inline XBRL Taxonomy Extension Deﬁnition Linkbase Document (ﬁled herewith)
+
+101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document (ﬁled herewith)
+
+101.PRE Inline XBRL Taxonomy Extension Linkbase Document (ﬁled herewith)
+
+104
+
+Cover  Page  Interactive  Data  File  (formatted  as  inline  XBRL  with  applicable  taxonomy  extension
+information contained in Exhibits 101.*) (ﬁled herewith)
+
+31
+
+Pursuant  to  the  requirements  of  the  Securities  Exchange  Act  of  1934,  the  registrant  has  duly  caused  this
+
+report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+SIGNATURE
+
+Date: November 22, 2023
+
+By:
+
+/s/ Laura L. Felice
+
+Laura L. Felice
+
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer and
+Authorized Signatory)
+
+32
+
+BJ’S WHOLESALE CLUB , INC.
+NON-QUALIFIED DEFERRED COMPENSATION PLAN
+(“DCP”)
+
+EFFECTIVE JANUARY 1, 2024
+
+    
+    
+CONTENTS
+
+PREAMBLE
+ARTICLE I. - DEFINITIONS
+ARTICLE II. - ELIGIBILITY
+ARTICLE III. - CONTRIBUTIONS AND BENEFITS
+ARTICLE IV. - VESTING
+ARTICLE V. - BENEFIT PAYMENTS
+ARTICLE VI. - TRUST AND PLAN EARNINGS
+ARTICLE VII. - AMENDMENT AND TERMINATION
+ARTICLE VIII. - GENERAL PROVISIONS
+
+1
+
+TOC \o
+"1-3" \h
+\z \u
+2
+3
+9
+9
+11
+11
+16
+17
+18
+
+    
+PREAMBLE
+
+WHEREAS,  BJ’s  Wholesale  Club  ,  Inc.  (“Employer”)  desires  to  provide  competitive  total
+compensation to its key employees so the Employer can attract and retain the executive talent
+necessary to drive the success of the business; and
+
+WHEREAS, the Employee Retirement Income Security Act of 1974 (“ERISA”) requires limits be
+set  on  the  maximum  contributions  and  beneﬁts,  which  may  be  made  to  or  paid  from  a  tax-
+qualiﬁed retirement plan on behalf of or to a participant in such a plan; and
+
+WHEREAS,  the  Employer  has  established  a  qualiﬁed  retirement  plan  which  includes
+nondiscrimination  and  coverage  limitations  as  imposed  under  §401(k),  §401(m)  and  §410(b)  of
+the  Internal  Revenue  Code  as  well  as  maximum  beneﬁt  limitations  imposed  by  §402(g),  §415
+and §401(a)(17) of the Internal Revenue Code which may limit the maximum contributions and
+beneﬁts  which  may  be  made  to  the  tax  qualiﬁed  plans  on  behalf  of  the  key  employees  of  the
+Employer; and
+
+WHEREAS,  the  Employer  now  desires  to  provide  a  tax  deferred  capital  accumulation
+opportunity  to  a  select  group  of  management  or  highly  compensated  employees  through  the
+deferral of compensation to encourage the employees to maintain a long-term relationship with
+the Employer and provide ﬂexibility to the employee in his or her ﬁnancial planning; and
+
+WHEREAS, the Plan is intended to comply with all applicable law, including §409A of the Code
+and  related  Treasury  guidance  and  Regulations,  and  shall  be  operated  and  interpreted  in
+accordance with this intention.
+
+NOW, THEREFORE, the Employer adopts the BJ’s Wholesale Club , Inc. Non-Qualiﬁed Deferred
+Compensation  Plan  (“Plan”)  eﬀective  January  1,  2024  for  the  purpose  of  providing  deferred
+compensation to selected key employees.
+
+2
+
+    
+ARTICLE I. - DEFINITIONS
+
+1.01 “Account”  means  the  unfunded  liability  of  the  Employer  established  under  the
+Plan  in  the  name  of  each  Participant  which  reﬂects  the  value  of  the  Participant’s  Contribution
+Sub Accounts.
+
+1.02 “Administrator”  means  the  Employer  unless  another  person  or  entity  has  been
+
+designated pursuant to Section 8.05 to administer the Plan on behalf of the Employer.
+
+1.03 “Aggregated Plans” means this Plan and any other like-type plan or arrangement
+of  the  Employer  in  which  a  Participant  participates  and  as  to  which  the  Plan  or  Applicable
+Guidance  requires  the  aggregation  of  all  such  nonqualiﬁed  deferred  compensation  in  applying
+Code §409A.
+
+1.04 “Applicable  Guidance”  means  as  the  context  requires  Code  §§83,  409A,  Treas.
+Reg.  §1.83,  Treas.  Reg.  §1.409A-1  through  -6,  or  other  written  Treasury  or  IRS  guidance
+regarding or aﬀecting Code §§83 or 409A, including, as applicable, any Code§409A guidance in
+eﬀect prior to January 1, 2024.
+
+1.05   “Base  Salary”  means  a  Participant’s  Compensation  consisting  only  of  regular
+
+cash salary and excluding any other Compensation.
+
+1.06  “Beneﬁciary” means the person or persons entitled to receive Plan beneﬁts in the
+
+event of a Participant’s death.
+
+1.07 “Board” means the Board of Directors of BJ’s Wholesale Club , Inc.
+
+1.08 “Bonus”  means  a  Participant’s  Performance-Based  Compensation  consisting  only
+of  bonus  as  provided  for  under  the  BJ’s  Wholesale  Club,  Inc.  Annual  Incentive  Plan  (AIP)  and
+excluding any other Compensation.
+
+1.09 “Change in Control” means, a change: (i) in the ownership of the Employer or a
+Participating Employer; (ii) in the eﬀective control of the Employer or a Participating Employer or
+(iii)  in  the  ownership  of  a  substantial  portion  of  the  assets  of  the  Employer  or  a  Participating
+Employer, within the meaning of Treas. Reg. §1.409A-3(i)(5) or in Applicable Guidance. An event
+will constitute a Change in Control with respect to an Employer or Participating Employer only if
+it  relates  to  the  Employer  that  employs  the  Participant  when  the  event  occurs  or  an  Employer
+that  owns  more  than  50  percent  of  the  total  fair  market  value  and  total  voting  power  of  the
+Employer that employs the Participant or any other Employer in the chain of corporations, each
+of which owns more than 50 percent of the total fair market value and total voting power of the
+Employer that employs the Participant.
+
+1.10 “Change  in  Participating  Employer’s  Financial  Health”  means  an  adverse
+
+change in a Participating Employer’s ﬁnancial condition as described in Applicable Guidance.
+
+1.11 “Code” means the Internal Revenue Code of 1986, as amended.
+
+1.12 “Compensation” shall mean Participant’s Compensation as deﬁned under Section
+1.05  of  the  BJ’s  Wholesale  Club,  Inc.  401(k)  Savings  Plan  Adoption  Agreement  No.  001  for  use
+with the Fidelity Basic Plan Document No. 17.
+
+1.13 “Contributions”  shall  mean  “Elective  Deferrals,  Select  Management  Employer
+Contributions,  and  Employer  Discretionary  Contributions  described  in  Sections  3.01  through
+3.03.
+
+3
+
+    
+1.14 “Contribution Sub Account” shall mean the portion of the Participant’s Account
+
+attributable to the Contributions and Earnings thereon described in Section 3.01 through 3.03.
+
+(A)
+
+“Elective Deferral Sub Account” means the portion of a Participant’s Account
+
+attributable to Elective Deferrals as described in Section 3.01 and Earnings thereon.
+
+(B)
+
+“Select Management Employer Contribution Sub Account” means the portion
+of  a  Participant’s  Account  attributable  to  the  Select  Management  Employer  Contributions  as
+described in Section 3.02 and Earnings thereon.
+
+(C)
+
+“Employer  Discretionary  Contribution  Sub  Account”  means  the  portion  of  a
+Participant’s  Account  attributable  to  Employer  Discretionary  Contributions  described  in  Section
+3.03 and Earnings thereon.
+
+includes  Earnings  on  such  amounts.  “Compensation  Deferred” 
+
+1.15 “Deferred  Compensation”  means  the  Participant’s  Account  attributable  to
+Contributions  and 
+is
+Compensation that the Participant or the Employer has deferred under this Plan. Compensation
+is  Deferred  Compensation  if:  (i)  under  the  terms  of  the  Plan  and  the  relevant  facts  and
+circumstances,  the  Participant  has  a  Legally  Binding  Right  to  Compensation  during  a  Taxable
+Year  that  the  Participant  has  not  actually  or  constructively  received  and  included  in  gross
+income; and (ii) pursuant to the Plan terms, the Compensation is payable to or on behalf of the
+Participant  in  a  later  Taxable  Year.  Deferred  Compensation  includes  separation  pay  paid
+pursuant to a separation pay plan except as otherwise described in Treas. Reg. §1.409A-1(b)(9).
+Deferred Compensation excludes certain “short-term deferrals” and all other items described in
+Treas.  Reg.  §§1.409A-1(b)(3),  (4),  (5),  (6),  (8),  (10),  (11)  and  (12)  or  in  other  Applicable
+Guidance.
+
+1.16 “Disability”  means  a  condition  of  a  Participant  who  by  reason  of  any  medically
+determinable physical or mental impairment which can be expected to result in death or can be
+expected  to  last  for  a  continuous  period  of  not  less  than  12  months  is  (i)  unable  to  engage  in
+any substantial gainful activity; or (ii) receiving income replacement beneﬁts for a period of not
+less  than  3  months  under  an  accident  and  health  plan  covering  Employees.  The  Employer  will
+determine  whether  a  Participant  has  incurred  a  Disability  based  on  its  own  good  faith
+determination  and  may  require  a  Participant  to  submit  to  reasonable  physical  and  mental
+examinations  for  this  purpose.  A  Participant  will  be  deemed  to  have  incurred  a  Disability  if:  (i)
+the Social Security Administration determines that the Participant is totally disabled; or (ii) the
+applicable  insurance  company  providing  disability  insurance  to  the  Participant  under  an
+Employer  sponsored  disability  program  determines  that  a  Participant  is  disabled  under  the
+insurance contract deﬁnition of disability, provided such deﬁnition complies with the deﬁnition in
+this Section 1.16.
+
+1.17 “Earnings”  means  Trust  earnings,  gain  or  loss  applicable  to  a  Participant’s
+
+Account.
+
+1.18 “Eﬀective Date” of the Plan is January 1, 2024.
+
+1.19 “Eligible  Employee”  means  an  Employee  who  is  among  a  select  group  of
+management or highly compensated employee of the Employer and who satisﬁes the eligibility
+requirements described in Section 2.01.
+
+1.20 “Employee” means a person providing services to the Employer as a common law
+employee  as  described  in  Treas.  Reg.  §1.409A-1(f)(1)  and  who,  for  any  Taxable  Year  of  the
+Employee, is on the cash receipts and disbursements method of accounting for Federal income
+tax purposes.
+
+4
+
+    
+1.21 “Employer”  means  BJ’s  Wholesale  Club  ,  Inc.,  the  sponsor  of  the  Plan,  and
+includes  all  persons  with  whom  the  Employer  would  be  considered  a  single  Employer  under
+Code §§414(b) or (c).
+
+1.22 “Employer  Discretionary  Contribution”  means  a  discretionary  Employer
+
+contribution as deﬁned in Section 3.03.
+
+1.23 “ERISA”  means  the  Employee  Retirement  Income  Security  Act  of  1974,  as
+
+amended.
+
+1.24 “Fiscal  Year”  means  the  ﬁfty-two  (52)  or  ﬁfty-three  (53)  week  period  ending  on
+
+the Saturday closest to January 31 in each year.
+
+1.25 “Legally Binding Right” means, in reference to Compensation, the grant by the
+Employer  to  the  Participant  of  a  right  to  Compensation  where,  after  the  Participant  has
+performed  the  services  which  created  the  Legally  Binding  Right,  the  Compensation  is  not
+subject  to  unilateral  reduction  or  elimination  by  the  Employer  or  any  other  person,  The
+Employer,  based  on  the  facts  and  circumstances  and  in  accordance  with  Treas.  Reg.  §1.409A-
+1(b)(1),  will  determine:  (i)  whether  a  Legally  Binding  Right  exists;  or  (ii)  whether  a  Legally
+Binding  Right  does  not  exist  on  account  of  the  existence  of  negative  discretion  which  has
+substantive signiﬁcance to reduce or eliminate the Compensation.
+
+1.26   “Participant”  means  an  Employee  of  the  Employer,  who  meets  the  eligibility
+
+requirements of Section 2.01 and accrues a beneﬁt pursuant to Article III of the Plan.
+
+1.27 “Performance  Based  Compensation”  shall  mean  Compensation  (including  a
+Bonus),  where  the  amount  of,  or  the  entitlement  to,  the  Compensation  is  contingent  on  the
+satisfaction  of  pre-established  organizational  or  individual  performance  criteria  relating  to  a
+performance period of at least twelve (12) consecutive months, as determined by the Employer
+in accordance with Treas. Reg. §1.409A-1(e).
+
+1.28 “Plan” means the BJ’s Wholesale Club , Inc. Non-Qualiﬁed Deferred Compensation
+Plan (the “DCP”) which includes this Plan document, the Trust, and all notices, forms, elections
+and other written documentation to which the Plan refers. For purposes of applying Code §409A
+requirements,  this  Plan  (i)  is  both  an  Elective  Deferral  Account  Balance  Plan  and  an  Employer
+Contribution  Account  Balance  Plan,  and  (ii)  this  Plan  constitutes  a  separate  plan  for  each
+Participant. This Plan does not constitute: (i) a Code §401(a) plan with and exempt trust under
+Code §501(a); (ii) a Code §403(a) annuity plan; (iii) a Code §403(b) annuity; (iv) a Code §408(k)
+SEP; (v) a Code §408(p) Simple IRA; (vi) a Code §501(c)(18) trust to which an active participant
+makes deductible contributions; (vii) a Code §457(b) plan; or (viii) a Code §415(m) plan.
+
+1.29 “Plan Year” means the calendar year ending December 31.
+
+1.30 “Retirement Age” means the date the Participant attains age 65
+
+1.31 “Select Management Employer Contribution” means a discretionary Employer
+
+contribution as deﬁned in Section 3.02.
+
+1.32 “Separation  from  Service”  means  the  Employee’s  termination  of  employment
+
+with the Employer whether on account of death, retirement, Disability, or otherwise.
+
+5
+
+    
+(A)
+
+Insigniﬁcant or Signiﬁcant Service/Presumptions. The Employer will determine
+whether  an  Employee  has  terminated  employment  (and  incurred  a  Separation  from  Service)
+based  on  the  facts  and  circumstances  as  described  in  Treas.  Reg.  §1.409A-1(h)(1)(ii).  An
+Employee  incurs  a  Separation  from  Service  if  the  parties  reasonably  anticipate,  based  on  the
+facts and circumstances, the Employee will not perform any additional services after a certain
+date  or  that  the  level  of  bona  ﬁde  services  (whether  performed  as  an  Employee  or  as  a
+Contractor) will permanently decrease to no more than 20% of the average level of bona ﬁde
+services  performed  (whether  performed  as  an  Employee  or  as  a  Contractor)  over  the
+immediately  preceding  36-month  period  (or,  if  less,  the  period  the  employee  has  rendered
+service to the Employer) (“average prior service”). An Employee is presumed to have incurred
+a  Separation  from  Service  if  the  Employee’s  service  level  decreases  to  20%  or  less  than  the
+average  prior  service  and  an  Employee  is  presumed  to  not  have  incurred  a  Separation  from
+Service if the Employee’s service level continues at a rate which is 50% or more of the average
+prior service. No presumption applies where the Employee’s service level is more than 20% and
+less than 50% of the average prior service.
+
+(B)
+
+Eﬀect of Leave. An Employee does not incur a Separation from Service if the
+Employee is on military leave, sick leave, or other bona ﬁde leave of absence if such leave does
+not  exceed  a  period  of  6  months,  or  if  longer,  the  period  for  which  a  statute  or  contract
+provides  the  Employee  with  the  right  to  reemployment  with  the  Employer.  If  a  Participant’s
+leave exceeds 6 months but the Participant is not entitled to reemployment under a statute or
+contract,  the  Participant  incurs  a  Separation  from  Service  on  the  next  day  following  the
+expiration  of  6  months.  A  leave  of  absence  constitutes  a  bona  ﬁde  leave  of  absence  for  this
+Section  only  if  there  is  a  reasonable  expectation  that  the  Employee  will  return  to  perform
+services  for  the  Employer.  For  purposes  of  determining  average  prior  service  under  Section
+1.32 (A), during a paid leave of absence, which is not a Separation from Service, the Employee
+is treated as rendering bona ﬁde services at a level that would have been required to earn the
+amount paid during the leave. If the leave of absence is unpaid, the leave period is disregarded
+in determining average prior service.
+
+(C)
+
+“Employer” for Purposes of Separation Rules. The “Employer” for purposes of
+applying  Section  1.32  (determining  Separation  from  Service  under  the  Plan)  means  Employer
+as deﬁned under Section 1.21.
+
+(D)
+
+Dual  Capacity.  If  a  Participant  renders  service  to  the  Employer  both  in  the
+capacity as an Employee and as a contractor (or changes status from Employee to contractor
+or  vice  versa),  the  Participant  must  incur  a  Separation  from  Service  in  both  capacities  to
+constitute a Separation from Service. For this purpose, if a Participant renders service both as
+an Employee and as a member of the Employer’s board of directors, the director services are
+disregarded  in  determining  whether  the  Participant  has  incurred  a  Separation  from  Service  as
+to this Plan provided that the plans are not Aggregated Plans.
+
+(E)
+
+Certain  Asset  Sales.  In  accordance  with  and  subject  to  Treas.  Reg.  §1.409A-
+1(h)(4), if the Employer sells its assets to an unrelated party purchaser where the Participants
+otherwise  would  incur  a  Separation  from  Service  and  where  such  Participants  will  provide
+services  to  the  purchaser  after  the  sale  closing,  the  Employer  and  the  purchaser  retain
+discretion no later than the asset sale closing date to specify in writing whether the Participants
+will  incur  a  Separation  from  Service.  In  making  such  determination,  the  Employer  and  the
+purchaser must treat all aﬀected Participants consistently.
+
+1.33 “Service  Year”  means  a  Participant’s  Taxable  Year  in  which  the  Participant
+
+performs services which give rise to Compensation.
+
+6
+
+    
+1.34 “Speciﬁed Employee” means a Participant who is a key employee as described in
+Code  §416(i),  disregarding  paragraph  (5)  thereof.  However,  a  Participant  is  not  a  Speciﬁed
+Employee  unless  any  stock  of  the  Employer  is  publicly  traded  on  an  established  securities
+market or otherwise. If a Participant is a key employee at any time during the 12 months ending
+on  December  31  (the  “identiﬁcation  date”),  the  Participant  is  a  Speciﬁed  Employee  for  the  12
+month  period  commencing  on  the  April  1  following  the  identiﬁcation  date.  The  Employer  in
+determining  whether  this  Section  and  all  related  Plan  provisions  apply  will  determine  whether
+the  Employer  has  any  publicly  traded  stock  as  of  the  date  of  a  Participant’s  Separation  from
+Service. In the case of a spin-oﬀ or merger, or in the case of a nonresident alien Employee, the
+Employer will apply the Speciﬁed Employee provisions of the Plan in accordance with Treas. Reg.
+§1.409A-1(i)(6) and other Applicable Guidance.
+
+1.35 “Speciﬁed  Time”  means,  in  reference  to  a  payment  of  Deferred  Compensation,
+the Employer, at the time of the deferral of the Compensation can objectively determine: (i) the
+amount  payable;  and  (ii)  the  payment  date  or  dates.  An  amount  is  objectively  determinable  if
+the  deferral  election  speciﬁcally  identiﬁes  the  amount  or  if  the  Employer  can  determine  the
+amount at the time it is due pursuant to an objective, nondiscretionary formula speciﬁed at the
+time of deferral.
+
+1.36 “Substantial  Risk  of  Forfeiture”  means  Compensation  which  is  payable
+conditioned:  (i)  on  the  performance  of  substantial  future  services  by  any  person  including  the
+Participant;  or  (ii)  on  the  occurrence  of  a  condition  related  to  a  purpose  of  the  Compensation,
+and  where  under  clause  (i)  or  (ii)  the  possibility  of  forfeiture  is  substantial  in  accordance  with
+Treas. Reg. §1.409A-1-(d)(1).
+
+1.37 “Taxable  Year”  means  the  twelve  (12)  consecutive  month  period  ending
+
+December 31.
+
+1.38 “Trust”  means  any  trust  established  by  Employer  as  described  in  Section  6.02  of
+
+the Plan.
+
+1.39 “Valuation Date” means the last day of each Taxable Year and such other dates
+
+as the Employer may determine.
+
+1.40 “Vested”  means  Deferred  Compensation  not  subject  to  a  Substantial  Risk  of
+
+Forfeiture or to a requirement to perform further services for the Employer.
+
+7
+
+    
+ARTICLE II. - ELIGIBILITY
+
+2.01    Participant Designation. An Employee shall be eligible to participate in this Plan if
+the  Employee  is  in  a  Director  level  position  or  higher  or  appointed  by  the  Employer  and
+approved  by  the  Board  to  participate  in  the  Plan.  In  no  event  shall  any  individual  who  is  not
+within  the  designated  group  and  who  would  not  be  considered  to  be  in  a  select  group  of
+management  or  highly  compensated  employees  be  eligible  to  participate  in  this  Plan.  No
+distribution shall be made to an Employee who ceases to meet the eligibility conditions of this
+Plan until such time as the distribution would be made pursuant to Article V.
+
+2.02        Time  of  Participation.  The  Eligible  Employee  will  become  a  Participant  in  the  Plan
+eﬀective with the ﬁrst day of the Plan Year coinciding with or immediately following satisfaction
+of the eligibility requirements set forth in Section 2.01.
+
+ARTICLE III. - CONTRIBUTIONS AND BENEFITS
+
+3.01    Elective Deferrals.
+
+(A)
+
+Limitations.  Each  Participant  may  elect  to  defer  up  to  ﬁfty  percent  (50%)  of
+his or her Base Salary and up to one hundred percent (100%) of his or her Bonus for a Taxable
+Year.
+
+(B)
+
+Election  Form  and  Timing.  Each  participant  must  make  his  or  her  Elective
+Deferral election on an election form the Employer provides for that purpose. The election form
+may  be  completed  by  paper,  electronic  or  telephonic  means  no  later  than  the  latest  of  the
+applicable times speciﬁed below in this Section 3.01(B).
+
+General Timing Rule. Except as otherwise provided in this Section 3.01,
+a  Participant  must  deliver  his  or  her  election  to  the  Administrator  no  later  than  the  end  of  the
+Taxable Year prior to the Service Year.
+
+(1)
+
+(2)
+
+Performance  Based  Compensation  Exception.  With  respect  to  any
+Bonus  made  through  the  BJ’s  Wholesale  Annual  Incentive  Plan  (AIP),  the  Employer  may,  but  is
+not  required  to,  permit  a  Participant  to  deliver  his  or  her  election  to  the  Administrator  no  later
+than  six  (6)  months  before  the  end  of  the  performance  period  for  which  such  bonus  relates
+provided  that  (i)  the  bonus  meets  the  requirements  of  Performance  Based  Compensation  in
+accordance  with  Treas.  Reg.  §1.409A-1(e);  (ii)  the  Participant  continuously  performs  services
+from  a  date  no  later  than  the  date  the  Employer  establishes  the  performance  criteria  and  at
+least  through  the  date  of  the  Participant’s  election;  and  (iii)  the  Participant  does  not  make  an
+election  after  the  Compensation  has  become  substantially  certain  to  be  paid  and  is  readily
+ascertainable.
+
+(3)
+
+New Participant. If an Employee satisﬁes the eligibility requirements of
+Section  2.01  on  a  date  which  is  not  the  ﬁrst  day  of  a  Taxable  Year,  the  Participant’s  Elective
+and/or Bonus Deferral election shall be eﬀective no earlier than the ﬁrst day of the Taxable Year
+immediately  following  the  date  such  Participant  becomes  eligible  to  participate  under  Section
+2.01
+
+(C)
+
+Election  Changes/  Irrevocability.  A  Participant’s  election  made  prior  to  the
+Section 3.01 deadline becomes irrevocable as to a Taxable Year following the last day on which
+a Participant may make an election under Section 3.01 for such Taxable Year. A Participant may
+make any number of changes to his/her Elective Deferral election during the period prior to the
+election becoming irrevocable.
+
+remain in eﬀect only for the duration of the Taxable Year for which the Participant makes
+
+(D)
+
+Election Duration/Cancellation. A Participant’s Elective Deferral election shall
+
+8
+
+    
+the election. A Participant, subject to Plan requirements regarding election timing, may make a
+new  election,  or  may  revoke  or  modify  an  existing  election  eﬀective  no  earlier  than  the  next
+Taxable Year.
+
+3.02    Select Management Employer Contributions.
+
+    (A)    Each Participant who is a Senior Vice President level or higher shall be eligible to
+receive  a  discretionary  contribution  during  the  Plan  Year  equal  to  a  percentage  of  the
+Participant’s  Base  Salary  grossed  up  for  taxes  as  determined  by  the  Employer  in  their  sole
+discretion. The percentage and tax rate used for purposes of the gross up shall be determined
+by  the  Employer  in  its  complete  and  sole  discretion  and  need  not  be  the  same  for  any  two
+Participants.
+
+        (B)        Timing.  The  Employer  shall  designate  the  Taxable  Year  for  which  the  Select
+Management  Employer  Discretionary  Contribution  was  earned  and  shall  credit  the  Select
+Management  Employer  Contribution,  if  any,  to  the  Participant’s  Select  Management  Employer
+Contribution  Sub  Account  no  later  than  the  last  day  of  the  Taxable  Year  during  which  the
+Deferred Compensation was earned.
+
+3.03    Employer Discretionary Contributions.
+
+    (A)    In addition to the Elective Deferrals provided under Section 3.01 and the Employer
+Retirement  Contributions  under  Section  3.02,  the  Employer  may,  in  its  sole  discretion,  credit  a
+Participant with additional discretionary Deferred Compensation. The amount, and frequency, of
+such  Deferred  Compensation  shall  be  determined  by  the  Employer  in  its  complete  and  sole
+discretion and need not be the same for any two Participants.
+
+    (B)    Timing. The Employer shall designate the Taxable Year for which the Discretionary
+Contribution was earned and shall credit the Employer Discretionary Contribution, if any, to the
+Participant’s Employer Discretionary Contributions Sub Account no later than the last day of the
+Taxable Year during which the Deferred Compensation was earned.
+
+ARTICLE IV. - VESTING
+
+        4.01        Elective  Deferral  Sub  Account.  A  Participant’s  Elective  Deferral  Sub-Account  shall
+always be 100% Vested and nonforfeitable.
+
+        4.02        Select  Management  Employer  Contribution  Sub  Account.  A  Participant’s  Select
+Management Employer Contribution Sub Account shall become 100% Vested and nonforfeitable
+upon  the  earlier  of  Participant’s  death,  Disability,  attainment  of  Retirement  Age,  a  Change  in
+Control  of  the  Employer,  or  the  third  anniversary  of  the  Participant’s  date  of  hire  with  the
+Employer.
+
+        4.03        Employer  Discretionary  Contribution  Sub  Account.  A  Participant’s  Employer
+Discretionary  Contributions  Sub  Account  shall  become  100%  Vested  and  nonforfeitable  upon
+successful completion of the conditions, if any, established by the Employer, in accordance with
+Section 3.03 when crediting additional discretionary Deferred Compensation to a Participant.
+
+        4.04        Acceleration  of  Vesting.  Notwithstanding  Sections  4.01  through  4.03,  the  Employer
+may, in its complete and sole discretion, accelerate Vesting of a Participant’s Account based on
+criteria satisfactory to the Employer.
+
+    4.05    Forfeiture. A Participant will forfeit any non-Vested portion of a Participant’s Account
+upon the earlier of Separation from Service or when the condition constituting a Substantial Risk
+of Forfeiture can no longer be satisﬁed, such as its expiration date. All forfeitures
+
+9
+
+    
+shall  be  used  to  reduce  Employer  Contributions  or  shall  be  used  to  pay  reasonable
+administrative expenses of the Plan.
+
+ARTICLE V. - BENEFIT PAYMENTS
+
+5.01        Payment  Events.  The  beneﬁts  under  this  Plan  (the  Participant’s  Account)  will  be
+paid  to  the  Participant,  or  in  the  event  of  death,  to  the  Participant’s  Beneﬁciary,  following  the
+earliest  of  the  Participant’s  Separation  from  Service,  death,  Disability,  or  the  Speciﬁed  Time
+elected by the Participant in accordance with this Article V and the provisions established by the
+Administrator.  A  Participant  shall  make  a  separate  payment  election  for  each  Taxable  Year  of
+deferral. Payment will commence at the time elected and, in the form, elected by the Participant
+under Section 5.02 or as provided for under the terms of the Plan under Sections 5.03 through
+5.09.
+
+                (A)        Payment  to  Speciﬁed  Employees.  Notwithstanding  anything  to  the  contrary  in  the
+Plan  or  any  Employer  or  Employee  payment  election,  if  the  payment  event  is  Separation  from
+Service,  the  Plan  may  not  make  payment  of  any  Account  to  a  Participant  who,  on  the  date  of
+Separation  from  Service,  is  a  Speciﬁed  Employee,  earlier  than  6  months  following  Separation
+from Service (or if earlier, upon the Speciﬁed Employee’s death), except as permitted under this
+Section  5.01(A).  The  Employer,  operationally  and  without  any  direct  or  indirect  Participant
+election,  will  elect  whether  any  payments  that  otherwise  would  be  payable  to  the  Speciﬁed
+Employee  during  the  foregoing  6  month  period:  (i)  will  be  accumulated  and  payment  delayed
+until  the  ﬁrst  day  of  the  month  that  is  after  the  6  month  period;  or  (ii)  will  be  delayed  by  6
+months  as  to  each  installment  otherwise  payable  during  the  6  month  period.  This  Section
+5.01(A) does not apply to payments made on account of a domestic relations order, payments
+made  because  of  a  conﬂict  of  interest,  or  payment  of  employment  taxes,  all  as  described  in
+Treas.  Reg.  1.409A-3(i)(2)(i).  Section  5.01(A)  also  does  not  apply  to  any  reimbursement  or  in-
+kind  beneﬁt  which  is  Separation  Pay  as  deﬁned  under  Applicable  Guidance,  but  which  is  not
+Deferred Compensation under Section 1.15.
+
+5.02    Payment upon Separation from Service.
+
+                (A)          Initial  Payment  Election.  At  the  time  of  initial  enrollment  into  the  Plan,  and  each
+Taxable Year thereafter, a Participant shall make an irrevocable election on the form provided by
+the  Administrator  no  later  than  the  time  speciﬁed  by  the  Employer  under  Section  3.03.  The
+election  shall  specify  the  time  of  payment  in  the  event  of  the  Participant’s  Separation  From
+Service, a Speciﬁed Time prior to Separation from Service, death, or Disability. The Participant’s
+election  may  provide  for  a  diﬀerent  form  of  payment  for  Separation  from  Service  for  each
+Participant’s  Contribution  Sub-Account  for  each  Taxable  Year  of  deferral.  Optional  forms  of
+payment permitted are as follows.
+
+                        (1)        Lump  Sum.        The  Participant  may  elect  to  receive  payment  of  his/her  Vested
+Taxable Year Contribution Sub-Account in a lump sum payment commencing on the ﬁrst day of
+the 7  month following Separation from Service, or
+
+th
+
+        (2)    Installments.    The Participant may elect to receive payment of his/her Vested
+Taxable  Year  Contribution  Sub-Account  in  substantially  equal  annual  installments  over  a  period
+of time not to exceed ten (10) years.
+
+th
+month  following  Separation  from  Service.  The  amount  shall  be  calculated  by  multiplying  the
+Participant’s  Vested  Taxable  Year  Contribution  Sub-Account  on  the  Valuation  Date  immediately
+preceding the payment date by a fraction of which the numerator is one and the denominator is
+the total number of years elected by the Participant.
+
+(a) The  ﬁrst  installment  shall  commence  on  the  ﬁrst  day  of  the  7
+
+10
+
+    
+    
+    
+(b) Following the initial installment payment, subsequent installment
+payments shall be made on the anniversary date of the initial installment payment and shall be
+calculated  by  multiplying  the  Participant’s  Vested  Taxable  Year  Contribution  Sub-Account
+balance on the Valuation Date immediately preceding the payment date by a fraction of which
+the  numerator  is  one  and  the  denominator  is  the  whole  number  less  than  the  denominator  of
+the fraction used in calculating the immediately preceding annual installment payment until one
+hundred percent (100%) of the value has been distributed to the Participant.
+
+(c) Until  the  Plan  pays  the  entire  value  of  the  Participant’s  Vested
+Taxable  Year  Contribution  Sub-Account,  the  Plan  will  continue  to  credit  the  Participant’s  Vested
+Taxable Year Contribution Sub-Account with Earnings, in accordance with Section 6.03.
+
+(d) Regardless  of  the  period  elected  for  installment  payments,  if  the
+value of the ﬁrst annual installment is less than one thousand dollars ($1,000.00), the Plan will
+pay  the  aﬀected  Participant’s  Vested  Taxable  Year  Contribution  Sub-Account  in  a  single  lump
+sum in accordance with Sections 5.02(A)(1) and 5.04 of the Plan, as applicable.
+
+If  a  Participant  dies  after  beneﬁts  have  commenced,  the
+remaining unpaid scheduled payments, if any, shall be paid to the Participants Beneﬁciary in a
+single lump sum cash payment no later than 90 days following the Participant’s death.
+
+(e)
+
+                (C)        Change  Payment  Election.  The  Participant  may  make  a  change  payment  election
+under this Section 5.02(C). A change payment election may delay payment and/or may change
+the  form  of  payment,  provided  the  change  does  not  result  in  an  impermissible  acceleration
+under Applicable Regulations. A Participant must make any change payment election on a form
+the Employer provides for such purpose.
+
+(1)
+
+Election  Timing/Deferral  of  Payment.  Any  change  payment  election:  (i)
+may not take eﬀect until twelve (12) months following the date the change payment election is
+made;  (ii)  if  the  change  payment  election  relates  to  a  payment  based  on  Separation  from
+Service  the  change  payment  election  must  result  in  payment  being  made  not  earlier  than  ﬁve
+(5) years following the date upon which the payment otherwise would have been made (or, in
+the case of installment payments treated as a single payment, ﬁve (5) years from the date the
+ﬁrst amount was scheduled to be paid).
+
+Installments.  For  purposes  of  applying  the  change  payment  election
+provisions under Section 5.02(C), the Plan will treat a series of installment payments as a single
+payment.
+
+(2)
+
+    5.03    Death, Disability, or Speciﬁed Time. In the event of a Participant’s death, Disability, or
+Speciﬁed Time election, a Participant’s Account shall be paid to the Participant, or in the event
+of death, to the Participant’s Beneﬁciary, in a single lump sum cash payment no later than (90
+days following the event giving rise to the payment.
+
+        5.04        Time,  Form  and  Medium  Default.  If  the  Participant  fails  to  make  a  valid  payment
+election  for  any  Taxable  Year,  or  if  the  Employer  rejects  the  Participant’s  election  and  the
+Participant  does  not  make  a  new  timely  election  the  Employer  accepts,  the  Plan  will  pay  the
+aﬀected  Participant’s  Account  attributable  to  the  non-election  under  this  default  provision  in  a
+single lump sum payment in accordance with Sections 5.02(1) and 5.03, as applicable.
+
+5.05    Domestic Relations Order. The Plan may accelerate payment to an individual other
+than  the  Participant  to  comply  with  a  domestic  relations  order  as  provided  in  Treas.  Reg.
+§1.409A-3(j)(4)(ii).  A  domestic  relations  order  is  a  judgment,  decree,  order,  or  judicial  approval
+of a property settlement agreement which relates to child support, alimony, or marital property
+rights of a spouse, former spouse, child, or other dependent of the Participant and is made
+
+11
+
+    
+            
+under state domestic relations law. The Plan will make payment to the alternate payee as soon
+as  administratively  feasible  as  speciﬁed  in  the  domestic  relations  order.  In  the  event  the
+domestic  relations  order  does  not  specify  a  time  and  form  of  payment,  the  Plan  will  make
+payment to the alternate payee in a single lump sum cash payment within 90 days following the
+Employer’s acceptance and approval of the domestic relations order.
+
+5.06    No Acceleration.
+
+        (A)    General Rule. No person may accelerate the time or schedule of any Plan payment or
+amount  scheduled  to  be  paid  under  the  Plan.  For  this  purpose,  the  payment  of  an  amount
+substituted  for  the  Deferred  Compensation  is  a  payment  of  the  Deferred  Compensation,  as
+provided in Treas. Reg. §1.409A-3(f).
+
+        (B)    Not an Acceleration. Certain actions as described in Treas. Reg. §§1.409A-3(j)(1), (2),
+(3),  (5)  and  (6)  are  not  an  acceleration  including:  (i)  certain  payments  made  as  a  result  of  an
+intervening  payment  event  and  made  in  accordance  with  Plan  provisions  or  pursuant  to  an
+initial  payment  election;  (ii)  the  Employer’s  waiver  or  acceleration  of  the  satisfaction  of  any
+condition constituting a Substantial Risk of Forfeiture provided that payment is made only upon
+a  permissible  payment  event;  (iii)  an  election  to  change  Beneﬁciaries  (including  before  the
+commencement  of  a  life  annuity)  if  the  time  and  form  of  payment  does  not  change  (except
+where  under  a  life  annuity  a  change  in  time  of  payments  results  solely  from  the  diﬀerent  life
+expectancy  of  the  new  Beneﬁciary);  (iv)  a  decrease  in  the  Compensation  Deferred  under  the
+Plan as a result of certain linkage to qualiﬁed plans or broad-based foreign plans or certain other
+actions  or  inactions,  including  related  to  wraparound  elections;  or  (v)  a  change  to  a  cafeteria
+plan  election  (under  Code  §125(d))  resulting  in  a  change  in  the  Compensation  Deferred  under
+this Plan.
+
+        (C)     Permissible Accelerations/ Including Cash-Out. Notwithstanding Section 5.06(A), the
+Employer  in  its  sole  discretion  and  without  any  Participant  discretion  or  election,  operationally
+may  elect  accelerations  of  the  time  or  schedule  of  payment  from  the  Plan  in  any  or  all  of  the
+circumstances  described  in  Treas.  Reg.  §§1.409A-3(j)(4)(ii)  through  (xiv).  Such  circumstances
+include,  but  are  not  limited  to,  the  mandatory  lump-sum  payment  of  the  Participant’s  entire
+Vested  Account  at  any  time  provided  that  the  Employer  evidences  its  discretion  to  make  such
+payment  in  writing  no  later  than  the  date  of  payment,  the  payment  results  in  the  termination
+and liquidation of the Participant’s interest under the Plan and under all Aggregated Plans, and
+the  payment  amount  does  not  exceed  the  applicable  dollar  amount  under  Code  §402(g)(1)(B).
+The Employer in applying this Section 5.06(C) must treat all similarly situated service providers
+on a reasonably equivalent basis. See Section 7.02 as to Plan termination which also results in a
+permissible acceleration.
+
+5.07        Withholding.  The  Employer  will  withhold  from  any  payment  made  under  the  Plan
+and  from  any  amount  taxable  under  Code  §409A,  all  applicable  taxes,  and  any  and  all  other
+amounts required to be withheld under Applicable Guidance.
+
+    The beneﬁts that accrue under the Plan are subject to FICA taxes (which includes the
+Old-Age, Survivors and Disability Insurance tax and/or Medicare tax, as the case may be) which
+may become due before the beneﬁts are actually paid as provided under Section 3121(v)(2) of
+the Code and related IRS regulations.
+
+12
+
+    
+    
+        To  ensure  proper  compliance  with  these  regulations,  the  Employer  will  calculate  the
+amount of FICA tax when it becomes due and will deduct the Participant’s share of the FICA tax
+on  amounts  credited  to  the  Participant’s  Account  from  other  taxable  compensation  payable  to
+the  Participant  by  the  Employer.  If  the  Participant  has  insuﬃcient  other  taxable  compensation
+from  the  Employer  from  which  to  deduct  such  tax,  then  the  Employer  will  remit  the  remaining
+portion  of  the  Participant’s  share  of  the  tax  to  the  IRS  and  arrange  for  the  collection  of  that
+amount  from  the  Participant.  The  Participant  will  be  solely  liable  for  his  or  her  share  of  FICA
+taxes on beneﬁts accrued under the Plan.
+
+5.08    Beneﬁciary Designation. A Participant may designate a Beneﬁciary (including one
+or  more  primary  and  contingent  Beneﬁciaries)  to  receive  payment  of  any  Vested  Account
+remaining in the Participant’s Account at death. The Employer will provide each Participant with
+a  form  for  this  purpose  and  no  designation  will  be  eﬀective  unless  made  on  that  form  and
+delivered  to  the  Employer.  A  Participant  may  modify  or  revoke  an  existing  designation  of
+Beneﬁciary by executing and delivering a new designation to the Employer. In the absence of a
+properly designated Beneﬁciary, the Employer will pay a deceased Participant’s Vested Account
+to  the  Participant’s  surviving  spouse  and  if  none,  to  the  Participant’s  then  living  lineal
+descendants, by right of representation, and if none, to the Participant’s estate. If a Beneﬁciary
+is  a  minor  or  otherwise  is  a  person  whom  the  Employer  reasonably  determines  to  be  legally
+incompetent, the Employer may cause the Plan or Trust to pay the Participant’s Vested Account
+to  a  guardian,  trustee  or  other  proper  legal  representative  of  the  Beneﬁciary.  The  Plan’s  or
+Trust’s payment of the deceased Participant’s Vested Account to the Beneﬁciary or proper legal
+representative of the Beneﬁciary completely discharges the Employer, the Plan and Trust of all
+further obligations under the Plan with respect to that payment.
+
+5.09    Payments Treated as Made on Payment Date.
+
+                (A)        Certain  Late  Payments.  The  Plan’s  payment  of  Deferred  Compensation  is  deemed
+made on the Plan required payment date or payment election required payment date even if the
+Plan makes payment after such date, provided the payment is made by the latest of: (i) the end
+of  the  Taxable  Year  in  which  the  payment  is  due;  (ii)  the  15   day  of  the  third  calendar  month
+following the payment due date provided that the Participant is not able, directly or indirectly, to
+designate the Taxable Year of payment; (iii) in case the Employer cannot calculate the payment
+amount on account of administrative impracticality which is beyond the Participant’s control (or
+the control of the Participant’s Beneﬁciary), in the ﬁrst Taxable Year of the Participant in which
+payment  is  practicable;  (iv)  in  case  the  making  of  the  payment  on  the  Speciﬁed  Time  would
+jeopardize the Employer’s ability to continue as a going concern, in the ﬁrst Taxable Year of the
+Participant in which the payment would not have such eﬀect. The Employer may cause the Plan
+or Trust to pay a Participant’s Vested Account on any date which satisﬁes this Section and that is
+administratively practicable following any Plan speciﬁed payment date or the date speciﬁed in
+any valid payment election.
+
+th
+
+        (B)    Disputed Payments. In the event of a dispute between the Employer and a Participant
+as to whether Deferred Compensation is payable to the Participant or as to the amount thereof,
+or any other failure to pay, payment is treated as paid on the designated payment date if such
+payment is made in accordance with Treas. Reg. §1.409A-3(g).
+
+        (C)    Early Payments. The Employer also may cause the Plan or trustee to pay on a date no
+earlier  than  30  days  before  the  speciﬁed  payment  date  provided  the  Participant  is  not  able,
+directly or indirectly, to designate the Taxable Year of the payment. Such “early” payments are
+not accelerated payments under Article V.
+
+ARTICLE VI. - TRUST AND PLAN EARNINGS
+
+13
+
+    
+        
+6.01        Unfunded  Plan/Trust.  Employer  intends  this  Plan  to  be  an  unfunded  plan  that  is
+wholly or partially exempt under ERISA. No Participant, Beneﬁciary or successor thereto has any
+legal  or  equitable  right,  interest  or  claim  to  any  property  or  assets  of  the  Employer,  including
+assets  under  the  Plan  except  as  the  Plan  otherwise  permits.  The  Employer’s  obligation  to  pay
+Plan  beneﬁts  is  an  unsecured  promise  to  pay.  Any  assets  held  in  the  Plan  remain  subject  to
+claims  of  the  Employer’s  general  creditors  and  no  Participant’s  or  Beneﬁciary’s  claim  to  Plan
+assets has any priority over any general unsecured creditor of the Employer.
+
+6.02    Rabbi Trust. Employer may establish a trust in respect of its obligations under this
+Plan.  The  Employer  may,  and  at  any  time,  subject  to  the  limitations  of  Section  6.04,  make
+deposits of cash or other property in trust for the purpose of providing a source of funds to meet
+the liabilities of the Plan. The trustee will pay Plan beneﬁts in accordance with the Plan terms or
+upon the Employer’s direction consistent with Plan terms.
+
+6.03        Earnings.  The  Trust  earnings  provisions  apply  to  all  Plan  contributions  and
+constitute  Earnings  for  purposes  of  the  Plan.  Each  Participant  will  have  the  right  to  direct  the
+investment  of  the  portion  of  the  Trust  that  is  attributable  to  the  Plan’s  obligation  to  that
+Participant. The Participant may only select investments designated by the Trustee. Investment
+elections  made  or  to  be  made  by  the  Participant  will  be  subject  to  administrative  rules  and
+procedures established by the Administrator. If the Participant does not direct the investment of
+his  or  her  Account,  the  Participant's  Account  shall  be  treated  as  invested  and  reinvested  in  a
+default  investment  category  subject  to  the  administrative  rules  and  procedures  established  by
+the  Administrator  until  such  time  as  a  valid  investment  election  is  ﬁled  by  the  Participant.
+Earnings shall begin to accrue on any addition from the later of the date the addition is credited
+to  the  Participant's  Account,  or  the  date  funds  are  transferred  to  the  related  Trust  for
+investment. The Earnings rate to be used during any quarter shall be the actual Earnings during
+the period on the funds invested by the Employer on assets set aside for the purpose of paying
+beneﬁts  provided  hereunder.  In  the  event  a  Participant  Separates  from  Service  or  otherwise
+becomes entitled to a distribution, the Participant's Account shall be credited with Earnings for
+any portion of the year up to the Valuation Date used to determine the amount to distribute to
+the Participant (or Beneﬁciary). The Valuation Date shall be reasonably close in time to when the
+distribution  is  made  in  order  to  minimize  lost  Earnings  to  the  Participant  due  to  being  un-
+invested.  However,  the  Plan,  the  Administrator,  and  the  Employer  shall  not  be  under  any
+obligation  to  compensate  the  Participant  for  any  potential  earnings  for  the  period  after  the
+Valuation Date and before the distribution is received by the Participant.
+
+6.04    Restriction on Trust Assets. The Trust and the Trust assets must be and must remain
+located within the United States, except with respect to a Participant who performs outside the
+United States substantially all services giving rise to the Deferred Compensation. The Trust may
+not  contain  any  provision  limiting  the  Trust  assets  to  the  payment  of  Plan  beneﬁts  upon  a
+Change  in  the  Employer’s  Financial  Health,  even  if  the  assets  remain  subject  to  claims  of  the
+Employer’s general creditors. For this purpose, the Employer, upon a Change in the Employer’s
+Financial Health, may not transfer Deferred Compensation to the Trust. The Employer (and any
+member  of  a  controlled  group  which  includes  the  Employer)  during  the  “restricted  period”,  as
+deﬁned  in  Code  §409(b)(3)(B),  also  may  not  transfer  Deferred  Compensation  to  the  Trust  and
+the Trust may not be restricted to payment of Plan beneﬁts, to the extent that such transfer or
+restriction  would  violate  the  at-risk  limitation  of  Code  §409A(b)(3).  Any  Trust  the  Employer
+establishes  under  this  Plan  shall  be  further  subject  to  Applicable  Guidance,  compliance  with
+which  is  necessary  to  avoid  the  transfer  of  assets  to  the  Trust  being  treated  as  a  transfer  of
+property under Code § 83.
+
+6.05    Change in Control. Subject to Section 6.04, in the event of a Change in Control, the
+Employer, shall be required to make additional contributions, if any, to the Trust within 10 days
+of  the  date  of  the  Change  in  Control  and  annually  thereafter  within  90  days  after  the  end  of
+each Plan Year, such that the fair value of the assets in the Trust are suﬃcient to fund the value
+of all beneﬁts related to the Accounts of Participants employed by the Employer at the date of
+
+14
+
+    
+Change in Control and thereafter at the end of the Plan Year. Any assets set aside in the Trust
+shall not be deemed to be the property of the Participant and shall be subject to claims of the
+creditors of the Employer. No Participant or Beneﬁciary shall have any claim against, right to, or
+security  or  other  interest  in,  any  fund,  account  or  asset  of  the  Employer  from  which  any
+payment under the Plan may be made.
+
+ARTICLE VII. - AMENDMENT AND TERMINATION
+
+7.01    Amendment. Employer reserves the right to amend the Plan at any time to comply
+with Code §409A, Treas. Reg. §1.409A and other Applicable Guidance or for any other purpose,
+provided  that  such  amendment  will  not  (i)  result  in  taxation  to  any  Participant  under  Code
+§409A,  and  (ii)  will  not,  without  the  consent  of  the  Participant,  aﬀect  such  Participant’s  rights
+with  respect  to  Deferred  Compensation  previously  Vested  by  him.  Except  as  the  Plan  and
+Applicable  Guidance  otherwise  may  require,  the  Employer  may  make  any  such  amendments
+eﬀective immediately.
+
+7.02        Termination.  Employer  may  terminate,  but  is  not  required  to  terminate,  the  Plan
+
+and distribute beneﬁts under the following circumstances:
+
+    (A)    Dissolution/Bankruptcy. Employer may terminate and liquidate the Plan within 12
+months  following  a  dissolution  of  a  corporate  Employer  taxable  under  Code  §331  or  with
+approval of a Bankruptcy court under 11 U.S.C. §503(b)(1)(A), provided that the balance is paid
+to the Participants and is included in the Participants’ gross income in the latest Taxable Year: (i)
+in  which  the  Plan  termination  and  liquidation  occurs;  (ii)  in  which  the  amounts  no  longer  are
+subject  to  a  Substantial  Risk  of  Forfeiture  within  the  meaning  speciﬁed  in  Treas.  Reg.  §1.409A-
+1(d)(3) and Applicable Guidance; or (iii) in which the payment is administratively practicable.
+
+    (B)    Change in Control. Employer may terminate and liquidate the Plan by irrevocable
+action taken within the thirty (30) days preceding or the twelve (12) months following a Change
+in Control provided the Employer distributes all Plan account balances (and must distribute the
+accounts under any Aggregated Plans which the Employer also must terminate and liquidate as
+to  each  Participant  who  has  experienced  the  Change  in  Control)  within  twelve  (12)  months
+following Employer’s irrevocable action to terminate and liquidate the Plan.
+
+        (C)        Other.  Employer  may  terminate  the  Plan  for  any  other  reason  in  Employer’s
+discretion  provided  that:  (i)  the  termination  and  liquidation  does  not  occur  proximate  to  a
+downturn  in  Employer’s  ﬁnancial  health;  (ii)  Employer  also  terminates  all  Aggregated  Plans  in
+which any Participant also is a participant; (iii) the Plan makes no payments in the twelve (12)
+months  following  the  date  of  the  Employer’s  irrevocable  action  to  terminate  and  liquidate  the
+Plan  other  than  payments  the  Plan  would  have  made  irrespective  of  Plan  termination;  (iv)  the
+Plan  makes  all  payments  within  twenty-four  (24)  months  following  the  date  of  Employer’s
+irrevocable  action  to  terminate  and  liquidate  the  Plan;  and  (v)  Employer  within  three  (3)  years
+following the date of Employer’s irrevocable action to terminate and liquidate the Plan does not
+adopt a new plan covering any Participant that would be an Aggregated Plan.
+
+        (D)        Applicable  Guidance.  Employer  may  terminate  the  Plan  under  such  other
+
+circumstances as Applicable Guidance may permit.
+
+7.03    Cessation of Future Awards. Employer may elect at any time to amend the Plan to
+cease  future  Elective  Deferrals,  and  or  Employer  Retirement  Contributions,  and  or  Employer
+Discretionary  Contributions  under  Article  III  as  of  a  speciﬁed  date.  In  such  event,  the  Plan
+remains in eﬀect (except those provisions permitting the frozen award type) until all balances
+
+15
+
+    
+are paid in accordance with the Plan terms, or, if earlier, upon the Employer’s termination of the
+Plan.
+
+ARTICLE VIII. - GENERAL PROVISIONS
+
+8.01    No Assignment. No Participant or Beneﬁciary has the right to anticipate, alienate,
+assign,  pledge,  encumber,  sell,  transfer,  mortgage  or  otherwise  in  any  manner  convey  in
+advance  of  actual  receipt,  the  Participant’s  Account.  Prior  to  actual  payment,  a  Participant’s
+Account  is  not  subject  to  the  debts,  judgments  or  other  obligations  of  the  Participant  or
+Beneﬁciary  and  is  not  subject  to  attachment,  seizure,  garnishment  or  other  process  applicable
+to the Participant or Beneﬁciary.
+
+8.02    Not an Employment Contract. This Plan is not a contract for employment between
+the Employer and any Employee who is a Participant. This Plan does not entitle any Participant
+to  continued  employment  with  the  Employer,  and  beneﬁts  under  the  Plan  are  limited  to
+payment of a Participant’s beneﬁt in accordance with the terms of the Plan.
+
+8.03    Fair Construction. The Employer, Participants and Beneﬁciaries intend that this Plan
+in  form  and  in  operation  comply  with  Code  409A,  the  regulations  thereunder,  and  all  other
+present  and  future  Applicable  Guidance.  The  Employer  and  any  other  party  with  authority  to
+interpret  or  administer  the  Plan  will  interpret  the  Plan  terms  in  a  manner  which  is  consistent
+with  Applicable  Law.  However,  as  required  under  Treas.  Reg.  §1.409A-1(c)(1), 
+the
+“interpretation” of the Plan does not permit the deletion of material terms which are expressly
+contrary to Code §409A and the regulations thereunder and also does not permit the addition of
+missing terms necessary to comply therewith. Such deletions or additions may be accomplished
+only  by  means  of  a  Plan  amendment  under  Section  7.01.  Any  Participant,  Beneﬁciary  or
+Employer  permitted  Elective  Deferral  election,  initial  payment  election,  change  payment
+election or any other Plan permitted election, notice or designation which is not compliant with
+Applicable Law is not an “election” or other action under the Plan and has no eﬀect whatsoever.
+In  the  event  that  a  Participant,  Beneﬁciary  or  the  Employer  fail  to  make  an  election  or  fail  to
+make a compliant election, the Employer will apply the Plan’s default terms under Section 5.04.
+
+8.04    Notice and Elections. Any notice given or election made under the Plan must be in
+writing and must be delivered or mailed by certiﬁed mail, to the Employer or to the Participant
+or Beneﬁciary as appropriate. Employer will prescribe the form of any Plan notice or election to
+be given to or made by Participants. Any notice or election will be deemed given or made as of
+the  date  of  delivery,  or  if  given  or  made  by  certiﬁed  mail,  as  of  three  (3)  business  days  after
+mailing.
+
+8.05    Administration. Employer will administer and interpret the Plan, including making a
+determination of the beneﬁt due any Participant or Beneﬁciary under the Plan. As a condition of
+receiving  any  Plan  beneﬁt  to  which  a  Participant  or  Beneﬁciary  otherwise  may  be  entitled,  a
+Participant  or  Beneﬁciary  will  provide  such  information  and  will  perform  such  other  acts  as
+Employer reasonably may request. Employer may retain agents to assist in the administration of
+the Plan and may delegate to agents such duties as it sees ﬁt. The decision of Employer or its
+designee  concerning  the  administration  of  the  Plan  is  ﬁnal  and  is  binding  upon  all  persons
+having  any  interest  in  the  Plan.  The  Employer  will  indemnify,  defend  and  hold  harmless  the
+Board  and  any  Employee  designated  by  the  Board  to  assist  in  the  administration  of  the  Plan
+from any and all loss, damage, claims, expense or liability with respect to this Plan (collectively,
+“claims”) except claims arising from the intentional acts or gross negligence of the Employee.
+
+8.06        Accounting.  The  Employer  will  maintain  for  each  Participant  as  is  necessary  for
+proper  administration  of  the  Plan,  an  Elective  Deferral  Sub  Account,  an  Employer  Retirement
+Contribution  Sub  Account,  and  an  Employer  Discretionary  Contributions  Sub  Account,  as
+applicable.
+
+16
+
+    
+8.07    Account Statements. The Employer from time to time will provide each Participant
+with  a  statement  of  the  Participant’s  Account  as  of  the  most  recent  Valuation  Date.  The
+Employer also will provide Account statements to any Beneﬁciary of a deceased Participant with
+a beneﬁt remaining in the Plan.
+
+8.08        Costs  and  Expenses.  Investment  charges  which  will  be  borne  by  the  Account  to
+which  they  pertain.  The  Employer  will  pay  the  other  costs,  expenses  and  fees  associated  with
+the  operation  of  the  Plan,  excluding  those  incurred  by  Participants  or  Beneﬁciaries.  The
+Employer  will  pay  costs,  expenses  or  fees  charged  by  or  incurred  by  the  trustee  only  as
+provided in the Trust or other agreement between the Employer and the trustee.
+
+8.09        Reporting.  The  Employer  will  report  Deferred  Compensation  for  Employee
+
+Participants on Form W-2 in accordance with Applicable Guidance.
+
+8.10        ERISA  Claims  Procedure.  This  Plan  is  established  as  a  “top-hat  plan”  within  the
+meaning  of  DOL  Reg.  §2520.104-23,  and  the  following  claims  procedure  under  DOL  Reg.
+§2560.503-1  applies.  For  purposes  of  the  Plan’s  claims  procedure  under  this  Section  8.10,  the
+“Plan  Administrator”  means  Employer.  A  Participant  or  Beneﬁciary  may  ﬁle  with  the  Plan
+Administrator  a  written  claim  for  beneﬁts,  if  the  Participant  or  Beneﬁciary  disputes  the  Plan
+Administrator’s determination regarding the Participant’s or Beneﬁciary’s Plan beneﬁt. However,
+the Plan Administrator will cause the Plan to pay only such beneﬁts as the Plan Administrator in
+its  absolute  discretion  determines  a  Participant  or  Beneﬁciary  is  entitled  to  receive.  The  Plan
+Administrator  under  this  Section  8.10  will  provide  a  separate  written  document  to  aﬀected
+Participants  and  Beneﬁciaries  which  explains  the  Plan’s  claims  procedure  and  which  by  this
+reference  is  incorporated  into  the  Plan.  If  the  Plan  Administrator  makes  a  ﬁnal  written
+determination denying a Participant’s or Beneﬁciary’s claim, the Participant or Beneﬁciary must
+ﬁle  an  action  with  respect  to  the  denied  claim  within  180  days  following  the  date  of  the  Plan
+Administrator’s ﬁnal determination.
+
+8.11    Applicable Law. All questions pertaining to the construction, validity and eﬀect of
+the Plan shall be determined in accordance with the laws of the United States and to the extent
+not preempted by such laws, by the laws of the Commonwealth of Massachusetts.
+
+8.12        Gender  and  Number.  Where  the  context  permits,  words  denoting  the  masculine
+gender  shall  include  the  feminine  gender,  the  singular  shall  include  the  plural,  and  the  plural
+shall include the singular.
+
+8.13        Statutory  References.  All  references  to  the  Code  and  ERISA  include  reference  to
+any  comparable  or  succeeding  provisions  of  any  legislation  which  amends,  supplements  or
+replaces such section or subsection.
+
+8.14        Headings.  Section  headings  and  titles  are  for  reference  only.  In  the  event  of  a
+
+conﬂict between a title and the content of a Section, the content of the Section shall control.
+
+8.15        Action  by  the  Employer.  Any  action  to  be  performed  by  Employer  under  the  Plan
+shall be by resolution of its Board, by a duly authorized committee of its Board, or by a person
+or persons authorized by resolution of such committee.
+
+17
+
+    
+IN  WITNESS  WHEREOF,  BJ’s  Wholesale  Club  ,  Inc.  has  executed  this  Plan  this  ______  day  of
+_____________________, 2023.
+
+            BJ’S WHOLESALE CLUB , INC.
+            A DELAWARE CORPORATION
+
+        By:    
+Witness
+
+18
+
+    
+Exhibit 31.1
+
+I, Robert W. Eddy, certify that:
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+1.
+
+I have reviewed this Quarterly Report on Form 10-Q of BJ’s Wholesale Club Holdings, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+
+material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly
+present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls
+and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial
+reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+
+designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period
+in which this report is being prepared;
+
+b. Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in accordance with
+generally accepted accounting principles;
+
+c. Evaluated the eﬀectiveness of the registrant’s disclosure controls and procedures and presented in this
+
+report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant’s internal control over ﬁnancial reporting that occurred
+during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the case of an
+annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the registrant’s
+internal control over ﬁnancial reporting; and
+
+5. The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of
+directors (or persons performing the equivalent functions):
+
+a. All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+
+ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant’s ability to record, process,
+summarize and report ﬁnancial information; and
+
+b. Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant
+
+role in the registrant’s internal control over ﬁnancial reporting.
+
+Date: November 22, 2023
+
+By:
+
+/s/ Robert W. Eddy
+Robert W. Eddy
+President and Chief Executive Oﬃcer
+(Principal Executive Oﬃcer)
+
+Exhibit 31.2
+
+I, Laura L. Felice, certify that:
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+1.
+
+I have reviewed this Quarterly Report on Form 10-Q of BJ’s Wholesale Club Holdings, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+
+material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report, fairly
+present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant’s other certifying oﬃcer and I are responsible for establishing and maintaining disclosure controls
+and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over ﬁnancial
+reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+
+designed under our supervision, to ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities, particularly during the period
+in which this report is being prepared;
+
+b. Designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of
+ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in accordance with
+generally accepted accounting principles;
+
+c. Evaluated the eﬀectiveness of the registrant’s disclosure controls and procedures and presented in this
+
+report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+d. Disclosed in this report any change in the registrant’s internal control over ﬁnancial reporting that occurred
+during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the case of an
+annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the registrant’s
+internal control over ﬁnancial reporting; and
+
+5. The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board of
+directors (or persons performing the equivalent functions):
+
+a. All signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+
+ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant’s ability to record, process,
+summarize and report ﬁnancial information; and
+
+b. Any fraud, whether or not material, that involves management or other employees who have a signiﬁcant
+
+role in the registrant’s internal control over ﬁnancial reporting.
+
+Date: November 22, 2023
+
+By:
+
+/s/ Laura L. Felice
+Laura L. Felice
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer)
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the
+undersigned oﬃcer of BJ’s Wholesale Club Holdings, Inc. (the “Company”), hereby certiﬁes, to his knowledge, that:
+
+1. The Company’s Quarterly Report on Form 10-Q for the ﬁscal quarter ended October 28, 2023 (the “Report”)
+
+fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of
+1934, as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company.
+
+Date: November 22, 2023
+
+By:
+
+/s/ Robert W. Eddy
+Robert W. Eddy
+President and Chief Executive Oﬃcer
+(Principal Executive Oﬃcer)
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the
+undersigned oﬃcer of BJ’s Wholesale Club Holdings, Inc. (the “Company”), hereby certiﬁes, to her knowledge, that:
+
+1. The Company’s Quarterly Report on Form 10-Q for the ﬁscal quarter ended October 28, 2023 (the “Report”)
+
+fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of
+1934, as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company.
+
+Date: November 22, 2023
+
+By:
+
+/s/ Laura L. Felice
+Laura L. Felice
+Executive Vice President, Chief Financial Oﬃcer
+(Principal Financial Oﬃcer)
+
+

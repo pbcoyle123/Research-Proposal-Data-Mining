@@ -1,0 +1,205 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+
+FORM 8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (date of earliest event reported)
+February 23, 2024
+
+Walmart Inc.
+
+(Exact name of registrant as speciﬁed in its charter)
+
+DE
+(State or other jurisdiction of
+incorporation or organization)
+
+001-06991
+
+(Commission File Number)
+
+71-0415188
+(I.R.S. Employer Identiﬁcation
+No.)
+
+702 S.W. 8th Street
+Bentonville, AR 72716-0215
+(Address of Principal Executive Oﬃces) (Zip code)
+
+Registrant's telephone number, including area code
+(479) 273-4000
+
+Check the appropriate box below if the Form 8-K ﬁling is intended to simultaneously satisfy the ﬁling obligation of
+the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.10 per share
+2.550% Notes due 2026
+1.050% Notes due 2026
+1.500% Notes due 2028
+4.875% Notes due 2029
+5.750% Notes due 2030
+1.800% Notes due 2031
+5.625% Notes due 2034
+5.250% Notes due 2035
+4.875% Notes due 2039
+
+Trading Symbol(s)
+WMT
+WMT26
+WMT26A
+WMT28C
+WMT29B
+WMT30B
+WMT31A
+WMT34
+WMT35A
+WMT39
+
+Name of each exchange on which
+registered
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as deﬁned in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised ﬁnancial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+
+As previously announced, on January 30, 2024, the Board of Directors of Walmart Inc. (the “Company”)
+authorized a 3-for-1 forward split (the “Stock Split”) of its common stock, par value $0.10 per share (the “Common
+Stock”), to be eﬀected through the ﬁling of a Certiﬁcate of Amendment to the Company’s Restated Certiﬁcate of
+Incorporation (the “Certiﬁcate of Amendment”). The Company ﬁled the Certiﬁcate of Amendment after the close of
+trading on February 23, 2024, and it became eﬀective upon acceptance of the ﬁling by the Secretary of State of the
+State of Delaware (the “Eﬀective Time”). The Certiﬁcate of Amendment eﬀected the Stock Split and also
+proportionately increased the number of shares of authorized Common Stock from 11,000,000,000 to
+33,000,000,000. Each holder of record of Common Stock as of the close of business on February 22, 2024 is
+expected receive two additional shares of Common Stock after the close of trading on February 23, 2024. The $0.10
+par value per share remains unchanged. Trading in the Common Stock is expected to commence on a split-adjusted
+basis on February 26, 2024. Based on 2,684,264,089 shares of Common Stock outstanding as of February 22, 2024,
+the Company calculates that there will be approximately 8,052,792,267 shares of Common Stock outstanding on
+February 23, 2024, after giving eﬀect to the Stock Split, less any nominal amount of shares that may be
+repurchased on such date.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)    Exhibits
+
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+3.1
+
+Certiﬁcate of Amendment to the Restated Certiﬁcate of Incorporation of the
+Company, eﬀective February 23, 2024
+
+Exhibit
+104
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+
+report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: February 23, 2024
+
+WALMART INC.
+
+/s/ Gordon Y. Allison
+
+By:
+Name: Gordon Y. Allison
+Title: Senior Vice President,
+
+Oﬃce of the Corporate
+Secretary, and Chief
+Counsel for Finance and
+Governance
+
+CERTIFICATE OF AMENDMENT
+TO THE
+RESTATED CERTIFICATE OF INCORPORATION
+OF
+WALMART INC.
+
+(Pursuant to Section 242 of the General Corporation Law of the State of Delaware)
+
+The  name  of  the  corporation  is  Walmart  Inc.  (the  “Corporation”).  The  Corporation,  duly
+organized  and  existing  under  and  by  virtue  of  the  General  Corporation  Law  of  the  State  of
+Delaware, does hereby certify:
+
+1.  That  the  Board  of  Directors  of  the  Corporation  duly  adopted  resolutions  setting  forth  an
+Amendment  of  the  Restated  Certiﬁcate  of  Incorporation  declaring  that  the  ﬁrst  sentence  of
+the Article thereof numbered "Fourth" be amended and restated so that said ﬁrst sentence of
+Article Fourth shall read in its entirety as follows:
+
+FOURTH:  The  total  number  of  shares  of  all  classes  of  stock  which  the  Corporation
+shall  have  authority  to  issue  is  Thirty  Three  Billion,  One  Hundred  Million
+(33,100,000,000) shares, of which Thirty Three Billion (33,000,000,000) shares shall
+be  classiﬁed  as  Common  Stock,  of  the  par  value  of  10¢  per  share  (herein  called
+“Common Stock”), and of which One Hundred Million (100,000,000) shares shall be
+classiﬁed  as  Preferred  Stock  of  the  par  value  of  10¢  per  share  (herein  called
+“Preferred Stock”).
+
+2.  That  the  Board  of  Directors  of  the  Corporation  duly  adopted  resolutions  setting  forth  an
+Amendment of the Restated Certiﬁcate of Incorporation declaring that the following sentence
+be added after ﬁrst sentence of Article Fourth:
+
+Upon  the  ﬁling  and  eﬀectiveness  of  this  Certiﬁcate  of  Amendment  (the  “Eﬀective
+Time”),  each  share  of  Common  Stock  issued  and  outstanding,  and  each  share  of
+Common  Stock  held  as  treasury  stock,  in  each  case  as  of  immediately  prior  to  the
+Eﬀective  Time,  shall  automatically,  without  further  action  on  the  part  of  the
+Corporation or any holder of thereof, be subdivided and reclassiﬁed into three fully
+paid and nonassessable shares of Common Stock, reﬂecting a 3:1 stock split.
+
+3.  That  the  foregoing  amendments  to  the  Restated  Certiﬁcate  of  Incorporation  were  duly
+adopted in accordance with the provisions of Section 242 of the General Corporation Law of
+the State of Delaware.
+
+IN WITNESS WHEREOF, this Amendment to the Restated Certiﬁcate of Incorporation has been
+executed by a duly authorized oﬃcer of this Corporation on this 23rd day of February, 2024.
+
+WALMART INC.
+
+/s/ Gordon Y. Allison
+
+By:
+Name: Gordon Y. Allison
+Title:
+
+Senior Vice President, Oﬃce of the
+Corporate Secretary, Chief Counsel for
+Finance and Corporate Governance,
+and Assistant Secretary
+
+

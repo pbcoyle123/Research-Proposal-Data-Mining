@@ -1,0 +1,2366 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+________________________
+
+FORM 8-K
+
+CURRENT REPORT
+PURSUANT TO SECTION 13 or 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (date of earliest event reported)
+November 16, 2023
+
+Walmart Inc.
+
+(Exact name of registrant as speciﬁed in its charter)
+
+DE
+(State or other jurisdiction of
+incorporation or organization)
+
+001-06991
+
+(Commission File Number)
+
+71-0415188
+(I.R.S. Employer Identiﬁcation
+No.)
+
+702 S.W. 8th Street
+Bentonville, AR 72716-0215
+(Address of Principal Executive Oﬃces) (Zip code)
+
+Registrant's telephone number, including area code
+(479) 273-4000
+
+Check the appropriate box below if the Form 8-K ﬁling is intended to simultaneously satisfy the ﬁling obligation of
+the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.10 per share
+2.550% Notes due 2026
+1.050% Notes due 2026
+1.500% Notes due 2028
+4.875% Notes due 2029
+5.750% Notes due 2030
+1.800% Notes due 2031
+5.625% Notes due 2034
+5.250% Notes due 2035
+4.875% Notes due 2039
+
+Trading Symbol(s)
+WMT
+WMT26
+WMT26A
+WMT28C
+WMT29B
+WMT30B
+WMT31A
+WMT34
+WMT35A
+WMT39
+
+Name of each exchange on which
+registered
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as deﬁned in Rule 405 of the Securities Act of
+1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised ﬁnancial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 2.02. Results of Operations and Financial Condition.
+
+In accordance with Item 2.02 of Form 8-K of the Securities and Exchange Commission (the "SEC"), Walmart Inc., a
+Delaware  corporation  (the  "Company"),  is  furnishing  to  the  SEC  a  press  release  that  the  Company  will  issue  on
+November 16, 2023 (the "Press Release") and a ﬁnancial presentation that will be ﬁrst posted by the Company on
+the Company’s website at http://stock.walmart.com on November 16, 2023 (the "Financial Presentation"). The Press
+Release and the Financial Presentation will disclose information regarding the Company's results of operations and
+cash  ﬂows  for  the  three  and  nine  months  ended  October  31,  2023,  and  the  Company's  ﬁnancial  condition  as  of
+October 31, 2023.
+
+In accordance with General Instruction B.2 of Form 8-K, the information in this Item 2.02 of this Current Report on
+Form 8-K, including Exhibits 99.1 and 99.2 hereto, which are furnished herewith pursuant to and relate to this Item
+2.02, shall not be deemed "ﬁled" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended
+(the "Exchange Act"), or otherwise be subject to the liabilities of Section 18 of the Exchange Act. The information in
+this  Item  2.02  of  this  Current  Report  on  Form  8-K  and  Exhibits  99.1  and  99.2  hereto  shall  not  be  incorporated  by
+reference  into  any  ﬁling  or  other  document  ﬁled  by  the  Company  with  the  SEC  pursuant  to  the  Securities  Act  of
+1933, as amended, the rules and regulations of the SEC thereunder, the Exchange Act, or the rules and regulations
+of the SEC thereunder except as shall be expressly set forth by speciﬁc reference in such ﬁling or document.
+
+Item 9.01. Financial Statements and Exhibits.
+
+(d)    Exhibits
+
+The following documents are furnished as exhibits to this Current Report on Form 8-K:
+
+99.1
+
+99.2
+Exhibit
+104
+
+Press Release
+
+Financial Presentation
+
+Cover Page Interactive Data File (formatted as Inline XBRL).
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+
+report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Dated: November 16, 2023
+
+SIGNATURES
+
+WALMART INC.
+
+By:
+/s/ John David Rainey
+Name: John David Rainey
+Title: Executive Vice President
+
+and
+Chief Financial Oﬃcer
+
+Walmart Reports
+Third Quarter
+Results
+
+• Strong revenue growth of 5.2% with strength
+
+across segments
+
+• eCommerce up 15% globally
+
+1
+• GAAP EPS of $0.17; Adjusted EPS of $1.53
+
+• Raises FY24 sales and Adjusted EPS guidance
+
+“ We had strong revenue growth across
+
+segments for the quarter, and we’re excited
+to get an early start to the holiday season.
+From a Thanksgiving meal that costs less than
+last year, to great prices on fashion, toys,
+electronics, and seasonal decorations, we’re
+here to help families from around the world
+make this a special time. Looking ahead, our
+inventory is in good shape, the teams are
+focused, and our associates are ready to
+serve our customers and members whenever
+and however they want to be served.”
+
+Doug McMillon
+President and CEO, Walmart
+
+BENTONVILLE, Ark., Nov 16, 2023 – Walmart
+Inc. (NYSE: WMT) announces third quarter
+results, including strong revenue growth of
+5.2%. The Company’s omnichannel model
+continues to resonate with customers
+helping to deliver strong comp sales,
+including 4.9%  for Walmart U.S. Looking
+ahead, the company raises its net sales
+guidance for FY24 to 5.0% to 5.5% as well
+as for adjusted EPS of $6.40 to $6.48.
+
+3
+
+Third Quarter Highlights
+
+•
+
+•
+
+•
+
+•
+
+Consolidated revenue of $160.8 billion, up
+1
+5.2%, or 4.3% in constant currency (“cc”)
+
+Consolidated gross margin rate up 32bps
+positively aﬀected by a slight improvement
+for Walmart U.S. and timing of Flipkart’s The
+Big Billion Days (“BBD”) event, which ﬂipped
+from Q3 last year to Q4 this year
+
+Consolidated operating expenses as a
+percentage of net sales down 182bps,
+lapping a discrete charge from last year. On
+an adjusted basis,  up 37bps on variable pay
+expenses and store remodels
+
+4
+
+Consolidated operating income up $3.5
+billion, or 130.1%, adjusted operating income
+up 3.0% positively aﬀected by the impact of
+currency and LIFO of 2.7% and 1.9%,
+respectively
+
+1 
+
+•
+
+ROA at 6.5%; ROI at 14.1% , up 130 bps
+
+1
+
+• Global advertising business  grew
+
+2
+
+approximately 20%, aﬀected by BBD moving
+to Q4 . Walmart Connect up 26%, Sam’s Club
+MAP up 27%
+
+• Walmart U.S. comp sales up 4.9% and
+eCommerce up 24%, led by pickup &
+delivery
+
+3 
+
+•
+
+1
+
+Adjusted EPS  of $1.53 excludes the eﬀects,
+net of tax, of $1.36 from net losses on equity
+and other investments
+
+1
+ See additional information at the end of the release regarding non-GAAP ﬁnancial measures.
+2
+ Our global advertising business is recorded in either net sales or as a reduction to cost of sales, depending on the nature of the advertising arrangement.
+3
+ Comp sales for the 13-week period ended October 27th, 2023 compared to the 13-week period ended October 28th, 2022, and excludes fuel. See
+Supplemental Financial Information for additional information.
+4
+ Adjusted operating expenses as a percentage of net sales for the comparable period excludes a 219 basis point impact for the opioid legal charges
+reﬂected in the non-GAAP reconciliation of adjusted operating income at the end of this release.
+“cc” - constant currency
+
+Key Financial Metrics
+Dollars in billions, except per share data. Dollar and percentage changes may not recalculate due to rounding. Charts may
+not be to scale.
+
+Balance Sheet and Liquidity
+• Cash and cash equivalents of $12.2 billion
+• Total debt of $55.4 billion
+• Operating cash ﬂow of $19.0 billion, an increase of $3.3 billion
+1
+Free cash ﬂow of $4.3 billion , an increase of $0.7 billion
+•
+• Repurchased 8.7 million shares YTD, or $1.3 billion
+Inventory of $64.0 billion, a decrease of $0.8 billion
+•
+
+3 
+
+2
+
+1
+ See additional information at the end of this release regarding non-GAAP ﬁnancial measures.
+2
+ Debt includes short-term borrowings, long-term debt due within one year, ﬁnance lease obligations due within one year, long-term debt and long-term
+ﬁnance lease obligations.
+3
+ $18.1 billion remaining of $20 billion authorization approved in November 2022.
+NM = Not Meaningful
+
+2
+
+Business Highlights
+and Strategic Initiatives
+
+Dollars in billions, except as noted. Dollar and percentage changes may not
+recalculate due to rounding.
+
+Walmart U.S.
+
+Net sales
+Comp sales (ex. fuel)
+
+2
+
+Transactions
+Average Ticket
+eCommerce contribution to
+comp
+
+Operating income
+
+FY’24Q3
+$109.4
+4.9%
+3.4%
+1.5%
+
+~300 bps
+$5.0
+
+FY’23Q3
+$104.8
+8.2%
+2.1%
+6.0%
+
+~80 bps
+$5.1
+
+Change
+
+4.4%
+NP
+NP
+NP
+
+NP
+-2.2%
+
+$4.6
+NP
+NP
+NP
+
+NP
+-$0.1
+
+Walmart U.S.
+• Delivered strong growth in transaction count both in-store and digitally; strong share gains in grocery
+• Growth in eCommerce of 24%, led by strength in pickup & delivery
+• Walmart Connect advertising sales grew 26%
+• Sales strength led by grocery and health & wellness, while general merchandise sales declined modestly
+• Gross proﬁt rate increased 5 bps; operating expense deleverage of 35 bps
+•
+
+Inventory declined 5% with higher in-stock levels
+
+Walmart International
+
+Net sales
+Net sales cc
+Operating income
+Operating income cc
+
+1
+
+1
+
+FY’24Q3
+$28.0
+$26.7
+$1.1
+$1.0
+
+FY’23Q3
+$25.3
+$25.3
+$0.9
+$0.9
+
+Change
+
+10.8%
+5.4%
+29.7%
+10.7%
+
+$2.7
+$1.4
+$0.3
+$0.1
+
+Walmart International
+1
+• Growth in net sales cc  led by Walmex and China
+
+◦
+
+Timing of BBD aﬀected Q3 growth and will beneﬁt growth for Q4
+
+•
+
+eCommerce sales declined 3%, while advertising  grew 4%; both aﬀected by the timing of BBD
+
+3
+
+◦ Other than India, strong growth in eCommerce sales and increased penetration across markets
+◦ Growth in eCommerce sales and advertising  for 2H expected to be similar to 1H
+
+3
+
+• Gross margin rate increased 151 bps, mostly due to the timing of BBD
+• Operating expense deleverage of 75 bps, mostly due to the timing of BBD
+• Operating income cc  up 10.7% with strength across markets
+
+1
+
+1
+ See additional information at the end of this release regarding non-GAAP ﬁnancial measures.
+2
+ Comp sales for the 13-week period ended October 27th, 2023 compared to the 13-week period ended October 28th, 2022, and excludes fuel. See
+Supplemental Financial Information for additional information.
+3
+ Our global advertising business is recorded in either net sales or as a reduction to cost of sales, depending on the nature of the advertising arrangement.
+NP - Not provided
+cc - constant currency
+
+3
+
+Sam’s Club U.S.
+
+Net sales
+Net sales (ex. fuel)
+Comp sales (ex. fuel)
+
+1
+
+Transactions
+Average Ticket
+eCommerce contribution to
+comp
+
+Operating income
+
+FY’24Q3
+$22.0
+$18.9
+3.8%
+4.0%
+-0.2%
+
+FY’23Q3
+$21.4
+$18.3
+10.0%
+4.8%
+4.9%
+
+~170 bps
+$0.6
+
+~120 bps
+$0.6
+
+Change
+
+2.8%
+3.2%
+NP
+NP
+NP
+
+NP
+5.5%
+
+$0.6
+$0.6
+NP
+NP
+NP
+
+NP
+$0.0
+
+Sam’s Club U.S.
+• Solid comp sales, led by food and consumables, and healthcare as well as positive unit growth overall
+• Gained dollar and unit market share in grocery and general merchandise categories including apparel and
+
+automotive
+
+• Growth in eCommerce of 16% led by curbside and delivery
+• Strong growth in membership income, up 7.2%, with record total membership and Plus penetration at
+
+quarter end
+
+• Advertising business  up 27% with record number of advertisers investing with MAP
+
+2
+
+1
+ Comp sales for the 13-week period ended October 27th, 2023 compared to the 13-week period ended October 28th, 2022, and excludes fuel. See
+Supplemental Financial Information for additional information.
+2
+ Our global advertising business is recorded in either net sales or as a reduction to cost of sales, depending on the nature of the advertising arrangement.
+NP - Not provided
+
+4
+
+Guidance
+
+The following guidance reﬂects the Company’s expectations for ﬁscal year 2024 and is provided
+on a non-GAAP basis as the Company cannot predict certain elements that are included in
+reported GAAP results, such as the changes in fair value of the Company’s equity and other
+investments. Growth rates reﬂect an adjusted basis for prior year results. Additionally, the
+Company’s guidance assumes a generally stable consumer and continued pressure from its mix
+of products and formats globally. The Company’s ﬁscal year guidance is based on the following
+previously disclosed FY23 ﬁgures: Net sales: $605.9 billion, adjusted operating income : $24.6
+billion, and adjusted EPS : $6.29.
+
+1
+
+1
+
+Fiscal Year 2024
+
+Metric
+
+FY 2024
+
+Increase approximately 5.0% to 5.5%
+
+Consolidated net sales (cc)
+Consolidated operating income (cc) Increase approximately 7.0% to 7.5%, including expected 70bps tailwind from LIFO
+Interest, net
+Eﬀective tax rate
+Non-controlling interest
+
+Increase approximately $300M vs. LY
+Unchanged at approximately 26.5%
+Approximately $0.27 headwind to EPS vs. LY
+$6.40 to $6.48, including expected $0.03 headwind from current year LIFO charges, $0.04
+beneﬁt YOY
+Unchanged from prior guidance at ﬂat to up slightly vs. LY
+
+Adjusted EPS
+Capital expenditures
+1
+ For relevant reconciliations, see Q4 FY23 earnings release furnished on Form 8-K on February 21, 2023.
+cc - constant currency
+
+5
+
+About Walmart
+
+Walmart Inc. (NYSE: WMT) is a people-led, tech-powered omnichannel retailer helping people
+save money and live better - anytime and anywhere - in stores, online, and through their mobile
+devices. Each week, approximately 240 million customers and members visit approximately
+10,500 stores and numerous eCommerce websites in 19 countries. With ﬁscal year 2023 revenue
+of $611 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart
+continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.
+Additional information about Walmart can be found by visiting corporate.walmart.com, on
+Facebook at facebook.com/walmart, on X (formerly known as Twitter) at twitter.com/walmart, and
+on LinkedIn at linkedin.com/company/walmart.
+
+Investor Relations contact: Steph Wissink – ir@walmart.com
+Media Relations contact: Randy Hargrove – (800) 331-0085
+
+6
+
+Forward-Looking
+Statements
+
+This release and related management commentary contains statements or may include or may incorporate by
+reference Walmart management’s guidance regarding adjusted earnings per share, consolidated net sales,
+consolidated operating income and consolidated adjusted operating income, consolidated operating expense, net
+interest expenses, non-controlling interest, capital expenditures, share repurchases, Walmart’s eﬀective tax rate for
+the ﬁscal year ending January 31, 2024, and comparable sales, among other items. Walmart believes such
+statements may be deemed to be "forward-looking statements" within the meaning of Section 21E of the Securities
+Exchange Act of 1934, as amended (the "Act") and are intended to enjoy the protection of the safe harbor for
+forward-looking statements provided by the Act as well as protections aﬀorded by other federal securities laws.
+Assumptions on which such forward-looking statements are based are also forward-looking statements. Such forward-
+looking statements are not statements of historical facts, but instead express our estimates or expectations for our
+consolidated, or one of our segment's or business’, economic performance or results of operations for future periods
+or as of future dates or events or developments that may occur in the future or discuss our plans, objectives or goals.
+Our actual results may diﬀer materially from those expressed in or implied by any of these forward-looking
+statements as a result of changes in circumstances, assumptions not being realized or other risks, uncertainties and
+factors including: capital markets and business conditions; trends and events around the world and in the markets in
+which we operate; currency exchange rate ﬂuctuations, changes in market interest rates and market levels of wages;
+changes in the size of various markets, including eCommerce markets; unemployment levels; inﬂation or deﬂation,
+generally and in particular product categories; consumer conﬁdence, disposable income, credit availability, spending
+levels, shopping patterns, debt levels and demand for certain merchandise; the eﬀectiveness of the implementation
+and operation of our strategies, plans, programs and initiatives; unexpected changes in our objectives and plans; the
+impact of acquisitions, investments, divestitures, and other strategic decisions; our ability to successfully integrate
+acquired businesses; changes in the trading prices or fair value of certain equity investments we hold; initiatives of
+competitors, competitors' entry into and expansion in our markets, and competitive pressures; customer traﬃc and
+average transactions in our stores and clubs and on our eCommerce websites; the mix of merchandise we sell, the
+cost of goods we sell and the shrinkage we experience; our gross proﬁt margins; the ﬁnancial performance of
+Walmart and each of its segments, including the amounts of our cash ﬂow during various periods; the amount of our
+net sales and operating expenses denominated in the U.S. dollar and various foreign currencies; commodity prices
+and the price of gasoline and diesel fuel; challenges with our supply chain, including disruptions and issues relating to
+inventory management; disruptions in seasonal buying patterns; the availability of goods from suppliers and the cost
+of goods acquired from suppliers; our ability to respond to changing trends in consumer shopping habits; consumer
+acceptance of and response to our stores, clubs, eCommerce platforms, programs, merchandise oﬀerings and
+delivery methods; cyber security events aﬀecting us and related costs and impact to the business; developments in,
+outcomes of, and costs incurred in legal or regulatory proceedings to which we are a party or are subject, and the
+liabilities, obligations and expenses, if any, that we may incur in connection therewith; casualty and accident related
+costs and insurance costs; the turnover in our workforce and labor costs, including healthcare and other beneﬁt costs;
+our eﬀective tax rate and the factors aﬀecting our eﬀective tax rate, including assessments of certain tax
+contingencies, valuation allowances, changes in law, administrative audit outcomes, impact of discrete items and the
+mix of earnings between the U.S. and Walmart's international operations; changes in existing tax, labor and other
+laws and regulations and changes in tax rates including the enactment of laws and the adoption and interpretation of
+administrative rules and regulations; the imposition of new taxes on imports, new tariﬀs and changes in existing tariﬀ
+rates; the imposition of new trade restrictions and changes in existing trade restrictions; adoption or creation of new,
+and modiﬁcation of existing, governmental policies, programs, initiatives and actions in the markets in which Walmart
+operates and elsewhere and actions with respect to such policies, programs and initiatives; changes in accounting
+estimates or judgments; the level of public assistance payments; natural disasters, changes in climate, geopolitical
+events, global health epidemics or pandemics (such as the COVID-19 pandemic) and catastrophic events; and
+changes in generally accepted accounting principles in the United States.
+
+Our most recent annual report on Form 10-K and subsequent quarterly reports on Form 10-Q ﬁled with the SEC
+discuss other risks and factors that could cause actual results to diﬀer materially from those expressed or implied by
+any forward-looking statement in the release and related management commentary. We urge you to consider all of
+the risks, uncertainties and factors identiﬁed above or discussed in such reports carefully in evaluating the forward-
+looking statements in this release. Walmart cannot assure you that the results reﬂected in or implied by any forward-
+looking statement will be realized or, even if substantially realized, that those results will have the forecasted or
+expected consequences and eﬀects for or on our operations or ﬁnancial performance. The forward-looking statements
+made today are as of the date of this release. Walmart undertakes no obligation to update these forward-looking
+statements to reﬂect subsequent events or circumstances.
+
+7
+
+Walmart Inc.
+Condensed Consolidated Statements of Income
+(Unaudited)
+
+(Amounts in millions, except per share data)
+Revenues:
+
+Net sales
+Membership and other income
+
+Total revenues
+Costs and expenses:
+Cost of sales
+Operating, selling, general and administrative expenses
+
+Operating income
+Interest:
+Debt
+Finance lease obligations
+Interest income
+
+Interest, net
+
+Other (gains) and losses
+Income (loss) before income taxes
+Provision for income taxes
+
+Consolidated net income (loss)
+Consolidated net income attributable to noncontrolling interest
+
+Consolidated net income (loss) attributable to Walmart
+
+Net income (loss) per common share:
+
+Basic net income (loss) per common share attributable to Walmart
+Diluted net income (loss) per common share attributable to Walmart
+
+$
+
+$
+$
+
+Three Months Ended
+October 31,
+
+Nine Months Ended
+October 31,
+
+2023
+
+2022
+
+Percent
+Change
+
+2023
+
+2022
+
+Percent
+Change
+
+$ 159,439  $ 151,469 
+1,344 
+
+1,365 
+
+5.3 % $ 470,723  $ 443,138 
+4,103 
+4,014 
+1.6 %
+
+160,804 
+
+152,813 
+
+5.2 %
+
+474,737 
+
+447,241 
+
+121,183 
+33,419 
+6,202 
+
+115,613 
+34,505 
+2,695 
+
+4.8 %
+(3.1)%
+130.1 %
+
+358,317 
+96,662 
+19,758 
+
+338,298 
+94,076 
+14,867 
+
+572 
+110 
+(145)
+537 
+4,750 
+
+915 
+272 
+
+643 
+(190)
+
+499 
+85 
+(84)
+500 
+3,626 
+
+(1,431)
+336 
+
+(1,767)
+(31)
+
+14.6 %
+29.4 %
+72.6 %
+7.4 %
+31.0 %
+
+NM
+(19.0)%
+
+NM
+512.9 %
+
+1,683 
+305 
+(400)
+1,588 
+3,840 
+
+14,330 
+3,738 
+
+10,592 
+(575)
+
+1,266 
+252 
+(151)
+1,367 
+5,386 
+
+8,114 
+2,631 
+
+5,483 
+(78)
+
+453  $ (1,798)
+
+NM $ 10,017  $
+
+5,405 
+
+6.2 %
+(2.2)%
+
+6.1 %
+
+5.9 %
+2.7 %
+32.9 %
+
+32.9 %
+21.0 %
+164.9 %
+16.2 %
+(28.7)%
+
+76.6 %
+42.1 %
+
+93.2 %
+637.2 %
+
+85.3 %
+
+0.17  $
+0.17  $
+
+(0.66)
+(0.66)
+
+NM $
+NM $
+
+3.72  $
+3.71  $
+
+1.98 
+1.97 
+
+87.9 %
+88.3 %
+
+Weighted-average common shares outstanding:
+
+Basic
+Diluted
+
+2,693 
+2,703 
+
+2,711 
+2,711 
+
+2,693 
+2,703 
+
+2,733 
+2,743 
+
+Dividends declared per common share
+
+$
+
+—  $
+
+— 
+
+$
+
+2.28  $
+
+2.24 
+
+NM = Not Meaningful
+
+8
+
+Walmart Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+
+(Amounts in millions)
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+Receivables, net
+Inventories
+Prepaid expenses and other
+Total current assets
+
+Property and equipment, net
+Operating lease right-of-use assets
+Finance lease right-of-use assets, net
+Goodwill
+Other long-term assets
+
+Total assets
+
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND EQUITY
+Current liabilities:
+
+Short-term borrowings
+Accounts payable
+Dividends payable
+Accrued liabilities
+Accrued income taxes
+Long-term debt due within one year
+Operating lease obligations due within one year
+Finance lease obligations due within one year
+
+Total current liabilities
+
+Long-term debt
+Long-term operating lease obligations
+Long-term ﬁnance lease obligations
+Deferred income taxes and other
+
+Commitments and contingencies
+
+Redeemable noncontrolling interest
+
+Equity:
+
+Common stock
+Capital in excess of par value
+Retained earnings
+
+Accumulated other comprehensive loss
+Total Walmart shareholders’ equity
+Nonredeemable noncontrolling interest
+
+Total equity
+
+October 31,
+2023
+
+January 31,
+2023
+
+October 31,
+2022
+
+$
+
+12,154  $
+
+8,625 
+63,951 
+3,661 
+88,391 
+
+107,471 
+13,547 
+5,806 
+28,015 
+15,944 
+
+8,625  $
+7,933 
+56,576 
+2,521 
+75,655 
+
+100,760 
+13,555 
+4,919 
+28,174 
+20,134 
+
+$
+
+259,174  $
+
+243,197  $
+
+$
+
+9,942  $
+
+372  $
+
+61,049 
+1,533 
+26,132 
+606 
+2,806 
+1,474 
+688 
+104,230 
+
+36,342 
+12,817 
+5,670 
+14,304 
+
+53,742 
+— 
+31,126 
+727 
+4,191 
+1,473 
+567 
+92,198 
+
+34,649 
+12,828 
+4,843 
+14,688 
+
+11,587 
+8,218 
+64,706 
+3,169 
+87,680 
+
+97,553 
+13,394 
+4,597 
+28,137 
+16,295 
+247,656 
+
+6,811 
+57,263 
+1,527 
+27,443 
+900 
+5,458 
+1,457 
+549 
+101,408 
+
+33,935 
+12,658 
+4,512 
+14,760 
+
+228 
+
+237 
+
+260 
+
+269 
+4,929 
+85,831 
+(11,573)
+
+79,456 
+6,127 
+
+85,583 
+
+269 
+4,969 
+83,135 
+(11,680)
+
+76,693 
+7,061 
+
+83,754 
+
+270 
+4,817 
+77,946 
+(10,780)
+
+72,253 
+7,870 
+
+80,123 
+
+Total liabilities, redeemable noncontrolling interest, and equity
+
+$
+
+259,174  $
+
+243,197  $
+
+247,656 
+
+9
+
+Walmart Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+
+(Amounts in millions)
+Cash ﬂows from operating activities:
+
+Consolidated net income
+Adjustments to reconcile consolidated net income to net cash provided by operating activities:
+
+Depreciation and amortization
+Investment (gains) and losses, net
+Deferred income taxes
+Other operating activities
+Changes in certain assets and liabilities, net of eﬀects of acquisitions and dispositions:
+
+Receivables, net
+Inventories
+Accounts payable
+Accrued liabilities
+Accrued income taxes
+
+Net cash provided by operating activities
+
+Cash ﬂows from investing activities:
+
+Payments for property and equipment
+Proceeds from the disposal of property and equipment
+Proceeds from disposal of certain operations
+Payments for business acquisitions, net of cash acquired
+Other investing activities
+
+Net cash used in investing activities
+
+Cash ﬂows from ﬁnancing activities:
+Net change in short-term borrowings
+Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Dividends paid
+Purchase of Company stock
+Dividends paid to noncontrolling interest
+Sale of subsidiary stock
+Purchase of noncontrolling interest
+
+Other ﬁnancing activities
+Net cash used in ﬁnancing activities
+
+Nine Months Ended
+October 31,
+
+2023
+
+2022
+
+$
+
+10,592  $
+
+5,483 
+
+8,736 
+4,028 
+(669)
+1,412 
+
+(671)
+(7,321)
+7,346 
+(4,295)
+(144)
+
+19,014 
+
+(14,674)
+163 
+135 
+(9)
+(989)
+
+(15,374)
+
+9,583 
+4,967 
+(4,213)
+(4,606)
+(1,282)
+(218)
+707 
+(3,462)
+(1,655)
+
+(179)
+
+8,134 
+5,611 
+28 
+921 
+
+(59)
+(9,008)
+3,183 
+1,354 
+51 
+
+15,698 
+
+(12,061)
+126 
+— 
+(730)
+(300)
+
+(12,965)
+
+6,451 
+4,969 
+(1,439)
+(4,600)
+(8,708)
+(16)
+55 
+— 
+(2,293)
+
+(5,581)
+
+Eﬀect of exchange rates on cash, cash equivalents and restricted cash
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+Cash, cash equivalents and restricted cash at beginning of year
+
+Cash, cash equivalents and restricted cash at end of period
+
+(7)
+
+(331)
+
+3,454 
+8,841 
+
+$
+
+12,295  $
+
+(3,179)
+14,834 
+
+11,655 
+
+10
+
+Walmart Inc.
+Supplemental Financial Information
+(Unaudited)
+
+Net sales and operating income
+
+(dollars in millions)
+Walmart U.S.
+Walmart International
+Sam’s Club
+Corporate and support
+Consolidated
+
+Net sales
+Three Months Ended
+October 31,
+
+Operating income (loss)
+Three Months Ended
+October 31,
+
+$
+
+2023
+109,419  $
+28,022 
+21,998 
+— 
+
+$
+
+159,439  $
+
+2022
+104,775 
+25,295 
+21,399 
+— 
+151,469 
+
+Percent
+Change
+
+4.4 % $
+
+10.8 %
+2.8 %
+— 
+
+5.3 % $
+
+2023
+
+2022
+
+4,981  $
+1,117 
+593 
+(489)
+6,202  $
+
+5,093 
+861 
+562 
+(3,821)
+2,695 
+
+Percent
+Change
+
+-2.2 %
+29.7 %
+5.5 %
+-87.2 %
+130.1 %
+
+U.S. comparable sales results
+
+Walmart U.S.
+Sam’s Club
+
+Total U.S.
+
+With Fuel
+13 Weeks Ended
+
+Without Fuel
+13 Weeks Ended
+
+Fuel Impact
+13 Weeks Ended
+
+10/27/2023
+
+10/28/2022
+
+10/27/2023
+
+10/28/2022
+
+10/27/2023
+
+10/28/2022
+
+5.0 %
+3.3 %
+4.7 %
+
+8.5 %
+12.7 %
+9.2 %
+
+4.9 %
+3.8 %
+4.7 %
+
+8.2 %
+10.0 %
+8.5 %
+
+0.1 %
+-0.5 %
+0.0 %
+
+0.3 %
+2.7 %
+0.7 %
+
+Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the change in sales for
+such stores and clubs, and it is important to review in conjunction with the company’s ﬁnancial results reported in accordance with
+GAAP. Walmart's deﬁnition of comparable sales includes sales from stores and clubs open for the previous 12 months, including
+remodels, relocations, expansions and conversions, as well as eCommerce sales. Comparable sales excluding fuel is also an
+important, separate metric that indicates the performance of our existing stores and clubs without considering fuel, which is
+volatile and unpredictable. Other companies in our industry may calculate comparable sales diﬀerently, limiting the comparability
+of the metric.
+
+11
+
+ 
+ 
+Walmart Inc.
+Reconciliations of and Other Information Regarding
+Non-GAAP Financial Measures
+(Unaudited)
+
+The following information provides reconciliations of certain non-GAAP ﬁnancial measures presented in the press release to which
+this reconciliation is attached to the most directly comparable ﬁnancial measures calculated and presented in accordance with
+generally accepted accounting principles (GAAP). The company has provided the non-GAAP ﬁnancial information presented in the
+press release, which is not calculated or presented in accordance with GAAP, as information supplemental and in addition to the
+ﬁnancial measures presented in the press release that are calculated and presented in accordance with GAAP. Such non-GAAP
+ﬁnancial measures should not be considered superior to, as a substitute for or alternative to, and should be considered in
+conjunction with, the GAAP ﬁnancial measures presented in the press release. The non-GAAP ﬁnancial measures in the press
+release may diﬀer from similar measures used by other companies.
+
+Constant currency
+In discussing our operating results, the term currency exchange rates refers to the currency exchange rates we use to convert the
+operating results for countries where the functional currency is not the U.S. dollar into U.S. dollars. We calculate the eﬀect of
+changes in currency exchange rates as the diﬀerence between current period activity translated using the current period's
+currency exchange rates and the comparable prior year period's currency exchange rates. Additionally, no currency exchange rate
+ﬂuctuations are calculated for non-USD acquisitions until owned for 12 months.
+
+Throughout our discussion, we refer to the results of this calculation as the impact of currency exchange rate ﬂuctuations. When
+we refer to constant currency operating results, this means operating results without the impact of the currency exchange rate
+ﬂuctuations. The disclosure of constant currency amounts or results permits investors to better understand Walmart’s underlying
+performance without the eﬀects of currency exchange rate ﬂuctuations.
+
+The table below reﬂects the calculation of constant currency for total revenues, net sales and operating income for the three and
+nine months ended October 31, 2023.
+
+(Dollars in millions)
+Total revenues:
+As reported
+Currency exchange rate ﬂuctuations
+
+Total revenues (cc)
+
+Net sales:
+As reported
+Currency exchange rate ﬂuctuations
+Net sales (cc)
+
+Operating income:
+As reported
+Currency exchange rate ﬂuctuations
+Operating income (cc)
+
+Three Months Ended October 31, 2023
+Consolidated
+
+Walmart International
+
+Nine Months Ended October 31, 2023
+Consolidated
+
+Walmart International
+
+2023
+
+Percent
+1
+Change
+
+2023
+
+Percent
+1
+Change
+
+2023
+
+Percent
+1
+Change
+
+2023
+
+Percent
+1
+Change
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+28,368 
+(1,366)
+27,002 
+
+10.6 % $ 160,804 
+(1,366)
+5.3 % $ 159,438 
+
+N/A
+
+5.2 % $
+N/A
+4.3 % $
+
+83,277 
+(1,712)
+81,565 
+
+11.6 % $ 474,737 
+(1,712)
+9.3 % $ 473,025 
+
+N/A
+
+28,022 
+(1,357)
+26,665 
+
+10.8 % $ 159,439 
+(1,357)
+5.4 % $ 158,082 
+
+N/A
+
+5.3 % $
+N/A
+4.4 % $
+
+82,222 
+(1,706)
+80,516 
+
+12.0 % $ 470,723 
+(1,706)
+9.7 % $ 469,017 
+
+N/A
+
+6.1 %
+N/A
+5.8 %
+
+6.2 %
+N/A
+5.8 %
+
+1,117 
+(164)
+953 
+
+29.7 % $
+N/A
+10.7 % $
+
+6,202 
+(164)
+6,038 
+
+130.1 % $
+N/A
+124.0 % $
+
+3,471 
+(360)
+3,111 
+
+29.7 % $
+N/A
+16.3 % $
+
+19,758 
+(360)
+19,398 
+
+32.9 %
+N/A
+30.5 %
+
+1 
+
+Change versus prior year comparable period reported results.
+
+N/A - Not applicable
+
+12
+
+Adjusted operating income
+
+Adjusted operating income is considered a non-GAAP ﬁnancial measure under the SEC’s rules because it excludes certain charges
+included in operating income calculated in accordance with GAAP. Management believes that adjusted operating income is a
+meaningful measure to share with investors because it best allows comparison of the performance with that of the comparable
+period. In addition, adjusted operating income aﬀords investors a view of what management considers Walmart’s core earnings
+performance and the ability to make a more informed assessment of such core earnings performance as compared with that of the
+prior year.
+
+When we refer to adjusted operating income in constant currency, this means adjusted operating results without the impact of the
+currency exchange rate ﬂuctuations. The disclosure of constant currency amounts or results permits investors to better understand
+Walmart’s underlying performance without the eﬀects of currency exchange rate ﬂuctuations. The tables below reﬂect the
+calculation of adjusted operating income and adjusted operating income in constant currency for the three and nine months ended
+October 31, 2023 and 2022.
+
+(Dollars in millions)
+Operating income:
+Operating income, as reported
+
+Opioid legal charges
+
+1
+
+Adjusted operating income
+
+Percent change
+
+2
+
+Currency exchange rate ﬂuctuations
+
+Adjusted operating income, constant currency
+
+Percent change
+
+2
+
+(Dollars in millions)
+Operating income:
+Operating income, as reported
+
+Opioid legal charges
+
+1
+
+Adjusted operating income
+
+Percent change
+
+2
+
+Currency exchange rate ﬂuctuations
+
+Adjusted operating income, constant currency
+
+Percent change
+
+2
+
+Three Months Ended October 31,
+Consolidated
+
+2023
+
+2022
+
+$
+
+$
+
+$
+
+6,202 
+— 
+6,202 
+
+3.0 %
+
+(164)
+6,038 
+
+0.3 %
+
+$
+
+$
+
+$
+
+2,695 
+3,325 
+6,020 
+NP
+— 
+6,020 
+NP
+
+Nine Months Ended October 31,
+Consolidated
+
+2023
+
+2022
+
+$
+
+$
+
+$
+
+19,758 
+93 
+19,851 
+
+9.1 %
+
+(360)
+19,491 
+
+7.1 %
+
+$ 14,867 
+3,325 
+$ 18,192 
+NP
+— 
+$ 18,192 
+NP
+
+1 
+
+2 
+
+Recorded in Corporate and support.
+Change versus prior year comparable period.
+
+NP - Not provided
+
+13
+
+Free cash ﬂow
+
+We deﬁne free cash ﬂow as net cash provided by operating activities in a period minus payments for property and equipment
+made in that period. Net cash provided by operating activities was $19.0 billion for the nine months ended October 31, 2023,
+which represents an increase of $3.3 billion when compared to the same period in the prior year. The increase is primarily due to
+timing of certain payments and moderated levels of inventory purchases, partially oﬀset by payment of the remaining accrued
+opioid legal charges. Free cash ﬂow for the nine months ended October 31, 2023 was $4.3 billion, which represents an increase of
+$0.7 billion when compared to the same period in the prior year. The increase in free cash ﬂow is due to the increase in operating
+cash ﬂows described above, partially oﬀset by an increase of $2.6 billion in capital expenditures to support our investment
+strategy.
+
+Free cash ﬂow is considered a non-GAAP ﬁnancial measure. Management believes, however, that free cash ﬂow, which measures
+our ability to generate additional cash from our business operations, is an important ﬁnancial measure for use in evaluating the
+Company's ﬁnancial performance. Free cash ﬂow should be considered in addition to, rather than as a substitute for, consolidated
+net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity.
+
+Additionally, Walmart’s deﬁnition of free cash ﬂow is limited, in that it does not represent residual cash ﬂows available for
+discretionary expenditures, due to the fact that the measure does not deduct the payments required for debt service and other
+contractual obligations or payments made for business acquisitions. Therefore, we believe it is important to view free cash ﬂow as
+a measure that provides supplemental information to our Condensed Consolidated Statements of Cash Flows.
+
+Although other companies report their free cash ﬂow, numerous methods may exist for calculating a company’s free cash ﬂow. As
+a result, the method used by Walmart’s management to calculate our free cash ﬂow may diﬀer from the methods used by other
+companies to calculate their free cash ﬂow.
+
+The following table sets forth a reconciliation of free cash ﬂow, a non-GAAP ﬁnancial measure, to net cash provided by operating
+activities, which we believe to be the GAAP ﬁnancial measure most directly comparable to free cash ﬂow, as well as information
+regarding net cash used in investing activities and net cash used in ﬁnancing activities.
+
+(Dollars in millions)
+Net cash provided by operating activities
+Payments for property and equipment (capital expenditures)
+
+Free cash ﬂow
+
+Net cash used in investing activities
+Net cash used in ﬁnancing activities
+
+1
+
+Nine Months Ended
+October 31,
+
+2023
+
+2022
+
+19,014  $
+(14,674)
+
+4,340  $
+
+15,698 
+(12,061)
+3,637 
+
+(15,374) $
+(179)
+
+(12,965)
+(5,581)
+
+$
+
+$
+
+$
+
+1 
+
+"Net Cash used in investing activities" includes payments for property and equipment, which is also included in our computation of free cash ﬂow.
+
+14
+
+ 
+Adjusted EPS
+
+Adjusted diluted earnings per share attributable to Walmart (Adjusted EPS) is considered a non-GAAP ﬁnancial measure under the
+SEC’s rules because it excludes certain amounts included in the diluted earnings per share attributable to Walmart calculated in
+accordance with GAAP (EPS), the most directly comparable ﬁnancial measure calculated in accordance with GAAP. Management
+believes that Adjusted EPS is a meaningful measure to share with investors because it best allows comparison of the performance
+with that of the comparable period. In addition, Adjusted EPS aﬀords investors a view of what management considers Walmart’s
+core earnings performance and the ability to make a more informed assessment of such core earnings performance with that of the
+prior year.
+
+We adjust for the unrealized and realized gains and losses on our equity and other investments each quarter because although the
+investments are strategic decisions for the company’s retail operations, management’s measurement of each strategy is primarily
+focused on the operational results rather than the fair value of such investments. Additionally, management does not forecast
+changes in the fair value of its equity and other investments. Accordingly, management adjusts EPS each quarter for the unrealized
+and realized gains and losses related to those equity investments.
+
+We have calculated Adjusted EPS for the three and nine months ended October 31, 2023 by adjusting EPS for the following:
+
+1.
+
+2.
+
+unrealized and realized gains and losses on the Company’s equity and other investments; and
+
+incremental opioid settlement expense.
+
+Three Months Ended October 31, 2023
+
+4
+
+Diluted earnings per share:
+
+Reported EPS
+
+Adjustments:
+
+Unrealized and realized (gains) and losses on equity and other investments
+
+5
+
+Pre-Tax
+Impact
+1.76
+
+Tax
+Impact
+(0.41)
+
+1,2
+
+NCI
+Impact
+0.01
+
+3
+
+Adjusted EPS
+
+Diluted earnings per share:
+
+Reported EPS
+
+Nine Months Ended October 31, 2023
+
+4
+
+Adjustments:
+
+Unrealized and realized (gains) and losses on equity and other investments
+Incremental opioid settlement expense
+
+6
+
+Pre-Tax
+Impact
+1.45
+0.04
+
+1,2
+
+Tax
+Impact
+(0.34)
+(0.01)
+
+3
+
+NCI
+Impact
+—
+—
+
+Net adjustments
+
+Adjusted EPS
+
+1
+ Tax impact calculated based on nature of item, including any realizable deductions, and statutory rate in eﬀect for relevant jurisdictions.
+2
+ The reported eﬀective tax rate was 29.7% and 26.1% for the three and nine months ended October 31, 2023, respectively. Adjusted for the above items, the
+eﬀective tax rate was 24.1% and 25.5% for the three and nine months ended October 31, 2023, respectively.
+
+3
+ Calculated based on the ownership percentages of our noncontrolling interests.
+4 
+Quarterly adjustments or adjusted EPS may not sum to YTD adjustments or YTD adjusted EPS due to rounding. Additionally, the individual components in the
+tables above may include immaterial rounding.
+For the three months ended October 31, 2023, net losses were primarily driven by decreases in the underlying stock prices of our investments in JD.com and
+Symbotic.
+
+5 
+
+6 
+
+For the nine months ended October 31, 2023, net losses were primarily driven by a decrease in the underlying stock price of our investment in JD.com, partially
+oﬀset by an increase in the underlying stock price of our investment in Symbotic.
+
+15
+
+$0.17
+
+Net
+Impact
+1.36
+
+$1.53
+
+$3.71
+
+Net
+Impact
+1.11
+0.03
+$1.14
+
+$4.85
+
+As previously disclosed in our third quarter ended October 31, 2022 press release, we have calculated Adjusted EPS for the three
+and nine months ended October 31, 2022 by adjusting EPS for the following: (1) unrealized and realized gains and losses on the
+company’s equity and other investments; (2) gain on sale of equity method investment in Brazil; (3) a discrete tax item; and (4)
+opioid legal charges.
+
+Three Months Ended October 31, 2022
+
+Diluted earnings per share:
+
+Reported EPS
+
+Adjustments:
+
+Unrealized and realized (gains) and losses on equity and other investments
+Opioid legal charges
+Net adjustments
+
+4
+
+6
+
+Pre-Tax
+Impact
+$1.34
+1.22
+
+Tax
+Impact
+
+1, 2
+
+$(0.24)
+(0.17)
+
+3
+
+NCI
+Impact
+$0.01
+—
+
+$(0.66)
+
+Net
+Impact
+$1.11
+1.05
+$2.16
+
+$1.50
+
+Adjusted EPS
+
+4
+
+Diluted earnings per share:
+
+Reported EPS
+
+Adjustments:
+
+Unrealized and realized (gains) and losses on equity and other investments
+
+6
+
+Gain on sale of equity method investment in Brazil
+Discrete tax item
+Opioid legal charges
+Net adjustments
+
+Adjusted EPS
+
+Nine Months Ended October 31, 2022
+
+5
+
+Pre-Tax
+Impact
+$2.18
+(0.16)
+—
+1.21
+
+Tax
+Impact
+
+1, 2
+
+$(0.40)
+—
+(0.06)
+(0.17)
+
+3
+
+NCI
+Impact
+$—
+—
+—
+—
+
+$1.97
+
+Net
+Impact
+$1.78
+(0.16)
+(0.06)
+1.04
+$2.60
+
+$4.57
+
+1
+ Tax impact calculated based on nature of item, including any realizable deductions, and statutory rate in eﬀect for relevant jurisdictions. No tax expense was
+incurred in connection with the gain on sale of equity method investment in Brazil.
+
+2 
+
+The reported eﬀective tax rate was (23.5%) and 32.4% for the three and nine months ended October 31, 2022, respectively. Adjusted for the above items, the
+eﬀective tax rate was 25.9% and 25.7% for the three and nine months ended October 31, 2022, respectively.
+
+3
+ Calculated based on the ownership percentages of our noncontrolling interests.
+4
+ Adjusted EPS for the three months ended October 31, 2022 was calculated using weighted average shares outstanding of 2,720 million, which includes the dilutive
+impact of share-based payment awards.
+
+5 
+
+6 
+
+Quarterly adjustments or adjusted EPS may not sum to YTD adjustments or YTD adjusted EPS due to rounding.
+For the three and nine months ended October 31, 2022, net losses were primarily driven by decreases in the underlying stock price of our investment in JD.com.
+
+16
+
+Return on investment
+
+We include return on assets ("ROA"), which is calculated in accordance with U.S. generally accepted accounting principles ("GAAP")
+as well as return on investment ("ROI") as measures to assess returns on assets. Management believes ROI is a meaningful
+measure to share with investors because it helps investors assess how eﬀectively Walmart is deploying its assets. Trends in ROI
+can ﬂuctuate over time as management balances long-term strategic initiatives with possible short-term impacts. We consider ROA
+to be the ﬁnancial measure computed in accordance with GAAP that is the most directly comparable ﬁnancial measure to our
+calculation of ROI.
+
+ROA was 6.5 percent and 3.7 percent for the trailing twelve months ended October 31, 2023 and 2022, respectively. The increase
+in ROA was primarily due to an increase in consolidated net income during the trailing twelve month period primarily due to
+lapping the opioid legal charges incurred in the prior year comparable period. ROI was 14.1 percent and 12.8 percent for the
+trailing 12 months ended October 31, 2023 and 2022, respectively. The increase in ROI was the result of an increase in operating
+income primarily due to lapping the opioid legal charges incurred in the prior year comparable period, partially oﬀset by an
+increase in average invested capital primarily due to higher purchases of property and equipment.
+
+We deﬁne ROI as operating income plus interest income, depreciation and amortization, and rent expense for the trailing twelve
+months divided by average invested capital during that period. We consider average invested capital to be the average of our
+beginning and ending total assets, plus average accumulated depreciation and average amortization, less average accounts
+payable and average accrued liabilities for that period.
+
+Our calculation of ROI is considered a non-GAAP ﬁnancial measure because we calculate ROI using ﬁnancial measures that exclude
+and include amounts that are included and excluded in the most directly comparable GAAP ﬁnancial measure. For example, we
+exclude the impact of depreciation and amortization from our reported operating income in calculating the numerator of our
+calculation of ROI. As mentioned above, we consider ROA to be the ﬁnancial measure computed in accordance with generally
+accepted accounting principles most directly comparable to our calculation of ROI. ROI diﬀers from ROA (which is consolidated net
+income for the period divided by average total assets for the period) because ROI: adjusts operating income to exclude certain
+expense items and adds interest income; adjusts total assets for the impact of accumulated depreciation and amortization,
+accounts payable and accrued liabilities to arrive at total invested capital. Because of the adjustments mentioned above, we
+believe ROI more accurately measures how we are deploying our key assets and is more meaningful to investors than ROA.
+Although ROI is a standard ﬁnancial measure, numerous methods exist for calculating a company’s ROI. As a result, the method
+used by management to calculate our ROI may diﬀer from the methods used by other companies to calculate their ROI.
+
+17
+
+The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA is as follows:
+
+CALCULATION OF RETURN ON ASSETS
+
+(Dollars in millions)
+Numerator
+Consolidated net income
+Denominator
+Average total assets
+Return on assets (ROA)
+
+1
+
+Numerator
+
+Operating income
++ Interest income
++ Depreciation and amortization
++ Rent
+ROI operating income
+
+Denominator
+
+1
+
+Average total assets
+'+ Average accumulated depreciation and amortization
+'- Average accounts payable
+1
+'- Average accrued liabilities
+Average invested capital
+Return on investment (ROI)
+
+1
+
+Trailing Twelve Months
+
+Ended October 31,
+2022
+
+2023
+
+$
+
+16,401 
+
+$
+
+9,116 
+
+253,415 
+
+6.5 %
+
+246,254 
+
+3.7 %
+
+CALCULATION OF RETURN ON INVESTMENT
+
+1
+
+$
+
+$
+
+$
+
+$
+
+25,319 
+504 
+11,547 
+2,286 
+39,656 
+
+253,415 
+112,875 
+59,156 
+26,788 
+280,346 
+
+14.1 %
+
+$
+
+$
+
+$
+
+$
+
+$
+
+20,754 
+196 
+10,840 
+2,296 
+34,086 
+
+246,254 
+103,898 
+57,210 
+25,959 
+266,983 
+
+12.8 %
+
+2021
+
+244,851 
+100,168 
+57,156 
+24,474 
+
+Certain Balance Sheet Data
+Total assets
+Accumulated depreciation and amortization
+Accounts payable
+Accrued liabilities
+
+$
+
+2023
+
+259,174  $
+118,122 
+61,049 
+26,132 
+
+October 31,
+
+2022
+
+247,656 
+107,628 
+57,263 
+27,443 
+
+1 
+
+The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior
+period and dividing by 2.
+
+18
+
+Financial presentation to accompany management commentary FY24 Q3
+
+The following guidance reﬂects the Company’s expectations for ﬁscal year 2024 and is provided on a non-GAAP basis as the Company cannot predict certain elements that are included in reported GAAP results, such as the changes in fair value of the Company’s equity and other investments. Growth rates reﬂect an adjusted basis for prior year results. Additionally, the Company’s guidance assumes a generally stable consumer and continued pressure from its mix of products and formats globally. The Company’s ﬁscal year guidance is based on the following previously disclosed FY23 ﬁgures: Net sales: $605.9 billion, adjusted operating income1: $24.6 billion, adjusted EPS1 $6.29. Metric Fiscal Year 2024 Consolidated net sales (cc) Increase approximately 5.0% to 5.5% Consolidated operating income (cc) Increase approximately 7.0% to 7.5%, including expected 70bps tailwind from LIFO Interest, net Increase approximately $300M vs. LY Eﬀective tax rate Unchanged at approximately 26.5% Non-controlling interest Approximately $0.27 headwind to EPS vs. LY Adjusted EPS $6.40 to $6.48, including expected $0.03 headwind from current year LIFO charges, $0.04 beneﬁt YOY Capital expenditures Unchanged from prior guidance at ﬂat to up slightly vs. LY 1 For relevant reconciliations, see Q4 FY23 earnings release furnished on Form 8-K on February 21, 2023. cc = constant currency Guidance
+
+ 
+Total revenues (cc)1 $159.4 billion, up +4.3% Amounts in billions, except as noted. Dollar changes may not recalculate due to rounding. • Total revenues reached $160.8 billion with strength across all operating segments • Positively aﬀected by $1.4 billion from currency ﬂuctuations • eCommerce net sales globally $24 billion, reaching 15% of net sales • eCommerce net sales up 15% globally, led by pickup and delivery • Strong growth in membership income globally Y/Y Change +8.7% +7.3% +7.6% +5.7% +5.2% Y/Y Change (cc)1 +9.8% +7.9% +7.7% +5.4% +4.3% 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. Total revenues $152.8 $164.0 $152.3 $161.6 $160.8 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24
+
+ 
+• Gross proﬁt rate positively aﬀected by a slight improvement for Walmart U.S. and timing of Flipkart’s The Big Billion Days event, which ﬂipped from Q3 last year to Q4 this year • Positive impact from a reduction in inﬂation related LIFO charges in the Sam's Club segment Y/Y Change -89bps -83bps -18bps +50bps +32bps Gross proﬁt rate 23.7% 22.9% 23.7% 24.0% 24.0% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Gross proﬁt rate +32bps to 24.0%
+
+ 
+Adjusted operating expenses as a percentage of net sales1, +37bps to 21.0% • As a percentage of net sales, operating expenses leveraged on a reported basis 182bps, lapping a discrete charge from last year • On an adjusted basis, operating expenses as a percentage of net sales deleveraged 37bps reﬂecting higher variable pay expenses and Walmart U.S. store remodels Y/Y Change -75bps -89bps -58bps +27bps +37bps 20.6% 19.8% 20.4% 20.2% 21.0% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Operating expenses as a percentage of net sales 22.8% 20.3% 20.4% 20.3% 21.0% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Y/Y Change +144bps -44bps -58bps +33bps -182bps Operating expenses as a percentage of net sales Adjusted operating expenses as a percentage of net sales1 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures.
+
+ 
+1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. Operating income • Adjusted operating income1 up 3.0% relative to 5.3% growth in net sales, and positively aﬀected by the impact of currency and LIFO of 2.7% and 1.9%, respectively • Net income margin increased ~150bps and adjusted EBITDA margin1 was relatively ﬂat compared to last year • Q3 FY23 and Q4 FY23 reported operating income negatively aﬀected by discrete charges of $3.3B and $0.8B, respectively, associated with the opioid legal settlement frameworks, and business reorganization and restructurings Operating income Adjusted operating income1 $2.7 $5.6 $6.2 $7.3 $6.2 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Y/Y Change +3.9% +6.9% +17.3% +8.1% +3.0% Y/Y Change (cc)1 +4.6% +6.3% +16.0% +6.3% +0.3% Y/Y Change -53.5% -5.5% +17.3% +6.7% +130.1% Y/Y Change (cc)1 -52.8% -6.5% +16.0% +4.9% +124.0% $6.0 $6.4 $6.2 $7.4 $6.2 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Adjusted operating income1 of $6.2 billion, up 3.0% Amounts in billions, except as noted. Dollar changes may not recalculate due to rounding.
+
+ 
+1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. NM = not meaningful Adjusted EPS1 of $1.53, up 2.0% EPS PY $1.45 $1.53 $1.30 $1.77 $1.50 Y/Y Change +3.4% +11.8% +13.1% +4.0% +2.0% • Adjusted EPS1 excludes the eﬀects, net of tax, of $1.36 from net losses on equity and other investments Y/Y Change NM +81.3% -16.2% +55.3% NM EPS Adjusted EPS1 $1.50 $1.71 $1.47 $1.84 $1.53 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 $(0.66) $2.32 $0.62 $2.92 $0.17 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24
+
+ 
+PY $7.7 $11.1 $(7.3) $1.7 $3.6 Y/Y Change -52.8% +8.2% NM +414.0% +19.4% • Operating cash ﬂow increased primarily due to moderated levels of inventory purchases and timing of certain payments, partially oﬀset by payment of the remaining accrued opioid legal charges • Free cash ﬂow1 increased due to the increase in operating cash ﬂow, partially oﬀset by an increase of $2.6B in capital expenditures to support the company's investment strategy 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. NM = not meaningful PY $16.3 $24.2 $(3.8) $9.2 $15.7 Y/Y Change -3.6% +19.3% NM +97.0% +21.1% Operating cash ﬂow Free cash ﬂow1 Cash ﬂow $3.6 $12.0 $0.2 $9.0 $4.3 Q3 FY23 YTD Q4 FY23 YTD Q1 FY24 YTD Q2 FY24 YTD Q3 FY24 YTD $15.7 $28.8 $4.6 $18.2 $19.0 Q3 FY23 YTD Q4 FY23 YTD Q1 FY24 YTD Q2 FY24 YTD Q3 FY24 YTD Amounts in billions, except as noted. Dollar changes may not recalculate due to rounding.
+
+ 
+Through dividends and share repurchases Amounts in billions, except as noted. Dollar changes may not recalculate due to rounding. • Share repurchases during the quarter totaled $111 million representing 0.7 million shares, at an average price of $159.77 per share • Remaining share repurchase authorization is $18.1 billion Returns to shareholders $4.5 $2.7 $2.2 $2.0 $1.6 Returns to shareholders $1.5 $1.5 $1.5 $1.5 $1.5 $3.0 $1.2 $0.7 $0.5 $0.1 Dividends Share repurchases Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24
+
+ 
+Y/Y Change -170bps -220bps -120bps -100bps +130bps • ROI1 increased on a trailing 12-month basis primarily as a result of lapping discrete charges for the opioid legal settlement frameworks in Q3 FY23 • Discrete charges in Q4 FY23 totaled approximately 30 bps ROI1 headwind 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. Return on assets (ROA) Return on investment (ROI)1 Returns Y/Y Change +40bps -100bps -100bps -20bps +280bps 3.7% 4.6% 4.5% 5.6% 6.5% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 12.8% 12.7% 12.7% 12.8% 14.1% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24
+
+ 
+Net sales +4.4%, eCommerce +24% • Comp sales +4.9% with strength in grocery and health & wellness, partially oﬀset by softness in general merchandise • Sales growth included increases in both store and digital transaction counts • Strong share gains in grocery and general merchandise • eCommerce led by double-digit growth in store-fulﬁlled pickup and delivery and 26% increase in Walmart Connect eCommerce Contribution ~80bps ~140bps ~270bps ~230bps ~300bps Walmart U.S. comp sales1 8.2% 8.3% 7.4% 6.4% 4.9% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 1Comp sales for the 13-week period ended October 27, 2023 compared to the 13-week period ended October 28, 2022, and excludes fuel.
+
+ 
+Store Remodels: 233 Q3; 494 YTD Pickup: ~4,600 stores Delivery from Store: >4,200 • Beneﬁted from lapping last year's elevated markdowns and supply chain costs • Saw ongoing unfavorable product mix shifts as grocery and health & wellness increased as a portion of sales, while general merchandise sales declined Gross proﬁt rate +5 bps • Higher wage-related costs, including increased variable pay relative to last year when we were below our planned performance • Store remodel costs increased as we continue rollout of an elevated store experience • Legal expenses were higher than last year Operating expenses as a percentage of net sales +35 bps • Reﬂects expense deleverage, partially oﬀset by higher gross margins and increased Walmart+ membership income Operating income $5.0 billion, -2.2% • In-stock levels continued to improve • Maintaining discipline in buying general merchandise due to macro uncertainty Inventory -4.8% Walmart U.S.
+
+ 
+Merchandise category performance details Walmart U.S. Category Comp Comments Grocery + mid single-digit • Strong comps reﬂected continued share gains in dollars and units (according to Nielsen), and growth in private brand penetration (+20 bps) • Grocery inﬂation increased +MSD in Q3 (but moderated 300 bps versus Q2); up +high-teens on a two-year stack • Solid increase in food units sold • Consumables led by strength in personal care products and pet supplies due in part to inﬂation Health & Wellness + high teens • Strong pharmacy sales reﬂected increased script counts, higher mix of branded versus generic prescriptions, strength in immunizations, and branded drug inﬂation General Merchandise - low single-digit • General merchandise sales reﬂected softness in discretionary categories including apparel, home, and toys • Automotive categories continued to perform well
+
+ 
+Net sales (cc)1 $26.7 billion, +5.4% Amounts in billions, except as noted. Dollar changes may not recalculate due to rounding. • Sales growth (cc)1 led by Walmex and China • Currency rate ﬂuctuations positively aﬀected sales by $1.4 billion • eCommerce sales declined 3% • Overall and eCommerce sales growth negatively aﬀected by the timing of Flipkart’s The Big Billion Days event, which moved from Q3 last year to Q4 this year • Continued strong growth in food and consumables as well as increased private brands penetration across markets Y/Y Change +7.1% +2.1% +12.0% +13.3% +10.8% Net Sales (cc)1,2 $25.3 $28.5 $26.8 $27.0 $26.7 Y/Y Change (cc)1 +13.3% +5.5% +12.9% +11.0% +5.4% 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. 2For Q3 FY23, net sales constant currency reﬂects reported results for comparison to current quarter growth in constant currency. Walmart International net sales $25.3 $27.6 $26.6 $27.6 $28.0 Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Net sales
+
+ 
+• Increase mostly from the timing shift of Flipkart’s The Big Billion Days (BBD) event • Partially oﬀset by ongoing format and channel mix changes Strong local businesses powered by Walmart 1See additional information at the end of this presentation regarding non-GAAP ﬁnancial measures. Gross proﬁt rate +151 bps • Deleverage mostly due to timing shift of BBD • Partially oﬀset by ongoing format mix changes Operating expenses as a percentage of net sales +75 bps • Operating income growth outpaced sales growth with strength across markets Operating income $1.1 billion, +29.7%; $1.0 billion (cc)1, +10.7% Inventory +15.8% Walmart International • Increase driven by timing shift of festive events and currency rate ﬂuctuations • Overall inventory levels are healthy from continued operational discipline
+
+ 
+Sales Increase • Continued strength in food and consumables • Opened 130 new stores in past twelve months, including 27 new stores in the quarter  • In Mexico, comp sales grew 8.0% driven by Bodega and Sam's Club Gross proﬁt rate Increase • Growth of services revenue and lower import costs Operating expense rate Increase • Driven by continued investments in associates and strategic priorities Operating income $ Increase Net sales growth +12.9% +11.8% +10.6% +10.1% +9.4% eCommerce net sales growth +17% +14% +17% +21% +16% 1Results are presented on a constant currency basis. Net sales and comparable sales are presented on a nominal, calendar basis and include eCommerce results. Change is calculated as the change versus the prior year comparable period. 2Walmex includes the consolidated results of Mexico and Central America Walmex1,2 Net sales (cc): $10.6 billion, +9.4% 11.7% 10.6% 9.3% 8.7% 8.0% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Comparable sales growth
+
+ 
+Net sales growth +5.5% +5.9% +6.7% +5.1% +5.3% eCommerce net sales growth +3% -3% -2% +4% +16% 1Results are presented on a constant currency basis. Net sales and comparable sales are presented on a nominal, calendar basis and include eCommerce results. Change is calculated as the change versus the prior year comparable period. Canada1 Net sales (cc): $5.8 billion, +5.3% 5.2% 5.7% 6.3% 4.8% 5.0% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Sales Increase • Continued momentum in food and consumables with softness in general merchandise • eCommerce growth improving led by store fulﬁlled and marketplace Gross proﬁt rate Increase • Lower supply chain costs partially oﬀset by higher shrink and food and consumables mix Operating expense rate Increase • Higher maintenance costs and planned investments in eCommerce technology Operating income $ Increase Comparable sales growth
+
+ 
+Net sales growth +6.9% +13.5% +28.3% +21.7% +25.3% eCommerce net sales growth +63% +70% +54% +44% +38% 1Results are presented on a constant currency basis. Net sales and comparable sales are presented on a nominal, calendar basis and include eCommerce results. Change is calculated as the change versus the prior year comparable period. China1 Net sales (cc): $4.5 billion, +25.3% 5.6% 13.3% 25.5% 17.2% 18.6% Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Sales Increase • Continued strength in Sam’s Club and eCommerce • Higher in-store traﬃc in both Sam’s and Hyper formats • Double-digit growth in both formats during Mid-Autumn Festival • eCommerce penetration at 45% Gross proﬁt rate Decrease • Due to format and channel mix changes Operating expense rate Decrease • Driven by strong sales growth, format mix changes, and operational eﬃciencies Operating income $ Increase Comparable sales growth
+
+ 
+Net sales with fuel +2.8%, Net sales without fuel +3.2%, eCommerce +16% • Solid comp sales driven by increases in transactions and units sold ◦ Transactions without fuel +4.0% ◦ Average ticket without fuel -0.2% • Strength in food and consumables, and healthcare • Gained dollar and unit market share in grocery • Gained dollar and unit market share in general merchandise categories including apparel and automotive • eCommerce +16%, led by curbside and delivery • Scan & Go penetration is up over 470 bpseComm Cont. without fuel ~120bps ~120bps ~160bps ~150bps ~170bps 1Comp sales for the 13-week period ended October 27, 2023 compared to the 13-week period ended October 28, 2022. Sam’s Club U.S. comp sales1 Sam's Club U.S. comp sales 12.7% 11.9% 4.2% (0.2)% 3.3% 10.0% 12.2% 7.0% 5.5% 3.8% With fuel Without fuel Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24
+
+ 
+• Lower LIFO charge this year ($0M) vs. last year ($113M) beneﬁted gross proﬁt • Excluding LIFO, gross proﬁt negatively aﬀected by price investments in grocery, coupled with product mix shifts Gross proﬁt rate +16 bps, without fuel +9 bps • Primarily due to technology investments and higher facilities costs Operating expenses as a percentage of net sales +13 bps, without fuel +11 bps • Achieved new highs for total membership and Plus penetration at quarter end • Plus penetration +130bps y/y Membership income +7.2% Inventory -7.3% Sam’s Club U.S. Operating income $593M, +5.5%, without fuel $412M, +3.8% • Lower LIFO charge this year ($0M) vs. last year ($113M) beneﬁted operating income • Improved ﬂow of inventory as merchandise is closer to customers, in Clubs and DCs • Maintaining discipline in buying general merchandise due to macro uncertainty
+
+ 
+Category comparable sales Sam’s Club U.S. Category Comp Comments Fresh / Freezer / Cooler + mid single-digit • Produce & ﬂoral, prepared foods, and bakery performed well Grocery and Beverage + mid single-digit • Drinks and candy showed strength Consumables + high single-digit • Paper goods, laundry & home care, and health & beauty aids performed well Home and Apparel - mid single-digit • Softness in toys and housewares, partially oﬀset by strength in basic apparel Technology, Oﬃce and Entertainment - low double-digits • Softness in oﬃce supplies and consumer electronics Health and Wellness + low twenties • Pharmacy and over the counter performed well
+
+ 
+Safe harbor and non-GAAP measures This presentation and related management commentary contains statements that may be "forward-looking statements" as deﬁned in, and are intended to enjoy the protection of the safe harbor for forward- looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended. Assumptions on which such forward-looking statements are based are also forward-looking statements. Our actual results may diﬀer materially from those expressed in or implied by any of these forward-looking statements as a result of changes in circumstances, assumptions not being realized or other risks, uncertainties and factors including: the impact of the COVID-19 pandemic on our business and the global economy; economic, capital markets and business conditions; trends and events around the world and in the markets in which we operate; currency exchange rate ﬂuctuations, changes in market interest rates and market levels of wages; changes in the size of various markets, including eCommerce markets; unemployment levels; inﬂation or deﬂation, generally and in particular product categories; consumer conﬁdence, disposable income, credit availability, spending levels, shopping patterns, debt levels and demand for certain merchandise; the eﬀectiveness of the implementation and operation of our strategies, plans, programs and initiatives; unexpected changes in our objectives and plans; the impact of acquisitions, investments, divestitures, store or club closures, and other strategic decisions; our ability to successfully integrate acquired businesses, including within the eCommerce space; changes in the trading prices of certain equity investments we hold; initi
+in consumer shopping habits around the world and in the markets in which we operate; our gross proﬁt margins; the ﬁnancial performance of Walmart and each of its segments, including the amounts of our cash ﬂow during various periods; changes in the credit ratings assigned to our commercial paper and debt securities by credit rating agencies; the amount of our net sales and operating expenses denominated in the U.S. dollar and various foreign currencies; transportation, energy and utility costs; commodity prices and the price of gasoline and diesel fuel; supply chain disruptions and disruptions in seasonal buying patterns; the availability of goods from suppliers and the cost of goods acquired from suppliers; consumer acceptance of and response to our stores, clubs, eCommerce platforms, programs, merchandise oﬀerings and delivery methods; cyber security events aﬀecting us and related costs and impact to the business; developments in, outcomes of, and costs incurred in legal or regulatory proceedings to which we are a party or are subject, and the liabilities, obligations and expenses, if any, that we may incur in connection therewith; casualty and accident-related costs and insurance costs; the turnover in our workforce and labor costs, including healthcare and other beneﬁt costs; consumer enrollment in health and drug insurance programs and such programs’ reimbursement rates and drug formularies; our eﬀective tax rate and the factors aﬀecting our eﬀective tax rate, including assessments of certain tax contingencies, valuation allowances, changes in law, administrative audit outcomes, impact of discrete items and the mix of earnings between the U.S. and Walmart's international operations; changes in
+trade restrictions and changes in existing trade restrictions; adoption or creation of new, and modiﬁcation of existing, governmental policies, programs, initiatives and actions in the markets in which Walmart operates and elsewhere and actions with respect to such policies, programs and initiatives; changes in accounting estimates or judgments; the level of public assistance payments; natural disasters, changes in climate, geopolitical events and catastrophic events; and changes in generally accepted accounting principles in the United States. Our most recent annual report on Form 10-K and subsequent quarterly reports on Form 10-Q ﬁled with the SEC discuss other risks and factors that could cause actual results to diﬀer materially from those expressed or implied by any forward-looking statement in the presentations. We urge you to consider all of the risks, uncertainties and factors identiﬁed above or discussed in such reports carefully in evaluating the forward-looking statements in this release. Walmart cannot assure you that the results reﬂected in or implied by any forward-looking statement will be realized or, even if substantially realized, that those results will have the forecasted or expected consequences and eﬀects for or on our operations or ﬁnancial performance. The forward-looking statements made in the presentation are as of the date of this meeting. Walmart undertakes no obligation to update these forward-looking statements to reﬂect subsequent events or circumstances. This presentation includes certain non-GAAP measures as deﬁned under SEC rules, including net sales, revenue, and operating income on a constant currency basis, adjusted EPS, free cash ﬂow, return on investment, and EBITDA and 
+
+date of this presentation with the SEC, which are available at stock.walmart.com.
+
+ 
+Non-GAAP measures – ROI We include return on assets ("ROA"), which is calculated in accordance with U.S. generally accepted accounting principles ("GAAP") as well as return on investment ("ROI") as measures to assess returns on assets. Management believes ROI is a meaningful measure to share with investors because it helps investors assess how eﬀectively Walmart is deploying its assets. Trends in ROI can ﬂuctuate over time as management balances long-term strategic initiatives with possible short-term impacts. We consider ROA to be the ﬁnancial measure computed in accordance with GAAP that is the most directly comparable ﬁnancial measure to our calculation of ROI. ROA was 6.5% percent and 3.7% percent for the trailing twelve months ended October 31, 2023 and 2022, respectively. The increase in ROA was primarily due to an increase in consolidated net income during the trailing twelve month period primarily due to lapping the opioid legal charges incurred in the prior year comparable period. ROI was 14.1% and 12.8% for the trailing 12 months ended October 31, 2023 and 2022, respectively. The increase in ROI was the result of an increase in operating income primarily due to lapping the opioid legal charges incurred in the prior year comparable period, partially oﬀset by an increase in average invested capital primarily due to higher purchases of property and equipment. We deﬁne ROI as operating income plus interest income, depreciation and amortization, and rent expense for the trailing twelve months divided by average invested capital during that period. We consider average invested capital to be the average of our beginning and ending total assets, plus average accumulated depreciation and a
+
+directly comparable GAAP ﬁnancial measure. For example, we exclude the impact of depreciation and amortization from our reported operating income in calculating the numerator of our calculation of ROI. As mentioned above, we consider ROA to be the ﬁnancial measure computed in accordance with generally accepted accounting principles most directly comparable to our calculation of ROI. ROI diﬀers from ROA (which is consolidated net income for the period divided by average total assets for the period) because ROI: adjusts operating income to exclude certain expense items and adds interest income; adjusts total assets for the impact of accumulated depreciation and amortization, accounts payable and accrued liabilities to arrive at total invested capital. Because of the adjustments mentioned above, we believe ROI more accurately measures how we are deploying our key assets and is more meaningful to investors than ROA. Although ROI is a standard ﬁnancial measure, numerous methods exist for calculating a company’s ROI. As a result, the method used by management to calculate our ROI may diﬀer from the methods used by other companies to calculate their ROI.
+
+ 
+The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA, is as follows: Non-GAAP measures – ROI (cont.) CALCULATION OF RETURN ON ASSETS Trailing Twelve Months Ending Oct 31, Jan 31, Apr 30, Jul 31, Oct 31, (Dollars in millions) 2022 2023 2023 2023 2023 Numerator Consolidated net income $ 9,116 $ 11,292 $ 11,085 $ 13,991 $ 16,401 Denominator Average total assets1 $ 246,254 $ 244,029 $ 245,598 $ 251,160 $ 253,415 Return on assets (ROA) 3.7 % 4.6 % 4.5 % 5.6 % 6.5 % Oct 31, Jan 31, Apr 30, Jul 31, Oct 31, Jan 31, Apr 30, Jul 31, Oct 31, Certain Balance Sheet Data 2021 2022 2022 2022 2022 2023 2023 2023 2023 Total assets $ 244,851 $ 244,860 $ 246,142 $ 247,199 $ 247,656 $ 243,197 $ 245,053 $ 255,121 $ 259,174 Accumulated depreciation and amortization 100,168 102,211 104,295 105,963 107,628 110,286 113,164 115,878 118,122 Accounts payable 57,156 55,261 52,926 54,191 57,263 53,742 54,268 56,576 61,049 Accrued liabilities 24,474 26,060 21,061 23,843 27,443 31,126 27,527 29,239 26,132 1 The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior period and dividing by 2
+
+ 
+The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA, is as follows: Non-GAAP measures – ROI (cont.) CALCULATION OF RETURN ON INVESTMENT   Trailing Twelve Months Ending Oct 31, Jan 31, Apr 30, Jul 31, Oct 31, (Dollars in millions) 2022 2023 2023 2023 2023 Numerator Operating income $ 20,754 $ 20,428 $ 21,350 $ 21,812 $ 25,319 + Interest income 196 254 323 442 504 + Depreciation and amortization 10,840 10,945 11,110 11,318 11,547 + Rent 2,296 2,306 2,301 2,284 2,286 ROI operating income $ 34,086 $ 33,933 $ 35,084 $ 35,856 $ 39,656 Denominator Average total assets1 $ 246,254 $ 244,029 $ 245,598 $ 251,160 $ 253,415 '+ Average accumulated depreciation and amortization1 103,898 106,249 108,730 110,921 112,875 '- Average accounts payable1 57,210 54,502 53,597 55,384 59,156 '- Average accrued liabilities1 25,959 28,593 24,294 26,541 26,788 Average invested capital $ 266,983 $ 267,183 $ 276,437 $ 280,156 $ 280,346 Return on investment (ROI) 12.8 % 12.7 % 12.7 % 12.8 % 14.1 % 1 The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior period and dividing by 2
+
+ 
+Non-GAAP measures – free cash ﬂow We deﬁne free cash ﬂow as net cash provided by operating activities in a period minus payments for property and equipment made in that period. Net cash provided by operating activities was $19.0 billion for the nine months ended October 31, 2023, which represents an increase of $3.3 billion when compared to the same period in the prior year. The increase is primarily due to timing of certain payments and moderated levels of inventory purchases, partially oﬀset by payment of the remaining accrued opioid legal charges. Free cash ﬂow for the nine months ended October 31, 2023 was $4.3 billion, which represents an increase of $0.7 billion when compared to the same period in the prior year. The increase in free cash ﬂow is due to the increase in operating cash ﬂows described above, partially oﬀset by an increase of $2.6 billion in capital expenditures to support our investment strategy. Free cash ﬂow is considered a non-GAAP ﬁnancial measure. Management believes, however, that free cash ﬂow, which measures our ability to generate additional cash from our business operations, is an important ﬁnancial measure for use in evaluating the Company's ﬁnancial performance. Free cash ﬂow should be considered in addition to, rather than as a substitute for, consolidated net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity. Additionally, Walmart’s deﬁnition of free cash ﬂow is limited, in that it does not represent residual cash ﬂows available for discretionary expenditures, due to the fact that the measure does not deduct the payments required for debt service and other contractual obligations or payments made for b
+
+company’s free cash ﬂow. As a result, the method used by Walmart’s management to calculate our free cash ﬂow may diﬀer from the methods used by other companies to calculate their free cash ﬂow.
+
+ 
+Non-GAAP measures – free cash ﬂow (cont.) The following table sets forth a reconciliation of free cash ﬂow, a non-GAAP ﬁnancial measure, to net cash provided by operating activities, which we believe to be the GAAP ﬁnancial measure most directly comparable to free cash ﬂow, as well as information regarding net cash used in investing activities and net cash used in ﬁnancing activities. Year to Date Period Ended (Dollars in millions) Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Net cash provided by operating activities $ 15,698 $ 28,841 $ 4,633 $ 18,201 $ 19,014 Payments for property and equipment (capital expenditures) (12,061) (16,857) (4,429) (9,216) (14,674) Free cash ﬂow $ 3,637 $ 11,984 $ 204 $ 8,985 $ 4,340 Net cash used in investing activities1 $ (12,965) $ (17,722) $ (4,860) $ (9,909) $ (15,374) Net cash provided by (used in) ﬁnancing activities $ (5,581) $ (17,039) $ 1,940 $ (3,309) $ (179) Year to Date Period Ended (Dollars in millions) Q3 FY22 Q4 FY22 Q1 FY23 Q2 FY23 Q3 FY23 Net cash provided by (used in) operating activities $ 16,291 $ 24,181 $ (3,758) $ 9,240 $ 15,698 Payments for property and equipment (capital expenditures) (8,588) (13,106) (3,539) (7,492) (12,061) Free cash ﬂow $ 7,703 $ 11,075 $ (7,297) $ 1,748 $ 3,637 Net cash provided by (used in) investing activities1 $ (1,530) $ (6,015) $ (4,558) $ (8,584) $ (12,965) Net cash provided by (used in) ﬁnancing activities (18,113) (22,828) 5,315 (1,400) (5,581) Y/Y Change in Free Cash Flow -52.8 % +8.2 % NM +414.0 % +19.3 % 1 "Net Cash used in investing activities" inclu
+
+ 
+Non-GAAP measures – constant currency In discussing our operating results, the term currency exchange rates refers to the currency exchange rates we use to convert the operating results for countries where the functional currency is not the U.S. dollar into U.S. dollars. We calculate the eﬀect of changes in currency exchange rates as the diﬀerence between current period activity translated using the current period's currency exchange rates and the comparable prior year period's currency exchange rates. Additionally, no currency exchange rate ﬂuctuations are calculated for non-USD acquisitions until owned for 12 months. Throughout our discussion, we refer to the results of this calculation as the impact of currency exchange rate ﬂuctuations. When we refer to constant currency operating results, this means operating results without the impact of the currency exchange rate ﬂuctuations. The disclosure of constant currency amounts or results permits investors to better understand Walmart’s underlying performance without the eﬀects of currency exchange rate ﬂuctuations. The table below reﬂects the calculation of constant currency for net sales for the Walmart International segment for the trailing ﬁve quarters and operating income for the current quarter. Three Months Ended Walmart International (Dollars in millions) Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Net sales: As reported $ 25,295 $ 27,575 $ 26,604 $ 27,596 $ 28,022 Currency exchange rate ﬂuctuations 1,473 901 226 (574) (1,357) Net sales (cc) $ 26,768 $ 28,476 $ 26,830 $ 27,022 $ 26,665 PY Reported $ 23,627 $ 26,997 $ 23,763 $ 24,350 $ 25,295 % change (
+
+ 
+Non-GAAP measures – constant currency (cont.) Three Months Ended Consolidated (Dollars in millions) Q3 FY23 Q4 FY23 Q1 FY24 Q2 FY24 Q3 FY24 Total Revenue: As reported $ 152,813 $ 164,048 $ 152,301 $ 161,632 $ 160,804 Currency exchange rate ﬂuctuations 1,491 917 230 (576) (1,366) Total Revenue (cc) $ 154,304 $ 164,965 $ 152,531 $ 161,056 $ 159,438 PY Reported $ 140,525 $ 152,871 $ 141,569 $ 152,859 $ 152,813 % change (cc) +9.8 % +7.9 % +7.7 % +5.4 % +4.3 % Net sales: As reported $ 151,469 $ 162,743 $ 151,004 $ 160,280 $ 159,439 Currency exchange rate ﬂuctuations 1,473 901 226 (574) (1,357) Net sales (cc) $ 152,942 $ 163,644 $ 151,230 $ 159,706 $ 158,082 PY Reported $ 139,207 $ 151,525 $ 140,288 $ 151,381 $ 151,469 % change (cc) +9.9 % +8.0 % +7.8 % +5.5 % +4.4 % Operating income: As reported $ 2,695 $ 5,561 $ 6,240 $ 7,316 $ 6,202 Currency exchange rate ﬂuctuations 38 (57) (72) (124) (164) Operating income (cc) $ 2,733 $ 5,504 $ 6,168 $ 7,192 $ 6,038 PY Reported $ 5,792 $ 5,887 $ 5,318 $ 6,854 $ 2,695 % change (cc) -52.8 % -6.5 % +16.0 % +4.9 % +124.0 % The table below reﬂects the calculation of constant currency for total revenues, net sales and operating income for the trailing ﬁve quarters.
+
+ 
+Non-GAAP measures – adjusted operating expenses as a percentage of net sales Three Months Ended (Dollars in millions) Q3 FY23 Q3 FY22 Q4 FY23 Q4 FY22 Q1 FY24 Q1 FY23 Q2 FY24 Q2 FY23 Q3 FY24 Q3 FY23 Operating, selling, general and administrative expenses $ 34,505 $ 29,710 $ 33,064 $ 31,462 $ 30,777 $ 29,404 $ 32,466 $ 30,167 $ 33,419 $ 34,505 Less: Business reorganization and restructuring charges1 — 849 108 — — — — Less: Opioid legal charges2 3,325 — — 93 — 3,325 Adjusted operating expenses $ 31,180 $ 29,710 $ 32,215 $ 31,354 $ 30,777 $ 29,404 $ 32,373 $ 30,167 $ 33,419 $ 31,180 Net Sales $ 151,469 $ 139,207 $ 162,743 $ 151,525 $ 151,004 $ 140,288 $ 160,280 $ 151,381 $ 159,439 $ 151,469 Operating, selling, general and administrative expenses as a percentage of net sales +22.8 % +21.3 % +20.3 % +20.8 % +20.4 % +21.0 % +20.3 % +19.9 % +21.0 % +22.8 % Adjusted operating expenses as a percentage of net sales +20.6 % +21.3 % +19.8 % +20.7 % +20.4 % +21.0 % +20.2 % +19.9 % +21.0 % +20.6 % Y/Y Change (bps) (75) NP (89) NP (58) NP 27 NP 37 NP 1Business reorganization and restructuring charges in the fourth quarter of ﬁscal 2023 primarily relate to compensation expenses incurred in connection with the strategic decisions made in the Walmart International segment. Business restructuring charges in the fourth quarter of ﬁscal 2022 primarily consist of severance and store closure related costs due to strategic decisions made in the Walmart International segment. 2Recorded in Corporate and support. NP = not provided Adjusted operating expenses as a percentage of net sales is considered a non-GAAP ﬁnancial measure under the SEC’s rules because it exclud
+
+performance with that of the comparable period. In addition, adjusted operating expenses as a percentage of net sales aﬀords investors a view of what management considers Walmart’s core operating expenses and the ability to make a more informed assessment of such core operating expenses as compared with that of the prior year. The table below reﬂects the calculation of adjusted operating expenses as a percentage of net sales for the trailing ﬁve quarters.
+
+ 
+Non-GAAP measures – adjusted operating income Three Months Ended (Dollars in millions) Q3 FY23 Q3 FY22 Q4 FY23 Q4 FY22 Q1 FY24 Q1 FY23 Q2 FY24 Q2 FY23 Q3 FY24 Q3 FY23 Operating income: Operating income, as reported $ 2,695 $ 5,792 $ 5,561 $ 5,887 $ 6,240 $ 5,318 $ 7,316 $ 6,854 $ 6,202 $ 2,695 Business reorganization and restructuring charges1 — — 849 108 — — — — — — Opioid legal charges2 3,325 — — — — — 93 — — 3,325 Adjusted operating income $ 6,020 $ 5,792 $ 6,410 $ 5,995 $ 6,240 $ 5,318 $ 7,409 $ 6,854 $ 6,202 $ 6,020 Percent change3 +3.9 % NP +6.9 % NP +17.3 % NP +8.1 % NP +3.0 % NP Currency exchange rate ﬂuctuations $ 38 — $ (39) — $ (72) — $ (124) $ — $ (164) $ — Adjusted operating income, constant currency $ 6,058 $ 5,792 $ 6,371 $ 5,995 $ 6,168 $ 5,318 $ 7,285 $ 6,854 $ 6,038 $ 6,020 Percent change3 +4.6 % NP +6.3 % NP +16.0 % NP +6.3 % NP +0.3 % NP Adjusted operating income is considered a non-GAAP ﬁnancial measure under the SEC’s rules because it excludes certain charges included in operating income calculated in accordance with GAAP. Management believes that adjusted operating income is a meaningful measure to share with investors because it best allows comparison of performance with that of the comparable period. In addition, adjusted operating income aﬀords investors a view of what management considers Walmart’s core earnings performance and the ability to make a more informed assessment of such core earnings performance as compared with that of the prior year. When we refer to adjusted operating income in constant currency, this means adjusted operating results without the impact of the currency exchange rate ﬂuctuations
+
+constant currency, when applicable, for the trailing ﬁve quarters. 1Business reorganization and restructuring charges in the fourth quarter of ﬁscal 2023 primarily relate to compensation expenses incurred in connection with the strategic decisions made in the Walmart International segment. Business restructuring charges in the fourth quarter of ﬁscal 2022 primarily consist of severance and store closure related costs due to strategic decisions made in the Walmart International segment. 2Recorded in Corporate and support. 3Change versus prior year comparable period. NP = not provided
+
+ 
+Non-GAAP measures – adjusted EPS Adjusted diluted earnings per share attributable to Walmart (Adjusted EPS) is considered a non-GAAP ﬁnancial measure under the SEC’s rules because it excludes certain amounts included in the diluted earnings per share attributable to Walmart calculated in accordance with GAAP (EPS), the most directly comparable ﬁnancial measure calculated in accordance with GAAP. Management believes that Adjusted EPS is a meaningful measure to share with investors because it best allows comparison of the performance with that of the comparable period. In addition, Adjusted EPS aﬀords investors a view of what management considers Walmart’s core earnings performance and the ability to make a more informed assessment of such core earnings performance with that of the prior year. We adjust for the unrealized and realized gains and losses on our equity and other investments each quarter because although the investments are strategic decisions for the company’s retail operations, management’s measurement of each strategy is primarily focused on the operational results rather than the fair value of such investments. Additionally, management does not forecast changes in the fair value of its equity and other investments. Accordingly, management adjusts EPS each quarter for the unrealized and realized gains and losses related to those equity investments. We have calculated Adjusted EPS for the trailing ﬁve quarters as well as the prior year comparable periods by adjusting EPS for the relevant adjustments for each period presented. Three Months Ended Oct 31, 20233 Three Months Ended Oct 31, 20223 Percent Change Diluted earnings per share: Reported EPS $0.17 $(0.66) NM Adj
+
+1.05 Net Adjustments $1.36 $2.16 Adjusted EPS $1.53 $1.50 +2.0% 1 Tax impact calculated based on nature of item, including any realizable deductions, and statutory rate in eﬀect for relevant jurisdictions. . 2 Calculated based on the ownership percentages of our noncontrolling interests, where applicable. 3 Individual components in the accompanying tables may include immaterial rounding. 4 The reported eﬀective tax rate was 29.7% and (23.5%) for the three months ended October 31, 2023 and October 31, 2022, respectively. Adjusted for the above items, the eﬀective tax rate was 24.1% and 25.9% for the three months ended October 31, 2023 and October 31, 2022, respectively 5 For the three months ended October 31, 2023, net losses were primarily driven by decreases in the underlying stock prices of our investments in Symbotic and JD.com.
+
+ 
+Non-GAAP measures – adjusted EPS (cont.) Three Months Ended Jul 31, 20233 Three Months Ended Jul 31, 20223 Percent Change Diluted earnings per share: Reported EPS $2.92 $1.88 +55.3% Adjustments: Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Unrealized and realized (gains) and losses on equity and other investments $(1.44) $0.33 $— $(1.11) $0.14 $(0.02) $(0.01) $0.11 Incremental opioid settlement expense 0.04 (0.01) — 0.03 — — — — Gain on sale of equity method investment in Brazil — — — — (0.16) — — (0.16) Discrete tax item — — — — — (0.06) — (0.06) Net Adjustments $(1.08) $(0.11) Adjusted EPS $1.84 $1.77 +4.0% Three Months Ended Apr 30, 20233 Three Months Ended Apr 30, 20223 Percent Change Diluted earnings per share: Reported EPS $0.62 $0.74 -16.2% Adjustments: Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Unrealized and realized (gains) and losses on equity and other investments $1.13 $(0.27) $(0.01) $0.85 $0.71 $(0.15) $— $0.56 Adjusted EPS $1.47 $1.30 +13.1% 1 Tax impact calculated based on nature of item, including any realizable deductions, and statutory rate in eﬀect for relevant jurisdictions. 2 Calculated based on the ownership percentages of our noncontrolling interests, where applicable. 3 Individual components in the accompanying tables may include immaterial rou
+
+ 
+Non-GAAP measures – adjusted EPS (cont.) Three Months Ended Jan 31, 20233 Three Months Ended Jan 31, 20223 Percent Change Diluted earnings per share: Reported EPS $2.32 $1.28 +81.3% Adjustments: Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Unrealized and realized (gains) and losses on equity and other investments $(1.43) $0.27 $— $(1.16) $0.22 $(0.05) $0.02 $0.19 Business reorganization and restructuring charges 0.31 0.40 (0.16) 0.55 0.08 (0.02) — 0.06 Net Adjustments $(0.61) $0.25 Adjusted EPS $1.71 $1.53 +11.8% Three Months Ended Oct 31, 20223 Three Months Ended Oct 31, 20213 Percent Change Diluted earnings per share: Reported EPS $(0.66) $1.11 NM Adjustments: Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Pre-Tax Impact Tax Impact1 NCI Impact2 Net Impact Unrealized and realized (gains) and losses on equity and other investments $1.34 $(0.24) $0.01 $1.11 $(0.42) $0.09 $— $(0.33) Opioid legal charges 1.22 (0.17) — 1.05 — — — — Loss on extinguishment of debt — — — — 0.86 (0.19) — 0.67 Net Adjustments4 $2.16 $0.34 Adjusted EPS4 $1.50 $1.45 +3.4% 1 Tax impact calculated based on nature of item, including any realizable deductions, and statutory rate in eﬀect for relevant jurisdictions. 2 Calculated based on the ownership percentages of our noncontrolling interests, where applicable. 3 Individual components in the accompanying tables may include immaterial rounding. 4 Adjusted EPS for the three months ended October 31, 2022 was calculated u
+
+ 
+Non-GAAP measures – adjusted EBITDA and adjusted EBITDA margin The calculation of net income (loss) margin and adjusted EBITDA margin, along with a reconciliation of adjusted EBITDA margin to the calculation of net income (loss) margin, is as follows: Three Months Ended Q3 FY24 Q3 FY23 (Dollars in millions) 2023 2022 Consolidated net income (loss) attributable to Walmart $ 453 $ (1,798) Consolidated net income attributable to noncontrolling interest (190) (31) Provision for income taxes 272 336 Other (gains) and losses 4,750 3,626 Interest, Net 537 500 Operating Income $ 6,202 $ 2,695 + Depreciation and Amortization 2,986 2,755 + Opioid legal charges — 3,325 Adjusted EBITDA $ 9,188 $ 8,775 Net Sales $ 159,439 $ 151,469 Consolidated net income (loss) margin 0.3 % -1.2 % Adjusted EBITDA margin 5.8 % 5.8 % We include net income (loss) and net income (loss) margin, which are calculated in accordance with U.S. generally accepted accounting principle as well as adjusted EBITDA and adjusted EBITDA margin to provide meaningful information about our operational eﬃciency compared with our competitors by excluding the impact of certain items. We calculate adjusted EBITDA as earnings before interest, taxes, depreciation and amortization. We also exclude other gains and losses, which is primarily comprised of fair value adjustments on our investments which management does not believe are indicative of our core business performance. From time to time, we will also adjust certain items from operating income, which we believe is meaningful because it best allows comparison of the performance with that of the comparable period. Adjusted EBITDA margin is calculated by dividing adjusted EBITDA by c
+
+structures, debt levels, capital investments and other items which management does not believe are indicative of our core business performance. We consider net income (loss) to be the ﬁnancial measure computed in accordance with GAAP that is the most directly comparable ﬁnancial measure to our calculation of adjusted EBITDA. We consider net income (loss) margin to be the ﬁnancial measure computed in accordance with GAAP that is the most directly comparable ﬁnancial measure to our calculation of adjusted EBITDA margin. Although adjusted EBITDA and adjusted EBITDA margin are standard ﬁnancial measures, numerous methods exist for calculating a company’s adjusted EBITDA and adjusted EBITDA margin. As a result, the method used by management to calculate our adjusted EBITDA and adjusted EBITDA margin may diﬀer from the methods used by other companies to calculate similarly titled measures. Net income (loss) margin was 0.3% and -1.2% for the three months ended October 31, 2023 and 2022, respectively. The increase in net income margin was primarily due to the increase in net income primarily due to lapping the opioid legal charges incurred in Q3 FY23. Adjusted EBITDA margin was 5.8% for the three months ended October 31, 2023 and 2022. Adjusted EBITDA margin remained relatively ﬂat as the increase in adjusted EBITDA was oﬀset by the increase in net sales.
+
+ 
+ 
+

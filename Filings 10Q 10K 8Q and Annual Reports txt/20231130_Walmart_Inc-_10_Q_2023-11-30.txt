@@ -1,0 +1,5520 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-Q
+
+(Mark One)
+
+☒
+
+☐
+
+Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+For the quarterly period ended October 31, 2023.
+
+or
+
+Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+For the transition period from              to             .
+
+Commission File Number 001-06991
+
+WALMART INC.
+
+(Exact name of registrant as speciﬁed in its charter)
+
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+
+702 S.W. 8th Street
+
+Bentonville AR
+
+(Address of principal executive oﬃces)
+
+71-0415188
+(I.R.S. Employer
+Identiﬁcation No.)
+
+72716
+(Zip Code)
+
+Registrant's telephone number, including area code: (479) 273-4000
+Former name, former address and former ﬁscal year, if changed since last report: N/A
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.10 per share
+2.550% Notes due 2026
+1.050% Notes due 2026
+1.500% Notes due 2028
+4.875% Notes due 2029
+5.750% Notes due 2030
+1.800% Notes due 2031
+5.625% Notes due 2034
+5.250% Notes due 2035
+4.875% Notes due 2039
+
+Trading Symbol(s)
+WMT
+WMT26
+WMT26A
+WMT28C
+WMT29B
+WMT30B
+WMT31A
+WMT34
+WMT35A
+WMT39
+
+Name of each exchange on which registered
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+New York Stock Exchange
+
+Indicate by check mark whether the registrant (1) has ﬁled all reports required to be ﬁled by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or such shorter periods that the registrant was required to
+ﬁle such reports), and (2) has been subject to such ﬁling requirements for the past 90 days.    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be
+submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such
+shorter period that the registrant was required to submit such ﬁles).    Yes  ☒    No  ☐
+
+Indicate by check mark whether the registrant is a large accelerated ﬁler, an accelerated ﬁler, a non-accelerated ﬁler, a
+smaller reporting company, or an emerging growth company. See deﬁnitions of "large accelerated ﬁler," "accelerated ﬁler,"
+"smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer
+Non-Accelerated Filer
+
+  ☒
+  ☐
+
+   Accelerated Filer
+   Smaller Reporting Company
+Emerging Growth Company
+
+  ☐
+  ☐
+☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised ﬁnancial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐  
+
+Indicate by a check mark whether the registrant is a shell company (as deﬁned in Rule 12b-2 of the Exchange
+Act).    Yes  ☐   No  ☒
+
+The registrant had 2,692,233,703 shares of common stock outstanding as of November 28, 2023.
+
+Table of Contents
+
+Walmart Inc.
+Form 10-Q
+For the Quarterly Period Ended October 31, 2023
+
+Table of Contents
+
+Part I. Financial Information
+
+Item 1. Financial Statements
+
+Condensed Consolidated Statements of Income
+Condensed Consolidated Statements of Comprehensive Income
+Condensed Consolidated Balance Sheets
+Condensed Consolidated Statements of Shareholders' Equity
+Condensed Consolidated Statements of Cash Flows
+Notes to Condensed Consolidated Financial Statements
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+Item 4. Controls and Procedures
+
+Part II. Other Information
+
+Item 1. Legal Proceedings
+Item 1A. Risk Factors
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Item 5. Other Information
+Item 6. Exhibits
+
+Signatures
+
+Page
+
+4
+5
+6
+7
+9
+10
+18
+28
+29
+
+30
+33
+33
+33
+37
+
+38
+
+Table of Contents
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+Condensed Consolidated Statements of Income
+
+Walmart Inc.
+
+(Unaudited)
+
+(Amounts in millions, except per share data)
+Revenues:
+
+Net sales
+Membership and other income
+
+Total revenues
+
+Costs and expenses:
+Cost of sales
+Operating, selling, general and administrative expenses
+
+Operating income
+Interest:
+Debt
+Finance lease
+Interest income
+Interest, net
+
+Other (gains) and losses
+Income (loss) before income taxes
+Provision for income taxes
+Consolidated net income (loss)
+Consolidated net income attributable to noncontrolling interest
+Consolidated net income (loss) attributable to Walmart
+
+Net income (loss) per common share:
+
+Basic net income (loss) per common share attributable to Walmart
+Diluted net income (loss) per common share attributable to Walmart
+
+Weighted-average common shares outstanding:
+
+Basic
+Diluted
+
+Three Months Ended
+October 31,
+
+Nine Months Ended
+October 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$ 159,439  $ 151,469  $ 470,723  $ 443,138 
+4,103 
+
+1,365 
+
+4,014 
+
+1,344 
+
+160,804 
+
+152,813 
+
+474,737 
+
+447,241 
+
+121,183 
+33,419 
+
+115,613 
+34,505 
+
+358,317 
+96,662 
+
+338,298 
+94,076 
+
+6,202 
+
+2,695 
+
+19,758 
+
+14,867 
+
+572 
+110 
+(145)
+
+499 
+85 
+(84)
+
+1,683 
+305 
+(400)
+
+537 
+4,750 
+915 
+272 
+643 
+(190)
+453  $ (1,798) $ 10,017  $
+
+1,588 
+3,840 
+14,330 
+3,738 
+10,592 
+(575)
+
+500 
+3,626 
+(1,431)
+336 
+(1,767)
+(31)
+
+1,266 
+252 
+(151)
+
+1,367 
+5,386 
+8,114 
+2,631 
+5,483 
+(78)
+5,405 
+
+0.17  $
+0.17 
+
+(0.66) $
+(0.66)
+
+3.72  $
+3.71 
+
+1.98 
+1.97 
+
+2,693 
+2,703 
+
+2,711 
+2,711 
+
+2,693 
+2,703 
+
+2,733 
+2,743 
+
+$
+
+$
+
+Dividends declared per common share
+
+$
+
+—  $
+
+—  $
+
+2.28  $
+
+2.24 
+
+See accompanying notes.
+
+4
+
+Table of Contents
+
+Condensed Consolidated Statements of Comprehensive Income
+
+Walmart Inc.
+
+(Unaudited)
+
+(Amounts in millions)
+Consolidated net income (loss)
+
+Consolidated net income attributable to noncontrolling interest
+
+Consolidated net income (loss) attributable to Walmart
+
+Other comprehensive income (loss), net of income taxes
+
+Currency translation and other
+Net investment hedges
+Cash ﬂow hedges
+Minimum pension liability
+
+Other comprehensive income (loss), net of income taxes
+
+Other comprehensive (income) loss attributable to noncontrolling interest
+
+Other comprehensive income (loss) attributable to Walmart
+
+Three Months Ended
+October 31,
+
+Nine Months Ended
+October 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$
+
+643 
+(190)
+453 
+
+$ (1,767)
+(31)
+(1,798)
+
+$ 10,592 
+(575)
+10,017 
+
+$
+
+5,483 
+(78)
+5,405 
+
+(575)
+— 
+(12)
+1 
+(586)
+(169)
+(755)
+
+(919)
+— 
+(175)
+— 
+(1,094)
+208 
+(886)
+
+541 
+— 
+54 
+2 
+597 
+(490)
+107 
+
+(2,067)
+— 
+(426)
+3 
+(2,490)
+476 
+(2,014)
+
+Comprehensive income (loss), net of income taxes
+
+Comprehensive (income) loss attributable to noncontrolling interest
+
+Comprehensive income (loss) attributable to Walmart
+
+57 
+(359)
+(302)
+
+(2,861)
+177 
+$ (2,684)
+
+11,189 
+(1,065)
+$ 10,124 
+
+$
+
+2,993 
+398 
+3,391 
+
+$
+
+See accompanying notes.
+
+5
+
+ 
+Walmart Inc.
+
+Condensed Consolidated Balance Sheets
+
+(Unaudited)
+
+Table of Contents
+
+(Amounts in millions)
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+Receivables, net
+Inventories
+Prepaid expenses and other
+Total current assets
+
+Property and equipment, net
+Operating lease right-of-use assets
+Finance lease right-of-use assets, net
+Goodwill
+Other long-term assets
+
+Total assets
+
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND EQUITY
+Current liabilities:
+
+Short-term borrowings
+Accounts payable
+Dividends payable
+Accrued liabilities
+Accrued income taxes
+Long-term debt due within one year
+Operating lease obligations due within one year
+Finance lease obligations due within one year
+
+Total current liabilities
+
+Long-term debt
+Long-term operating lease obligations
+Long-term ﬁnance lease obligations
+Deferred income taxes and other
+
+Commitments and contingencies
+
+October 31,
+2023
+
+January 31,
+2023
+
+October 31,
+2022
+
+$
+
+12,154  $
+
+8,625 
+63,951 
+3,661 
+88,391 
+
+107,471 
+13,547 
+5,806 
+28,015 
+15,944 
+
+8,625  $
+7,933 
+56,576 
+2,521 
+75,655 
+
+100,760 
+13,555 
+4,919 
+28,174 
+20,134 
+
+11,587 
+8,218 
+64,706 
+3,169 
+87,680 
+
+97,553 
+13,394 
+4,597 
+28,137 
+16,295 
+
+$
+
+259,174  $
+
+243,197  $
+
+247,656 
+
+$
+
+9,942  $
+
+372  $
+
+61,049 
+1,533 
+26,132 
+606 
+2,806 
+1,474 
+688 
+
+104,230 
+
+36,342 
+12,817 
+5,670 
+14,304 
+
+53,742 
+— 
+31,126 
+727 
+4,191 
+1,473 
+567 
+
+92,198 
+
+34,649 
+12,828 
+4,843 
+14,688 
+
+6,811 
+57,263 
+1,527 
+27,443 
+900 
+5,458 
+1,457 
+549 
+
+101,408 
+
+33,935 
+12,658 
+4,512 
+14,760 
+
+Redeemable noncontrolling interest
+
+228 
+
+237 
+
+260 
+
+Equity:
+
+Common stock
+Capital in excess of par value
+Retained earnings
+Accumulated other comprehensive loss
+Total Walmart shareholders' equity
+Nonredeemable noncontrolling interest
+
+Total equity
+
+269 
+4,929 
+85,831 
+(11,573)
+79,456 
+6,127 
+
+85,583 
+
+269 
+4,969 
+83,135 
+(11,680)
+76,693 
+7,061 
+
+83,754 
+
+Total liabilities, redeemable noncontrolling interest, and equity
+
+$
+
+259,174  $
+
+243,197  $
+
+See accompanying notes.
+
+6
+
+270 
+4,817 
+77,946 
+(10,780)
+72,253 
+7,870 
+
+80,123 
+247,656 
+
+Table of Contents
+
+Condensed Consolidated Statements of Shareholders' Equity
+
+Walmart Inc.
+
+(Unaudited)
+
+Common Stock
+
+Capital in
+Nonredeemable
+Excess of Retained Comprehensive Shareholders' Noncontrolling
+
+Accumulated
+Other
+
+Total
+Walmart
+
+Shares Amount Par Value Earnings
+
+Loss
+
+Equity
+
+Interest
+
+Total
+
+Equity
+
+2,693  $
+
+269  $
+
+4,969  $ 83,135  $
+
+(11,680) $
+
+76,693  $
+
+7,061  $ 83,754 
+
+(Amounts in millions)
+Balances as of February 1,
+2023
+Consolidated net income
+Other comprehensive income,
+net of income taxes
+Dividends declared ($2.28 per
+share)
+Purchase of Company stock
+Dividends declared to
+noncontrolling interest
+Sale of subsidiary stock
+Other
+
+— 
+
+— 
+
+— 
+
+(5)
+
+— 
+
+— 
+6 
+
+— 
+
+Balances as of April 30, 2023 2,694  $
+Consolidated net income
+Other comprehensive income,
+net of income taxes
+Purchase of Company stock
+Dividends to noncontrolling
+interest
+Purchase of noncontrolling
+interest
+Sale of subsidiary stock
+Other
+
+— 
+1 
+
+(3)
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+(1)
+
+— 
+
+— 
+1 
+
+269  $
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+— 
+
+— 
+
+— 
+
+— 
+
+(38)
+
+— 
+
+389 
+(72)
+
+1,673 
+
+— 
+
+(6,139)
+
+(632)
+
+— 
+
+— 
+(2)
+
+— 
+
+533 
+
+— 
+
+— 
+
+— 
+
+— 
+— 
+
+1,673 
+
+533 
+
+(6,139)
+
+(671)
+
+— 
+
+389 
+(73)
+
+223 
+
+209 
+
+— 
+
+— 
+
+(761)
+
+94 
+— 
+
+1,896 
+
+742 
+
+(6,139)
+
+(671)
+
+(761)
+
+483 
+(73)
+
+5,248  $ 78,035  $
+
+(11,147) $
+
+— 
+
+— 
+
+(29)
+
+— 
+
+(1,076)
+
+160 
+332 
+
+7,891 
+
+— 
+
+(454)
+
+— 
+
+— 
+
+— 
+(2)
+
+— 
+
+329 
+
+— 
+
+— 
+
+— 
+
+— 
+— 
+
+72,405  $
+7,891 
+
+6,826  $ 79,231 
+8,053 
+
+162 
+
+329 
+
+(483)
+
+— 
+
+112 
+
+— 
+
+(6)
+
+441 
+
+(483)
+
+(6)
+
+(1,076)
+
+(1,367)
+
+(2,443)
+
+160 
+330 
+
+54 
+(10)
+
+214 
+320 
+
+Balances as of July 31, 2023
+Consolidated net income
+Other comprehensive income
+(loss), net of income taxes
+Purchase of Company stock
+Dividends to noncontrolling
+interest
+Sale of subsidiary stock
+Other
+Balances as of October 31,
+2023
+
+See accompanying notes.
+
+2,692  $
+
+269  $
+
+4,635  $ 85,470  $
+
+(10,818) $
+
+79,556  $
+
+5,771  $ 85,327 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+1 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+— 
+
+— 
+
+— 
+
+(5)
+
+— 
+
+7 
+292 
+
+453 
+
+— 
+
+(92)
+
+— 
+
+— 
+— 
+
+— 
+
+(755)
+
+— 
+
+— 
+
+— 
+— 
+
+453 
+
+(755)
+
+(97)
+
+— 
+
+7 
+292 
+
+199 
+
+169 
+
+— 
+
+(4)
+
+3 
+(11)
+
+652 
+
+(586)
+
+(97)
+
+(4)
+
+10 
+281 
+
+2,693  $
+
+269  $
+
+4,929  $ 85,831  $
+
+(11,573) $
+
+79,456  $
+
+6,127  $ 85,583 
+
+7
+
+Table of Contents
+
+Common Stock
+
+Capital in
+Nonredeemable
+Excess of Retained Comprehensive Shareholders' Noncontrolling
+
+Accumulated
+Other
+
+Total
+Walmart
+
+Shares Amount Par Value Earnings
+
+Loss
+
+Equity
+
+Interest
+
+Total
+
+Equity
+
+276  $
+
+4,839  $ 86,904  $
+
+(8,766) $
+
+83,253  $
+
+8,638  $ 91,891 
+
+— 
+
+2,761  $
+
+(Amounts in millions)
+Balances as of February 1,
+2022
+Consolidated net income
+Other comprehensive income,
+net of income taxes
+Dividends declared ($2.24 per
+share)
+Purchase of Company stock
+Sale of subsidiary stock
+Other
+Balances as of April 30, 2022 2,748  $
+
+(17)
+— 
+4 
+
+— 
+
+— 
+
+Consolidated net income
+Other comprehensive (loss), net
+of income taxes
+Purchase of Company stock
+Dividends to noncontrolling
+interest
+Sale of subsidiary stock
+Other
+Balances as of July 31, 2022
+
+Consolidated net loss
+Other comprehensive (loss), net
+of income taxes
+Dividends
+Purchase of Company stock
+Dividends to noncontrolling
+interest
+Sale of subsidiary stock
+Other
+Balances as of October 31,
+2022
+
+See accompanying notes.
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+— 
+
+2,054 
+
+— 
+
+(6,173)
+
+(2)
+— 
+1 
+275  $
+
+(125)
+24 
+(151)
+4,587  $ 80,532  $
+
+(2,249)
+— 
+(4)
+
+— 
+
+— 
+
+(26)
+
+— 
+
+— 
+
+— 
+
+(3)
+
+— 
+
+— 
+— 
+2,722  $
+
+— 
+— 
+272  $
+
+— 
+
+— 
+
+5,149 
+
+— 
+
+(182)
+
+(3,201)
+
+— 
+
+8 
+259 
+
+— 
+
+— 
+39 
+
+4,672  $ 82,519  $
+
+— 
+
+— 
+
+— 
+(22)
+
+— 
+
+— 
+1 
+
+— 
+
+— 
+
+— 
+(2)
+
+— 
+
+— 
+— 
+
+— 
+
+— 
+
+— 
+(158)
+
+— 
+
+7 
+296 
+
+(1,798)
+
+— 
+
+43 
+(2,772)
+
+— 
+
+— 
+(46)
+
+— 
+
+268 
+
+— 
+
+— 
+— 
+— 
+(8,498) $
+
+— 
+
+(1,396)
+
+— 
+
+— 
+
+— 
+— 
+(9,894) $
+
+— 
+
+(886)
+
+— 
+— 
+
+— 
+
+— 
+— 
+
+2,054 
+
+268 
+
+(6,173)
+
+(2,376)
+24 
+(154)
+76,896  $
+
+5,149 
+
+(1,396)
+
+(3,386)
+
+— 
+
+8 
+298 
+77,569  $
+
+(1,798)
+
+(886)
+
+43 
+(2,932)
+
+— 
+
+7 
+250 
+
+49 
+
+7 
+
+2,103 
+
+275 
+
+— 
+
+(6,173)
+
+— 
+11 
+(1)
+
+(2,376)
+35 
+(155)
+8,704  $ 85,600 
+
+(2)
+
+5,147 
+
+(275)
+
+(1,671)
+
+— 
+
+(3,386)
+
+(434)
+
+(434)
+
+2 
+23 
+
+10 
+321 
+8,018  $ 85,587 
+
+31 
+
+(1,767)
+
+(208)
+
+(1,094)
+
+— 
+— 
+
+(10)
+
+3 
+36 
+
+43 
+(2,932)
+
+(10)
+
+10 
+286 
+
+2,701  $
+
+270  $
+
+4,817  $ 77,946  $
+
+(10,780) $
+
+72,253  $
+
+7,870  $ 80,123 
+
+8
+
+Table of Contents
+
+Condensed Consolidated Statements of Cash Flows
+
+Walmart Inc.
+
+(Unaudited)
+
+(Amounts in millions)
+Cash ﬂows from operating activities:
+
+Consolidated net income
+Adjustments to reconcile consolidated net income to net cash provided by operating activities:
+
+Depreciation and amortization
+Investment (gains) and losses, net
+Deferred income taxes
+Other operating activities
+Changes in certain assets and liabilities, net of eﬀects of acquisitions and dispositions:
+
+Receivables, net
+Inventories
+Accounts payable
+Accrued liabilities
+Accrued income taxes
+
+Net cash provided by operating activities
+
+Cash ﬂows from investing activities:
+
+Payments for property and equipment
+Proceeds from the disposal of property and equipment
+Proceeds from disposal of certain operations
+Payments for business acquisitions, net of cash acquired
+Other investing activities
+Net cash used in investing activities
+
+Cash ﬂows from ﬁnancing activities:
+Net change in short-term borrowings
+Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Dividends paid
+Purchase of Company stock
+Dividends paid to noncontrolling interest
+Sale of subsidiary stock
+Purchase of noncontrolling interest
+Other ﬁnancing activities
+Net cash used in ﬁnancing activities
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+
+10,592 
+
+$
+
+5,483 
+
+8,736 
+4,028 
+(669)
+1,412 
+
+(671)
+(7,321)
+7,346 
+(4,295)
+(144)
+
+19,014 
+
+(14,674)
+163 
+135 
+(9)
+(989)
+(15,374)
+
+9,583 
+4,967 
+(4,213)
+(4,606)
+(1,282)
+(218)
+707 
+(3,462)
+(1,655)
+
+(179)
+
+8,134 
+5,611 
+28 
+921 
+
+(59)
+(9,008)
+3,183 
+1,354 
+51 
+
+15,698 
+
+(12,061)
+126 
+— 
+(730)
+(300)
+(12,965)
+
+6,451 
+4,969 
+(1,439)
+(4,600)
+(8,708)
+(16)
+55 
+— 
+(2,293)
+
+(5,581)
+
+Eﬀect of exchange rates on cash, cash equivalents and restricted cash
+
+(7)
+
+(331)
+
+Net increase (decrease) in cash, cash equivalents and restricted cash
+Cash, cash equivalents and restricted cash at beginning of year
+
+Cash, cash equivalents and restricted cash at end of period
+
+See accompanying notes.
+
+3,454 
+8,841 
+
+$
+
+12,295 
+
+$
+
+(3,179)
+14,834 
+
+11,655 
+
+9
+
+Table of Contents
+
+Notes to Condensed Consolidated Financial Statements
+
+Walmart Inc.
+
+Note 1. Summary of Signiﬁcant Accounting Policies
+
+Basis of Presentation
+
+The Condensed Consolidated Financial Statements of Walmart Inc. and its subsidiaries ("Walmart" or the
+"Company") and the accompanying notes included in this Quarterly Report on Form 10-Q are unaudited. In the
+opinion of management, all adjustments necessary for the fair presentation of the Condensed Consolidated
+Financial Statements have been included. Such adjustments are of a normal, recurring nature. The Condensed
+Consolidated Financial Statements, and the accompanying notes, are prepared in accordance with generally
+accepted accounting principles in the United States ("GAAP") and do not contain certain information included in the
+Company's Annual Report on Form 10-K for the ﬁscal year ended January 31, 2023 ("ﬁscal 2023"). Therefore, the
+interim Condensed Consolidated Financial Statements should be read in conjunction with that Annual Report on
+Form 10-K.
+
+The Company's Condensed Consolidated Financial Statements are based on a ﬁscal year ending January 31 for the
+United States ("U.S.") and Canadian operations. The Company consolidates all other operations generally using a
+one-month lag based on a calendar year. There were no signiﬁcant intervening events during the month of October
+2023 related to the consolidated operations using a lag that materially aﬀected the Condensed Consolidated
+Financial Statements.
+
+The Company's business is seasonal to a certain extent due to calendar events and national and religious holidays,
+as well as weather patterns. Historically, the Company's highest sales volume has occurred in the ﬁscal quarter
+ending January 31.
+
+Use of Estimates
+
+The Condensed Consolidated Financial Statements have been prepared in conformity with GAAP. Those principles
+require management to make estimates and assumptions that aﬀect the reported amounts of assets and liabilities.
+Management's estimates and assumptions also aﬀect the disclosure of contingent assets and liabilities at the date
+of the ﬁnancial statements and the reported amounts of revenues and expenses during the reporting period. Actual
+results may diﬀer materially from those estimates.
+
+Supplier Financing Program Obligations
+
+In September 2022, the FASB issued ASU 2022-04, Liabilities - Supplier Finance Programs (Subtopic 405-50):
+Disclosure of Supplier Finance Program Obligations, which enhances the transparency about the use of supplier
+ﬁnance programs for investors and other allocators of capital. The Company adopted this ASU as of February 1,
+2023, other than the roll-forward disclosure requirement which the Company will adopt in ﬁscal 2025.
+
+The Company has supplier ﬁnancing programs with ﬁnancial institutions, in which the Company agrees to pay the
+ﬁnancial institution the stated amount of conﬁrmed invoices on the invoice due date for participating suppliers.
+Participation in these programs is optional and solely up to the supplier, who negotiates the terms of the
+arrangement directly with the ﬁnancial institution and may allow early payment. Supplier participation in these
+programs has no bearing on the Company's amounts due. The payment terms that the Company has with
+participating suppliers under these programs generally range between 30 and 90 days. The Company does not
+have an economic interest in a supplier's participation in the program or a direct ﬁnancial relationship with the
+ﬁnancial institution funding the program. The Company is responsible for ensuring that participating ﬁnancial
+institutions are paid according to the terms negotiated with the supplier, regardless of whether the supplier elects
+to receive early payment from the ﬁnancial institution. The outstanding payment obligations to ﬁnancial institutions
+under these programs were $6.1 billion, $5.2 billion and $5.4 billion, as of October 31, 2023, January 31, 2023 and
+October 31, 2022, respectively. These obligations are generally classiﬁed as accounts payable within the
+Condensed Consolidated Balance Sheets. The activity related to these programs is classiﬁed as an operating
+activity within the Condensed Consolidated Statements of Cash Flows.
+
+Recent Accounting Pronouncements
+
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable
+Segment Disclosures, which updates reportable segment disclosure requirements primarily through enhanced
+disclosures about signiﬁcant segment expenses. The amendments are eﬀective for ﬁscal years beginning after
+December 15, 2023, and for interim periods within ﬁscal years beginning after December 15, 2024. Early adoption
+is permitted. The amendments should be applied retrospectively to all prior periods presented in the ﬁnancial
+statements. Management is currently evaluating this ASU to determine its impact on the Company's disclosures.
+
+10
+
+Table of Contents
+
+Note 2. Net Income (Loss) Per Common Share
+
+Basic net income (loss) per common share attributable to Walmart is based on the weighted-average common
+shares outstanding during the relevant period. Diluted net income (loss) per common share attributable to Walmart
+is based on the weighted-average common shares outstanding during the relevant period adjusted for the dilutive
+eﬀect of share-based awards. The Company did not have signiﬁcant share-based awards outstanding that were
+anti-dilutive and not included in the calculation of diluted net income per common share attributable to Walmart for
+the three and nine months ended October 31, 2023 and the nine months ended October 31, 2022. The calculation
+of diluted net loss per common share attributable to Walmart for the three months ended October 31, 2022 does
+not include the eﬀect of share-based payment awards as their inclusion would be anti-dilutive and would reduce the
+net loss per common share, and such awards were not signiﬁcant.
+
+The following table provides a reconciliation of the numerators and denominators used to determine basic and
+diluted net income (loss) per common share attributable to Walmart:
+
+(Amounts in millions, except per share data)
+Numerator
+
+Consolidated net income (loss)
+Consolidated net income attributable to noncontrolling interest
+
+Consolidated net income (loss) attributable to Walmart
+
+Denominator
+
+Weighted-average common shares outstanding, basic
+Dilutive impact of share-based awards
+
+Weighted-average common shares outstanding, diluted
+
+Net income (loss) per common share attributable to Walmart
+
+Basic
+Diluted
+
+$
+
+$
+
+$
+
+Note 3. Accumulated Other Comprehensive Loss
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+643  $
+(190)
+453  $
+
+(1,767) $
+(31)
+(1,798) $
+
+10,592  $
+(575)
+10,017  $
+
+2,693 
+10 
+
+2,703 
+
+2,711 
+— 
+
+2,711 
+
+2,693 
+10 
+
+2,703 
+
+5,483 
+(78)
+5,405 
+
+2,733 
+10 
+
+2,743 
+
+0.17  $
+0.17 
+
+(0.66) $
+(0.66)
+
+3.72  $
+3.71 
+
+1.98 
+1.97 
+
+The following tables provide the changes in the composition of total accumulated other comprehensive loss:
+
+(Amounts in millions and net of immaterial income taxes)
+Balances as of February 1, 2023
+Other comprehensive income (loss) before reclassiﬁcations,
+net
+Reclassiﬁcations to income, net
+Balances as of April 30, 2023
+
+Other comprehensive income (loss) before reclassiﬁcations,
+net
+Reclassiﬁcations to income, net
+Balances as of July 31, 2023
+Other comprehensive income (loss) before reclassiﬁcations,
+net
+Reclassiﬁcations to income, net
+
+Balances as of October 31, 2023
+
+(Amounts in millions and net of immaterial income taxes)
+Balances as of February 1, 2022
+Other comprehensive income before reclassiﬁcations, net
+
+Reclassiﬁcations to income, net
+Balances as of April 30, 2022
+Other comprehensive income (loss) before reclassiﬁcations,
+net
+Reclassiﬁcations to income, net
+
+Balances as of July 31, 2022
+Other comprehensive loss before reclassiﬁcations, net
+Reclassiﬁcations to income, net
+
+Balances as of October 31, 2022
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Currency 
+Translation
+and Other
+
+Net
+Investment
+Hedges
+
+Cash Flow
+Hedges
+
+Minimum
+Pension 
+Liability
+
+Total
+
+(10,816) $
+
+94  $
+
+(951) $
+
+(7) $ (11,680)
+
+600 
+
+— 
+
+— 
+
+— 
+
+(82)
+
+13 
+
+2 
+
+— 
+
+520 
+
+13 
+
+(10,216) $
+
+94  $
+
+(1,020) $
+
+(5) $ (11,147)
+
+195 
+
+— 
+
+(10,021) $
+
+(744)
+
+— 
+
+— 
+
+— 
+94  $
+
+— 
+
+— 
+
+115 
+
+20 
+(885) $
+
+(29)
+
+17 
+
+(1)
+
+309 
+
+— 
+20 
+(6) $ (10,818)
+
+1 
+
+— 
+
+(772)
+
+17 
+
+(10,765) $
+
+94  $
+
+(897) $
+
+(5) $ (11,573)
+
+Currency 
+Translation
+and Other
+
+Net
+Investment
+Hedges
+
+Cash Flow
+Hedges
+
+Minimum
+Pension 
+Liability
+
+94  $
+— 
+— 
+
+94  $
+
+— 
+— 
+
+94  $
+— 
+— 
+94  $
+
+(748) $
+26 
+16 
+
+(706) $
+
+(622)
+329 
+
+(999) $
+(191)
+16 
+(1,174) $
+
+(8,100) $
+225 
+— 
+
+(7,875) $
+
+(796)
+(309)
+
+(8,980) $
+(711)
+— 
+(9,691) $
+
+11
+
+(12) $
+— 
+1 
+
+(11) $
+
+2 
+— 
+
+Total
+
+(8,766)
+251 
+17 
+
+(8,498)
+
+(1,416)
+20 
+
+(9,894)
+(9) $
+(902)
+— 
+— 
+16 
+(9) $ (10,780)
+
+Table of Contents
+
+Amounts reclassiﬁed from accumulated other comprehensive loss for derivative instruments are generally recorded
+in interest, net, in the Company's Condensed Consolidated Statements of Income. Amounts for the minimum
+pension liability and currency translation are recorded in other gains and losses in the Company's Condensed
+Consolidated Statements of Income.
+
+Note 4. Short-term Borrowings and Long-term Debt
+
+The Company has various committed lines of credit in the U.S. that are used to support its commercial paper
+program. In April 2023, the Company renewed and extended its existing 364-day revolving credit facility of $10.0
+billion as well as its ﬁve-year credit facility of $5.0 billion. In total, the Company had committed lines of credit in the
+U.S. of $15.0 billion at October 31, 2023 and January 31, 2023, all undrawn.
+
+The following table provides the changes in the Company's long-term debt for the nine months ended October 31,
+2023:
+
+(Amounts in millions)
+Balances as of February 1, 2023
+Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Reclassiﬁcations of long-term debt
+Other
+
+(1)
+
+Balances as of October 31, 2023
+
+Long-term debt
+due within one
+year
+
+Long-term debt
+
+Total
+
+$
+
+$
+
+4,191  $
+— 
+(4,213)
+2,832 
+(4)
+2,806  $
+
+34,649  $
+
+4,967 
+— 
+(2,832)
+(442)
+36,342  $
+
+38,840 
+4,967 
+(4,213)
+— 
+(446)
+39,148 
+
+(1) 
+
+Proceeds from issuance of long-term debt are net of deferred loan costs and any related discount or premium.
+
+Debt Issuances
+
+Information on signiﬁcant long-term debt issued during the nine months ended October 31, 2023, for general
+corporate purposes, is as follows:
+
+(Amounts in millions)
+
+Issue Date
+
+April 18, 2023
+April 18, 2023
+April 18, 2023
+April 18, 2023
+April 18, 2023
+
+Total
+
+Principal Amount
+
+Maturity Date
+
+ Fixed Interest
+Rate
+
+Net Proceeds
+
+$
+$
+$
+$
+$
+
+750 
+750 
+500 
+1,500 
+1,500 
+
+April 15, 2026
+April 15, 2028
+April 15, 2030
+April 15, 2033
+April 15, 2053
+
+4.00%
+3.90%
+4.00%
+4.10%
+4.50%
+
+$
+$
+$
+$
+$
+$
+
+748 
+746 
+497 
+1,491 
+1,485 
+4,967 
+
+These issuances are senior, unsecured notes which rank equally with all other senior, unsecured debt obligations of
+the Company, and are not convertible or exchangeable. These issuances do not contain any ﬁnancial covenants
+and do not restrict the Company's ability to pay dividends or repurchase company stock.
+
+Debt Repayments
+
+Information on signiﬁcant long-term debt repayments during the nine months ended October 31, 2023 is as follows:
+
+(Amounts in millions)
+Maturity Date
+
+April 11, 2023
+June 26, 2023
+
+Total
+
+Note 5. Fair Value Measurements
+
+Principal Amount
+
+Fixed vs. Floating
+
+Interest Rate
+
+Repayment
+
+$
+$
+
+1,750 
+2,280 
+
+Fixed
+Fixed
+
+2.55%
+3.40%
+
+$
+$
+$
+
+1,750 
+2,280 
+4,030 
+
+Assets and liabilities recorded at fair value are measured using the fair value hierarchy, which prioritizes the inputs
+used in measuring fair value. The levels of the fair value hierarchy are:
+
+•
+
+•
+
+•
+
+Level 1: observable inputs such as quoted prices in active markets;
+
+Level 2: inputs other than quoted prices in active markets that are either directly or indirectly observable;
+and
+
+Level 3: unobservable inputs for which little or no market data exists, therefore requiring the Company to
+develop its own assumptions.
+
+12
+
+Table of Contents
+
+The Company measures the fair value of certain equity investments, including certain immaterial equity method
+investments where the Company has elected the fair value option, on a recurring basis within other long-term
+assets in the accompanying Condensed Consolidated Balance Sheets. The amounts of gains and losses included in
+earnings from fair value changes for these investments are recognized within other gains and losses in the
+Condensed Consolidated Statements of Income. The fair value of these investments is as follows:
+
+(Amounts in millions)
+Equity investments measured using Level 1 inputs
+Equity investments measured using Level 2 inputs
+Total
+
+Fair Value as of
+October 31,
+2023
+
+Fair Value as of
+January 31,
+2023
+
+$
+
+$
+
+2,889  $
+3,579 
+6,468  $
+
+5,099 
+5,570 
+10,669 
+
+Changes in the fair value of these investments were primarily due to gains and losses resulting from net changes in
+the underlying stock prices, along with certain other immaterial investment activity. These changes in fair value
+included net losses of $4.2 billion for both the three and nine months ended October 31, 2023, and net losses of
+$3.6 billion and $4.8 billion for the three and nine months ended October 31, 2022, respectively. Equity investments
+without readily determinable fair values are carried at cost and adjusted for any observable price changes or
+impairments within other gains and losses in the Condensed Consolidated Statements of Income.
+
+Derivatives
+
+The Company also has derivatives recorded at fair value. Derivative fair values are the estimated amounts the
+Company would receive or pay upon termination of the related derivative agreements as of the reporting dates.
+The fair values have been measured using the income approach and Level 2 inputs, which include the relevant
+interest rate and foreign currency forward curves. As of October 31, 2023 and January 31, 2023, the notional
+amounts and fair values of these derivatives were as follows:
+
+(Amounts in millions)
+Receive ﬁxed-rate, pay variable-rate interest rate swaps designated as fair value
+hedges
+Receive ﬁxed-rate, pay ﬁxed-rate cross-currency swaps designated as cash ﬂow
+hedges
+
+Total
+
+October 31, 2023
+
+January 31, 2023
+
+Notional
+Amount
+
+Fair Value
+
+Notional
+Amount
+
+Fair Value
+
+$
+
+6,271  $
+
+(889)
+
+(1)
+
+$
+
+8,021  $
+
+(689)
+
+(1)
+
+5,666 
+
+(1,352)
+
+(1)
+
+5,900 
+
+(1,423)
+
+(1)
+
+$ 11,937  $
+
+(2,241)
+
+$ 13,921  $
+
+(2,112)
+
+(1) 
+
+Classiﬁed primarily in deferred income taxes and other within the Company's Condensed Consolidated Balance Sheets.
+
+Nonrecurring Fair Value Measurements
+
+In addition to assets and liabilities recorded at fair value on a recurring basis, the Company's assets and liabilities
+are also subject to nonrecurring fair value measurements. Generally, assets are recorded at fair value on a
+nonrecurring basis as a result of impairment charges. The Company did not have any material assets or liabilities
+resulting in nonrecurring fair value measurements as of October 31, 2023 in the Company's Condensed
+Consolidated Balance Sheets.
+
+Other Fair Value Disclosures
+
+The Company records cash and cash equivalents, restricted cash, and short-term borrowings at cost. The carrying
+values of these instruments approximate their fair value due to their short-term maturities.
+
+The Company's long-term debt is also recorded at cost. The fair value is estimated using Level 2 inputs based on
+the Company's current incremental borrowing rate for similar types of borrowing arrangements. The carrying value
+and fair value of the Company's long-term debt as of October 31, 2023 and January 31, 2023, are as follows: 
+
+(Amounts in millions)
+Long-term debt, including amounts due within one year
+
+Carrying Value
+
+Fair Value
+
+Carrying Value
+
+Fair Value
+
+$
+
+39,148  $
+
+35,038  $
+
+38,840  $
+
+38,169 
+
+October 31, 2023
+
+January 31, 2023
+
+Note 6. Contingencies
+
+Legal Proceedings
+The Company is involved in a number of legal proceedings and certain regulatory matters. The Company records a
+liability for those legal proceedings and regulatory matters when it determines it is probable that a loss has been
+incurred and the amount of the loss can be reasonably estimated. The Company also discloses when it is
+reasonably possible that a material loss may be incurred. From time to time, the Company may enter into
+discussions regarding settlement of these matters, and may enter into settlement agreements, if it believes
+settlement is in the best interest of the Company and its shareholders.
+
+Unless stated otherwise, the matters discussed below, if decided adversely to or settled by the Company,
+individually or in the aggregate, may result in a liability material to the Company's ﬁnancial position, results of
+operations or cash ﬂows.
+
+ 
+ 
+13
+
+Table of Contents
+
+Settlement Framework Regarding Multidistrict and State or Local Opioid-Related Litigation
+
+During ﬁscal 2023, the Company accrued a liability for approximately $3.3 billion for the Settlement Framework
+(described below) and other previously agreed upon state and tribal settlements. The Settlement Framework
+includes no admission of wrongdoing or liability by the Company, and the Company continues to believe it has
+substantial factual and legal defenses to opioids-related litigation. As of October 31, 2023, substantially all of the
+original approximately $3.3 billion accrued liability for the Settlement Framework and other settlements has been
+paid.
+
+In December 2017, the United States Judicial Panel on Multidistrict Litigation consolidated numerous lawsuits ﬁled
+against a wide array of defendants by various plaintiﬀs, including counties, cities, healthcare providers, Native
+American tribes, individuals, and third-party payers, asserting claims generally concerning the impacts of
+widespread opioid abuse. The consolidated multidistrict litigation is entitled In re National Prescription Opiate
+Litigation (MDL No. 2804) (the "MDL") and is pending in the U.S. District Court for the Northern District of Ohio. The
+Company is named as a defendant in some of the cases included in the MDL.
+
+On November 15, 2022, the Company announced it had agreed to ﬁnancial amounts and payment terms to resolve
+substantially all opioids-related lawsuits ﬁled against the Company by states, political subdivisions, and Native
+American tribes whether as part of the MDL (excluding, however, a single, two-county trial described further below)
+or in state court, as well as all potential claims that could be made against the Company by states, political
+subdivisions, and Native American tribes for up to approximately $3.1 billion (the "Settlement Amount"). The
+Settlement Amount includes amounts for remediation of alleged harms as well as attorneys' fees and costs and also
+includes some, but not all, amounts from previously agreed recent settlements by the Company. One settlement
+framework with corresponding conditions and participation thresholds applies for the states and political
+subdivisions, and another settlement framework with corresponding conditions and participation thresholds applies
+for the Native American tribes. Both settlement frameworks are referred to collectively as the "Settlement
+Framework."
+
+The Settlement Framework, among other applicable conditions, provides that payments to states and political
+subdivisions are contingent upon the number of states and political subdivisions, including those states and
+political subdivisions who have not yet sued the Company, that agree to participate in the Settlement Framework or
+otherwise have their claims foreclosed within a prescribed deadline. On December 20, 2022, the Company
+announced that it had settlement agreements with all 50 states, including four states that previously settled with
+the Company, as well as the District of Columbia, Puerto Rico, and three other U.S. territories (the "Settling
+States"), thus satisfying the initial threshold of required participation by Settling States. On August 22, 2023, the
+settlement administrator determined that a suﬃcient number of political subdivisions had agreed to participate in
+the Settlement Framework, which was a necessary condition for the Settlement Framework to become eﬀective.
+The Settlement Framework became eﬀective 15 days later, on September 6, 2023. The Company deposited the full
+portion of the Settlement Amount attributable to the Settling States on October 11, 2023. Although the settlement
+administrator has determined that suﬃcient number of political subdivisions have agreed to participate in the
+Settlement Framework, and thus the Settlement Framework was eﬀective, eligible political subdivisions still have
+until July 15, 2025, to join the Settlement Framework.
+
+Other Opioid-Related Litigation
+
+The Company will continue to vigorously defend against any opioid-related litigation not covered or otherwise
+resolved by the Settlement Framework, including, but not limited to, each of the matters described below; any
+other actions ﬁled by healthcare providers, individuals, and third-party payers; and any action ﬁled by a political
+subdivision or Native American tribe that is not resolved by the Settlement Framework. Accordingly, the Company
+has not accrued a liability for these opioid-related litigation matters nor can the Company reasonably estimate any
+loss or range of loss that may arise from these matters. The Company can provide no assurance as to the scope
+and outcome of any of these matters and no assurance that its business, ﬁnancial position, results of operations or
+cash ﬂows will not be materially adversely aﬀected.
+
+Two-County Trial and MDL Bellwethers; Canada; and Other Litigation. The liability phase of a single, two-county trial
+in one of the MDL cases resulted in a jury verdict on November 23, 2021, ﬁnding in favor of the plaintiﬀs as to the
+liability of all defendants, including the Company. The abatement phase of the single, two-county trial resulted in a
+judgment on August 17, 2022, that ordered all three defendants, including the Company, to pay an aggregate
+amount of approximately $0.7 billion over ﬁfteen years, on a joint and several liability basis, and granted the
+plaintiﬀs injunctive relief. On September 7, 2022, the Company ﬁled an appeal with the Sixth Circuit Court of
+Appeals. The monetary aspect of the judgment is stayed pending appeal, and the injunctive aspect of the judgment
+went into eﬀect on February 20, 2023. On September 11, 2023, the Sixth Circuit Court of Appeals issued an order of
+certifying certain questions in the appeal for review by the Supreme Court of Ohio.
+
+The MDL designated ﬁve additional single-county cases as bellwethers to proceed through discovery; however,
+these ﬁve counties have elected to participate in the Settlement Framework and receive a portion of the Settlement
+Amount rather than go to trial. On October 25, 2023, the MDL designated four cases brought by third-party payers
+as bellwether cases to proceed through discovery. Additional bellwethers of cases brought by hospitals and other
+healthcare providers may be designated in the future.
+
+14
+
+Table of Contents
+
+Wal-Mart Canada Corp. and certain other subsidiaries of the Company have been named as defendants in two
+putative class action complaints ﬁled in Canada related to dispensing and distribution practices involving opioids.
+These matters remain pending.
+
+Similar cases that name the Company also have been ﬁled in state and federal courts by state, local, and tribal
+governments, healthcare providers, and other plaintiﬀs. Plaintiﬀs in these cases and in the MDL are seeking
+compensatory and punitive damages, as well as injunctive relief including abatement. The Company has also been
+responding to subpoenas, information requests, and investigations from governmental entities related to
+nationwide controlled substance dispensing and distribution practices involving opioids.
+
+DOJ Opioid Civil Litigation. On December 22, 2020, the U.S. Department of Justice (the "DOJ") ﬁled a civil complaint
+in the U.S. District Court for the District of Delaware alleging that the Company unlawfully dispensed controlled
+substances from its pharmacies and unlawfully distributed controlled substances to those pharmacies. The
+complaint alleges that this conduct resulted in violations of the Controlled Substances Act. The DOJ is seeking civil
+penalties and injunctive relief. The Company initially moved to dismiss the DOJ complaint on February 22, 2021.
+After that motion was fully briefed, the DOJ ﬁled an amended complaint on October 7, 2022. On November 7, 2022,
+the Company ﬁled a partial motion to dismiss the amended complaint. That motion remains pending.
+
+Opioid-Related Securities Class Actions and Derivative Litigation. In addition, the Company is the subject of two
+securities class actions alleging violations of the federal securities laws regarding the Company's disclosures with
+respect to opioids, ﬁled in the U.S. District Court for the District of Delaware on January 20, 2021 and March 5,
+2021, purportedly on behalf of a class of investors who acquired Walmart stock from March 30, 2016 through
+December 22, 2020. Those cases have been consolidated. On October 8, 2021, the defendants ﬁled a motion to
+dismiss the consolidated securities action. After the parties had fully briefed the motion to dismiss, on September 9,
+2022, the Court entered an order permitting the plaintiﬀs to ﬁle an amended complaint, which was ﬁled on October
+14, 2022, and which revised the applicable putative class of investors to those who acquired Walmart stock from
+March 31, 2017, through December 22, 2020. On November 16, 2022, the defendants ﬁled a motion to dismiss the
+amended complaint. That motion remains pending.
+
+Derivative actions were also ﬁled by two of the Company's shareholders in the U.S. District Court for the District of
+Delaware on February 9, 2021 and April 16, 2021, alleging breach of ﬁduciary duties against certain of its current
+and former directors with respect to oversight of the Company's distribution and dispensing of opioids and also
+alleging violations of the federal securities laws and other breaches of duty by current directors and two current
+oﬃcers in connection with the Company's opioids disclosures. Those cases have been stayed pending
+developments in other opioids litigation matters. On September 27, 2021, three shareholders ﬁled a derivative
+action in the Delaware Court of Chancery alleging that certain members of the Board of Directors and certain
+former oﬃcers breached their ﬁduciary duties in failing to adequately oversee the Company's prescription opioids
+business. The defendants moved to dismiss and/or to stay proceedings on December 21, 2021, and the plaintiﬀs
+responded by ﬁling an amended complaint on February 22, 2022. On April 20, 2022, the defendants moved to
+dismiss and/or to stay proceedings with respect to the amended complaint. In two orders issued on April 12 and 26,
+2023, the Court of Chancery granted the defendants' motion to dismiss with respect to claims involving the
+Company's distribution practices and denied the remainder of the motion, including the Company's request to stay
+the litigation. On May 5, 2023, the Company's Board of Directors (the "Board") appointed an independent Special
+Litigation Committee (the "SLC") to investigate the allegations regarding certain current and former oﬃcers and
+directors named in the various derivative proceedings regarding oversight with respect to opioids. The Board has
+authorized the SLC to retain independent legal counsel and such other advisors as the SLC deems appropriate in
+carrying out its duties. The derivative matter pending in the Delaware Court of Chancery is stayed until the SLC
+completes its investigation.
+
+Other Legal Proceedings
+
+Asda Equal Value Claims. Asda, formerly a subsidiary of the Company, was and still is a defendant in certain equal
+value claims that began in 2008 and are proceeding before an Employment Tribunal in Manchester in the United
+Kingdom on behalf of current and former Asda store employees, as well as additional claims in the High Court of the
+United Kingdom (the "Asda Equal Value Claims"). Further claims may be asserted in the future. Subsequent to the
+divestiture of Asda in February 2021, the Company continues to oversee the conduct of the defense of these
+claims. While potential liability for these claims remains with Asda, the Company has agreed to provide
+indemniﬁcation with respect to certain of these claims up to a contractually determined amount. The Company
+cannot predict the number of such claims that may be ﬁled, and cannot reasonably estimate any loss or range of
+loss that may arise related to these proceedings. Accordingly, the Company can provide no assurance as to the
+scope and outcome of these matters.
+
+Money Transfer Agent Services Matters. The Company has responded to grand jury subpoenas issued by the United
+States Attorney's Oﬃce for the Middle District of Pennsylvania on behalf of the DOJ seeking documents regarding
+the Company's consumer fraud prevention program and anti-money laundering compliance related to the
+Company's money transfer services, where Walmart is an agent. The most recent subpoena was issued in August
+2020. Walmart's responses to DOJ's subpoenas have been complete since 2021. The Company continues to
+cooperate with and provide information and documents voluntarily in response to supplemental requests from the
+DOJ. The Company has also responded to civil investigative demands from the
+
+15
+
+Table of Contents
+
+United States Federal Trade Commission (the "FTC") in connection with the FTC's investigation related to money
+transfers and the Company's anti-fraud program in its capacity as an agent. On June 28, 2022, the FTC ﬁled a
+complaint against the Company in the U.S. District Court for the Northern District of Illinois alleging that Walmart
+violated the Federal Trade Commission Act and the Telemarketing Sales Rule regarding its money transfer agent
+services and is requesting non-monetary relief and civil penalties. On August 29, 2022, the Company ﬁled a motion
+to dismiss the complaint. On March 27, 2023, the Court issued an opinion dismissing the FTC's claim under the
+Telemarketing Sales Rule and denying Walmart's motion to dismiss the claim under Section 5 of the Federal Trade
+Commission Act. On April 12, 2023, Walmart ﬁled a motion to certify the Court's March 27, 2023, order for
+interlocutory appeal. On June 30, 2023, the FTC ﬁled an amended complaint against Walmart again asserting claims
+under the Federal Trade Commission Act and Telemarketing Sales Rule. On July 20, 2023, the Court denied
+Walmart's motion to certify the Court's March 27, 2023, order for interlocutory appeal, ﬁnding that it would be more
+orderly to consider a request for interlocutory appeal after a ruling on Walmart's motion to dismiss the amended
+complaint. Walmart's motion to dismiss the amended complaint was ﬁled on August 11, 2023, and remains
+pending. The Company intends to vigorously defend these matters. However, the Company can provide no
+assurance as to the scope and outcome of these matters and cannot reasonably estimate any loss or range of loss
+that may arise. Accordingly, the Company can provide no assurance that its business, ﬁnancial position, results of
+operations or cash ﬂows will not be materially adversely aﬀected.
+
+Mexico Antitrust Matter. On October 6, 2023, the Comisión Federal de Competencia Económica of México
+("COFECE") notiﬁed the main Mexican operating subsidiary of Wal-Mart de México, S.A.B. de C.V. ("Walmex"), a
+majority owned subsidiary of the Company, that COFECE's Investigatory Authority ("IA") had requested COFECE to
+initiate a quasi-judicial administrative process against Walmex's subsidiary for alleged relative monopolistic
+practices in connection with the supply and wholesale distribution of certain consumer goods, retail marketing
+practices of such consumer goods and related services. The quasi-judicial administrative process is the ﬁrst
+opportunity for Walmex's subsidiary to respond to and defend against the IA's allegations before COFECE. While
+COFECE has the authority to impose monetary relief and/or non-structural conduct measures, such relief and
+conduct measures would be subject to appeal by Walmex's subsidiary. Walmex's subsidiary intends to defend
+against the allegations vigorously, both at the quasi-judicial administrative process and, if required, before any
+courts. Because this process is at an early stage, the Company can provide no assurance as to the scope and
+outcome of these matters, cannot reasonably estimate any loss or range of loss that may arise and can provide no
+assurance that its business, ﬁnancial position, results of operations or cash ﬂows will not be materially adversely
+aﬀected.
+
+Note 7. Segments and Disaggregated Revenue
+
+Segments
+
+The Company is engaged in the operation of retail and wholesale stores and clubs, as well as eCommerce websites,
+located throughout the U.S., Africa, Canada, Central America, Chile, China, India and Mexico. The Company's
+operations are conducted in three reportable segments: Walmart U.S., Walmart International and Sam's Club. The
+Company deﬁnes its segments as those operations whose results the chief operating decision maker ("CODM")
+regularly reviews to analyze performance and allocate resources. The Company sells similar individual products and
+services in each of its segments. It is impractical to segregate and identify revenues for each of these individual
+products and services.
+
+The Walmart U.S. segment includes the Company's mass merchandising concept in the U.S., as well as eCommerce,
+which includes omni-channel initiatives and certain other business oﬀerings such as advertising services through
+Walmart Connect. The Walmart International segment consists of the Company's operations outside of the U.S., as
+well as eCommerce and omni-channel initiatives. The Sam's Club segment includes the warehouse membership
+clubs in the U.S., as well as samsclub.com and omni-channel initiatives. Corporate and support consists of
+corporate overhead and other items not allocated to any of the Company's segments.
+
+The Company measures the results of its segments using, among other measures, each segment's net sales and
+operating income, which includes certain corporate overhead allocations. From time to time, the Company revises
+the measurement of each segment's operating income and other measures, including any corporate overhead
+allocations, as determined by the information regularly reviewed by its CODM. When the measurement of a
+segment signiﬁcantly changes, previous period amounts and balances are reclassiﬁed to be comparable to the
+current period's presentation.
+
+Net sales by segment are as follows:
+
+(Amounts in millions)
+Net sales:
+
+Walmart U.S.
+Walmart International
+Sam's Club
+
+Net sales
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$
+
+$
+
+109,419  $
+
+104,775  $
+
+324,174  $
+
+28,022 
+21,998 
+
+25,295 
+21,399 
+
+82,222 
+64,327 
+
+159,439  $
+
+151,469  $
+
+470,723  $
+
+306,809 
+73,408 
+62,921 
+
+443,138 
+
+ 
+16
+
+Table of Contents
+
+Operating income by segment, as well as unallocated operating expenses for corporate and support, interest, net,
+and other gains and losses are as follows:
+
+(Amounts in millions)
+Operating income (loss):
+
+Walmart U.S.
+Walmart International
+Sam's Club
+Corporate and support
+
+Operating income
+Interest, net
+Other (gains) and losses
+
+Income (loss) before income taxes
+
+Disaggregated Revenues
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$
+
+$
+
+4,981  $
+1,117 
+593 
+(489)
+6,202 
+537 
+4,750 
+
+915  $
+
+5,093  $
+861 
+562 
+(3,821)
+2,695 
+500 
+3,626 
+(1,431) $
+
+16,079  $
+
+3,471 
+1,572 
+(1,364)
+19,758 
+1,588 
+3,840 
+
+14,330  $
+
+15,238 
+2,676 
+1,449 
+(4,496)
+14,867 
+1,367 
+5,386 
+8,114 
+
+In the following tables, segment net sales are disaggregated by either merchandise category or by market. From
+time to time, the Company revises the assignment of net sales of a particular item to a merchandise category.
+When the assignment changes, previous period amounts are reclassiﬁed to be comparable to the current period's
+presentation.
+
+In addition, net sales related to eCommerce are provided for each segment, which include omni-channel sales,
+where a customer initiates an order digitally and the order is fulﬁlled through a store or club.
+
+(Amounts in millions)
+
+Walmart U.S. net sales by merchandise category
+
+Grocery
+General merchandise
+Health and wellness
+Other categories
+
+Total
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$
+
+$
+
+66,289  $
+26,579 
+14,173 
+2,378 
+
+63,231  $
+27,605 
+11,947 
+1,992 
+
+195,936  $
+
+81,420 
+40,395 
+6,423 
+
+109,419  $
+
+104,775  $
+
+324,174  $
+
+181,464 
+85,057 
+34,172 
+6,116 
+
+306,809 
+
+Of Walmart U.S.'s total net sales, approximately $16.0 billion and $12.9 billion related to eCommerce for the three
+months ended October 31, 2023 and 2022, respectively, and approximately $46.0 billion and $36.9 billion related
+to eCommerce for the nine months ended October 31, 2023 and 2022, respectively.
+
+(Amounts in millions)
+
+Walmart International net sales by market
+
+Mexico and Central America
+Canada
+China
+Other
+
+Total
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+$
+
+$
+
+12,389  $
+
+5,668 
+4,230 
+5,735 
+
+9,702  $
+5,491 
+3,572 
+6,530 
+
+28,022  $
+
+25,295  $
+
+35,341  $
+16,650 
+13,050 
+17,181 
+82,222  $
+
+28,480 
+16,408 
+11,096 
+17,424 
+73,408 
+
+Of Walmart International's total net sales, approximately $5.7 billion and $5.9 billion related to eCommerce for the
+three months ended October 31, 2023 and 2022, respectively, and approximately $16.8 billion and $14.8 billion
+related to eCommerce for the nine months ended October 31, 2023 and 2022, respectively.
+
+(Amounts in millions)
+
+Three Months Ended October
+31,
+
+Nine Months Ended October
+31,
+
+Sam's Club net sales by merchandise category
+
+2023
+
+2022
+
+2023
+
+2022
+
+Grocery and consumables
+Fuel, tobacco and other categories
+Home and apparel
+Health and wellness
+Technology, oﬃce and entertainment
+
+$
+
+14,512  $
+
+13,846  $
+
+3,523 
+2,084 
+1,313 
+566 
+
+3,599 
+2,209 
+1,085 
+660 
+
+Total
+
+$
+
+21,998  $
+
+21,399  $
+
+42,335  $
+10,049 
+6,591 
+3,655 
+1,697 
+
+64,327  $
+
+39,539 
+11,547 
+6,816 
+3,101 
+1,918 
+
+62,921 
+
+Of Sam's Club's total net sales, approximately $2.4 billion and $2.1 billion related to eCommerce for the three
+months ended October 31, 2023 and 2022, respectively, and approximately $7.1 billion and $6.0 billion related to
+eCommerce for the nine months ended October 31, 2023 and 2022, respectively.
+
+17
+
+ 
+Table of Contents
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+Overview
+
+This discussion, which presents Walmart Inc.'s ("Walmart," the "Company," "our," or "we") results for periods
+occurring in the ﬁscal year ending January 31, 2024 ("ﬁscal 2024") and the ﬁscal year ended January 31, 2023
+("ﬁscal 2023"), should be read in conjunction with our Condensed Consolidated Financial Statements as of and for
+the three and nine months ended October 31, 2023, and the accompanying notes included in Part I, Item 1 of this
+Quarterly Report on Form 10-Q, as well as our Consolidated Financial Statements as of and for the year ended
+January 31, 2023, the accompanying notes and the related Management's Discussion and Analysis of Financial
+Condition and Results of Operations, contained in our Annual Report on Form 10-K for the year ended January 31,
+2023.
+
+We intend for this discussion to provide the reader with information that will assist in understanding our ﬁnancial
+statements, the changes in certain key items in those ﬁnancial statements from period to period and the primary
+factors that accounted for those changes. We also discuss certain performance metrics that management uses to
+assess the Company's performance. Additionally, the discussion provides information about the ﬁnancial results of
+each of the three segments of our business to provide a better understanding of how each of those segments and
+its results of operations aﬀect the ﬁnancial condition and results of operations of the Company as a whole.
+
+Throughout this Management's Discussion and Analysis of Financial Condition and Results of Operations, we discuss
+segment operating income, comparable store and club sales and other measures. Management measures the
+results of the Company's segments using each segment's operating income, including certain corporate overhead
+allocations, as well as other measures. From time to time, we revise the measurement of each segment's operating
+income and other measures as determined by the information regularly reviewed by our chief operating decision
+maker.
+
+Comparable store and club sales, or comparable sales, is a metric that indicates the performance of our existing
+stores and clubs by measuring the change in sales for such stores and clubs for a particular period from the
+corresponding prior year period. Walmart's deﬁnition of comparable sales includes sales from stores and clubs open
+for the previous 12 months, including remodels, relocations, expansions and conversions, as well as eCommerce
+sales. We measure the eCommerce sales impact by including all sales initiated digitally, including omni-channel
+transactions which are fulﬁlled through our stores and clubs as well as certain other business oﬀerings that are part
+of our strategy, such as our Walmart Connect advertising business. Sales at a store that has changed in format are
+excluded from comparable sales when the conversion of that store is accompanied by a relocation or expansion
+that results in a change in the store's retail square feet of more than ﬁve percent. Sales related to divested
+businesses are excluded from comparable sales, and sales related to acquisitions are excluded until such
+acquisitions have been owned for 12 months. Comparable sales are also referred to as "same-store" sales by others
+within the retail industry. The method of calculating comparable sales varies across the retail industry. As a result,
+our calculation of comparable sales is not necessarily comparable to similarly titled measures reported by other
+companies.
+
+In discussing our operating results, the term currency exchange rates refers to the currency exchange rates we use
+to convert the operating results for countries where the functional currency is not the U.S. dollar into U.S. dollars.
+We calculate the eﬀect of changes in currency exchange rates as the diﬀerence between current period activity
+translated using the current period's currency exchange rates and the comparable prior year period's currency
+exchange rates. Additionally, no currency exchange rate ﬂuctuations are calculated for non-USD acquisitions until
+owned for 12 months. Throughout our discussion, we refer to the results of this calculation as the impact of
+currency exchange rate ﬂuctuations. Volatility in currency exchange rates may impact the results, including net
+sales and operating income, of the Company and the Walmart International segment in the future.
+
+Each of our segments contributes to the Company's operating results diﬀerently. Each, however, has generally
+maintained a relatively consistent contribution rate to the Company's net sales and operating income in recent
+years other than minor changes to the contribution rate for the Walmart International segment due to ﬂuctuations
+in currency exchange rates.
+
+We operate in the highly competitive omni-channel retail industry in all of the markets we serve. We face strong
+sales competition from other discount, department, drug, dollar, variety and specialty stores, warehouse clubs and
+supermarkets, as well as eCommerce businesses and companies that oﬀer services in digital advertising, fulﬁllment
+and delivery services, health and wellness, and ﬁnancial services. Many of these competitors are national, regional
+or international chains or have a national or international omni-channel or eCommerce presence. We compete with
+a number of companies for attracting and retaining quality employees ("associates"). We, along with other retail
+companies, are inﬂuenced by a number of factors including, but not limited to: catastrophic events, weather and
+other risks related to climate change, global health epidemics, competitive pressures, consumer disposable income,
+consumer debt levels and buying patterns, consumer credit availability, disruptions in supply chain and inventory
+management, cost and availability of goods, currency exchange rate ﬂuctuations, customer preferences, deﬂation,
+inﬂation, fuel and energy prices, general economic conditions, insurance costs, interest rates, labor availability and
+costs, tax rates, the imposition of tariﬀs, cybersecurity attacks and unemployment.
+
+18
+
+Table of Contents
+
+We are committed to helping customers save money and live better through everyday low prices, supported by
+everyday low costs. However, like other retail companies, we have experienced continued inﬂation that impacts our
+merchandise costs. The impact to our net sales and gross proﬁt margin is inﬂuenced in part by our pricing and
+merchandising strategies in response to cost increases. Those pricing strategies include, but are not limited to:
+absorbing cost increases instead of passing those cost increases on to our customers and members; reducing
+prices in certain merchandise categories; focusing on opening price points for certain food categories; and when
+necessary, passing cost increases on to our customers and members. Merchandising strategies include, but are not
+limited to: working with our suppliers to reduce product costs and share in absorbing cost increases; focusing on
+private label brands and smaller pack sizes; earlier-than-usual purchasing and in greater volumes or moderating
+purchasing in certain categories; and securing ocean carrier and container capacity. These strategies have and may
+continue to impact gross proﬁt as a percentage of net sales.
+
+Further information on the factors that can aﬀect our operating results and on certain risks to our Company and an
+investment in our securities can be found herein under "Item 5. Other Information."
+
+We expect continued uncertainty in our business and the global economy due to pressure from inﬂation, a
+challenging macro environment, geopolitical conditions, supply chain disruptions, volatility in employment trends
+and consumer conﬁdence. For a detailed discussion on results of operations by reportable segment, refer to
+"Results of Operations" below.
+
+Company Performance Metrics
+
+We are committed to helping customers save money and live better through everyday low prices, supported by
+everyday low costs.  At times, we adjust our business strategies to maintain and strengthen our competitive
+positions in the countries in which we operate.  We deﬁne our ﬁnancial priorities as follows:
+
+• Growth - serve customers through a seamless omni-channel experience;
+
+• Margin - improve our operating income margin through productivity initiatives as well as category and
+
+business mix; and
+
+•
+
+Returns - improve our Return on Investment ("ROI") through margin improvement and disciplined capital
+spend.
+
+Growth
+
+Our objective of prioritizing growth means we will focus on serving customers and members however they want to
+shop through our omni-channel business model. This includes increasing comparable store and club sales through
+increasing membership at Sam's Club and through Walmart+, accelerating eCommerce sales growth and expansion
+of omni-channel initiatives that complement our strategy.
+
+Comparable sales is a metric that indicates the performance of our existing stores and clubs by measuring the
+change in sales for such stores and clubs, including eCommerce sales, for a particular period over the
+corresponding period in the previous year. The retail industry generally reports comparable sales using the retail
+calendar (also known as the 4-5-4 calendar). To be consistent with the retail industry, we provide comparable sales
+using the retail calendar in our quarterly earnings releases. However, when we discuss our comparable sales below,
+we are referring to our calendar comparable sales calculated using our ﬁscal calendar, which may result in
+diﬀerences when compared to comparable sales using the retail calendar. We focus on comparable sales in the U.S.
+as we believe it is a meaningful metric within the context of the U.S. retail market where there is a single currency,
+one inﬂationary market and generally consistent store and club formats from year to year.
+
+Calendar comparable sales, as well as the impact of fuel, for the three and nine months ended October 31, 2023
+and 2022, were as follows:
+
+Walmart U.S.
+Sam's Club
+Total U.S.
+
+Three Months Ended October 31,
+
+Nine Months Ended October 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+2022
+
+2023
+
+2022
+
+With Fuel
+
+4.9 %
+2.9 %
+
+4.6 %
+
+8.5 %
+12.8 %
+
+9.2 %
+
+Fuel Impact
+0.1 %
+(0.5)%
+
+0.0 %
+
+0.3 %
+2.6 %
+
+0.7 %
+
+With Fuel
+
+6.1 %
+2.4 %
+
+5.5 %
+
+6.5 %
+15.8 %
+
+8.0 %
+
+Fuel Impact
+(0.1)%
+(3.0)%
+
+(0.6)%
+
+0.4 %
+5.8 %
+
+1.4 %
+
+Comparable sales in the U.S., including fuel, increased 4.6% and 5.5% for the three and nine months ended
+October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year. The Walmart U.S.
+segment had comparable sales growth of 4.9% and 6.1% for the three and nine months ended October 31, 2023,
+respectively, driven by growth in transactions combined with growth in average ticket, including strong sales in
+grocery and health and wellness. The increases were partially oﬀset by a modest decrease in general merchandise
+sales. The Walmart U.S. segment's eCommerce sales positively contributed approximately 2.8% and 2.7% to
+comparable sales for the three and nine months ended October 31, 2023, respectively, which was primarily driven
+by store pickup and delivery.
+
+Comparable sales at the Sam's Club segment increased 2.9% and 2.4% for the three and nine months ended
+October 31, 2023, respectively. Growth in comparable sales beneﬁted from growth in transactions and average
+ticket, including strong sales in
+
+ 
+ 
+ 
+19
+
+Table of Contents
+
+grocery and health and wellness. Comparable sales for the nine months were partially oﬀset by lower fuel sales due
+to deﬂation in this category. The Sam's Club segment's eCommerce sales positively contributed approximately
+1.4% and 1.6% to comparable sales for the three and nine months ended October 31, 2023, respectively, which
+was primarily driven by Curbside Pickup and Ship to Home.
+
+Margin
+
+Our objective of prioritizing margin focuses on growth with a focus on incremental margin accretion through a
+combination of productivity improvements as well as category and business mix. We invest in technology and
+process improvements to increase productivity, manage inventory, and reduce costs, and we operate with
+discipline by managing expenses and optimizing the eﬃciency of how we work. Additionally, we focus on our mix of
+businesses, including the expansion of connected value streams with higher margins, such as advertising. Our
+objective is to achieve operating income leverage, which we deﬁne as growing operating income at a faster rate
+than net sales.
+
+(Amounts in millions)
+Net sales
+Percentage change from comparable period
+Gross proﬁt as a percentage of net sales
+Operating, selling, general and administrative expenses as a
+percentage of net sales
+Operating income
+Operating income as a percentage of net sales
+
+Three Months Ended
+October 31,
+
+Nine Months Ended
+October 31,
+
+2023
+
+159,439 
+
+$
+
+2022
+151,469 
+
+$
+
+2023
+470,723 
+
+$
+
+2022
+443,138 
+
+5.3 %
+24.0 %
+
+21.0 %
+
+8.8 %
+23.7 %
+
+22.8 %
+
+6.2 %
+23.9 %
+
+20.5 %
+
+6.5 %
+23.7 %
+
+21.2 %
+
+6,202 
+
+$
+
+2,695 
+
+$
+
+19,758 
+
+$
+
+14,867 
+
+3.9 %
+
+1.8 %
+
+4.2 %
+
+3.4 %
+
+$
+
+$
+
+Gross proﬁt as a percentage of net sales ("gross proﬁt rate") increased 32 and 22 basis points for the three and
+nine months ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year.
+The increases were primarily due to the timing of Flipkart's The Big Billion Days ("BBD") sales event in the Walmart
+International segment, which shifted from the third quarter of ﬁscal 2023 to the fourth quarter of ﬁscal 2024, a
+reduction in inﬂation related LIFO charges in the Sam's Club segment and a slight improvement in gross proﬁt rate
+in the Walmart U.S. segment.
+
+Operating expenses as a percentage of net sales decreased 182 and 70 basis points for the three and nine months
+ended October 31, 2023, respectively. The decreases were primarily driven by the lapping of opioid-related legal
+settlements of $3.3 billion recorded in the third quarter of ﬁscal 2023.
+
+Operating income as a percentage of net sales increased 211 and 85 basis points for the three and nine months
+ended October 31, 2023, respectively, due to the factors described above.
+
+Returns
+
+As we execute our strategic priorities, focusing on high return investments that drive operating leverage, we
+believe our return on capital will improve over time. We measure return on capital with our return on investment
+and free cash ﬂow metrics. In addition, we provide returns in the form of share repurchases and dividends, which
+are discussed in the Liquidity and Capital Resources section.
+
+Return on Assets and Return on Investment
+
+We include Return on Assets ("ROA"), the most directly comparable measure based on our ﬁnancial statements
+presented in accordance with generally accepted accounting principles in the U.S. ("GAAP") and Return on
+Investment ("ROI") as metrics to assess returns on assets. While ROI is considered a non-GAAP ﬁnancial measure,
+management believes ROI is a meaningful metric to share with investors because it helps investors assess how
+eﬀectively Walmart is deploying its assets. Trends in ROI can ﬂuctuate over time as management balances long-
+term strategic initiatives with possible short-term impacts. ROA was 6.5% and 3.7% for the trailing twelve months
+ended October 31, 2023 and 2022, respectively. The increase in ROA was primarily due to an increase in
+consolidated net income during the trailing twelve month period primarily due to lapping the opioid legal charges
+incurred in the prior year comparable period. ROI was 14.1% and 12.8% for the trailing twelve months ended
+October 31, 2023 and 2022, respectively. The increase in ROI was the result of an increase in operating income
+primarily due to lapping the opioid legal charges incurred in the prior year comparable period, partially oﬀset by an
+increase in average invested capital primarily due to higher purchases of property and equipment.
+
+We deﬁne ROI as operating income plus interest income, depreciation and amortization, and rent expense for the
+trailing twelve months divided by average invested capital during that period. We consider average invested capital
+to be the average of our beginning and ending total assets, plus average accumulated depreciation and
+amortization, less average accounts payable and average accrued liabilities for that period.
+
+20
+
+Table of Contents
+
+Our calculation of ROI is considered a non-GAAP ﬁnancial measure because we calculate ROI using ﬁnancial
+measures that exclude and include amounts that are included and excluded in the most directly comparable GAAP
+ﬁnancial measure. For example, we exclude the impact of depreciation and amortization from our reported
+operating income in calculating the numerator of our calculation of ROI. As mentioned above, we consider ROA to
+be the ﬁnancial measure computed in accordance with GAAP most directly comparable to our calculation of ROI.
+ROI diﬀers from ROA (which is consolidated net income for the period divided by average total assets for the
+period) because ROI: adjusts operating income to exclude certain expense items and adds interest income; and
+adjusts total assets for the impact of accumulated depreciation and amortization, accounts payable and accrued
+liabilities to arrive at total invested capital. Because of the adjustments mentioned above, we believe ROI more
+accurately measures how we are deploying our key assets and is more meaningful to investors than ROA. Although
+ROI is a standard ﬁnancial measure, numerous methods exist for calculating a company's ROI. As a result, the
+method used by management to calculate our ROI may diﬀer from the methods used by other companies to
+calculate their ROI.
+
+The calculation of ROA and ROI, along with a reconciliation of ROI to the calculation of ROA, the most comparable
+GAAP ﬁnancial measure, is as follows:
+
+(Amounts in millions)
+CALCULATION OF RETURN ON ASSETS
+Numerator
+
+Consolidated net income
+
+Denominator
+
+Average total assets
+
+(1)
+
+Return on assets (ROA)
+
+CALCULATION OF RETURN ON INVESTMENT
+Numerator
+
+Operating income
++ Interest income
++ Depreciation and amortization
++ Rent
+
+= ROI operating income
+
+Denominator
+
+(1)
+
+Average total assets
+'+ Average accumulated depreciation and amortization
+'- Average accounts payable
+ - Average accrued liabilities
+
+(1)
+
+(1)
+
+= Average invested capital
+
+Return on investment (ROI)
+
+For the Trailing Twelve Months
+Ending October 31,
+
+2023
+
+2022
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+16,401 
+
+253,415 
+
+6.5 %
+
+25,319 
+504 
+11,547 
+2,286 
+
+39,656 
+
+253,415 
+112,875 
+59,156 
+26,788 
+
+280,346 
+
+$
+
+14.1 %
+
+9,116 
+
+246,254 
+
+3.7 %
+
+20,754 
+196 
+10,840 
+2,296 
+
+34,086 
+
+246,254 
+103,898 
+57,210 
+25,959 
+
+266,983 
+
+12.8 %
+
+(1)
+
+(1) 
+
+The average is based on the addition of the account balance at the end of the current period to the account balance at the end of the prior
+
+period and dividing by 2.
+
+Certain Balance Sheet Data
+Total assets
+Accumulated depreciation and amortization
+Accounts payable
+Accrued liabilities
+
+2023
+
+As of October 31,
+2022
+
+2021
+
+$
+
+259,174  $
+118,122 
+61,049 
+26,132 
+
+247,656  $
+107,628 
+57,263 
+27,443 
+
+244,851 
+100,168 
+57,156 
+24,474 
+
+21
+
+ 
+ 
+ 
+ 
+Table of Contents
+
+Strategic Capital Allocation
+
+Our strategy includes allocating the majority of our capital to higher-return areas focused on automation such as
+eCommerce, supply chain and store and club investments. The following table provides additional detail regarding
+our capital expenditures:
+
+(Amounts in millions)
+
+Allocation of Capital Expenditures
+Supply chain, customer-facing initiatives and technology
+Store and club remodels
+New stores and clubs, including expansions and relocations
+Total U.S.
+Walmart International
+
+Total Capital Expenditures
+
+Free Cash Flow
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+
+$
+
+8,014  $
+4,740 
+48 
+12,802 
+1,872 
+
+14,674  $
+
+6,304 
+3,965 
+33 
+10,302 
+1,759 
+
+12,061 
+
+Free cash ﬂow is considered a non-GAAP ﬁnancial measure. Management believes, however, that free cash ﬂow,
+which measures our ability to generate additional cash from our business operations, is an important ﬁnancial
+measure for use in evaluating the Company's ﬁnancial performance. Free cash ﬂow should be considered in
+addition to, rather than as a substitute for, consolidated net income as a measure of our performance and net cash
+provided by operating activities as a measure of our liquidity. See Liquidity and Capital Resources for discussions of
+GAAP metrics including net cash provided by operating activities, net cash used in investing activities and net cash
+used in ﬁnancing activities.
+
+We deﬁne free cash ﬂow as net cash provided by operating activities in a period minus payments for property and
+equipment made in that period. Net cash provided by operating activities was $19.0 billion for the nine months
+ended October 31, 2023, which represents an increase of $3.3 billion when compared to the same period in the
+prior year. The increase is primarily due to timing of certain payments and moderated levels of inventory
+purchases, partially oﬀset by payment of the remaining accrued opioid legal charges. Free cash ﬂow for the nine
+months ended October 31, 2023 was $4.3 billion, which represents an increase of $0.7 billion when compared to
+the same period in the prior year. The increase in free cash ﬂow is due to the increase in operating cash ﬂows
+described above, partially oﬀset by an increase of $2.6 billion in capital expenditures to support our investment
+strategy.
+
+Walmart's deﬁnition of free cash ﬂow is limited in that it does not represent residual cash ﬂows available for
+discretionary expenditures due to the fact that the measure does not deduct the payments required for debt
+service and other contractual obligations or payments made for business acquisitions. Therefore, we believe it is
+important to view free cash ﬂow as a measure that provides supplemental information to our Condensed
+Consolidated Statements of Cash Flows.
+
+Although other companies report their free cash ﬂow, numerous methods may exist for calculating a company's
+free cash ﬂow. As a result, the method used by management to calculate our free cash ﬂow may diﬀer from the
+methods used by other companies to calculate their free cash ﬂow.
+
+The following table sets forth a reconciliation of free cash ﬂow, a non-GAAP ﬁnancial measure, to net cash provided
+by operating activities, which we believe to be the GAAP ﬁnancial measure most directly comparable to free cash
+ﬂow, as well as information regarding net cash used in investing activities and net cash used in ﬁnancing activities.
+
+(Amounts in millions)
+Net cash provided by operating activities
+Payments for property and equipment
+
+Free cash ﬂow
+
+Net cash used in investing activities
+Net cash used in ﬁnancing activities
+
+(1)
+
+Nine Months Ended October 31,
+
+2023
+
+2022
+
+$
+
+$
+
+$
+
+19,014 
+(14,674)
+
+4,340 
+
+(15,374)
+(179)
+
+$
+
+$
+
+$
+
+15,698 
+(12,061)
+
+3,637 
+
+(12,965)
+(5,581)
+
+(1) 
+
+"Net Cash used in investing activities" includes payments for property and equipment, which is also included in our computation of free cash
+
+ﬂow.
+
+22
+
+ 
+Table of Contents
+
+Results of Operations
+
+Consolidated Results of Operations
+
+(Amounts in millions, except unit counts)
+Total revenues
+Percentage change from comparable period
+Net sales
+Percentage change from comparable period
+Total U.S. calendar comparable sales increase
+Gross proﬁt margin as a percentage of net sales
+Operating income
+Operating income as a percentage of net sales
+Other (gains) and losses
+Consolidated net income (loss)
+Unit counts at period end
+Retail square feet at period end
+
+Three Months Ended October 31,
+
+Nine Months Ended October
+31,
+
+$
+
+$
+
+$
+
+$
+$
+
+2023
+
+160,804 
+
+5.2 %
+
+159,439 
+
+5.3 %
+4.6 %
+24.0 %
+
+6,202 
+
+3.9 %
+
+4,750 
+643 
+10,509 
+1,050 
+
+$
+
+$
+
+$
+
+$
+$
+
+2022
+
+152,813 
+
+8.7 %
+
+151,469 
+
+8.8 %
+9.2 %
+23.7 %
+
+2,695 
+
+1.8 %
+
+3,626 
+(1,767)
+10,586 
+1,056 
+
+$
+
+$
+
+$
+
+$
+$
+
+2023
+
+474,737 
+
+6.1 %
+
+470,723 
+
+6.2 %
+5.5 %
+23.9 %
+
+19,758 
+
+4.2 %
+
+3,840 
+10,592 
+10,509 
+1,050 
+
+$
+
+$
+
+$
+
+$
+$
+
+2022
+
+447,241 
+6.5%
+443,138 
+6.5%
+8.0%
+23.7%
+14,867 
+3.4%
+5,386 
+5,483 
+10,586 
+1,056 
+
+Our total revenues, which are mostly comprised of net sales but also include membership and other income,
+increased $8.0 billion or 5.2% and $27.5 billion or 6.1% for the three and nine months ended October 31, 2023,
+respectively, when compared to the same periods in the previous ﬁscal year. The increases were primarily due to
+strong positive comparable sales for the Walmart U.S. and Sam's Club segments, which were driven by growth in
+transactions, combined with growth in average ticket, including strong sales in grocery and health and wellness,
+along with positive comparable sales in most of our international markets. Net sales were positively impacted by
+$1.4 billion and $1.7 billion of ﬂuctuations in currency exchange rates for the three and nine months ended October
+31, 2023, respectively.
+
+Gross proﬁt rate increased 32 and 22 basis points for the three and nine months ended October 31, 2023,
+respectively, when compared to the same periods in the previous ﬁscal year. The increases were primarily due to
+the shift in timing of the BBD sales event in the Walmart International segment, a reduction in inﬂation related LIFO
+charges in the Sam's Club segment and a slight improvement in gross proﬁt rate in the Walmart U.S. segment.
+
+Operating expenses as a percentage of net sales decreased 182 and 70 basis points for the three and nine months
+ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year. The
+decreases were primarily driven by the lapping of opioid-related legal settlements of $3.3 billion recorded in the
+third quarter of ﬁscal 2023.
+
+Other gains and losses consist of certain non-operating items, such as the change in the fair value of our
+investments and gains or losses on business dispositions, which by their nature can ﬂuctuate from period to period.
+The net increase of $1.1 billion and net decrease of $1.5 billion in other losses for the three and nine months ended
+October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year, were primarily due
+to changes in the fair value of our equity and other investments driven by changes in their underlying stock prices.
+
+Our eﬀective income tax rate was 29.7% and 26.1% for the three and nine months ended October 31, 2023,
+respectively, compared to (23.5)% and 32.4% for the same periods in the previous ﬁscal year. The increase in
+eﬀective tax rate for the three months ended October 31, 2023, when compared to the same period in the previous
+ﬁscal year is primarily due to tax expense on a quarterly pre-tax loss during the third quarter of ﬁscal 2023, which
+included charges related to opioid-related legal settlements and net losses in fair value of our investments. The
+decrease in eﬀective tax rate for the nine months ended October 31, 2023 when compared to the same period in
+the previous ﬁscal year was primarily due to the tax impact of charges associated with opioid-related legal
+settlements and net losses in fair value of our investments. Our eﬀective income tax rate may ﬂuctuate from
+quarter to quarter as a result of factors including changes in our assessment of certain tax contingencies, valuation
+allowances, changes in tax law, outcomes of administrative audits, the impact of discrete items and the mix and
+size of earnings among our U.S. operations and international operations, which are subject to statutory rates that
+may be diﬀerent than the U.S. statutory rate.
+
+As a result of the factors discussed above, consolidated net income increased $2.4 billion and $5.1 billion for the
+three and nine months ended October 31, 2023, respectively, when compared to the same periods in the previous
+ﬁscal year. Additionally, net income attributable to noncontrolling interest increased $0.2 billion and $0.5 billion for
+the three and nine months ended October 31, 2023, respectively, which included stronger results from our Walmex
+operations. Accordingly, diluted net income per common share attributable to Walmart was $0.17 and $3.71 for the
+three and nine months ended October 31, 2023, respectively, which represents respective increases of $0.83 and
+$1.74 when compared to the same periods in the previous ﬁscal year.
+
+23
+
+Table of Contents
+
+Walmart U.S. Segment
+
+(Amounts in millions, except unit counts)
+
+Net sales
+Percentage change from comparable period
+Calendar comparable sales increase
+Operating income
+Operating income as a percentage of net sales
+Unit counts at period end
+Retail square feet at period end
+
+$
+
+$
+
+Three Months Ended October
+31,
+
+Nine Months Ended October 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+109,419 
+
+$
+
+104,775 
+
+$
+
+324,174 
+
+$
+
+306,809 
+
+4.4 %
+4.9 %
+
+8.5 %
+8.5 %
+
+5.7 %
+6.1 %
+
+6.5 %
+6.5 %
+
+4,981 
+
+$
+
+5,093 
+
+$
+
+16,079 
+
+$
+
+15,238 
+
+4.6 %
+
+4,616 
+699 
+
+4.9 %
+
+4,720 
+702 
+
+5.0 %
+
+4,616 
+699 
+
+5.0 %
+
+4,720 
+702 
+
+Net sales for the Walmart U.S. segment increased $4.6 billion or 4.4% and $17.4 billion or 5.7% for the three and
+nine months ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year.
+The increases were due to comparable sales of 4.9% and 6.1% for the three and nine months ended October 31,
+2023, respectively, driven by growth in transactions combined with growth in average ticket, including strong sales
+in grocery and health and wellness. The increases were partially oﬀset by a modest decrease in general
+merchandise sales. The Walmart U.S. segment's eCommerce sales positively contributed approximately 2.8% and
+2.7% to comparable sales for the three and nine months ended October 31, 2023, respectively, which was primarily
+driven by store pickup and delivery.
+
+Gross proﬁt rate was relatively ﬂat, having increased by 5 and 3 basis points for the three and nine months ended
+October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year.
+
+Operating expenses as a percentage of net sales increased 35 basis points for the three months ended October 31,
+2023 and was relatively ﬂat for the nine months ended October 31, 2023, when compared to the same periods in
+the previous ﬁscal year. The increase for the three months ended October 31, 2023 was primarily due to increases
+in wage related expenses, store remodel costs and legal expenses.
+
+As a result of the factors discussed above, operating income decreased $0.1 billion and increased $0.8 billion for
+the three and nine months ended October 31, 2023, respectively, when compared to the same periods in the
+previous ﬁscal year.
+
+Walmart International Segment
+
+(Amounts in millions, except unit counts)
+
+Net sales
+Percentage change from comparable period
+Operating income
+Operating income as a percentage of net sales
+Unit counts at period end
+Retail square feet at period end
+
+Three Months Ended October
+31,
+
+Nine Months Ended October 31,
+
+$
+
+$
+
+$
+
+$
+
+2023
+
+28,022 
+
+10.8 %
+
+1,117 
+
+4.0 %
+
+5,294 
+271 
+
+$
+
+$
+
+2022
+
+25,295 
+
+7.1 %
+861 
+3.4 %
+
+5,266 
+274 
+
+$
+
+$
+
+2023
+
+82,222 
+
+12.0 %
+
+3,471 
+
+4.2 %
+
+5,294 
+271 
+
+2022
+
+73,408 
+
+(0.7)%
+
+2,676 
+
+3.6 %
+
+5,266 
+274 
+
+Net sales for the Walmart International segment increased $2.7 billion or 10.8% and $8.8 billion or 12.0% for the
+three and nine months ended October 31, 2023, respectively, when compared to the same periods in the previous
+ﬁscal year. The increases were primarily due to positive comparable sales in most of our international markets and
+positive ﬂuctuations in currency exchange rates of $1.4 billion and $1.7 billion for the three and nine months ended
+October 31, 2023, respectively. The increases were partially oﬀset by the shift in timing of the BBD sales event.
+
+Gross proﬁt rate increased 151 and 44 basis points for the three and nine months ended October 31, 2023,
+respectively, when compared to the same periods in the previous ﬁscal year, primarily driven by the shift in timing
+of the BBD sales event, partially oﬀset by ongoing format and channel mix shifts and category mix shifts to food
+and consumables.
+
+Operating expenses as a percentage of net sales increased 75 basis points for the three months ended October 31,
+2023 when compared to the same period in the previous ﬁscal year, primarily driven by the shift in timing of the
+BBD sales event, partially oﬀset by format mix shifts in certain markets. Operating expenses as a percentage of net
+sales decreased 53 basis points for the nine months ended October 31, 2023 when compared to the same period in
+the previous ﬁscal year, primarily due to strong sales, format mix shifts and operating eﬃciencies in most of our
+markets, partially oﬀset by the timing of the BBD sales event.
+
+As a result of the factors discussed above, operating income increased $0.3 billion and $0.8 billion for the three and
+nine months ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year.
+Additionally, the increase in operating income for the nine months ended October 31, 2023 was partially oﬀset by
+the lapping of a beneﬁt in membership and other income related to an insurance settlement for Walmart Chile in
+the previous year.
+
+24
+
+ 
+ 
+Table of Contents
+
+Sam's Club Segment
+
+(Amounts in millions, except unit counts)
+Including Fuel
+Net sales
+Percentage change from comparable period
+Calendar comparable sales increase
+Operating income
+Operating income as a percentage of net sales
+Unit counts at period end
+Retail square feet at period end
+
+Excluding Fuel 
+
+(1)
+
+Net sales
+Percentage change from comparable period
+Operating income
+Operating income as a percentage of net sales
+
+Three Months Ended October
+31,
+
+Nine Months Ended October 31,
+
+2023
+
+2022
+
+2023
+
+2022
+
+21,998 
+
+$
+
+21,399 
+
+$
+
+64,327 
+
+$
+
+62,921 
+
+2.8 %
+2.9 %
+593 
+2.7 %
+599 
+80 
+
+18,900 
+
+3.2 %
+412 
+2.2 %
+
+$
+
+$
+
+$
+
+12.8 %
+12.8 %
+562 
+2.6 %
+600 
+80 
+
+2.2 %
+2.4 %
+
+$
+
+1,572 
+
+$
+
+2.4 %
+599 
+80 
+
+15.9 %
+15.8 %
+
+1,449 
+
+2.3 %
+600 
+80 
+
+18,306 
+
+10.2 %
+397 
+2.2 %
+
+$
+
+$
+
+55,608 
+
+5.2 %
+
+1,158 
+
+2.1 %
+
+$
+
+$
+
+52,837 
+
+10.1 %
+954 
+1.8 %
+
+$
+
+$
+
+$
+
+$
+
+(1) 
+
+We believe the "Excluding Fuel" information is useful to investors because it permits investors to understand the eﬀect of the Sam's Club
+
+segment's fuel sales on its results of operations, which are impacted by the volatility of fuel prices. Volatility in fuel prices may continue to
+impact the operating results of the Sam's Club segment in the future.
+
+Net sales for the Sam's Club segment increased $0.6 billion or 2.8% and $1.4 billion or 2.2% for the three and nine
+months ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year. The
+increases were primarily due to comparable sales, including fuel, of 2.9% and 2.4% for the three and nine months
+ended October 31, 2023, respectively. Growth in comparable sales beneﬁted from growth in transactions and
+average ticket, including strong sales in grocery and health and wellness. Comparable sales for the nine months
+were partially oﬀset by lower fuel sales due to deﬂation in this category. Sam's Club eCommerce sales positively
+contributed approximately 1.4% and 1.6% to comparable sales for the three and nine months ended October 31,
+2023, respectively, which was primarily driven by Curbside Pickup and Ship to Home.
+
+Gross proﬁt rate increased 16 and 64 basis points for the three and nine months ended October 31, 2023,
+respectively, when compared to the same periods in the previous ﬁscal year. The increase in gross proﬁt rate for
+the three months ended October 31, 2023 was primarily due to a reduction in inﬂation related LIFO charges,
+partially oﬀset by product mix shifts into lower margin categories and investments in price. The increase in gross
+proﬁt rate for the nine months ended October 31, 2023 was primarily due to the lapping of elevated supply chain
+costs and a reduction in inﬂation related LIFO charges.
+
+Membership and other income increased 4.5% and 5.4% for the three and nine months ended October 31, 2023,
+respectively, when compared to the same periods in the previous ﬁscal year. The increases were due to growth in
+the membership base, Plus penetration and Plus renewals.
+
+Operating expenses as a percentage of segment net sales increased 13 and 57 basis points for the three and nine
+months ended October 31, 2023, respectively, when compared to the same periods in the previous ﬁscal year,
+primarily due to elevated technology spend and higher facilities costs. In addition, lower fuel sales contributed to
+the increase in operating expenses as a percentage of net sales during the nine months ended October 31, 2023.
+
+As a result of the factors discussed above, operating income was relatively ﬂat and increased $0.1 billion for the
+three and nine months ended October 31, 2023, respectively, when compared to the same periods in the previous
+ﬁscal year.
+
+Liquidity and Capital Resources
+
+Liquidity
+
+The strength and stability of our operations have historically supplied us with a signiﬁcant source of liquidity. Our
+cash ﬂows provided by operating activities, supplemented with our long-term debt and short-term borrowings, have
+been suﬃcient to fund our operations while allowing us to invest in activities that support the long-term growth of
+our operations. Generally, some or all of the remaining available cash ﬂow has been used to fund dividends on our
+common stock and share repurchases. We believe our sources of liquidity will continue to be suﬃcient to fund
+operations, ﬁnance our global investment activities, pay dividends and fund our share repurchases for at least the
+next 12 months and thereafter for the foreseeable future.
+
+25
+
+ 
+Table of Contents
+
+Net Cash Provided by Operating Activities
+
+(Amounts in millions)
+Net cash provided by operating activities
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+
+19,014  $
+
+15,698 
+
+Net cash provided by operating activities was $19.0 billion as compared to $15.7 billion for the nine months ended
+October 31, 2023 and 2022, respectively. The increase is primarily due to timing of certain payments and
+moderated levels of inventory purchases, partially oﬀset by payment of the remaining accrued opioid legal charges.
+
+Cash Equivalents and Working Capital Deﬁcit
+
+Cash and cash equivalents were $12.2 billion and $11.6 billion at October 31, 2023 and 2022, respectively. Our
+working capital deﬁcit was $15.8 billion as of October 31, 2023, which increased when compared to the $13.7
+billion working capital deﬁcit as of October 31, 2022, primarily driven by timing of certain payments and an
+increase in short-term borrowings, partially oﬀset by a decrease in current maturities of long-term debt. We
+generally operate with a working capital deﬁcit due to our eﬃcient use of cash in funding operations, consistent
+access to the capital markets and returns provided to our shareholders in the form of payments of cash dividends
+and share repurchases.
+
+As of October 31, 2023 and January 31, 2023, cash and cash equivalents of $3.6 billion and $2.9 billion,
+respectively, may not be freely transferable to the U.S. due to local laws or other restrictions or are subject to the
+approval of the noncontrolling interest shareholders.
+
+Net Cash Used in Investing Activities
+
+(Amounts in millions)
+
+Net cash used in investing activities
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+
+(15,374) $
+
+(12,965)
+
+Net cash used in investing activities was $15.4 billion as compared to $13.0 billion for the nine months ended
+October 31, 2023 and 2022, respectively. The increase of $2.4 billion for the nine months ended October 31,
+2023 is primarily the result of an increase in payments for property and equipment.
+
+Net Cash Used in Financing Activities
+
+(Amounts in millions)
+
+Net cash used in ﬁnancing activities
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+
+(179) $
+
+(5,581)
+
+Net cash used in ﬁnancing activities generally consists of transactions related to our short-term and long-term debt,
+dividends paid and the repurchase of Company stock. Transactions with noncontrolling interest shareholders are
+also classiﬁed as cash ﬂows used in ﬁnancing activities. Net cash used in ﬁnancing activities was $0.2 billion as
+compared to $5.6 billion for the nine months ended October 31, 2023 and 2022, respectively. The decrease in net
+cash used in ﬁnancing activities is primarily due to fewer repurchases of Company stock and an increase in short-
+term borrowings, partially oﬀset by the purchase of certain noncontrolling interests and payments of long-term
+debt.
+
+In April 2023, the Company renewed and extended its existing 364-day revolving credit facility of $10.0 billion as
+well as its ﬁve-year credit facility of $5.0 billion. In total, we had committed lines of credit in the U.S. of $15.0 billion
+at October 31, 2023, all undrawn.
+
+Long-term Debt
+
+The following table provides the changes in our long-term debt for the nine months ended October 31, 2023:
+
+(Amounts in millions)
+Balances as of February 1, 2023
+Proceeds from issuance of long-term debt
+Repayments of long-term debt
+Reclassiﬁcations of long-term debt
+Other
+
+Balances as of October 31, 2023
+
+Long-term debt
+due within one
+year
+
+Long-term debt
+
+Total
+
+$
+
+$
+
+4,191  $
+— 
+(4,213)
+2,832 
+(4)
+
+2,806  $
+
+34,649  $
+4,967 
+— 
+(2,832)
+(442)
+
+36,342  $
+
+38,840 
+4,967 
+(4,213)
+— 
+(446)
+
+39,148 
+
+During the nine months ended October 31, 2023, our total outstanding long-term debt increased $0.3 billion
+primarily due to the issuance of new long-term debt in April 2023, partially oﬀset by the maturities of certain long-
+term debt. Refer to Note 4 to our Condensed Consolidated Financial Statements for details on the issuances and
+repayments of long-term debt.
+
+ 
+ 
+26
+
+Table of Contents
+
+Dividends
+
+Eﬀective February 21, 2023, the Board of Directors approved the ﬁscal 2024 annual dividend of $2.28 per share, an
+increase over the ﬁscal 2023 annual dividend of $2.24 per share. For ﬁscal 2024, the annual dividend was or will be
+paid in four quarterly installments of $0.57 per share, according to the following record and payable dates:
+
+Record Date
+
+March 17, 2023
+May 5, 2023
+August 11, 2023
+December 8, 2023
+
+Payable Date
+
+April 3, 2023
+May 30, 2023
+September 5, 2023
+January 2, 2024
+
+The dividend installments payable on April 3, 2023, May 30, 2023 and September 5, 2023 were paid as scheduled.
+
+Company Share Repurchase Program
+
+From time to time, the Company repurchases shares of its common stock under share repurchase programs
+authorized by the Company's Board of Directors. All repurchases made during the nine months ended October 31,
+2023 were made under the current $20 billion share repurchase program approved in November 2022, which has
+no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of
+October 31, 2023, authorization for $18.1 billion of share repurchases remained under the share repurchase
+program. Any repurchased shares are constructively retired and returned to an unissued status.
+
+We regularly review share repurchase activity and consider several factors in determining when to execute share
+repurchases, including, among other things, current cash needs, capacity for leverage, cost of borrowings, our
+results of operations and the market price of our common stock. We anticipate that a majority of the ongoing share
+repurchase program will be funded through the Company's free cash ﬂow. The following table provides, on a
+settlement date basis, share repurchase information for the nine months ended October 31, 2023 and 2022:
+
+(Amounts in millions, except per share data)
+Total number of shares repurchased
+Average price paid per share
+Total amount paid for share repurchases
+
+Purchase and Sale of Subsidiary Stock
+
+Nine Months Ended October
+31,
+
+2023
+
+2022
+
+$
+$
+
+8.7 
+148.19 
+1,282 
+
+$
+$
+
+65.5 
+132.86 
+8,708 
+
+During the nine months ended October 31, 2023, the Company paid $3.5 billion to acquire shares from certain
+Flipkart noncontrolling interest holders and settle the liability to former noncontrolling interest holders of PhonePe.
+Additionally, during the nine months ended October 31, 2023, the Company received $0.7 billion related to new
+rounds of equity funding for the Company's majority-owned PhonePe subsidiary.
+
+Material Cash Requirements
+
+Material cash requirements from operating activities primarily consist of inventory purchases, employee related
+costs, taxes, interest and other general operating expenses, which we expect to be primarily satisﬁed by our cash
+from operations. Other material cash requirements from known contractual and other obligations include short-term
+borrowings, long-term debt and related interest payments, leases and purchase obligations.
+
+Capital Resources
+
+We believe our cash ﬂows from operations, current cash position, short-term borrowings and access to capital
+markets will continue to be suﬃcient to meet our anticipated cash requirements and contractual obligations, which
+includes funding seasonal buildups in merchandise inventories and funding our capital expenditures, acquisitions,
+dividend payments and share repurchases.
+
+We have strong commercial paper and long-term debt ratings that have enabled and should continue to enable us
+to reﬁnance our debt as it becomes due at favorable rates in capital markets. As of October 31, 2023, the ratings
+assigned to our commercial paper and rated series of our outstanding long-term debt were as follows:
+
+Rating agency
+
+Standard & Poor's
+Moody's Investors Service
+Fitch Ratings
+
+Commercial paper
+
+Long-term debt
+
+A-1+
+P-1
+F1+
+
+27
+
+AA
+Aa2
+AA
+
+Table of Contents
+
+Credit rating agencies review their ratings periodically and, therefore, the credit ratings assigned to us by each
+agency may be subject to revision at any time. Accordingly, we are not able to predict whether our current credit
+ratings will remain consistent over time. Factors that could aﬀect our credit ratings include changes in our
+operating performance, the general economic environment, conditions in the retail industry, our ﬁnancial position,
+including our total debt and capitalization, and changes in our business strategy. Any downgrade of our credit
+ratings by a credit rating agency could increase our future borrowing costs or impair our ability to access capital
+and credit markets on terms commercially acceptable to us. In addition, any downgrade of our current short-term
+credit ratings could impair our ability to access the commercial paper markets with the same ﬂexibility that we
+have experienced historically, potentially requiring us to rely more heavily on more expensive types of debt
+ﬁnancing. The credit rating agency ratings are not recommendations to buy, sell or hold our commercial paper or
+debt securities. Each rating may be subject to revision or withdrawal at any time by the assigning rating
+organization and should be evaluated independently of any other rating. Moreover, each credit rating is speciﬁc to
+the security to which it applies.
+
+Other Matters
+
+In Note 6 to our Condensed Consolidated Financial Statements, which is captioned "Contingencies" and appears in
+Part I of this Quarterly Report on Form 10-Q under the caption "Item 1. Financial Statements," we discuss, under the
+sub-captions "Settlement Framework Regarding Multidistrict and State or Local Opioid-Related Litigation," and
+"Other Opioid-Related Litigation," the Prescription Opiate Litigation, the Settlement Framework, and other matters,
+including certain risks arising therefrom. In Note 6, we also discuss, under the sub-caption "Asda Equal Value
+Claims" the Company's indemniﬁcation obligation for the Asda Equal Value Claims matter as well as under the sub-
+caption "Money Transfer Agent Services Matters" a United States Federal Trade Commission complaint related to
+money transfers and the Company's anti-fraud program and a government investigation by the U.S. Attorney's
+Oﬃce for the Middle District of Pennsylvania into the Company's consumer fraud prevention and anti-money
+laundering compliance related to the Company's money transfer agent services. In Note 6, under the sub-caption
+"Mexico Antitrust Matter," we also discuss a quasi-judicial process initiated by the Comision Federal de
+Competencia Economica of Mexico against Walmex. We discuss various legal proceedings related to the
+Prescription Opiate Litigation, the Settlement Framework, DOJ Opioid Civil Litigation and Opioids-Related Securities
+Class Actions and Derivative Litigation; Asda Equal Value Claims; Money Transfer Agent Services Litigation; and
+Mexico Antitrust Matter in Part II of this Quarterly Report on Form 10-Q under the caption "Item 1. Legal
+Proceedings," under the sub-caption "I. Supplemental Information." We also discuss items related to the Foreign
+Direct Investment matter in India in Part II of this Quarterly Report on Form 10-Q under the caption "Item 1. Legal
+Proceedings," under the sub-caption "II. Certain Other Matters." We also discuss an environmental matter with the
+State of California and an environmental matter with the U.S. Environmental Protection Agency in Part II of this
+Quarterly Report on Form 10-Q under the caption "Item 1. Legal Proceedings," under the sub-caption "III.
+Environmental Matters." The foregoing matters and other matters described elsewhere in this Quarterly Report on
+Form 10-Q represent contingent liabilities of the Company that may or may not result in the incurrence of a
+material liability by the Company upon their ﬁnal resolution.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+Market risks relating to our operations result primarily from changes in interest rates, currency exchange rates and
+the fair value of certain equity investments. As of October 31, 2023, there were no material changes to our market
+risks disclosed in our Annual Report on Form 10-K for the ﬁscal year ended January 31, 2023. The information
+concerning market risk set forth in Part II, Item 7A. of our Annual Report on Form 10-K for the ﬁscal year ended
+January 31, 2023, as ﬁled with the SEC on March 17, 2023, under the caption "Quantitative and Qualitative
+Disclosures About Market Risk," is hereby incorporated by reference into this Quarterly Report on Form 10-Q.
+
+28
+
+Table of Contents
+
+Item 4. Controls and Procedures
+
+We maintain disclosure controls and procedures that are designed to provide reasonable assurance that
+information, which is required to be timely disclosed, is accumulated and communicated to management in a
+timely fashion. In designing and evaluating such controls and procedures, we recognize that any controls and
+procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the
+desired control objectives. Our management is necessarily required to use judgment in evaluating controls and
+procedures. Also, we have investments in unconsolidated entities. Since we do not control or manage those
+entities, our controls and procedures with respect to those entities are substantially more limited than those we
+maintain with respect to our consolidated subsidiaries.
+
+In the ordinary course of business, we review our internal control over ﬁnancial reporting and make changes to our
+systems and processes to improve such controls and increase eﬃciency, while ensuring that we maintain an
+eﬀective internal control environment. Changes may include such activities as implementing new, more eﬃcient
+systems, updating existing systems, automating manual processes, standardizing controls globally, migrating
+certain processes to our shared services organizations and increasing monitoring controls. In the ﬁrst quarter of
+ﬁscal 2024, we began implementing a new ﬁnancial system, including our general ledger, in stages beginning in
+our U.S. and Canadian markets. This ﬁnancial system is a signiﬁcant component of our internal control over
+ﬁnancial reporting. We will continue to implement other components of our new ﬁnancial system in stages, and
+each implementation will impact our internal control over ﬁnancial reporting.
+
+An evaluation of the eﬀectiveness of the design and operation of our disclosure controls and procedures as of the
+end of the period covered by this report was performed under the supervision and with the participation of
+management, including our Chief Executive Oﬃcer and Chief Financial Oﬃcer. Based upon that evaluation, our
+Chief Executive Oﬃcer and Chief Financial Oﬃcer concluded that our disclosure controls and procedures are
+eﬀective to provide reasonable assurance that information required to be disclosed by the Company in the reports
+that it ﬁles or submits under the Securities Exchange Act of 1934, as amended, is accumulated and communicated
+to management, including our Chief Executive Oﬃcer and Chief Financial Oﬃcer, as appropriate, to allow timely
+decisions regarding required disclosure and are eﬀective to provide reasonable assurance that such information is
+recorded, processed, summarized and reported within the time periods speciﬁed by the SEC's rules and forms.
+There has been no signiﬁcant change in the Company's internal control over ﬁnancial reporting that occurred
+during the ﬁscal quarter ended October 31, 2023, that has materially aﬀected, or is reasonably likely to materially
+aﬀect, the Company's internal control over ﬁnancial reporting.
+
+29
+
+Table of Contents
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings
+I. SUPPLEMENTAL INFORMATION: The Company is involved in a number of legal proceedings and certain
+regulatory matters, including responding to subpoenas and requests for information in connection with government
+investigations. We discuss certain legal proceedings in Part I of this Quarterly Report on Form 10-Q under the
+caption "Item 1. Financial Statements," in Note 6 to our Condensed Consolidated Financial Statements, which is
+captioned "Contingencies," under the sub-caption "Legal Proceedings." We refer you to that discussion for
+important information concerning those legal proceedings, including the basis for such actions and, where known,
+the relief sought. We provide the following additional information concerning those legal proceedings, including the
+name of the lawsuit, the court in which the lawsuit is pending, and the date on which the petition commencing the
+lawsuit was ﬁled.
+
+Prescription Opiate Litigation: In re National Prescription Opiate Litigation (MDL No. 2804) (the "MDL"). The
+MDL is pending in the U.S. District Court for the Northern District of Ohio and includes over 400 cases as of
+November 15, 2023. The liability phase of a single, two-county trial in one of the MDL cases against a number of
+parties, including the Company, regarding opioid dispensing claims resulted in a jury verdict on November 23,
+2021, ﬁnding in favor of the plaintiﬀs as to the liability of all defendants, including the Company. The abatement
+phase of the single, two-county trial resulted in a judgment on August 17, 2022, that ordered all three defendants,
+including the Company, to pay an aggregate amount of approximately $0.7 billion over ﬁfteen years, on a joint and
+several liability basis, and granted the plaintiﬀs injunctive relief. The Company has ﬁled an appeal with the Sixth
+Circuit Court of Appeals. The monetary aspect of the judgment is stayed pending appeal, and the injunctive portion
+of the judgment went into eﬀect on February 20, 2023. On September 11, 2023, the Sixth Circuit Court of Appeals
+issued an order certifying certain questions in the appeal for review by the Supreme Court of Ohio. The MDL
+designated ﬁve additional single-county cases as bellwethers to proceed through discovery, though those
+bellwether plaintiﬀs have elected to participate in the Settlement Framework. On October 25, 2023, the MDL
+designated four cases brought by third-party payers as bellwether cases to proceed through discovery. Additional
+bellwethers of cases brought by hospitals and other healthcare providers may be designated in the future. In
+addition, there are over 100 other cases pending in state and federal courts throughout the country against the
+Company as of November 15, 2023, as well as other cases in Canada against Wal-Mart Canada Corp. and certain
+other subsidiaries of the Company. The case citations and currently scheduled trial dates, where applicable, are
+listed on Exhibit 99.1 to this Quarterly Report on Form 10-Q.
+
+Opioid Settlement Framework: On November 15, 2022, the Company announced that it had agreed to a
+Settlement Framework to resolve substantially all opioids-related lawsuits ﬁled against the Company by states,
+political subdivisions, and Native American tribes (other than the single, two-county trial on appeal to the Sixth
+Circuit Court of Appeals as described above), as described in more detail in Note 6 to the Condensed Consolidated
+Financial Statements. The Company now has settlement agreements with all 50 states, including four states that
+previously settled with the Company, as well as the District of Columbia, Puerto Rico, and three other U.S.
+territories, that are intended to resolve substantially all opioids-related lawsuits brought by state and local
+governments against the Company. As described in more detail in Note 6 to the Condensed Consolidated Financial
+Statements, the Settlement Framework became eﬀective on September 6, 2023.
+
+DOJ Opioid Civil Litigation: A civil complaint pending in the U.S. District Court for the District of Delaware has
+been ﬁled by the U.S. Department of Justice (the "DOJ") against the Company, in which the DOJ alleges violations of
+the Controlled Substances Act related to nationwide distribution and dispensing of opioids. U.S. v. Walmart Inc., et
+al., USDC, Dist. of DE, 12/22/20. The Company ﬁled a motion to dismiss the DOJ complaint on February 22, 2021.
+After the parties had fully briefed the Company's motion to dismiss, the DOJ ﬁled an amended complaint on October
+7, 2022. On November 7, 2022, the Company ﬁled a partial motion to dismiss the amended complaint. The motion
+remains pending.
+
+Opioids Related Securities Class Actions and Derivative Litigation: Three derivative complaints and two
+securities class actions drawing heavily on the allegations of the DOJ complaint have been ﬁled in Delaware naming
+the Company and various current and former directors and certain current and former oﬃcers as defendants. The
+plaintiﬀs in the derivative suits (in which the Company is a nominal defendant) allege, among other things, that the
+defendants breached their ﬁduciary duties in connection with oversight of opioids dispensing and distribution and
+that the defendants violated Section 14(a) of the Securities Exchange Act of 1934, as amended (the "Exchange
+Act"), and are liable for contribution under Section 10(b) of the Exchange Act in connection with the Company's
+disclosures about opioids. Two of the derivative suits have been ﬁled in the U.S. District Court in Delaware and
+those suits have been stayed pending further developments in other opioids litigation matters. The other derivative
+suit has been ﬁled in the Delaware Court of Chancery. The defendants in the derivative suit pending in the
+Delaware Court of Chancery moved to dismiss and/or to stay that case on December 21, 2021; the plaintiﬀs
+responded by ﬁling an amended complaint on February 22, 2022. On April 20, 2022, the defendants moved to
+dismiss and/or stay proceedings on the amended complaint. In two orders issued on April 12 and 26, 2023, the
+Court of Chancery granted the defendants' motion to dismiss with respect to claims involving the Company' s
+distribution practices and denied the remainder of the motion, including the Company's request to stay the
+litigation. On May 5, 2023, the Company's Board of Directors appointed an independent Special Litigation
+Committee (the "SLC") to investigate the allegations regarding certain current and former oﬃcers and directors
+named in the various proceedings regarding oversight with respect to opioids. The Board has authorized
+
+30
+
+Table of Contents
+
+the SLC to retain independent legal counsel and such other advisors as the SLC deems appropriate in carrying out
+its duties. The derivative matter pending in the Delaware Court of Chancery is stayed until the SLC completes its
+investigation.
+
+The securities class actions, alleging violations of Sections 10(b) and 20(a) of the Exchange Act regarding the
+Company's disclosures with respect to opioids, purport to be ﬁled on behalf of a class of investors who acquired
+Walmart stock from March 30, 2016, through December 22, 2020. On May 11, 2021, the U.S. District Court in
+Delaware consolidated the class actions and appointed a lead plaintiﬀ and lead counsel. The defendants moved to
+dismiss the consolidated securities class action on October 8, 2021. On October 14, 2022, plaintiﬀs ﬁled an
+amended complaint, which revised the applicable putative class of investors to those who acquired Walmart stock
+from March 31, 2017, through December 22, 2020. On November 16, 2022, the Company moved to dismiss the
+amended complaint. That motion remains pending.
+
+Derivative Lawsuits: Abt v. Alvarez et al., USDC, Dist. of DE, 2/9/21; Nguyen v. McMillon et al., USDC, Dist. of DE,
+4/16/21: Ontario Provincial Council of Carpenters' Pension Trust Fund et al. v. Walton et al., DE Court of Chancery,
+9/27/21.
+
+Securities Class Actions: Stanton v. Walmart Inc. et al., USDC, Dist. of DE, 1/20/21 and Martin v. Walmart Inc. et
+al., USDC, Dist. of DE, 3/5/21, consolidated into In re Walmart Inc. Securities Litigation, USDC, Dist. of DE, 5/11/21.
+
+ASDA Equal Value Claims: Ms S Brierley & Others v. ASDA Stores Ltd (2406372/2008 & Others – Manchester
+Employment Tribunal); Abbas & Others v Asda Stores limited (KB-2022-003243); and Abusubih & Others v Asda
+Stores limited (KB-2022-003240).
+
+Money Transfer Agent Services Litigation: Federal Trade Commission v. Walmart Inc. (CV-3372), USDC, N. Dist.
+Of Ill, 6/28/22.
+
+Mexico Antitrust Matter: Comisión Federal de Competencia Económica of México, Investigative Authority v.
+Nueva Wal-Mart de México, S.de R.L. de C.V. (Docket IO-002-2020, consolidated with Docket DE-026-2020), Mexico,
+10/6/23.
+
+31
+
+Table of Contents
+
+II. CERTAIN OTHER MATTERS
+Foreign Direct Investment Matters: In July 2021, the Directorate of Enforcement in India issued a show cause
+notice to Flipkart Private Limited and one of its subsidiaries ("Flipkart"), and to unrelated companies and
+individuals, including certain current and former shareholders and directors of Flipkart. The notice requests the
+recipients to show cause as to why further proceedings under India's Foreign Direct Investment rules and
+regulations (the "Rules") should not be initiated against them based on alleged violations during the period from
+2009 to 2015, prior to the Company's acquisition of a majority stake in Flipkart in 2018. The notice is an initial
+stage of proceedings under the Rules which could, depending upon the conclusions at the end of the initial stage,
+lead to a hearing to consider the merits of the allegations described in the notice. If a hearing is initiated and if it is
+determined that violations of the Rules occurred, the regulatory authority has the authority to impose monetary
+and/or non-monetary relief. Flipkart has begun the process of responding to the notice and, if the matter progresses
+to a consideration of the merits of the allegations described in the notice is initiated, Flipkart intends to defend
+against the allegations vigorously. Due to the fact that this process is in an early stage, the Company is unable to
+predict whether the notice will lead to a hearing on the merits or, if it does, the ﬁnal outcome of the resulting
+proceedings. While the Company does not currently believe that this matter will have a material adverse eﬀect on
+its business, ﬁnancial condition, results of operations or cash ﬂows, the Company can provide no assurance as to
+the scope or outcome of any proceeding that might result from the notice, the amount of the proceeds the
+Company may receive in indemniﬁcation from individuals and entities that sold shares to the Company under the
+2018 agreement pursuant to which the Company acquired its majority stake in Flipkart, and can provide no
+assurance as to whether there will be a material adverse eﬀect to its business or its Condensed Consolidated
+Financial Statements.
+
+III. ENVIRONMENTAL MATTERS:  Item 103 of SEC Regulation S-K requires disclosure of certain environmental
+matters when a governmental authority is a party to the proceedings and such proceedings involve potential
+monetary sanctions that the Company reasonably believes will exceed an applied threshold of $1 million.
+
+In December 2021, the Oﬃce of the Attorney General of the State of California ﬁled suit against the Company,
+bringing enforcement claims regarding Walmart's management of waste consumer products at its California
+facilities that are alleged to be hazardous. The suit was ﬁled in Superior Court of Alameda County, California, Case
+No. 21CV004367, People v. Walmart Inc., and a trial date has been scheduled for April 22, 2024. The Company
+believes it has strong defenses and is vigorously defending this litigation matter. While the Company cannot predict
+the ultimate outcome of this matter, the potential for penalties or settlement costs could exceed $1 million.
+Although the Company does not believe that this matter will have a material adverse eﬀect on its business,
+ﬁnancial position, results of operations, or cash ﬂows, the Company can provide no assurance as to the scope and
+outcome of this matter and no assurance as to whether there will be a material adverse eﬀect to its business or its
+Condensed Consolidated Financial Statements.
+
+In October 2023, the Company received a Finding of Violation from the U.S. Environmental Protection Agency (the
+"EPA") alleging violations of the Clean Air Act in connection with the Company's refrigeration leak detection and
+repair program at certain of its facilities. The Company is evaluating the ﬁndings and cooperating with the EPA in its
+investigation. The EPA may seek to impose monetary and non-monetary penalties for the alleged violations of the
+Clean Air Act. Due to the fact that this process is in an early stage, the Company is unable to predict the ﬁnal
+outcome of this matter. Although the Company does not believe this matter will have a material adverse eﬀect on
+its business, ﬁnancial position, results of operations, or cash ﬂows, the Company can provide no assurance as to
+the scope or outcome of this matter and no assurance as to whether there will be a material adverse eﬀect to its
+business or its Condensed Consolidated Financial Statements.
+
+32
+
+Table of Contents
+
+Item 1A. Risk Factors
+
+In addition to the other information set forth in this report, you should carefully consider the risk factors disclosed in
+Part I, Item 1A, under the caption "Risk Factors," of our Annual Report on Form 10-K for the ﬁscal year ended
+January 31, 2023, which risks could materially and adversely aﬀect our business, results of operations, ﬁnancial
+condition, and liquidity. No material change in the risk factors discussed in such Form 10-K has occurred. Such risk
+factors do not identify all risks that we face because our business operations could also be aﬀected by additional
+factors that are not presently known to us or that we currently consider to be immaterial to our operations. Our
+business operations could also be aﬀected by additional factors that apply to all companies operating in the U.S.
+and globally. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+From time to time, the Company repurchases shares of our common stock under share repurchase programs
+authorized by the Company's Board of Directors. All repurchases made during the three months ended October 31,
+2023 were made under the current $20 billion share repurchase program approved in November 2022, which has
+no expiration date or other restrictions limiting the period over which the Company can make repurchases. As of
+October 31, 2023, authorization for $18.1 billion of share repurchases remained under the share repurchase
+program. Any repurchased shares are constructively retired and returned to an unissued status.
+
+The Company regularly reviews its share repurchase activity and considers several factors in determining when to
+execute share repurchases, including, among other things, current cash needs, capacity for leverage, cost of
+borrowings and the market price of its common stock. Share repurchase activity under our share repurchase
+program, on a trade date basis, for the three months ended October 31, 2023, was as follows:
+
+Fiscal Period
+
+August 1 - 31, 2023
+September 1 - 30, 2023
+October 1 - 31, 2023
+
+Total
+
+Total
+Number of
+Shares
+Purchased
+
+605,199  $
+
+— 
+— 
+
+605,199 
+
+Average
+Price Paid
+per Share
+
+159.74 
+— 
+— 
+
+Total Number of
+Shares Purchased
+as Part of Publicly
+Announced Plans or
+Programs
+
+Approximate Dollar 
+Value of Shares that
+May Yet Be
+Purchased Under the
+(1)
+Plans or Programs
+
+(billions)
+
+605,199  $
+
+— 
+— 
+
+605,199 
+
+18.1 
+18.1 
+18.1 
+
+(1) 
+
+Represents approximate dollar value of shares that could have been purchased under the plan in eﬀect at the end of the month.
+
+Item 5. Other Information
+
+Security Trading Plans of Directors and Executive Oﬃcers
+
+None of the Company's directors or executive oﬃcers adopted or terminated a Rule 10b5-1 trading arrangement
+or a non-Rule 10b5-1 trading arrangement during the Company's ﬁscal quarter ended October 31, 2023, as such
+terms are deﬁned under Item 408(a) or Regulation S-K.
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This Quarterly Report on Form 10-Q contains statements that Walmart believes are "forward-looking statements"
+within the meaning of the Private Securities Litigation Reform Act of 1995. Those forward-looking statements are
+intended to enjoy the protection of the safe harbor for forward-looking statements provided by that Act as well as
+protections aﬀorded by other federal securities laws.
+
+Forward-looking Statements
+
+The forward-looking statements in this report include, among other things:
+
+•
+
+statements in Note 6 to those Condensed Consolidated Financial Statements regarding the possible
+outcome of, and future eﬀect on Walmart's ﬁnancial condition and results of operations of, certain litigation
+and other proceedings to which Walmart is a party, the possible outcome of, and future eﬀect on Walmart's
+business of, certain other matters to which Walmart is subject, including the Company's ongoing opioids
+litigation, Walmart's ongoing indemniﬁcation obligation for the Asda Equal Value Claims, the Company's
+Money Transfer Agent Services Matters, the Mexico Antitrust Matter, and the liabilities, losses, expenses and
+costs that Walmart may incur in connection with such matters;
+
+33
+
+Table of Contents
+
+•
+
+•
+
+•
+
+in Part I, Item 2 "Management's Discussion and Analysis of Financial Condition and Results of Operations":
+statements under the caption "Overview" regarding future changes to our business and our expectations
+about the potential impacts on our business, ﬁnancial position, results of operations or cash ﬂows as a result
+of macroeconomic factors such as geopolitical conditions, supply chain disruptions, volatility in employment
+trends, and consumer conﬁdence; statements under the caption "Overview" relating to the possible impact
+of inﬂationary pressures and volatility in currency exchange rates on the results, including net sales and
+operating income, of Walmart and the Walmart International segment, as well as our pricing and
+merchandising strategies in response to cost increases; statements under the caption "Company
+Performance Metrics - Growth" regarding our strategy to serve customers through a seamless omni-channel
+experience; statements under the caption "Company Performance Metrics - Margin" regarding our strategy
+to improve operating income margin through productivity initiatives as well as category and business mix;
+statements under the caption "Company Performance Metrics - Returns" regarding our belief that returns on
+capital will improve as we execute on our strategic priorities; statements under the caption "Results of
+Operations - Consolidated Results of Operations" regarding the possibility of ﬂuctuations in Walmart's
+eﬀective income tax rate from quarter to quarter and the factors that may cause those ﬂuctuations; a
+statement under the caption "Results of Operations - Sam's Club Segment" relating to the possible
+continuing impact of volatility in fuel prices on the future operating results of the Sam's Club segment; a
+statement under the caption "Liquidity and Capital Resources - Liquidity" that Walmart's sources of liquidity
+will be adequate to fund its operations, ﬁnance its global investment activities, pay dividends and fund
+share repurchases; a statement under the caption "Liquidity and Capital Resources - Liquidity - Net Cash
+Used in Financing Activities - Dividends" regarding the payment of annual dividends in ﬁscal 2024; a
+statement under the caption "Liquidity and Capital Resources - Liquidity - Net Cash Used in Financing
+Activities - Company Share Repurchase Program" regarding funding of our share repurchase program;
+statements under the caption "Liquidity and Capital Resources - Capital Resources" regarding management's
+expectations regarding the Company's cash ﬂows from operations, current cash position, short-term
+borrowings and access to capital markets continuing to be suﬃcient to meet its anticipated cash
+requirements and contractual obligations, the Company's commercial paper and long-term debt ratings
+continuing to enable it to reﬁnance its debts at favorable rates, factors that could aﬀect its credit ratings,
+and the eﬀect that lower credit ratings would have on its access to capital and credit markets and borrowing
+costs; and statements under the caption "Other Matters" regarding the contingent liabilities of the Company
+that may or may not result in the incurrence of a material liability by the Company;
+
+in Part I, Item 4 "Controls and Procedures": statements regarding the eﬀect of changes to systems and
+processes on our internal control over ﬁnancial reporting; and
+
+in Part II, Item 1 "Legal Proceedings": statements regarding the eﬀect that possible losses or the range of
+possible losses that might be incurred in connection with the legal proceedings and other matters discussed
+therein may have on our ﬁnancial condition or results of operations.
+
+34
+
+Table of Contents
+
+Risks, Factors and Uncertainties Regarding Our Business
+
+These forward-looking statements are subject to risks, uncertainties and other factors, domestically and
+internationally, including:
+
+Economic Factors
+
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+economic, geo-political, capital markets and business conditions, trends and events around the world and in
+the markets in which Walmart operates;
+currency exchange rate ﬂuctuations;
+changes in market rates of interest;
+inﬂation or deﬂation, generally and in certain product categories;
+transportation, energy and utility costs;
+commodity prices, including the prices of oil and natural gas;
+changes in market levels of wages;
+changes in the size of various markets, including eCommerce markets;
+unemployment levels;
+consumer  conﬁdence,  disposable  income,  credit  availability,  spending  levels,  shopping  patterns,  debt
+levels, and demand for certain merchandise;
+trends in consumer shopping habits around the world and in the markets in which Walmart operates;
+consumer enrollment in health and drug insurance programs and such programs' reimbursement rates and
+drug formularies; and
+initiatives of competitors, competitors' entry into and expansion in Walmart's markets or lines of business,
+and competitive pressures.
+
+Operating Factors
+
+•
+
+•
+
+•
+•
+•
+•
+
+•
+
+•
+
+the amount of Walmart's net sales and operating expenses denominated in U.S. dollar and various foreign
+currencies;
+the ﬁnancial performance of Walmart and each of its segments, including the amount of Walmart's cash
+ﬂow during various periods;
+customer transaction and average ticket in Walmart's stores and clubs and on its eCommerce platforms;
+the mix of merchandise Walmart sells and its customers purchase;
+the availability of goods from suppliers and the cost of goods acquired from suppliers;
+the eﬀectiveness of the implementation and operation of Walmart's strategies, plans, programs and
+initiatives;
+the ﬁnancial and operational impacts of our investments in eCommerce, technology, talent, and
+automation;
+COVID-19 recovery related challenges, including supply chain disruption and production, labor shortages
+and increases in labor costs;
+the impact of acquisitions, divestitures, store or club closures, and other strategic decisions;
+
+•
+• Walmart's ability to successfully integrate acquired businesses;
+•
+•
+•
+
+unexpected changes in Walmart's objectives and plans;
+the amount of shrinkage Walmart experiences;
+consumer acceptance of and response to Walmart's stores and clubs, eCommerce platforms, programs,
+merchandise oﬀerings and delivery methods;
+
+the selling prices of gasoline and diesel fuel;
+disruption of seasonal buying patterns in Walmart's markets;
+disruptions in Walmart's supply chain and inventory management;
+cybersecurity events aﬀecting Walmart and related costs and impact of any disruption in business;
+
+• Walmart's gross proﬁt margins, including pharmacy margins and margins of other product categories;
+•
+•
+•
+•
+• Walmart's labor costs, including healthcare and other beneﬁt costs;
+• Walmart's casualty and accident-related costs and insurance costs;
+•
+
+the size of and turnover in Walmart's workforce and the number of associates at various pay levels within
+that workforce;
+the availability of necessary personnel to staﬀ Walmart's stores, clubs and other facilities;
+delays in the opening of new, expanded, relocated or remodeled units;
+developments in, and the outcome of, legal and regulatory proceedings and investigations to which
+Walmart is a party or is subject, and the liabilities, obligations and expenses, if any, that Walmart may incur
+in connection therewith;
+changes in the credit ratings assigned to the Company's commercial paper and debt securities by credit
+rating agencies;
+
+•
+•
+•
+
+•
+
+• Walmart's eﬀective tax rate; and
+•
+
+unanticipated changes in accounting judgments and estimates.
+
+35
+
+Table of Contents
+
+Regulatory and Other Factors
+
+•
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+
+•
+
+changes in existing, tax, labor and other laws and changes in tax rates, including the enactment of laws and
+the adoption and interpretation of administrative rules and regulations;
+the imposition of new taxes on imports, new tariﬀs and changes in existing tariﬀ rates;
+the imposition of new trade restrictions and changes in existing trade restrictions;
+adoption or creation of new, and modiﬁcation of existing, governmental policies, programs, initiatives and
+actions in the markets in which Walmart operates and elsewhere and actions with respect to such policies,
+programs and initiatives;
+changes in government-funded beneﬁt programs or changes in levels of other public assistance payments;
+changes in currency control laws;
+one or more prolonged federal government shutdowns;
+the timing of federal income tax refunds;
+natural disasters, changes in climate, catastrophic events and global health epidemics or pandemics,
+including COVID-19; and
+changes in generally accepted accounting principles in the United States.
+
+Other Risk Factors; No Duty to Update
+
+This Quarterly Report on Form 10-Q should be read in conjunction with Walmart's Annual Report on Form 10-K for
+the ﬁscal year ended January 31, 2023 and all of Walmart's subsequent other ﬁlings with the Securities and
+Exchange Commission. Walmart urges investors to consider all of the risks, uncertainties and other factors
+disclosed in these ﬁlings carefully in evaluating the forward-looking statements contained in this Quarterly Report
+on Form 10-Q. The Company cannot assure you that the results or developments anticipated by the Company and
+reﬂected or implied by any forward-looking statement contained in this Quarterly Report on Form 10-Q will be
+realized or, even if substantially realized, that those results or developments will result in the forecasted or
+expected consequences for the Company or aﬀect the Company, its operations or its ﬁnancial performance as the
+Company has forecasted or expected. As a result of the matters discussed above and other matters, including
+changes in facts, assumptions not being realized or other factors, the actual results relating to the subject matter of
+any forward-looking statement in this Quarterly Report on Form 10-Q may diﬀer materially from the anticipated
+results expressed or implied in that forward-looking statement. The forward-looking statements included in this
+Quarterly Report on Form 10-Q are made only as of the date of this report, and Walmart undertakes no obligation to
+update any such statements to reﬂect subsequent events or circumstances.
+
+36
+
+Table of Contents
+
+Item 6. Exhibits
+
+The following documents are ﬁled as an exhibit to this Quarterly Report on Form 10-Q:
+
+Exhibit 3.1
+
+Exhibit 3.2
+
+Exhibit 10.1
+
+Restated Certiﬁcate of Incorporation of the Company dated February 1, 2018 is incorporated herein
+by reference to Exhibit 3.1 to the Current Report on Form 8-K that the Company ﬁled on February 1,
+2018
+
+Amended and Restated Bylaws of the Company dated November 10, 2022 are incorporated herein
+by reference to Exhibit 3.1 to the Current Report on Form 8-K that the Company ﬁled on November
+16, 2022
+
+Retirement Agreement between the Company and Judith McKenna dated August 16, 2023 is
+incorporated herein by reference to Exhibit 10.1 to the Quarterly Report on Form 10-Q that the
+Company ﬁled on September 1, 2023
+
+(C)
+
+Exhibit 31.1*
+
+Chief Executive Oﬃcer Section 302 Certiﬁcation
+
+Exhibit 31.2*
+
+Chief Financial Oﬃcer Section 302 Certiﬁcation
+
+Exhibit 32.1**
+
+Chief Executive Oﬃcer Section 906 Certiﬁcation
+
+Exhibit 32.2**
+
+Chief Financial Oﬃcer Section 906 Certiﬁcation
+
+Exhibit 99.1*
+
+Opioids-Related Litigation Case Citations and Currently Scheduled Trial Dates
+
+Exhibit 101.INS*
+
+Inline XBRL Instance Document
+
+Exhibit 101.SCH*
+
+Inline XBRL Taxonomy Extension Schema Document
+
+Exhibit 101.CAL*
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+
+Exhibit 101.DEF*
+
+Inline XBRL Taxonomy Extension Deﬁnition Linkbase Document
+
+Exhibit 101.LAB*
+
+Inline XBRL Taxonomy Extension Label Linkbase Document
+
+Exhibit 101.PRE*
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+
+Exhibit 104
+
+The cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended
+October 31, 2023, formatted in Inline XBRL (included in Exhibit 101)
+
+*
+**
+(C)
+
+Filed herewith as an Exhibit.
+Furnished herewith as an Exhibit.
+This Exhibit is a management contract or compensatory plan or arrangement
+
+37
+
+Table of Contents
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned thereunto duly authorized.
+
+SIGNATURES
+
+Date: November 30, 2023
+
+By:
+
+WALMART INC.
+
+/s/ C. Douglas McMillon
+C. Douglas McMillon
+President and Chief Executive Oﬃcer
+(Principal Executive Oﬃcer)
+
+Date: November 30, 2023
+
+By:
+
+/s/ John David Rainey
+John David Rainey
+Executive Vice President and Chief Financial Oﬃcer
+(Principal Financial Oﬃcer)
+
+Date: November 30, 2023
+
+By:
+
+/s/ David M. Chojnowski
+David M. Chojnowski
+Senior Vice President and Controller
+(Principal Accounting Oﬃcer)
+
+38
+
+ 
+I, C. Douglas McMillon, certify that:
+
+Exhibit 31.1
+
+1.    I have reviewed this Quarterly Report on Form 10-Q of Walmart Inc. (the "registrant");
+
+2.    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period covered by this report;
+
+3.    Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report,
+
+fairly present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the
+registrant as of, and for, the periods presented in this report;
+
+4.    The registrant's other certifying oﬃcer and I are responsible for establishing and maintaining disclosure
+
+controls and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control
+over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have:
+
+a)    designed such disclosure controls and procedures, or caused such disclosure controls and
+
+procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared;
+
+b)    designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the
+reliability of ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in
+accordance with generally accepted accounting principles;
+
+c)    evaluated the eﬀectiveness of the registrant's disclosure controls and procedures and presented in
+this report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of
+the end of the period covered by this report, based on such evaluations; and
+
+d)    disclosed in this report any change in the registrant's internal control over ﬁnancial reporting that
+occurred during the registrant's most recent ﬁscal quarter that has materially aﬀected, or is
+reasonably likely to materially aﬀect, the registrant's internal control over ﬁnancial reporting.
+
+5.    The registrant's other certifying oﬃcer and I have disclosed, based on our most recent evaluation of
+internal control over ﬁnancial reporting, to the registrant's auditors and the Audit Committee of
+registrant's Board of Directors:
+
+a)    all signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control
+
+over ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant's ability to
+record, process, summarize and report ﬁnancial information; and
+
+b)    any fraud, whether or not material, that involves management or other employees who have a
+
+signiﬁcant role in the registrant's internal control over ﬁnancial reporting.
+
+Date: November 30, 2023
+
+/s/ C. Douglas McMillon
+C. Douglas McMillon
+President and Chief Executive Oﬃcer
+
+ 
+ 
+I, John David Rainey, certify that:
+
+Exhibit 31.2
+
+1.    I have reviewed this Quarterly Report on Form 10-Q of Walmart Inc. (the "registrant");
+
+2.    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period covered by this report;
+
+3.    Based on my knowledge, the ﬁnancial statements, and other ﬁnancial information included in this report,
+
+fairly present in all material respects the ﬁnancial condition, results of operations and cash ﬂows of the
+registrant as of, and for, the periods presented in this report;
+
+4.    The registrant's other certifying oﬃcer and I are responsible for establishing and maintaining disclosure
+
+controls and procedures (as deﬁned in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control
+over ﬁnancial reporting (as deﬁned in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have:
+
+a)    designed such disclosure controls and procedures, or caused such disclosure controls and
+
+procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared;
+
+b)    designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the
+reliability of ﬁnancial reporting and the preparation of ﬁnancial statements for external purposes in
+accordance with generally accepted accounting principles;
+
+c)    evaluated the eﬀectiveness of the registrant's disclosure controls and procedures and presented in
+this report our conclusions about the eﬀectiveness of the disclosure controls and procedures, as of
+the end of the period covered by this report, based on such evaluations; and
+
+d)    disclosed in this report any change in the registrant's internal control over ﬁnancial reporting that
+occurred during the registrant's most recent ﬁscal quarter that has materially aﬀected, or is
+reasonably likely to materially aﬀect, the registrant's internal control over ﬁnancial reporting.
+
+5.    The registrant's other certifying oﬃcer and I have disclosed, based on our most recent evaluation of
+internal control over ﬁnancial reporting, to the registrant's auditors and the Audit Committee of
+registrant's Board of Directors:
+
+a)    all signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control
+
+over ﬁnancial reporting which are reasonably likely to adversely aﬀect the registrant's ability to
+record, process, summarize and report ﬁnancial information; and
+
+b)    any fraud, whether or not material, that involves management or other employees who have a
+
+signiﬁcant role in the registrant's internal control over ﬁnancial reporting.
+
+Date: November 30, 2023
+
+/s/ John David Rainey
+John David Rainey
+Executive Vice President and Chief
+Financial Oﬃcer
+
+ 
+ 
+CERTIFICATION PURSUANT TO
+18 U.S.C. SECTION 1350 (AS ADOPTED
+PURSUANT TO SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002)
+
+Exhibit 32.1
+
+In connection with the Quarterly Report of Walmart Inc. (the "Company") on Form 10-Q for the period ending
+
+October 31, 2023 as ﬁled with the Securities and Exchange Commission on the date hereof (the "Report"), I, C.
+Douglas McMillon, President and Chief Executive Oﬃcer of the Company, certify to my knowledge and in my
+capacity as an oﬃcer of the Company, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of
+
+1934, as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company as of the dates and for the periods expressed in the Report.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certiﬁcate, eﬀective as of November 30, 2023.
+
+/s/ C. Douglas McMillon
+C. Douglas McMillon
+President and Chief Executive Oﬃcer
+
+ 
+                                
+CERTIFICATION PURSUANT TO
+18 U.S.C. SECTION 1350 (AS ADOPTED
+PURSUANT TO SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002)
+
+Exhibit 32.2
+
+In connection with the Quarterly Report of Walmart Inc. (the "Company") on Form 10-Q for the period ending
+October 31, 2023 as ﬁled with the Securities and Exchange Commission on the date hereof (the "Report"), I, John
+David Rainey, Executive Vice President and Chief Financial Oﬃcer of the Company, certify to my knowledge and in
+my capacity as an oﬃcer of the Company, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of
+
+1934, as amended; and
+
+2. The information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+
+results of operations of the Company as of the dates and for the periods expressed in the Report.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certiﬁcate, eﬀective as of November 30, 2023.
+
+/s/ John David Rainey
+John David Rainey
+Executive Vice President and Chief Financial
+Oﬃcer
+
+ 
+                                
+Opioids Litigation Case Citations and Currently Scheduled Trial Dates
+
+Exhibit 99.1
+
+A. Case Citations For Pending State Court Cases as of November 15, 2023
+
+State of Arizona ex rel. Kristin K. Mayes, Att’y Gen. v. Walmart, Inc., Ariz. Super. Ct., Maricopa Cty., 11/7/2023; State
+of North Carolina ex rel. Joshua H. Stein, Att’y Gen. v. CVS Pharm., Inc., et al. N.C. Super. Ct., Wake Cty., 10/31/2023;
+Att’y Gen. for State of Oregon v. Walmart Inc., Or. Cir. Ct., Multnomah Cty., 10/30/2023; People of Northampton Cty.,
+et al. v. Rite Aid Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 11/3/2022; Cty. of Lackawanna v. CVS Health Corp., et
+al., Pa. Ct. Com. Pl., Delaware Cty., 9/21/2022; Cty. of Franklin v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware
+Cty., 9/8/2022; Cty. of Washington v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/8/2022; Cty. of Erie v.
+Giant Eagle, Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/7/2022; Cty. of Fayette v. CVS Health Corp., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 9/7/2022; Cty. of Lawrence v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty.,
+9/7/2022; Cty. of Monroe v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/7/2022; Cty. of Armstrong v.
+CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/6/2022; Bensalem Twp. v. CVS Health Corp., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 9/6/2022; Cty. of Cambria v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty.,
+9/6/2022; Newtown Twp. v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/6/2022; Cty. of Beaver v. CVS
+Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/6/2022; Cty. of Bradford v. CVS Health Corp., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 9/6/2022; Cty. of Clarion v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty.,
+9/6/2022; Cty. of Greene v. CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/6/2022; Cty. of Huntingdon v.
+CVS Health Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/6/2022; Mun. of Norristown, et al. v. CVS Health Corp., et
+al., Pa. Ct. Com. Pl., Delaware Cty., 9/3/2022; Cty. of Westmoreland v. CVS Health Corp., et al., Pa. Ct. Com. Pl.,
+Delaware Cty., 9/2/2022; Lehigh Cty., et al. v. Rite Aid Corp., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/15/2022;
+Commonwealth of Pennsylvania ex rel. Dauphin Cty. Dist. Att’y Francis T. Chardo v. CVS Ind., L.L.C., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 8/12/2022; Commonwealth of Pennsylvania ex rel. Northampton Cty. Dist. Att’y Terence P.
+Houck v. CVS Ind., L.L.C., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/12/2022; Commonwealth of Pennsylvania ex rel.
+Jack Stollsteimer, Dist. Att’y of Delaware Cty. v. CVS Ind., L.L.C., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/10/2022;
+Commonwealth of Pennsylvania ex rel. Deborah S. Ryan, Dist. Att’y of Chester Cty. v. CVS Ind., L.L.C., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 8/9/2022; Dauphin Cty. v. Anda, Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/8/2022; Pike
+Cty. v. Anda, Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/8/2022; Commonwealth of Pennsylvania ex rel. Elizabeth
+Hirz, Dist. Att’y of Erie Cty. v. CVS Ind., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/8/22; Commonwealth of
+Pennsylvania ex rel. Allegheny Cty. Dist. Att’y Stephen A. Zappala, Jr. v. CVS Ind., LLC, et al., Pa. Ct. Com. Pl.,
+Delaware Cty., 8/8/2022; Commonwealth of Pennsylvania ex rel. Matthewl D. Weintraub, Dist. Att’y of Bucks Cty. v.
+CVS Ind., L.L.C., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/5/2022; Commonwealth of Pennsylvania ex rel. Nicole W.
+Ziccarelli, Dist. Att’y of Westmoreland Cty. v. CVS Ind., L.L.C., et al., Pa. Ct. Com. Pl., Delaware Cty., 8/5/2022; State
+of Alaska v. Walgreen Co., et al., Alaska Super Ct., 3d Jud. Dist., Anchorage, 6/17/2022; Tioga Cty. v. Anda, Inc., et
+al., Pa. Ct. Com. Pl., Delaware Cty., 6/7/2022; Schuylkill Cty. v. Anda, Inc., et al., Pa. Ct. Com. Pl., Delaware Cty.,
+6/7/2022; Commonwealth of Pennsylvania ex rel. Philadelphia Dist. Att’y Lawrence S. Krasner v. CVS Ind., L.L.C., et
+al., Pa. Ct., Com. Pl., Delaware Cty., 5/25/2022; Cty. of Dallas v. Purdue Pharma L.P., et al., Tex. Dist. Ct., 152nd Jud.
+Dist., Harris Cty., 5/12/2022; Paynter ex rel. Minor Child(ren) Z.N.B. v. McKesson Corp., et al., W. Va. Cir. Ct.,
+Kanawha Cty., 3/28/2022; Blankenship ex rel. Minor Child Z.D.B. v. McKesson Corp., et al., W. Va. Cir. Ct., Kanawha
+Cty., 1/14/2022; Mercer Cty. v. Anda Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 10/22/2021; Clinton Cty. v. Anda,
+Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 10/22/2021; City of Lock Haven v. Par Pharm., Inc., et al., Pa. Ct. Com. Pl.,
+Delaware Cty., 10/22/2021; Warminster Twp. v. Par Pharm. Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 10/12/2021;
+Warrington Twp. v. Par Pharm. Inc., et al., Pa. Ct. Com. Pl., Delaware Cty., 10/12/2021; City of Philadelphia v. CVS
+Ind., L.L.C., et al., Pa. Ct. Com. Pl., Delaware Cty., 9/28/2021; Bucks Cty. v. Anda Inc., et al., Pa. Ct. Com. Pl.,
+Delaware Cty., 9/22/2021; E. Me. Med. Ctr., et al. v. Teva Pharm. USA, Inc., et al., Me. Bus. & Consumer Ct.,
+Cumberland Cty., 9/10/2021; Harris Cty. Hosp. Dist. d/b/a Harris Health Sys. v. McKesson Corp., et al., Tex. Dist. Ct.,
+152nd Jud. Dist., Harris Cty., 4/19/2021; Miss. Baptist Med. Ctr. Inc., et al. v. Amneal Pharm., LLC, et al., Miss. 1st
+Jud. Dist., Hinds Cty. Cir. Ct., 5/15/2020; Dallas Cty. Hosp. Dist. d/b/a Parkland Health & Hosp. Sys., et al., v. Amneal
+Pharm., LLC, et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 11/20/2019; Cty. of Burleson v. Purdue Pharma L.P., et
+al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 9/30/2019; Fla. Health Scis. Ctr., Inc., et al. v. Sackler, et al., Fla. Cir.
+Ct., 17th Jud. Cir., Broward Cty., 9/16/2019; State of Mississippi v. Cardinal Health, Inc., et al., Miss. 1st Jud. Dist.,
+Hinds Cty. Cir. Ct., 9/12/2019; Town of Canton v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019;
+City of Chicopee v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of Framingham v.
+Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of Gloucester v. Purdue Pharma L.P., et al.,
+Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of Haverhill v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty.,
+8/23/2019; Town of Lynnﬁeld v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; Town of Natick v.
+Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of Salem v. Purdue Pharma L.P., et al.,
+Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of Springﬁeld v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk
+Cty., 8/23/2019; Town of Wakeﬁeld v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; City of
+Worcester v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 8/23/2019; Cty. of Duval v. Purdue Pharma L.P.,
+et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 6/14/2019; Cty. of Jim Hogg v. Purdue Pharma LP, et al., Tex. Dist.
+Ct., 152nd Jud. Dist., Harris Cty., 6/14/2019; Cty. of Jim Wells v. Purdue Pharma LP, et al., Tex. Dist. Ct., 152nd Jud.
+Dist., Harris Cty., 6/14/2019; Cty. of Kleberg v. Purdue Pharma LP, et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty.,
+6/14/2019; Cty. of Williamson v. Purdue Pharma LP, et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 6/14/2019; City
+
+of Yonkers v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 5/29/2019; Ellis Cty. v. Purdue Pharma, L.P.,
+et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 5/3/2019;
+
+City of Albany v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 5/3/2019; City of Plattsburgh v. Purdue
+Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 5/3/2019; City of Troy v. Purdue Pharma L.P., et al., N.Y. Sup. Ct.,
+Westchester Cty., 5/3/2019; City of Schenectady v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty.,
+5/3/2019; City of Cambridge v. Purdue Pharma L.P., et al., Mass. Super. Ct., Suﬀolk Cty., 4/12/2019; Rockwall Cty. v.
+Purdue Pharma, L.P., et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 4/10/2019; Cty. of Ulster v. Purdue Pharma
+L.P., et al., N.Y. Sup. Ct., Westchester Cty., 4/10/2019; Cty. of Washington v. Purdue Pharma L.P., et al., N.Y. Sup. Ct.,
+Westchester Cty., 4/1/2019; Town of Randolph v. Purdue Pharma L.P., et al., Mass. Sup. Ct., Suﬀolk Cty., 3/27/2019;
+Cty. of Montgomery v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 3/26/2019; Cty. of Herkimer v.
+Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 3/26/2019; Cty. of Lewis v. Purdue Pharma L.P., et al., N.Y.
+Sup. Ct., Westchester Cty., 2/26/2019; Cty. of St. Lawrence v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Suﬀolk Cty.,
+1/30/2019; Jeﬀerson Cty. v. Williams, et al., Mo. Cir. Ct., 23d Jud. Dist., Jeﬀerson Cty., 1/29/2019; City of New York v.
+Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 1/16/2019; Cty. of Fulton v. Purdue Pharma L.P., et al., N.Y.
+Sup. Ct., Westchester Cty., 1/8/2019; Cty. of Ontario v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Suﬀolk Cty.,
+1/8/2019; Cty. of Columbia v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 12/1/2018; Cty. of Monroe v.
+Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 12/1/2018; Cty. of Wyoming v. Purdue Pharma L.P., et al.,
+N.Y. Sup. Ct., Westchester Cty., 11/28/2018; Cty. of Greene v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester
+Cty., 11/28/2018; Cty. of Oswego v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 11/27/2018; Cty. of
+Schenectady v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 11/15/2018; Delaware Cty. v. Purdue
+Pharma L.P., et al., Pa. Ct. Com. Pl., Delaware Cty., 11/14/2018; Cty. of Carbon v. Purdue Pharma L.P., et al., Pa. Ct.
+Com. Pl., Delaware Cty., 11/14/2018; Cty. of Broome v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty.,
+11/13/2018; Cty. of Erie v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 11/13/2018; Cty. of Orange v.
+Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 11/13/2018; Cty. of Dutchess v. Purdue Pharma L.P., et al.,
+N.Y. Sup. Ct., Westchester Cty., 11/13/2018; Cty. of Seneca v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester
+Cty., 11/13/2018; Cty. of Sullivan v. Purdue Pharma L.P., et al., N.Y. Sup. Ct., Westchester Cty., 11/13/2018; Johnson
+Cty. v. Abbott Labs, et al., Tex. Dist. Ct., 152nd Jud. Dist., Harris Cty., 11/2/2018.
+
+B. Currently Scheduled Trial Dates In Pending State Court Cases as of November 15, 2023
+
+•
+
+7/2025 – Florida Health Sciences Center, Inc., et al. v. Richard Sackler, et al., Fla. Cir. Ct., 17th Jud. Dist.,
+Broward Cty.
+
+C. Case Citations For Pending Non-MDL Federal Court Cases as of November 15, 2023
+
+San Miguel Hosp. Corp. d/b/a Alta Vista Reg’l Hosp. v. Johnson & Johnson, et al., U.S. Dist. Ct., D.N.M., 10/16/2023;
+Baby Doe, et al., ex rel. Their Guardian Ad Litem v. Endo Health Sols., Inc., et al., U.S. Dist. Ct., M.D. Tenn.,
+8/3/2022; Michael D. Reiner, M.D., Prof’l Corp. v. CVS Pharm., Inc., et al., U.S. Dist. Ct., D. Nev., 4/29/2022; City of
+Kingston v. Teva Pharm. USA, Inc., et al., U.S. Dist. Ct., S.D.N.Y., 2/27/2020; Cty. of Cortland v. Purdue Pharma L.P., et
+al., U.S. Dist. Ct., S.D.N.Y., 1/8/2019; City of Ithaca v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018;
+Cty. of Rensselaer v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Saratoga v. Purdue
+Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Schoharie v. Purdue Pharma L.P., et al., U.S. Dist. Ct.,
+S.D.N.Y., 10/23/2018; Cty. of Westchester v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of
+Genesee v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Niagara v. Purdue Pharma L.P., et
+al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Hamilton v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y.,
+10/23/2018; Cty. of Franklin v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Schuyler v.
+Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of Steuben v. Purdue Pharma L.P., et al., U.S. Dist.
+Ct., S.D.N.Y., 10/23/2018; Cty. of Clinton v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018; Cty. of
+Tompkins v. Purdue Pharma L.P., et al., U.S. Dist. Ct., S.D.N.Y., 10/23/2018.
+
+D. International Cases as of November 15, 2023
+
+City of Grand Prairie v. Apotex, Calgary 2001-07073 (ABKB)
+Lac La Ronge Indian Band v. Apotex, Prince Albert QBG-PA-00072-2021 (SKKB)
+
+

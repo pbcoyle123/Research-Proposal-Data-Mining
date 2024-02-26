@@ -1,0 +1,3427 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+FORM 10-Q
+
+(Mark One) 
+☒        QUARTERLY  REPORT  PURSUANT  TO  SECTION  13  OR  15(d)  OF  THE  SECURITIES  EXCHANGE  ACT  OF
+1934
+
+For the quarterly period ended July 29, 2023
+OR
+
+☐    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934
+
+For the transition period from ____ to ____
+
+Commission File Number 1-6049
+
+TARGET CORPORATION
+(Exact name of registrant as speciﬁed in its charter)
+
+Minnesota
+(State or other jurisdiction of incorporation or organization)
+
+1000 Nicollet Mall, Minneapolis, Minnesota
+(Address of principal executive oﬃces)
+
+41-0215170
+(I.R.S. Employer Identiﬁcation No.)
+
+55403
+(Zip Code)
+
+612-304-6073
+(Registrant’s telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common stock, par value $0.0833 per share
+
+Trading Symbol(s)
+TGT
+
+Name of each exchange on which registered
+New York Stock Exchange
+
+Indicate  by  check  mark  whether  the  registrant  (1)  has  ﬁled  all  reports  required  to  be  ﬁled  by  Section  13  or  15(d)  of  the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to
+ﬁle such reports), and (2) has been subject to such ﬁling requirements for the past 90 days.  Yes ☒ No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted
+pursuant  to  Rule  405  of  Regulation  S-T  (§232.405  of  this  chapter)  during  the  preceding  12  months  (or  for  such  shorter  period
+that the registrant was required to submit such ﬁles).   Yes ☒ No ☐
+
+Indicate by check mark whether the registrant is a large accelerated ﬁler, an accelerated ﬁler, a non-accelerated ﬁler, a smaller
+reporting company, or an emerging growth company. See the deﬁnitions of "large accelerated ﬁler," "accelerated ﬁler," "smaller
+reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated ﬁler ☒
+Non-accelerated ﬁler ☐
+
+Accelerated ﬁler ☐
+Smaller reporting company ☐
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for  complying  with  any  new  or  revised  ﬁnancial  accounting  standards  provided  pursuant  to  Section  13(a)  of  the  Exchange
+Act.  ☐     
+
+Indicate by check mark whether the registrant is a shell company (as deﬁned in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+
+Total shares of common stock, par value $0.0833, outstanding at August 18, 2023, were 461,605,464.
+
+ 
+ 
+Table of Contents
+
+Index to Notes
+
+PART I
+
+Item 1.
+
+FINANCIAL INFORMATION
+Financial Statements (unaudited)
+
+TARGET CORPORATION
+
+TABLE OF CONTENTS
+
+Consolidated Statements of Operations
+Consolidated Statements of Comprehensive Income
+Consolidated Statements of Financial Position
+Consolidated Statements of Cash Flows
+Consolidated Statements of Shareholders’ Investment
+Notes to Consolidated Financial Statements
+
+Item 2.
+Item 3.
+Item 4.
+
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Quantitative and Qualitative Disclosures About Market Risk
+Controls and Procedures
+
+PART II
+
+Item 1.
+Item 1A.
+Item 2.
+Item 3.
+Item 4.
+Item 5.
+Item 6.
+
+Signatures
+
+OTHER INFORMATION
+Legal Proceedings
+Risk Factors
+Unregistered Sales of Equity Securities and Use of Proceeds
+Defaults Upon Senior Securities
+Mine Safety Disclosures
+Other Information
+Exhibits
+
+1
+2
+3
+4
+5
+8
+14
+23
+23
+
+24
+24
+24
+24
+24
+24
+25
+
+26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+Consolidated Statements of Operations
+
+(millions, except per share data) (unaudited)
+Sales
+Other revenue
+Total revenue
+Cost of sales
+Selling, general and administrative expenses
+Depreciation and amortization (exclusive of depreciation
+
+included in cost of sales)
+
+Operating income
+Net interest expense
+Net other income
+Earnings before income taxes
+Provision for income taxes
+Net earnings
+Basic earnings per share
+Diluted earnings per share
+Weighted average common shares outstanding
+
+Basic
+Diluted
+
+Antidilutive shares
+
+Three Months Ended
+
+Six Months Ended
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+50,483 
+$
+724 
+51,207 
+38,603 
+9,764 
+
+24,384  $
+389 
+24,773 
+17,798 
+5,184 
+
+25,653  $
+384 
+26,037 
+20,142 
+5,002 
+
+49,332  $
+763 
+50,095 
+36,184 
+10,209 
+
+594 
+1,197 
+141 
+(16)
+1,072 
+237 
+835  $
+1.81  $
+1.80  $
+
+461.6 
+462.5 
+2.9 
+
+572 
+321 
+112 
+(8)
+217 
+34 
+183  $
+0.40  $
+0.39  $
+
+461.5 
+463.6 
+1.3 
+
+1,177 
+2,525 
+288 
+(39)
+2,276 
+491 
+1,785  $
+3.87  $
+3.86  $
+
+461.3 
+462.7 
+2.4 
+
+1,173 
+1,667 
+224 
+(23)
+1,466 
+274 
+1,192 
+2.57 
+2.55 
+
+463.8 
+466.8 
+1.0 
+
+$
+$
+$
+
+See accompanying Notes to Consolidated Financial Statements.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+1
+
+ 
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+Consolidated Statements of Comprehensive
+Income
+
+(millions) (unaudited)
+Net earnings
+Other comprehensive income, net of tax
+
+Pension beneﬁt liabilities
+Cash ﬂow hedges and currency translation
+adjustment
+
+Other comprehensive income (loss)
+Comprehensive income
+
+Three Months Ended
+
+Six Months Ended
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+1,192 
+$
+
+1,785  $
+
+835  $
+
+183  $
+
+1 
+
+11 
+
+3 
+
+22 
+
+(4)
+(3)
+832  $
+
+(28)
+(17)
+166  $
+
+(9)
+(6)
+1,779  $
+
+162 
+184 
+1,376 
+
+$
+
+See accompanying Notes to Consolidated Financial Statements.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+Consolidated Statements of Financial Position
+
+(millions, except footnotes) (unaudited)
+Assets
+Cash and cash equivalents
+Inventory
+Other current assets
+Total current assets
+
+Property and equipment
+
+Land
+Buildings and improvements
+Fixtures and equipment
+Computer hardware and software
+Construction-in-progress
+Accumulated depreciation
+Property and equipment, net
+
+Operating lease assets
+Other noncurrent assets
+Total assets
+Liabilities and shareholders’ investment
+Accounts payable
+Accrued and other current liabilities
+Current portion of long-term debt and other borrowings
+
+$
+
+$
+
+Total current liabilities
+
+Long-term debt and other borrowings
+Noncurrent operating lease liabilities
+Deferred income taxes
+Other noncurrent liabilities
+Total noncurrent liabilities
+
+Shareholders’ investment
+
+Common stock
+Additional paid-in capital
+Retained earnings
+Accumulated other comprehensive loss
+Total shareholders’ investment
+
+Total liabilities and shareholders’ investment
+
+$
+
+July 29,
+2023
+
+January 28,
+2023
+
+July 30,
+2022
+
+$
+
+1,617  $
+
+2,229  $
+
+12,684 
+1,797 
+16,098 
+
+13,499 
+2,118 
+17,846 
+
+1,117 
+15,320 
+2,016 
+18,453 
+
+6,161 
+33,694 
+6,744 
+2,684 
+2,245 
+(21,708)
+29,820 
+2,542 
+1,655 
+52,470 
+
+14,891 
+5,905 
+1,649 
+22,445 
+13,453 
+2,543 
+1,862 
+1,575 
+19,433 
+
+38 
+6,502 
+4,421 
+(369)
+10,592 
+52,470 
+
+6,504 
+35,889 
+7,936 
+3,178 
+2,641 
+(23,201)
+32,947 
+2,840 
+1,321 
+53,206  $
+
+12,278  $
+5,948 
+1,106 
+19,332 
+14,926 
+2,798 
+2,334 
+1,826 
+21,884 
+
+38 
+6,610 
+5,767 
+(425)
+11,990 
+53,206  $
+
+6,231 
+34,746 
+7,439 
+3,039 
+2,688 
+(22,631)
+31,512 
+2,657 
+1,320 
+53,335  $
+
+13,487  $
+5,883 
+130 
+19,500 
+16,009 
+2,638 
+2,196 
+1,760 
+22,603 
+
+38 
+6,608 
+5,005 
+(419)
+11,232 
+53,335  $
+
+Common  Stock  Authorized  6,000,000,000  shares,  $0.0833  par  value;  461,600,640,  460,346,947,  and
+460,236,393 shares issued and outstanding as of July 29, 2023, January 28, 2023, and July 30, 2022, respectively.
+
+Preferred Stock Authorized 5,000,000 shares, $0.01 par value; no shares were issued or outstanding during any
+period presented.
+
+See accompanying Notes to Consolidated Financial Statements.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+3
+
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+Consolidated Statements of Cash Flows
+
+(millions) (unaudited)
+Operating activities
+Net earnings
+Adjustments to reconcile net earnings to cash provided by operating activities:
+
+Six Months Ended
+July 29, 2023 July 30, 2022
+
+$
+
+1,785  $
+
+1,192 
+
+Depreciation and amortization
+Share-based compensation expense
+Deferred income taxes
+Noncash losses / (gains) and other, net
+Changes in operating accounts:
+
+Inventory
+Other assets
+Accounts payable
+Accrued and other liabilities
+
+Cash provided by (required for) operating activities
+Investing activities
+
+Expenditures for property and equipment
+Proceeds from disposal of property and equipment
+Other investments
+
+Cash required for investing activities
+Financing activities
+
+Change in commercial paper, net
+Reductions of long-term debt
+Dividends paid
+Repurchase of stock
+Shares withheld for taxes on share-based compensation
+Stock option exercises
+
+Cash required for ﬁnancing activities
+Net decrease in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+Cash and cash equivalents at end of period
+Supplemental information
+Leased assets obtained in exchange for new ﬁnance lease liabilities
+Leased assets obtained in exchange for new operating lease liabilities
+
+See accompanying Notes to Consolidated Financial Statements.
+
+$
+
+$
+
+1,350 
+107 
+141 
+11 
+
+815 
+62 
+(1,137)
+264 
+3,398 
+
+(2,825)
+6 
+(2)
+(2,821)
+
+— 
+(72)
+(996)
+— 
+(121)
+— 
+(1,189)
+(612)
+2,229 
+1,617  $
+
+1,329 
+122 
+227 
+108 
+
+(1,418)
+(179)
+(784)
+(644)
+(47)
+
+(2,523)
+4 
+1 
+(2,518)
+
+1,545 
+(113)
+(842)
+(2,646)
+(175)
+2 
+(2,229)
+(4,794)
+5,911 
+1,117 
+
+20  $
+
+337 
+
+107 
+97 
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consolidated Statements of Shareholders’ Investment
+
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+(millions) (unaudited)
+January 29, 2022
+Net earnings
+Other comprehensive income
+Dividends declared
+Repurchase of stock
+Accelerated share repurchase
+pending ﬁnal settlement
+Stock options and awards
+April 30, 2022
+Net earnings
+Other comprehensive loss
+Dividends declared
+Repurchase of stock
+Stock options and awards
+July 30, 2022
+Net earnings
+Other comprehensive income
+Dividends declared
+Stock options and awards
+October 29, 2022
+Net earnings
+Other comprehensive loss
+Dividends declared
+Stock options and awards
+January 28, 2023
+
+Common
+Stock
+Shares
+
+Stock
+Par
+Value
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated Other
+Comprehensive
+(Loss) / Income
+
+Total
+
+471.3  $
+— 
+— 
+— 
+(0.1)
+
+(8.9)
+1.4 
+463.7  $
+— 
+— 
+— 
+(3.6)
+0.1 
+460.2  $
+— 
+— 
+— 
+0.1 
+460.3  $
+— 
+— 
+— 
+— 
+460.3  $
+
+39  $
+— 
+— 
+— 
+— 
+
+(1)
+1 
+39  $
+— 
+— 
+— 
+(1)
+— 
+38  $
+— 
+— 
+— 
+— 
+38  $
+— 
+— 
+— 
+— 
+38  $
+
+6,421  $
+— 
+— 
+— 
+— 
+
+(751)
+(78)
+5,592  $
+— 
+— 
+— 
+870 
+40 
+6,502  $
+— 
+— 
+— 
+56 
+6,558  $
+— 
+— 
+— 
+50 
+6,608  $
+
+6,920  $
+1,009 
+— 
+(426)
+(10)
+
+(1,998)
+— 
+5,495  $
+183 
+— 
+(502)
+(755)
+— 
+4,421  $
+712 
+— 
+(502)
+— 
+4,631  $
+876 
+— 
+(502)
+— 
+5,005  $
+
+(553) $ 12,827 
+1,009 
+201 
+(426)
+(10)
+
+— 
+201 
+— 
+— 
+
+— 
+— 
+
+— 
+(17)
+— 
+— 
+— 
+
+(2,750)
+(77)
+(352) $ 10,774 
+183 
+(17)
+(502)
+114 
+40 
+(369) $ 10,592 
+712 
+161 
+(502)
+56 
+(208) $ 11,019 
+876 
+(211)
+(502)
+50 
+(419) $ 11,232 
+
+— 
+(211)
+— 
+— 
+
+— 
+161 
+— 
+— 
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+5
+
+ 
+ 
+ 
+ 
+ 
+Consolidated Statements of Shareholders’ Investment
+
+FINANCIAL STATEMENTS
+
+Table of Contents
+
+Index to Notes
+
+(millions) (unaudited)
+January 28, 2023
+Net earnings
+Other comprehensive loss
+Dividends declared
+Stock options and awards
+April 29, 2023
+Net earnings
+Other comprehensive loss
+Dividends declared
+Stock options and awards
+July 29, 2023
+
+Common
+Stock
+Shares
+
+Stock
+Par
+Value
+
+Additional
+Paid-in
+Capital
+
+Retained
+Earnings
+
+Accumulated Other
+Comprehensive
+(Loss) / Income
+
+Total
+
+460.3  $
+— 
+— 
+— 
+1.3 
+461.6  $
+— 
+— 
+— 
+— 
+461.6  $
+
+38  $
+— 
+— 
+— 
+— 
+38  $
+— 
+— 
+— 
+— 
+38  $
+
+6,608  $
+— 
+— 
+— 
+(67)
+6,541  $
+— 
+— 
+— 
+69 
+6,610  $
+
+5,005  $
+950 
+— 
+(507)
+— 
+5,448  $
+835 
+— 
+(516)
+— 
+5,767  $
+
+— 
+(3)
+— 
+— 
+
+(419) $ 11,232 
+950 
+(3)
+(507)
+(67)
+(422) $ 11,605 
+835 
+(3)
+(516)
+69 
+(425) $ 11,990 
+
+— 
+(3)
+— 
+— 
+
+We  declared  $1.10  and  $1.08  dividends  per  share  for  the  three  months  ended  July  29,  2023  and  July  30,  2022,
+respectively, and $4.14 per share for the ﬁscal year ended January 28, 2023.
+
+See accompanying Notes to Consolidated Financial Statements.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+6
+
+ 
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+INDEX
+
+INDEX TO NOTES
+
+Notes to Consolidated Financial Statements
+
+Note 1
+Note 2
+Note 3
+Note 4
+Note 5
+Note 6
+Note 7
+Note 8
+Note 9
+Note 10
+
+Accounting Policies
+Revenue
+Fair Value Measurements
+Supplier Finance Programs
+Property and Equipment
+Commercial Paper and Long-Term Debt
+Derivative Financial Instruments
+Share Repurchase
+Pension Beneﬁts
+Accumulated Other Comprehensive Income (Loss)
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+Table of Contents
+
+Index to Notes
+
+8
+8
+9
+10
+10
+11
+11
+11
+12
+12
+13
+
+7
+
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+Notes to Consolidated Financial Statements (unaudited)
+
+1. Accounting Policies
+
+These  unaudited  condensed  consolidated  ﬁnancial  statements  are  prepared  in  accordance  with  the  rules  and
+regulations  of  the  Securities  and  Exchange  Commission  applicable  to  interim  ﬁnancial  statements.  While  these
+statements  reﬂect  all  normal  recurring  adjustments  that  are,  in  the  opinion  of  management,  necessary  for  fair
+presentation of the results of the interim period, they do not include all of the information and footnotes required by
+United  States  generally  accepted  accounting  principles  (U.S.  GAAP)  for  complete  ﬁnancial  statements.  These
+condensed consolidated ﬁnancial statements should be read in conjunction with the ﬁnancial statement disclosures
+in our most recent Form 10-K.
+
+We use the same accounting policies in preparing quarterly and annual ﬁnancial statements.
+
+We  operate  as  a  single  segment  that  is  designed  to  enable  guests  to  purchase  products  seamlessly  in  stores  or
+through our digital channels. Nearly all of our revenues are generated in the U.S. The vast majority of our long-lived
+assets are located within the U.S.
+
+Due  to  the  seasonal  nature  of  our  business,  quarterly  revenues,  expenses,  earnings,  and  cash  ﬂows  are  not
+necessarily indicative of the results that may be expected for the full year.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+8
+
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+2. Revenue
+
+Merchandise  sales  represent  the  vast  majority  of  our  revenues.  We  also  earn  revenues  from  a  variety  of  other
+sources, most notably credit card proﬁt-sharing income from our arrangement with TD Bank Group (TD).
+
+(a)
+
+Revenue
+(millions)
+Apparel & accessories 
+Beauty & household essentials 
+Food & beverage 
+Hardlines 
+Home furnishings & décor 
+Other
+
+(d)
+
+(e)
+
+(c)
+
+Sales
+
+Credit card proﬁt sharing
+Other
+
+Other revenue
+
+(b)
+
+Three Months Ended
+
+Six Months Ended
+
+8,068  $
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+8,856 
+$
+14,261 
+10,773 
+7,579 
+8,918 
+96 
+50,483 
+
+4,617  $
+7,208 
+5,268 
+3,866 
+4,647 
+47 
+25,653 
+
+4,101  $
+7,513 
+5,392 
+3,383 
+3,955 
+40 
+24,384 
+
+15,195 
+11,389 
+6,774 
+7,810 
+96 
+49,332 
+
+169 
+220 
+389 
+
+181 
+203 
+384 
+
+343 
+420 
+763 
+
+366 
+358 
+724 
+
+Total revenue
+
+$
+
+24,773  $
+
+26,037  $
+
+50,095  $
+
+51,207 
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+Includes  apparel  for  women,  men,  boys,  girls,  toddlers,  infants  and  newborns,  as  well  as  jewelry,
+accessories, and shoes.
+Includes beauty and personal care, baby gear, cleaning, paper products, and pet supplies.
+Includes  dry  grocery,  dairy,  frozen  food,  beverages,  candy,  snacks,  deli,  bakery,  meat,  produce,  and  food
+service in our stores.
+Includes  electronics  (including  video  game  hardware  and  software),  toys,  entertainment,  sporting  goods,
+and luggage.
+Includes  furniture,  lighting,  storage,  kitchenware,  small  appliances,  home  décor,  bed  and  bath,  home
+improvement, school/oﬃce supplies, greeting cards and party supplies, and other seasonal merchandise.
+
+Merchandise sales — We record almost all retail store revenues at the point of sale. Digitally originated sales may
+include shipping revenue and are recorded upon delivery to the guest or upon guest pickup at the store. Sales are
+recognized  net  of  expected  returns,  which  we  estimate  using  historical  return  patterns  and  our  expectation  of
+future returns. As of July 29, 2023, January 28, 2023, and July 30, 2022, the accrual for estimated returns was $177
+million, $174 million, and $175 million, respectively.
+
+Revenue from Target gift card sales is recognized upon gift card redemption, which is typically within one year of
+issuance.
+
+Gift Card Liability Activity
+
+(millions)
+Gift card liability 
+
+(a)
+
+Gift Cards
+Issued During
+Current Period
+But Not
+Redeemed 
+
+(b)
+
+Revenue
+Recognized
+From Beginning
+Liability
+
+July 29,
+2023
+
+January 28,
+2023
+
+$
+
+1,240  $
+
+399  $
+
+(679) $
+
+960 
+
+(a)
+
+(b)
+
+Included in Accrued and Other Current Liabilities.
+Net of estimated breakage.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+9
+
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+Other Revenue
+
+Credit  card  proﬁt  sharing  —  We  receive  payments  under  a  credit  card  program  agreement  with  TD.  Under  the
+agreement,  we  receive  a  percentage  of  the  proﬁts  generated  by  the  Target  Credit  Card  and  Target  MasterCard
+receivables in exchange for performing account servicing and primary marketing functions. TD underwrites, funds,
+and owns Target Credit Card and Target MasterCard receivables, controls risk management policies, and oversees
+regulatory compliance.
+
+Other — Includes advertising revenue, Shipt membership and service revenues, commissions earned on third-party
+sales through Target.com, rental income, and other miscellaneous revenues.
+
+3. Fair Value Measurements
+
+Fair value measurements are reported in one of three levels reﬂecting the signiﬁcant inputs used to determine fair
+value.
+
+Financial Instruments Measured On a
+Recurring Basis
+
+Classiﬁcation
+
+Measurement
+Level
+
+July 29,
+2023
+
+Fair Value
+January 28,
+2023
+
+July 30,
+2022
+
+(millions)
+Assets
+Short-term investments
+Prepaid forward contracts
+Interest rate swaps
+Interest rate swaps
+Liabilities
+Interest rate swaps
+Interest rate swaps
+
+Cash and Cash Equivalents
+Other Current Assets
+Other Current Assets
+Other Noncurrent Assets
+
+Other Current Liabilities
+Other Noncurrent Liabilities
+
+Level 1 $
+Level 1
+Level 2
+Level 2
+
+Level 2
+Level 2
+
+739  $
+23 
+— 
+— 
+
+6 
+130 
+
+1,343  $
+27 
+— 
+7 
+
+— 
+81 
+
+189 
+26 
+34 
+290 
+
+— 
+6 
+
+Signiﬁcant Financial Instruments Not
+Measured at Fair Value 
+
+(a)
+
+(millions)
+Long-term debt, including current portion 
+
+(b)
+
+July 29, 2023
+
+January 28, 2023
+
+July 30, 2022
+
+Carrying
+Amount
+
+Fair
+Value
+
+Carrying
+Amount
+
+Fair
+Value
+
+Carrying
+Amount
+
+Fair
+Value
+
+$ 14,147  $ 13,344  $ 14,141  $ 13,688  $ 11,511  $ 11,529 
+
+(a)
+
+(b)
+
+The  carrying  amounts  of  certain  other  current  assets,  commercial  paper,  accounts  payable,  and  certain
+accrued and other current liabilities approximate fair value due to their short-term nature.
+The fair value of debt is generally measured using a discounted cash ﬂow analysis based on current market
+interest rates for the same or similar types of ﬁnancial instruments and would be classiﬁed as Level 2. These
+amounts exclude commercial paper, fair value hedge adjustments, and lease liabilities.
+
+4. Supplier Finance Programs
+
+We  have  arrangements  with  several  ﬁnancial  institutions  to  act  as  our  paying  agents  to  certain  vendors.  The
+arrangements  also  permit  the  ﬁnancial  institutions  to  provide  vendors  with  an  option,  at  our  vendors'  sole
+discretion,  to  sell  their  receivables  from  Target  to  the  ﬁnancial  institutions.  A  vendor’s  election  to  receive  early
+payment at a discounted amount from the ﬁnancial institutions does not change the amount that we must remit to
+the ﬁnancial institutions or our payment date, which is up to 120 days from the invoice date.
+
+We  do  not  pay  any  fees  or  pledge  any  security  to  these  ﬁnancial  institutions  under  these  arrangements.  The
+arrangements can be terminated by either party with notice ranging up to 120 days.
+
+Our  outstanding  vendor  obligations  eligible  for  early  payment  under  these  arrangements  totaled  $3.7  billion,
+$3.4 billion, and $4.6 billion as of July 29, 2023, January 28, 2023, and July 30, 2022, respectively, and are included
+within Accounts Payable on our Consolidated Statements of Financial Position. Our outstanding vendor obligations
+do not represent actual receivables sold by our vendors to the ﬁnancial institutions, which may be lower.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+5. Property and Equipment
+
+We  review  long-lived  assets  for  impairment  when  store  performance  expectations,  events,  or  changes  in
+circumstances—such as a decision to relocate or close a store, oﬃce, or distribution center, discontinue a project,
+or  make  signiﬁcant  software  changes—indicate  that  the  asset’s  carrying  value  may  not  be  recoverable.  We
+recognized  impairment  charges  of  $33  million  for  the  three  and  six  months  ended  July  29,  2023.  We  recognized
+impairment charges of $27 million and $50 million for the three and six months ended July 30, 2022, respectively.
+These impairment charges are included in Selling, General and Administrative Expenses (SG&A).
+
+6. Commercial Paper and Long-Term Debt
+
+We obtain short-term ﬁnancing from time to time under our commercial paper program. For the six months ended
+July 29, 2023 and July 30, 2022, the maximum amounts outstanding were $90 million and $1.5 billion, respectively,
+and the average daily amounts outstanding were $2 million and $538 million, respectively, at a weighted average
+annual interest rate of 4.9 percent and 1.1 percent, respectively. No balances were outstanding as of July 29, 2023.
+As  of  July  30,  2022,  $1.5  billion  was  outstanding  and  is  classiﬁed  within  Current  Portion  of  Long-Term  Debt  and
+Other Borrowings on our Consolidated Statements of Financial Position.
+
+7. Derivative Financial Instruments
+
+Our  derivative  instruments  consist  of  interest  rate  swaps  used  to  mitigate  interest  rate  risk.  As  a  result,  we  have
+counterparty credit exposure to large global ﬁnancial institutions, which we monitor on an ongoing basis. Note 3 to
+the Consolidated Financial Statements provides the fair value and classiﬁcation of these instruments.
+
+We  were  party  to  interest  rate  swaps  with  notional  amounts  totaling  $2.45  billion  as  of  July  29,  2023  and
+January 28, 2023, and $2.25 billion as of July 30, 2022. We pay a ﬂoating rate and receive a ﬁxed rate under each
+of  these  agreements.  All  of  the  agreements  are  designated  as  fair  value  hedges,  and  all  were  considered  to  be
+perfectly  eﬀective  under  the  shortcut  method  during  the  three  and  six  months  ended  July  29,  2023  and  July  30,
+2022.
+
+During  2023,  we  amended  interest  rate  swaps  with  notional  amounts  totaling  $1.5  billion  to  replace  the  London
+Interbank  Oﬀered  Rate  (LIBOR)  with  the  daily  Secured  Overnight  Financing  Rate  (SOFR)  as  part  of  our  planned
+reference  rate  reform  activities.  These  amendments  did  not  result  in  any  change  to  our  application  of  hedge
+accounting or any impact to our consolidated ﬁnancial statements.
+
+We  were  party  to  forward-starting  interest  rate  swaps  with  notional  amounts  totaling  $2.15  billion  as  of  July  30,
+2022.  During  2022,  we  terminated  all  remaining  forward-starting  interest  rate  swap  agreements.  The  resulting
+gains  upon  termination  were  recorded  in  Accumulated  Other  Comprehensive  Loss  and  will  be  recognized  as  a
+reduction to Net Interest Expense over the respective term of the debt.
+
+Eﬀect of Hedges on Debt
+(millions)
+Long-term debt and other borrowings
+
+July 29, 2023
+
+January 28,
+2023
+
+July 30, 2022
+
+Carrying amount of hedged debt
+Cumulative hedging adjustments, included in carrying amount
+
+$
+
+2,305  $
+(136)
+
+2,366  $
+(74)
+
+2,263 
+22 
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+11
+
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+Eﬀect of Hedges on Net Interest Expense
+
+(millions)
+Gain (loss) on fair value hedges recognized in Net Interest
+
+Expense
+Interest rate swaps designated as fair value hedges
+Hedged debt
+Gain on cash ﬂow hedges recognized in Net Interest
+Expense
+
+Total
+
+8. Share Repurchase
+
+Three Months Ended
+July 30,
+July 29,
+2022
+2023
+
+Six Months Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+$
+
+$
+
+(71) $
+71 
+
+6 
+6  $
+
+49  $
+(49)
+
+— 
+—  $
+
+(62) $
+62 
+
+12 
+12  $
+
+(55)
+55 
+
+— 
+— 
+
+We  periodically  repurchase  shares  of  our  common  stock  under  a  board-authorized  repurchase  program  through  a
+combination  of  open  market  transactions,  accelerated  share  repurchase  (ASR)  arrangements,  and  other  privately
+negotiated transactions with ﬁnancial institutions. We did not repurchase any of our shares during the six months
+ended July 29, 2023.
+
+Share Repurchase Activity
+
+(millions, except per share data)
+Number of shares purchased
+Average price paid per share
+Total investment
+
+Three Months Ended
+
+Six Months Ended
+
+July 30, 2022
+(a)
+
+July 30, 2022
+(a)
+
+July 29, 2023
+— 
+—  $
+—  $
+
+$
+$
+
+12.5 
+211.58  $
+2,636  $
+
+July 29, 2023
+— 
+—  $
+—  $
+
+12.5 
+211.57 
+2,646 
+
+(a)    
+
+Includes activity related to the ASR arrangement that we entered into during the ﬁrst quarter of 2022 because
+ﬁnal  settlement  occurred  in  the  second  quarter  of  2022.  Under  the  ASR  arrangement,  we  repurchased
+12.5  million  shares  for  a  total  cash  investment  of  $2.6  billion.  We  did  not  enter  into  an  ASR  arrangement
+during any other periods presented.
+
+9. Pension Beneﬁts
+
+We provide pension plan beneﬁts to eligible team members.
+
+Net Pension Beneﬁts
+Expense
+
+(millions)
+Service cost beneﬁts earned
+Interest cost on projected
+
+beneﬁt obligation
+
+Expected return on assets
+Amortization of losses
+Prior service cost
+Total
+
+Classiﬁcation
+SG&A
+Net Other Income
+
+Net Other Income
+Net Other Income
+Net Other Income
+
+Three Months Ended
+July 30,
+July 29,
+2022
+2023
+
+Six Months Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+$
+
+19  $
+
+23  $
+
+39  $
+
+46 
+
+42 
+(67)
+1 
+8 
+3  $
+
+30 
+(58)
+15 
+10 
+20  $
+
+83 
+(134)
+1 
+11 
+—  $
+
+59 
+(117)
+30 
+10 
+28 
+
+$
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+12
+
+ 
+FINANCIAL STATEMENTS
+
+NOTES
+
+Table of Contents
+
+Index to Notes
+
+10. Accumulated Other Comprehensive Income (Loss)
+
+Change in Accumulated Other Comprehensive Income
+(Loss)
+(millions)
+January 28, 2023
+Amounts reclassiﬁed from AOCI, net of tax
+July 29, 2023
+
+Cash Flow
+Hedges
+
+Currency
+Translation
+Adjustment
+
+Pension
+
+Total
+
+$
+
+$
+
+300  $
+(9)
+291  $
+
+(23) $
+— 
+(23) $
+
+(696) $
+3 
+(693) $
+
+(419)
+(6)
+(425)
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+13
+
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+FINANCIAL SUMMARY
+
+Table of Contents
+
+Index to Notes
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+Financial Summary
+
+Second quarter 2023 included the following notable items:
+
+• GAAP and Adjusted diluted earnings per share were $1.80.
+•
+
+Total  revenue  was  $24.8  billion,  a  decrease  of  (4.9)  percent,  reﬂecting  a  total  sales  decrease  of  (4.9)  percent
+and a 1.3 percent increase in other revenue.
+Comparable  sales  decreased  (5.4)  percent,  reﬂecting  a  (4.8)  percent  decrease  in  traﬃc  and  a  (0.7)  percent
+decrease in average transaction amount.
+
+•
+
+◦ Comparable stores-originated sales declined (4.3) percent.
+◦ Comparable digitally-originated sales declined (10.5) percent.
+
+• Operating income of $1.2 billion was 273.0 percent higher than the comparable prior-year period. See Business
+
+Environment below for additional information.
+
+Cash ﬂow provided by operating activities was $3.4 billion for the six months ended July 29, 2023, compared with
+$47  million  cash  ﬂow  required  for  operating  activities  for  the  six  months  ended  July  30,  2022.  The  drivers  of  the
+operating cash ﬂow increase are described on page 21.
+
+Earnings Per Share
+
+Three Months Ended
+July 30,
+July 29,
+2022
+2023
+
+GAAP diluted earnings per share
+Adjustments
+Adjusted diluted earnings per share $
+
+$
+
+1.80  $
+— 
+1.80  $
+
+0.39 
+— 
+0.39 
+
+Six Months Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+3.86  $
+— 
+3.86  $
+
+2.55 
+0.03 
+2.59 
+
+Change
+357.6 % $
+
+357.6 % $
+
+Change
+51.1 %
+
+49.2 %
+
+Note:  Amounts  may  not  foot  due  to  rounding.  Adjusted  diluted  earnings  per  share  (Adjusted  EPS),  a  non-GAAP
+metric, excludes the impact of certain items. Management believes that Adjusted EPS is useful in providing period-
+to-period  comparisons  of  the  results  of  our  operations.  A  reconciliation  of  non-GAAP  ﬁnancial  measures  to  GAAP
+measures is provided on page 19.
+
+We  report  after-tax  return  on  invested  capital  (ROIC)  because  we  believe  ROIC  provides  a  meaningful  measure  of
+our  capital  allocation  eﬀectiveness  over  time.  For  the  trailing  twelve  months  ended  July  29,  2023,  after-tax  ROIC
+was 13.7 percent, compared with 18.4 percent for the trailing twelve months ended July 30, 2022. The calculation
+of ROIC is provided on page 20.
+
+Business Environment
+
+During the ﬁrst two quarters of 2023, sales growth in our Frequency categories (Beauty & Household Essentials and
+Food  &  Beverage)  was  more  than  oﬀset  by  accelerating  decreases  in  our  Discretionary  categories  (Apparel  &
+Accessories, Hardlines, and Home Furnishings & Décor). This trend of decreased Discretionary category sales began
+in 2022. In response to this trend, during 2022 we took actions and employed strategies to align inventories with
+sales trends. These actions, as well as improvements in the supply chain, have resulted in decreased inventory as
+of  July  29,  2023  compared  with  January  28,  2023  and  July  30,  2022.  These  actions  and  improvements  have  also
+resulted  in  a  reduction  in  costs  related  to  managing  elevated  inventory  levels  and  reduced  our  working  capital
+investment.
+
+Along with supply chain improvements, we have experienced a signiﬁcant decrease in freight costs due to a decline
+in  freight  rates  compared  to  2022.  We  have  also  experienced  lower  digital  fulﬁllment  costs  due  to  a  decrease  in
+digital sales and a continued shift by our guests to lower-cost same-day fulﬁllment options.
+
+We continue to experience higher inventory shrink, as a percentage of sales, relative to historical levels — including
+signiﬁcantly higher shrink rates at certain stores. We believe that this trend is pervasive across the retail industry.
+Increased  shrink  has  had,  and  if  current  trends  persist  will  continue  to  have,  an  adverse  impact  on  our  results  of
+operations, including potential impairment of our long-lived assets.
+
+The Gross Margin Rate analysis on page 17 and the Inventory section on page 21 provide additional information.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+14
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+FINANCIAL SUMMARY
+
+Table of Contents
+
+Index to Notes
+
+Analysis of Results of Operations
+
+Summary of Operating Income
+
+(dollars in millions)
+Sales
+Other revenue
+Total revenue
+Cost of sales
+Selling, general and administrative
+
+expenses
+
+Three Months Ended
+July 30,
+July 29,
+2022
+2023
+
+$
+
+24,384  $
+389 
+24,773 
+17,798 
+
+25,653 
+384 
+26,037 
+20,142 
+
+Six Months Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+49,332  $
+763 
+50,095 
+36,184 
+
+50,483 
+724 
+51,207 
+38,603 
+
+Change
+
+(4.9)% $
+1.3 
+(4.9)
+(11.6)
+
+Change
+(2.3)%
+5.5 
+(2.2)
+(6.3)
+
+5,184 
+
+5,002 
+
+3.6 
+
+10,209 
+
+9,764 
+
+4.6 
+
+594 
+1,197  $
+
+572 
+321 
+
+3.9 
+
+273.0 % $
+
+1,177 
+2,525  $
+
+1,173 
+1,667 
+
+0.4 
+51.5 %
+
+Depreciation and amortization
+
+(exclusive of depreciation included
+in cost of sales)
+Operating income
+
+$
+
+Rate Analysis
+
+Gross margin rate
+SG&A expense rate
+Depreciation and amortization expense rate
+
+(exclusive of depreciation included in cost of sales)
+
+Operating income margin rate
+
+Three Months Ended
+
+Six Months Ended
+
+July 29, 2023
+27.0 %
+20.9 
+
+July 30, 2022
+21.5 %
+19.2 
+
+July 29, 2023
+26.7 %
+20.4 
+
+July 30, 2022
+23.5 %
+19.1 
+
+2.4 
+4.8 
+
+2.2 
+1.2 
+
+2.3 
+5.0 
+
+2.3 
+3.3 
+
+Note: Gross margin rate is calculated as gross margin (sales less cost of sales) divided by sales. All other rates are
+calculated by dividing the applicable amount by total revenue.
+
+Sales
+
+Sales  include  all  merchandise  sales,  net  of  expected  returns,  and  our  estimate  of  gift  card  breakage.  We  use
+comparable sales to evaluate the performance of our stores and digital channel sales by measuring the change in
+sales  for  a  period  over  the  comparable  prior-year  period  of  equivalent  length.  Comparable  sales  include  all  sales,
+except sales from stores open less than 13 months, digital acquisitions we have owned less than 13 months, stores
+that have been closed, and digital acquisitions that we no longer operate. Comparable sales measures vary across
+the  retail  industry.  As  a  result,  our  comparable  sales  calculation  is  not  necessarily  comparable  to  similarly  titled
+measures  reported  by  other  companies.  Digitally  originated  sales  include  all  sales  initiated  through  mobile
+applications  and  our  websites.  Our  stores  fulﬁll  the  majority  of  digitally  originated  sales,  including  shipment  from
+stores  to  guests,  store  Order  Pickup  or  Drive  Up,  and  delivery  via  Shipt.  Digitally  originated  sales  may  also  be
+fulﬁlled through our distribution centers, our vendors, or other third parties.
+
+Sales  growth—from  both  comparable  sales  and  new  stores—represents  an  important  driver  of  our  long-term
+proﬁtability.  We  expect  that  comparable  sales  growth  will  drive  the  majority  of  our  total  sales  growth.  We  believe
+that  our  ability  to  successfully  diﬀerentiate  our  guests’  shopping  experience  through  a  careful  combination  of
+merchandise  assortment,  price,  convenience,  guest  experience,  and  other  factors  will,  over  the  long-term,  drive
+both increasing shopping frequency (number of transactions, or "traﬃc") and the amount spent each visit (average
+transaction amount).
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+15
+
+ 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+ANALYSIS OF RESULTS OF OPERATIONS
+
+Table of Contents
+
+Comparable Sales
+
+Three Months Ended
+
+Six Months Ended
+
+Comparable sales change
+Drivers of change in comparable sales
+
+Number of transactions (traﬃc)
+Average transaction amount
+
+July 29, 2023
+(5.4)%
+
+July 30, 2022 July 29, 2023 July 30, 2022
+3.0 %
+
+(2.8)%
+
+2.6 %
+
+(4.8)
+(0.7)
+
+2.7 
+0.0 
+
+(2.0)
+(0.8)
+
+3.3 
+(0.3)
+
+Comparable Sales by Channel
+
+Stores originated comparable sales change
+Digitally originated comparable sales change
+
+Three Months Ended
+
+July 29, 2023
+(4.3)%
+
+(10.5)
+
+July 30, 2022
+1.3 %
+9.0 
+
+Six Months Ended
+July 29, 2023 July 30, 2022
+2.3 %
+6.1 
+
+(1.8)%
+(7.0)
+
+Sales by Channel
+
+Stores originated
+Digitally originated
+Total
+
+Three Months Ended
+
+July 29, 2023
+83.1 %
+16.9 
+100 %
+
+July 30, 2022
+82.1 %
+17.9 
+100 %
+
+Six Months Ended
+July 29, 2023 July 30, 2022
+81.9 %
+18.1 
+100 %
+
+82.8 %
+17.2 
+100 %
+
+Sales by Fulﬁllment Channel
+
+Stores
+Other
+Total
+
+Three Months Ended
+
+July 29, 2023
+97.6 %
+2.4 
+100 %
+
+July 30, 2022
+96.6 %
+3.4 
+100 %
+
+Six Months Ended
+July 29, 2023 July 30, 2022
+96.6 %
+3.4 
+100 %
+
+97.4 %
+2.6 
+100 %
+
+Note:  Sales  fulﬁlled  by  stores  include  in-store  purchases  and  digitally  originated  sales  fulﬁlled  by  shipping
+merchandise from stores to guests, Order Pickup, Drive Up, and Shipt.
+
+Sales by Product Category
+
+Apparel & accessories
+Beauty & household essentials
+Food & beverage
+Hardlines
+Home furnishings & décor
+Total
+
+Three Months Ended
+
+Six Months Ended
+
+July 29, 2023
+17 %
+31 
+22 
+14 
+16 
+100 %
+
+July 30, 2022
+18 %
+28 
+21 
+15 
+18 
+100 %
+
+July 29, 2023
+16 %
+31 
+23 
+14 
+16 
+100 %
+
+July 30, 2022
+18 %
+28 
+21 
+15 
+18 
+100 %
+
+Note  2  to  the  Financial  Statements  provides  additional  product  category  sales  information.  The  collective
+interaction of a broad array of macroeconomic, competitive, and consumer behavioral factors, as well as sales mix
+and the transfer of sales to new stores, makes further analysis of sales metrics infeasible.
+
+We  monitor  the  percentage  of  purchases  that  are  paid  for  using  RedCards  (RedCard  Penetration)  because  our
+internal  analysis  has  indicated  that  a  meaningful  portion  of  the  incremental  purchases  on  RedCards  are  also
+incremental  sales  for  Target.  Guests  receive  a  5  percent  discount  on  virtually  all  purchases  when  they  use  a
+RedCard at Target. For the three months ended July 29, 2023 and July 30, 2022, total RedCard Penetration was 18.6
+percent  and  20.1  percent,  respectively.  For  the  six  months  ended  July  29,  2023  and  July  30,  2022,  total  RedCard
+Penetration was 18.8 percent and 20.2 percent, respectively.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+16
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+ANALYSIS OF RESULTS OF OPERATIONS
+
+Table of Contents
+
+Gross Margin Rate
+
+Quarter-to-Date
+
+Year-to-Date
+
+For the three months ended July 29, 2023, our gross margin rate was 27.0 percent compared with 21.5 percent in
+the comparable prior-year period. For the six months ended July 29, 2023, our gross margin rate was 26.7 percent
+compared with 23.5 percent in the comparable prior-year period. For both the three and six months ended July 29,
+2023, the increase reﬂected the net impact of
+
+• merchandising beneﬁt, including
+
+◦
+
+◦
+◦
+
+lower  clearance  and  promotional  markdown  rates  and  other  costs  compared  with  the  prior-year,
+which included the impact of inventory impairments and other actions;
+lower freight costs; and
+retail price increases;
+
+•
+
+•
+
+lower  digital  fulﬁllment  costs  due  to  a  decrease  in  digital  volume  and  a  shift  by  our  guests  to  lower-cost
+same-day fulﬁllment options; and
+higher inventory shrink.
+
+Business Environment on page 14 provides additional information.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+17
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+ANALYSIS OF RESULTS OF OPERATIONS
+
+Table of Contents
+
+Selling, General, and Administrative Expense Rate
+
+For the three months ended July 29, 2023, our SG&A expense rate was 20.9 percent compared with 19.2 percent
+for  the  comparable  prior-year  period.  For  the  six  months  ended  July  29,  2023,  our  SG&A  expense  rate  was  20.4
+percent compared with 19.1 percent for the comparable prior-year period. The increase reﬂected the deleveraging
+impact  of  lower  sales  and  the  net  impact  of  cost  increases  across  our  business,  including  investments  in  team
+member pay and beneﬁts.
+
+Store Data
+
+Change in Number of Stores
+
+Three Months Ended
+
+Six Months Ended
+
+Beginning store count
+Opened
+Closed
+Ending store count
+
+Number of Stores and
+Retail Square Feet
+
+170,000 or more sq. ft.
+50,000 to 169,999 sq. ft.
+49,999 or less sq. ft.
+Total
+
+July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022
+1,926 
+12 
+(1)
+1,937 
+
+1,954 
+5 
+(4)
+1,955 
+
+1,933 
+5 
+(1)
+1,937 
+
+1,948 
+11 
+(4)
+1,955 
+
+July 29,
+2023
+
+Number of Stores
+January 28,
+2023
+
+July 30,
+2022
+
+274 
+1,534 
+147 
+1,955 
+
+274 
+1,527 
+147 
+1,948 
+
+273 
+1,521 
+143 
+1,937 
+
+Retail Square Feet 
+January 28,
+2023
+
+(a)
+
+July 29, 2023
+48,995 
+191,947 
+4,404 
+245,346 
+
+48,985 
+191,241 
+4,358 
+244,584 
+
+July 30, 2022
+48,798 
+190,734 
+4,256 
+243,788 
+
+(a)
+
+In thousands; reﬂects total square feet less oﬃce, supply chain facilities, and vacant space.
+
+Other Performance Factors
+
+Net Interest Expense
+
+Net  interest  expense  was  $141  million  and  $288  million  for  the  three  and  six  months  ended  July  29,  2023,
+respectively,  compared  with  $112  million  and  $224  million  in  the  respective  comparable  prior-year  periods.  The
+increase  in  net  interest  expense  was  primarily  due  to  higher  average  debt  levels  in  addition  to  higher  ﬂoating
+interest rates for the three and six months ended July 29, 2023 compared with the prior-year periods.
+
+Provision for Income Taxes
+
+Our eﬀective income tax rate for the three and six months ended July 29, 2023 was 22.2 percent and 21.6 percent,
+respectively,  compared  with  15.8  percent  and  18.7  percent  in  the  respective  comparable  prior-year  periods.The
+increase reﬂects higher pretax earnings in the current year, resulting in a smaller tax rate beneﬁt from ongoing and
+discrete tax items.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+18
+
+ 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+
+Table of Contents
+
+Index to Notes
+
+Reconciliation of Non-GAAP Financial Measures to GAAP Measures
+
+To  provide  additional  transparency,  we  have  disclosed  non-GAAP  adjusted  diluted  earnings  per  share  (Adjusted
+EPS). This metric excludes certain items presented below. We believe this information is useful in providing period-
+to-period comparisons of the results of our operations. This measure is not in accordance with, or an alternative to,
+U.S.  GAAP.  The  most  comparable  GAAP  measure  is  diluted  earnings  per  share.  Adjusted  EPS  should  not  be
+considered  in  isolation  or  as  a  substitution  for  analysis  of  our  results  as  reported  in  accordance  with  GAAP.  Other
+companies  may  calculate  Adjusted  EPS  diﬀerently,  limiting  the  usefulness  of  the  measure  for  comparisons  with
+other companies.
+
+Reconciliation of Non-GAAP Adjusted EPS
+
+Three Months Ended
+
+(millions, except per share data)
+GAAP and adjusted diluted earnings per share
+
+July 29, 2023
+
+July 30, 2022
+
+Pretax
+
+Net of
+Tax
+
+Per Share
+1.80 
+$
+
+Pretax
+
+Net of
+Tax
+
+Per Share
+0.39 
+$
+
+Reconciliation of Non-GAAP Adjusted EPS
+
+Six Months Ended
+
+(millions, except per share data)
+GAAP diluted earnings per share
+Adjustments
+
+Other 
+
+(a)
+
+Adjusted diluted earnings per share
+
+July 29, 2023
+
+July 30, 2022
+
+Pretax
+
+Net of
+Tax
+
+Per Share
+3.86 
+$
+
+Pretax
+
+Net of
+Tax
+
+Per Share
+2.55 
+$
+
+$
+
+—  $ —  $
+$
+
+—  $
+
+20  $
+
+3.86 
+
+15  $
+$
+
+0.03 
+2.59 
+
+Note: Amounts may not foot due to rounding.
+(a)
+
+Other items unrelated to current period operations, none of which were individually signiﬁcant.
+
+Earnings  before  interest  expense  and  income  taxes  (EBIT)  and  earnings  before  interest  expense,  income  taxes,
+depreciation,  and  amortization  (EBITDA)  are  non-GAAP  ﬁnancial  measures.  We  believe  these  measures  provide
+meaningful information about our operational eﬃciency compared with our competitors by excluding the impact of
+diﬀerences in tax jurisdictions and structures, debt levels, and, for EBITDA, capital investment. These measures are
+not in accordance with, or an alternative to, GAAP. The most comparable GAAP measure is net earnings. EBIT and
+EBITDA  should  not  be  considered  in  isolation  or  as  a  substitution  for  analysis  of  our  results  as  reported  in
+accordance with GAAP. Other companies may calculate EBIT and EBITDA diﬀerently, limiting the usefulness of the
+measures for comparisons with other companies.
+
+EBIT and EBITDA
+
+(dollars in millions)
+Net earnings
++ Provision for income taxes
++ Net interest expense
+EBIT
++ Total depreciation and
+amortization 
+EBITDA
+
+(a)
+
+Three Months Ended
+July 30,
+July 29,
+2022
+2023
+
+$
+
+$
+
+$
+
+835  $
+237 
+141 
+1,213  $
+
+683 
+1,896  $
+
+183 
+34 
+112 
+329 
+
+650 
+979 
+
+Six Months Ended
+
+July 29,
+2023
+
+July 30,
+2022
+
+Change
+356.5 % $
+591.2 
+26.3 
+
+268.8 % $
+
+1,785  $
+491 
+288 
+2,564  $
+
+5.0 
+
+93.6 % $
+
+1,350 
+3,914  $
+
+1,192 
+274 
+224 
+1,690 
+
+1,329 
+3,019 
+
+Change
+
+49.8 %
+79.4 
+28.7 
+51.8 %
+
+1.5 
+29.6 %
+
+(a)
+
+Represents  total  depreciation  and  amortization,  including  amounts  classiﬁed  within  Depreciation  and
+Amortization and within Cost of Sales.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+19
+
+ 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+
+Table of Contents
+
+Index to Notes
+
+We have also disclosed after-tax ROIC, which is a ratio based on GAAP information, with the exception of the add-
+back of operating lease interest to operating income. We believe this metric is useful in assessing the eﬀectiveness
+of our capital allocation over time. Other companies may calculate ROIC diﬀerently, limiting the usefulness of the
+measure for comparisons with other companies.
+
+After-Tax Return on Invested Capital
+(dollars in millions)
+
+Trailing Twelve Months
+
+Numerator
+Operating income
+ + Net other income
+EBIT
+ + Operating lease interest 
+  - Income taxes 
+Net operating proﬁt after taxes
+
+(b)
+
+(a)
+
+July 29, 2023
+
+4,706  $
+65 
+4,771 
+102 
+986 
+3,887  $
+
+July 30, 2022
+5,773 
+54 
+5,827 
+88 
+1,282 
+4,633 
+
+$
+
+$
+
+Denominator
+Current portion of long-term debt and other borrowings
+ + Noncurrent portion of long-term debt
+ + Shareholders' investment
+ + Operating lease liabilities 
+  - Cash and cash equivalents
+Invested capital
+Average invested capital 
+
+(d)
+
+(c)
+
+July 29, 2023
+1,106 
+14,926 
+11,990 
+3,104 
+1,617 
+29,509 
+28,454 
+
+$
+
+$
+$
+
+July 30, 2022
+1,649 
+13,453 
+10,592 
+2,823 
+1,117 
+27,400 
+25,183 
+
+$
+
+$
+$
+
+$
+
+$
+
+July 31, 2021
+
+1,190 
+11,589 
+14,860 
+2,695 
+7,368 
+22,966 
+
+After-tax return on invested capital
+
+13.7 %
+
+18.4 %
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Represents the add-back to operating income driven by the hypothetical interest expense we would incur if
+the  property  under  our  operating  leases  were  owned  or  accounted  for  as  ﬁnance  leases.  Calculated  using
+the discount rate for each lease and recorded as a component of rent expense within SG&A. Operating lease
+interest  is  added  back  to  operating  income  in  the  ROIC  calculation  to  control  for  diﬀerences  in  capital
+structure between us and our competitors.
+Calculated  using  the  eﬀective  tax  rates,  which  were  20.2  percent  and  21.7  percent  for  the  trailing  twelve
+months  ended  July  29,  2023  and  July  30,  2022,  respectively.  For  the  trailing  twelve  months  ended  July  29,
+2023 and July 30, 2022, includes tax eﬀect of $1.0 billion and $1.3 billion, respectively, related to EBIT and
+$20 million and $19 million, respectively, related to operating lease interest.
+Total  short-term  and  long-term  operating  lease  liabilities  included  within  Accrued  and  Other  Current
+Liabilities and Noncurrent Operating Lease Liabilities, respectively.
+Average based on the invested capital at the end of the current period and the invested capital at the end of
+the comparable prior period.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+20
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+ANALYSIS OF FINANCIAL CONDITION
+
+Table of Contents
+
+Index to Notes
+
+Analysis of Financial Condition
+
+Liquidity and Capital Resources
+
+Capital Allocation
+
+We  follow  a  disciplined  and  balanced  approach  to  capital  allocation  based  on  the  following  priorities,  ranked  in
+order of importance: ﬁrst, we fully invest in opportunities to proﬁtably grow our business, create sustainable long-
+term value, and maintain our current operations and assets; second, we maintain a competitive quarterly dividend
+and seek to grow it annually; and ﬁnally, we return any excess cash to shareholders by repurchasing shares within
+the limits of our credit rating goals.
+
+Our cash and cash equivalents balance was $1.6 billion, $2.2 billion, and $1.1 billion as of July 29, 2023, January 28,
+2023,  and  July  30,  2022,  respectively.  Our  cash  and  cash  equivalents  balance  included  short-term  investments  of
+$739 million, $1.3 billion, and $189 million as of July 29, 2023, January 28, 2023, and July 30, 2022, respectively.
+Our  investment  policy  is  designed  to  preserve  principal  and  liquidity  of  our  short-term  investments.  This  policy
+allows investments in large money market funds or in highly-rated direct short-term instruments that mature in 60
+days or less. We also place dollar limits on our investments in individual funds or instruments.
+
+Operating Cash Flows
+
+Cash ﬂows provided by operating activities were $3.4 billion for the six months ended July 29, 2023, compared with
+$47 million of cash ﬂows required for operating activities for the six months ended July 30, 2022. For the six months
+ended  July  29,  2023,  operating  cash  ﬂows  increased  as  a  result  of  higher  net  earnings  and  an  improvement  in
+working capital, including lower inventory levels, compared with the six months ended July 30, 2022.
+
+Inventory
+
+Inventory was $12.7 billion as of July 29, 2023, compared with $13.5 billion and $15.3 billion at January 28, 2023
+and July 30, 2022, respectively. The decrease from the balance as of July 30, 2022 primarily reﬂects actions taken to
+align  inventory  levels  with  sales  trends  and  improvements  in  the  supply  chain,  including  reduced  in-transit
+inventory.
+
+The Business Environment section on page 14 provides additional information.
+
+Investing Cash Flows
+
+Cash required for investing activities increased to $2.8 billion for the six months ended July 29, 2023, compared to
+$2.5 billion for the six months ended July 30, 2022, due to capital investments.
+
+Dividends
+
+We paid dividends totaling $499 million ($1.08 per share) and $996 million ($2.16 per share) for the three and six
+months ended July 29, 2023, respectively, and $417 million ($0.90 per share) and $841 million ($1.80 per share) for
+the  three  and  six  months  ended  July  30,  2022,  respectively,  a  per  share  increase  of  20.0  percent.  We  declared
+dividends  totaling  $516  million  ($1.10  per  share)  during  the  second  quarter  of  2023  and  $502  million  ($1.08  per
+share)  during  the  second  quarter  of  2022,  a  per  share  increase  of  1.9  percent.  We  have  paid  dividends  every
+quarter since our 1967 initial public oﬀering, and it is our intent to continue to do so in the future.
+
+Share Repurchase
+
+We did not repurchase any shares during the six months ended July 29, 2023. See Part II, Item 2, Unregistered Sales
+of  Equity  Securities  and  Use  of  Proceeds  of  this  Quarterly  Report  on  Form  10-Q  and  Note  8  to  the  Financial
+Statements for more information.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+21
+
+ 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+
+ANALYSIS OF FINANCIAL CONDITION
+
+Table of Contents
+
+Index to Notes
+
+Financing
+
+Our ﬁnancing strategy is to ensure liquidity and access to capital markets, to maintain a balanced spectrum of debt
+maturities, and to manage our net exposure to ﬂoating interest rate volatility. Within these parameters, we seek to
+minimize our borrowing costs. Our ability to access the long-term debt and commercial paper markets has provided
+us  with  ample  sources  of  liquidity.  Our  continued  access  to  these  markets  depends  on  multiple  factors,  including
+the  condition  of  debt  capital  markets,  our  operating  performance,  and  maintaining  strong  credit  ratings.  As  of
+July 29, 2023, our credit ratings were as follows:
+
+Credit Ratings
+Long-term debt
+Commercial paper
+
+Moody’s
+A2
+P-1
+
+Standard and Poor’s
+A
+A-1
+
+Fitch
+A
+F1
+
+If our credit ratings were lowered, our ability to access the debt markets, our cost of funds, and other terms for new
+debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically, and
+there is no guarantee our current credit ratings will remain the same as described above.
+
+We  have  the  ability  to  obtain  short-term  ﬁnancing  from  time  to  time  under  our  commercial  paper  program  and
+credit  facilities.  Our  committed  $1.0  billion  364-day  and  $3.0  billion  unsecured  revolving  credit  facilities  that  will
+expire in October 2023 and October 2027, respectively, backstop our commercial paper program. No balances were
+outstanding under either credit facility at any time during 2023 or 2022. We did not have any balances outstanding
+under our commercial paper program as of July 29, 2023, and we had $1.5 billion outstanding as of July 30, 2022.
+Note 6 to the Financial Statements provides additional information.
+
+Most  of  our  long-term  debt  obligations  contain  covenants  related  to  secured  debt  levels.  In  addition  to  a  secured
+debt  level  covenant,  our  credit  facilities  also  contain  a  debt  leverage  covenant.  We  are,  and  expect  to  remain,  in
+compliance  with  these  covenants.  Additionally,  as  of  July  29,  2023,  no  notes  or  debentures  contained  provisions
+requiring acceleration of payment upon a credit rating downgrade, except that certain outstanding notes allow the
+note holders to put the notes to us if within a matter of months of each other we experience both (i) a change in
+control and (ii) our long-term credit ratings are either reduced and the resulting rating is non-investment grade, or
+our long-term credit ratings are placed on watch for possible reduction and those ratings are subsequently reduced
+and the resulting rating is non-investment grade.
+
+We  believe  our  sources  of  liquidity,  namely  operating  cash  ﬂows,  credit  facility  capacity,  and  access  to  capital
+markets,  will  continue  to  be  adequate  to  meet  our  contractual  obligations,  working  capital  and  planned  capital
+expenditures,  ﬁnance  anticipated  expansion  and  strategic  initiatives,  fund  debt  maturities,  pay  dividends,  and
+execute purchases under our share repurchase program for the foreseeable future.
+
+New Accounting Pronouncements
+
+We  do  not  expect  any  recently  issued  accounting  pronouncements  to  have  a  material  eﬀect  on  our  ﬁnancial
+statements.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+22
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS & SUPPLEMENTAL INFORMATION
+
+FORWARD LOOKING STATEMENTS & CONTROLS AND PROCEDURES
+
+Table of Contents
+
+Index to Notes
+
+Forward-Looking Statements
+
+This  report  contains  forward-looking  statements,  which  are  based  on  our  current  assumptions  and  expectations.
+These  statements  are  typically  accompanied  by  the  words  “expect,”  “may,”  “could,”  “believe,”  “would,”  “might,”
+“anticipates,”  or  similar  words.  The  principal  forward-looking  statements  in  this  report  include:  our  ﬁnancial
+performance, statements regarding the adequacy of and costs associated with our sources of liquidity, the funding
+of  debt  maturities,  the  execution  of  our  share  repurchase  program,  our  expected  capital  expenditures  and  new
+lease  commitments,  the  expected  compliance  with  debt  covenants,  the  expected  impact  of  new  accounting
+pronouncements,  our  intentions  regarding  future  dividends,  the  expected  return  on  plan  assets,  the  expected
+outcome of, and adequacy of our reserves for, claims, litigation, and the resolution of tax matters, and changes in
+our assumptions and expectations.
+
+All  such  forward-looking  statements  are  intended  to  enjoy  the  protection  of  the  safe  harbor  for  forward-looking
+statements  contained  in  the  Private  Securities  Litigation  Reform  Act  of  1995,  as  amended.  Although  we  believe
+there is a reasonable basis for the forward-looking statements, our actual results could be materially diﬀerent. The
+most important factors which could cause our actual results to diﬀer from our forward-looking statements are set
+forth in our description of risk factors included in Part I, Item 1A, Risk Factors of our Form 10-K for the ﬁscal year
+ended  January  28,  2023,  which  should  be  read  in  conjunction  with  the  forward-looking  statements  in  this  report.
+Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to
+update any forward-looking statement.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+There  have  been  no  material  changes  in  our  primary  risk  exposures  or  management  of  market  risks  from  those
+disclosed  in  Part  II,  Item  7A,  Quantitative  and  Qualitative  Disclosures  About  Market  Risk  of  our  Form  10-K  for  the
+ﬁscal year ended January 28, 2023.
+
+Item 4. Controls and Procedures
+
+Changes in Internal Control Over Financial Reporting
+
+During  the  most  recently  completed  ﬁscal  quarter,  there  were  no  changes  which  materially  aﬀected,  or  are
+reasonably likely to materially aﬀect, our internal control over ﬁnancial reporting.
+
+Evaluation of Disclosure Controls and Procedures
+
+As  of  the  end  of  the  period  covered  by  this  quarterly  report,  we  conducted  an  evaluation,  under  supervision  and
+with  the  participation  of  management,  including  the  chief  executive  oﬃcer  and  chief  ﬁnancial  oﬃcer,  of  the
+eﬀectiveness of the design and operation of our disclosure controls and procedures pursuant to Rules 13a-15 and
+15d-15 of the Securities Exchange Act of 1934, as amended (Exchange Act). Based upon that evaluation, our chief
+executive oﬃcer and chief ﬁnancial oﬃcer concluded that our disclosure controls and procedures are eﬀective at a
+reasonable assurance level. Disclosure controls and procedures are deﬁned by Rules 13a-15(e) and 15d-15(e) of the
+Exchange  Act  as  controls  and  other  procedures  that  are  designed  to  ensure  that  information  required  to  be
+disclosed  by  us  in  reports  ﬁled  with  the  SEC  under  the  Exchange  Act  is  recorded,  processed,  summarized,  and
+reported within the time periods speciﬁed in the SEC’s rules and forms. Disclosure controls and procedures include,
+without  limitation,  controls  and  procedures  designed  to  ensure  that  information  required  to  be  disclosed  by  us  in
+reports  ﬁled  under  the  Exchange  Act  is  accumulated  and  communicated  to  our  management,  including  our
+principal executive and principal ﬁnancial oﬃcers, or persons performing similar functions, as appropriate, to allow
+timely decisions regarding required disclosure.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+23
+
+SUPPLEMENTAL INFORMATION
+
+Table of Contents
+
+Index to Notes
+
+PART II. OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+For the quarterly period ended July 29, 2023, no response is required under Item 103 of Regulation S-K, nor have
+there been any material developments for any previously reported legal proceedings.
+
+Item 1A. Risk Factors
+
+There have been no material changes to the risk factors described in Part I, Item 1A, Risk Factors of our Form 10-K
+for the ﬁscal year ended January 28, 2023.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+
+On  August  11,  2021,  our  Board  of  Directors  authorized  a  $15  billion  share  repurchase  program  with  no  stated
+expiration. Under the program, we have repurchased 23.8 million shares of common stock at an average price of
+$223.52,  for  a  total  investment  of  $5.3  billion.  As  of  July  29,  2023,  the  dollar  value  of  shares  that  may  yet  be
+purchased under the program is $9.7 billion. There were no Target common stock purchases made during the three
+months ended July 29, 2023 by Target or any "aﬃliated purchaser" of Target, as deﬁned in Rule 10b-18(a)(3) under
+the Exchange Act.
+
+Item 3. Defaults Upon Senior Securities
+
+Not applicable.
+
+Item 4. Mine Safety Disclosures
+
+Not applicable.
+
+Item 5. Other Information
+
+On May 31, 2023, Brian C. Cornell, Target’s Chair of the Board and Chief Executive Oﬃcer, terminated a written
+plan for the sale of Target common stock that was intended to satisfy the aﬃrmative defense conditions of Rule
+10b5-1(c) under the Exchange Act as they existed at the time of adoption. This written plan was adopted on
+December 2, 2022, was scheduled to expire on August 18, 2023, and provided for the sale of 105,000 shares of
+Target common stock in the aggregate. 35,000 shares of Target common stock were sold pursuant to the written
+plan prior to its termination.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+24
+
+SUPPLEMENTAL INFORMATION
+
+Table of Contents
+
+Index to Notes
+
+Item 6. Exhibits
+
+3.1
+
+3.2
+
+31.1 **
+
+31.2 **
+
+Amended and Restated Articles of Incorporation of Target Corporation (as amended through June
+9, 2010) (ﬁled as Exhibit (3)A to Target's Current Report on Form 8-K on June 10, 2010 and
+incorporated herein by reference).
+Bylaws of Target Corporation (as amended and restated through January 11, 2023) (ﬁled as Exhibit
+3.2 to Target's Current Report on Form 8-K on January 12, 2023 and incorporated herein by
+reference).
+Certiﬁcation of the Chief Executive Oﬃcer Pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002
+Certiﬁcation of the Chief Financial Oﬃcer Pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002
+
+32.1 *** Certiﬁcation of the Chief Executive Oﬃcer Pursuant to 18 U.S.C. Section 1350, As Adopted
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+32.2 *** Certiﬁcation of the Chief Financial Oﬃcer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant
+
+101.INS **
+101.SCH **
+101.CAL **
+101.DEF **
+101.LAB **
+101.PRE **
+104 **
+
+to Section 906 of the Sarbanes-Oxley Act of 2002
+Inline XBRL Instance Document
+Inline XBRL Taxonomy Extension Schema Document
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+Inline XBRL Taxonomy Extension Deﬁnition Linkbase Document
+Inline XBRL Taxonomy Extension Label Linkbase Document
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+
+**
+***
+
+Filed herewith.
+
+Furnished herewith.
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+25
+
+    
+    
+    
+SUPPLEMENTAL INFORMATION
+
+SIGNATURES
+
+Table of Contents
+
+Index to Notes
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned thereunto duly authorized.
+
+TARGET CORPORATION
+
+Dated: August 25, 2023
+
+By:
+
+ /s/ Michael J. Fiddelke
+Michael J. Fiddelke
+Executive Vice President and
+Chief Financial Oﬃcer
+(Duly Authorized Oﬃcer and
+Principal Financial Oﬃcer)
+
+/s/ Matthew A. Liegel
+Matthew A. Liegel
+Senior Vice President, Chief Accounting Oﬃcer
+and Controller
+
+TARGET CORPORATION
+
+Q2 2023 Form 10-Q
+
+26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit 31.1
+
+CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certiﬁcations
+
+I, Brian C. Cornell, certify that:
+
+1.
+2.
+
+3.
+
+4.
+
+I have reviewed this Quarterly Report on Form 10-Q of Target Corporation;
+Based  on  my  knowledge,  this  report  does  not  contain  any  untrue  statement  of  a  material  fact  or  omit  to
+state  a  material  fact  necessary  to  make  the  statements  made,  in  light  of  the  circumstances  under  which
+such statements were made, not misleading with respect to the period covered by this report;
+Based  on  my  knowledge,  the  ﬁnancial  statements,  and  other  ﬁnancial  information  included  in  this  report,
+fairly  present  in  all  material  respects  the  ﬁnancial  condition,  results  of  operations  and  cash  ﬂows  of  the
+registrant as of, and for, the periods presented in this report;
+The  registrant’s  other  certifying  oﬃcer  and  I  are  responsible  for  establishing  and  maintaining  disclosure
+controls  and  procedures  (as  deﬁned  in  Exchange  Act  Rules  13a-15(e)  and  15d-15(e))  and  internal  control
+over  ﬁnancial  reporting  (as  deﬁned  in  Exchange  Act  Rules  13a-15(f)  and  15d-15(f))  for  the  registrant  and
+have:
+
+a. designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant,
+including  its  consolidated  subsidiaries,  is  made  known  to  us  by  others  within  those  entities,
+particularly during the period in which this report is being prepared;
+
+b. designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance  regarding  the
+reliability  of  ﬁnancial  reporting  and  the  preparation  of  ﬁnancial  statements  for  external  purposes  in
+accordance with generally accepted accounting principles;
+
+c. evaluated  the  eﬀectiveness  of  the  registrant’s  disclosure  controls  and  procedures  and  presented  in
+this  report  our  conclusions  about  the  eﬀectiveness  of  the  disclosure  controls  and  procedures,  as  of
+the end of the period covered by this report based on such evaluation; and
+
+d. disclosed  in  this  report  any  change  in  the  registrant’s  internal  control  over  ﬁnancial  reporting  that
+occurred during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the
+case of an annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the
+registrant’s internal control over ﬁnancial reporting; and
+
+5.
+
+The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board
+of directors (or persons performing the equivalent functions):
+
+a. all signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+ﬁnancial  reporting  which  are  reasonably  likely  to  adversely  aﬀect  the  registrant’s  ability  to  record,
+process, summarize and report ﬁnancial information; and
+
+b. any  fraud,  whether  or  not  material,  that  involves  management  or  other  employees  who  have  a
+
+signiﬁcant role in the registrant’s internal control over ﬁnancial reporting.
+
+Dated: August 25, 2023
+
+/s/ Brian C. Cornell
+Brian C. Cornell
+Chair of the Board and Chief Executive Oﬃcer
+
+ 
+ 
+ 
+ 
+Exhibit 31.2
+
+CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certiﬁcations
+
+I, Michael J. Fiddelke, certify that:
+
+1.
+2.
+
+3.
+
+4.
+
+I have reviewed this Quarterly Report on Form 10-Q of Target Corporation;
+Based  on  my  knowledge,  this  report  does  not  contain  any  untrue  statement  of  a  material  fact  or  omit  to
+state  a  material  fact  necessary  to  make  the  statements  made,  in  light  of  the  circumstances  under  which
+such statements were made, not misleading with respect to the period covered by this report;
+Based  on  my  knowledge,  the  ﬁnancial  statements,  and  other  ﬁnancial  information  included  in  this  report,
+fairly  present  in  all  material  respects  the  ﬁnancial  condition,  results  of  operations  and  cash  ﬂows  of  the
+registrant as of, and for, the periods presented in this report;
+The  registrant’s  other  certifying  oﬃcer  and  I  are  responsible  for  establishing  and  maintaining  disclosure
+controls  and  procedures  (as  deﬁned  in  Exchange  Act  Rules  13a-15(e)  and  15d-15(e))  and  internal  control
+over  ﬁnancial  reporting  (as  deﬁned  in  Exchange  Act  Rules  13a-15(f)  and  15d-15(f))  for  the  registrant  and
+have:
+
+a. designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant,
+including  its  consolidated  subsidiaries,  is  made  known  to  us  by  others  within  those  entities,
+particularly during the period in which this report is being prepared;
+
+b. designed such internal control over ﬁnancial reporting, or caused such internal control over ﬁnancial
+reporting  to  be  designed  under  our  supervision,  to  provide  reasonable  assurance  regarding  the
+reliability  of  ﬁnancial  reporting  and  the  preparation  of  ﬁnancial  statements  for  external  purposes  in
+accordance with generally accepted accounting principles;
+
+c. evaluated  the  eﬀectiveness  of  the  registrant’s  disclosure  controls  and  procedures  and  presented  in
+this  report  our  conclusions  about  the  eﬀectiveness  of  the  disclosure  controls  and  procedures,  as  of
+the end of the period covered by this report based on such evaluation; and
+
+d. disclosed  in  this  report  any  change  in  the  registrant’s  internal  control  over  ﬁnancial  reporting  that
+occurred during the registrant’s most recent ﬁscal quarter (the registrant’s fourth ﬁscal quarter in the
+case of an annual report) that has materially aﬀected, or is reasonably likely to materially aﬀect, the
+registrant’s internal control over ﬁnancial reporting; and
+
+5.
+
+The registrant’s other certifying oﬃcer and I have disclosed, based on our most recent evaluation of internal
+control over ﬁnancial reporting, to the registrant’s auditors and the audit committee of the registrant’s board
+of directors (or persons performing the equivalent functions):
+
+a. all signiﬁcant deﬁciencies and material weaknesses in the design or operation of internal control over
+ﬁnancial  reporting  which  are  reasonably  likely  to  adversely  aﬀect  the  registrant’s  ability  to  record,
+process, summarize and report ﬁnancial information; and
+
+b. any  fraud,  whether  or  not  material,  that  involves  management  or  other  employees  who  have  a
+
+signiﬁcant role in the registrant’s internal control over ﬁnancial reporting.
+
+Dated: August 25, 2023
+
+/s/ Michael J. Fiddelke
+Michael J. Fiddelke
+Executive Vice President and Chief Financial Oﬃcer
+
+ 
+ 
+ 
+ 
+Exhibit 32.1
+
+CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED
+PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In  connection  with  the  Quarterly  Report  on  Form  10-Q  of  Target  Corporation,  a  Minnesota  corporation  (“the
+Company”), for the quarter ended July 29, 2023, as ﬁled with the Securities and Exchange Commission on the date
+hereof  (“the  Report”),  the  undersigned  oﬃcer  of  the  Company  certiﬁes  pursuant  to  18  U.S.C.  Section  1350,  as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the oﬃcer's knowledge:
+
+1.
+
+2.
+
+the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of
+1934; and
+
+the information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+results of operations of the Company.
+
+Dated: August 25, 2023
+
+/s/ Brian C. Cornell
+Brian C. Cornell
+Chair of the Board and Chief Executive Oﬃcer
+
+ 
+ 
+ 
+ 
+ 
+Exhibit 32.2
+
+CERTIFICATION OF THE CHIEF FINANCIAL OFFICER
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED
+PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In  connection  with  the  Quarterly  Report  on  Form  10-Q  of  Target  Corporation,  a  Minnesota  corporation  (“the
+Company”), for the quarter ended July 29, 2023, as ﬁled with the Securities and Exchange Commission on the date
+hereof  (“the  Report”),  the  undersigned  oﬃcer  of  the  Company  certiﬁes  pursuant  to  18  U.S.C.  Section  1350,  as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the oﬃcer's knowledge:
+
+1.
+
+2.
+
+the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of
+1934; and
+
+the information contained in the Report fairly presents, in all material respects, the ﬁnancial condition and
+results of operations of the Company.
+
+Dated: August 25, 2023
+
+/s/ Michael J. Fiddelke
+Michael J. Fiddelke
+Executive Vice President and Chief Financial Oﬃcer
+
+ 
+ 
+ 
+ 
+

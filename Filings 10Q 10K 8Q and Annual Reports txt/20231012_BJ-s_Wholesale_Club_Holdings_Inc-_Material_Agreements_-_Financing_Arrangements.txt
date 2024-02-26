@@ -1,0 +1,1456 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM 8-K
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of report (Date of earliest event reported) October 12, 2023
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+(Exact name of registrant as speciﬁed in its charter)
+
+Delaware
+(State or other jurisdiction
+of incorporation)
+
+350 Campus Drive,
+Marlborough, MA
+(Address of principal executive
+oﬃces)
+
+001-38559
+(Commission
+File Number)
+
+45-2936287
+(IRS Employer
+Identiﬁcation No.) 
+
+01752
+
+(Zip Code)
+
+(774) 512-7400
+(Registrant’s telephone number, including
+area code)
+
+N/A
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K ﬁling is intended to simultaneously satisfy the ﬁling obligations of
+the registrant under any of the following provisions:
+
+¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+
+Trading symbol(s)
+
+Name of each exchange on which registered
+
+Common Stock, par value $0.01
+
+BJ
+
+New York Stock Exchange
+
+Indicate  by  check  mark  whether  the  registrant  is  an  emerging  growth  company  as  deﬁned  in  Rule  405  of  the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+
+If  an  emerging  growth  company,  indicate  by  check  mark  if  the  registrant  has  elected  not  to  use  the  extended
+transition period for complying with any new or revised ﬁnancial accounting standards provided pursuant to Section
+13(a) of the Exchange Act. ¨
+
+Emerging growth company ¨
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.01.
+
+Entry into a Material Deﬁnitive Agreement.
+
+On  October  12,  2023  (the  “Fourth  Amendment  Eﬀective  Date”),  BJ’s  Wholesale  Club  Holdings,  Inc.  (the
+“Company”), BJ’s Wholesale Club, Inc. and certain other subsidiaries of the Company entered into an amendment
+(the “Fourth Amendment”) to the First Lien Term Loan Credit Agreement (as deﬁned below), with Nomura Corporate
+Funding Americas, LLC, as administrative agent and collateral agent, and the lenders party thereto, which amends
+that  certain  First  Lien  Term  Loan  Credit  Agreement,  dated  as  of  February  3,  2017  (as  amended  by  that  certain
+Reﬁnancing  Amendment  to  First  Lien  Term  Loan  Credit  Agreement,  dated  as  of  August  13,  2018,  that  certain
+Second Reﬁnancing Amendment to First Lien Term Loan Credit Agreement, dated as of January 29, 2020, and that
+certain  Third  Amendment  to  First  Lien  Term  Loan  Credit  Agreement,  dated  as  of  January  5,  2023,  the  “First  Lien
+Term Loan Credit Agreement”). Deutsche Bank Securities Inc. acted as the left lead arranger and bookrunner, and
+Nomura  Securities  International,  Inc.,  BofA  Securities,  Inc.  and  Wells  Fargo  Securities  LLC  acted  as  joint  lead
+arrangers and joint bookrunners.
+
+The  Fourth  Amendment,  among  other  things,  provides  for  a  new  tranche  of  term  loans  in  an  aggregate
+principal  amount  of  $400,000,000  (the  “2023  Term  Loans”),  which  reﬁnances  and  replaces  in  full  the  existing
+Tranche  B  Term  Loans  outstanding  under  the  First  Lien  Term  Loan  Credit  Agreement  immediately  prior  to  the
+eﬀectiveness  of  the  Fourth  Amendment  (which  outstanding  principal  amount  reﬂects  the  Company’s  previous
+repayment  of  a  portion  of  the  principal  amount  of  the  existing  Tranche  B  Term  Loans  outstanding  under  the  First
+Lien Term Loan Credit Agreement on October 6, 2023 in an amount equal to $50,000,000). In addition, the Fourth
+Amendment  reduces  applicable  margin  in  respect  of  the  interest  rate,  upon  the  eﬀectiveness  of  the  Fourth
+Amendment,  from  Secured  Overnight  Financing  Rate  (“SOFR”)  plus  2.75%  per  annum  to  SOFR  plus  2.00%  per
+annum,  and  the  maturity  date  of  the  2023  Term  Loans  has  been  extended  from  February  3,  2027  to  February  3,
+2029.
+
+Certain of the lenders and their aﬃliates have provided, and they and other lenders and their aﬃliates may
+in the future provide, various commercial banking and/or other services in the ordinary course of business for the
+Company  and  its  subsidiaries  from  time  to  time  for  which  they  have  received,  and  may  in  the  future  receive,
+customary fees and expenses.
+
+The  foregoing  summary  of  the  Fourth  Amendment  does  not  purport  to  be  complete  and  is  qualiﬁed  in  its
+entirety  by  reference  to  the  full  text  of  such  document,  which  is  ﬁled  as  Exhibit  10.1  to  this  Current  Report  on
+Form 8-K and is incorporated herein by reference.
+
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation under an Oﬀ-Balance Sheet
+
+Arrangement of a Registrant.
+
+The information provided in Item 1.01 of this Current Report on Form 8-K is incorporated by reference into
+
+this Item 2.03.
+
+Item 9.01
+
+Financial Statement and Exhibits.
+
+(d)            Exhibits
+
+Exhibit No.
+
+Description
+
+10.1*
+
+Fourth  Amendment  to  First  Lien  Term  Loan  Credit  Agreement,  dated  as  of  October  12,  2023,
+by  and  among  BJ’s  Wholesale  Club,  Inc.,  as  the  borrower,  the  Company,  certain  other
+subsidiaries  of  the  Company  party  thereto,  Nomura  Corporate  Funding  Americas,  LLC,  as
+administrative agent and collateral agent, and the lenders party thereto from time to time.
+
+104
+
+Cover Page Interactive Data (embedded within the Inline XBRL document)
+
+* Schedules to this Exhibit have been omitted in accordance with Item 601 of Regulation S-K. The Company agrees
+to  furnish  supplementally  a  copy  of  all  omitted  schedules  to  the  U.S.  Securities  and  Exchange  Commission  or  its
+staﬀ upon request.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pursuant  to  the  requirements  of  the  Securities  Exchange  Act  of  1934,  the  registrant  has  duly  caused  this
+
+report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+Date: October 12, 2023
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+SIGNATURES
+
+/s/ Graham N. Luce
+
+By:
+Name:Graham N. Luce
+Title: Executive Vice President, Secretary
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Exhibit 10.1
+
+Execution Version
+
+FOURTH  AMENDMENT  TO  FIRST  LIEN  TERM  LOAN  CREDIT  AGREEMENT,  dated  as  of  October  12,  2023  (this
+“Reﬁnancing  Amendment”),  by  and  among  BJ’s  Wholesale  Club,  Inc.,  as  the  Borrower  (the  “Borrower”),  BJ’s
+Wholesale Club Holdings, Inc. (formerly known as Beacon Holding Inc.), as Holdings (“Holdings”), each of the other
+Loan Parties that are party hereto, Nomura Corporate Funding Americas, LLC (“Nomura”), as Administrative Agent
+and  Collateral  Agent  (in  such  capacities,  the  “Administrative  Agent”),  each  Lender  party  hereto  with  2023  Other
+Term Commitments (as deﬁned below) (the “2023 Other Term Lenders”) and each other Lender party hereto. The
+left  lead  arranger  and  bookrunner  for  this  Reﬁnancing  Amendment  is  Deutsche  Bank  Securities  Inc.  (in  such
+capacities, the “Reﬁnancing Amendment Left Lead Arranger”).
+
+WHEREAS,  the  Borrower,  Holdings,  the  Lenders  party  thereto  and  the  Administrative  Agent  are  parties  to
+that certain First Lien Term Loan Credit Agreement, dated as of February 3, 2017 (as amended, restated, amended
+and restated, supplemented and/or otherwise modiﬁed through the date hereof, the “Credit Agreement”), pursuant
+to which such Lenders have extended credit to the Borrower;
+
+WHEREAS, pursuant to Section 2.19 of the Credit Agreement, the Borrower has requested to reﬁnance and
+replace  all  existing  Tranche  B  Term  Loans  incurred  prior  to  the  date  hereof  and  outstanding  on  the  Fourth
+Amendment  Eﬀective  Date  (as  deﬁned  below)  but  immediately  prior  to  the  eﬀectiveness  of  this  Reﬁnancing
+Amendment (such Term Loans, the “Existing Term Loans” and the Lenders holding such Term Loans, the “Existing
+Term Lenders”) with the proceeds of the 2023 Other Term Loans (as deﬁned below);
+
+WHEREAS, in accordance with the provisions of Section 2.19 of the Credit Agreement and the terms herein
+and  subject  only  to  the  conditions  set  forth  in  Section  5  below,  the  Borrower,  Holdings,  each  of  the  other  Loan
+Parties  that  are  party  hereto,  the  2023  Other  Term  Lenders  and  the  Administrative  Agent  wish  to  enter  into  and
+eﬀect this Reﬁnancing Amendment with respect to the Borrower’s request above; and
+
+WHEREAS, the Lenders party hereto wish to amend certain provisions of the Credit Agreement as hereinafter
+
+provided, on the terms, and subject only to the conditions in Section 5, set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable
+consideration,  the  suﬃciency  and  receipt  of  which  are  hereby  acknowledged,  the  parties  hereto  hereby  agree  as
+follows:
+
+SECTION  1          Deﬁned  Terms.  Capitalized  terms  used  but  not  deﬁned  herein  shall  have  the  meanings
+assigned to such terms in the Credit Agreement. Sections 1.02 through 1.08 (inclusive) of the Credit Agreement are
+hereby incorporated by reference, mutatis mutandis.
+
+SECTION 2           Term Loan Reﬁnancing Amendment.
+
+(a)            As used herein:
+
+(i)              “2023 Other Term Commitment” means, with respect to each 2023 Other Term Lender,
+the  commitment  of  such  Lender  to  make  2023  Other  Term  Loans  as  set  forth  on  Schedule  2.01  hereto.  On  the
+Fourth Amendment Eﬀective Date, the aggregate amount of 2023 Other Term Commitments is $400,000,000.00.
+
+includes, for the avoidance of doubt, the New 2023 Other Term Lender (as deﬁned below).
+
+(ii)             “2023  Other  Term  Lenders”  has  the  meaning  set  forth  in  the  recitals  hereof  and
+
+(iii)            “2023 Other Term Loans” means the term loans made to the Borrower on the Fourth
+Amendment  Eﬀective  Date  in  accordance  with  Section  2(c)  hereof.  On  the  Fourth  Amendment  Eﬀective  Date
+(immediately after giving eﬀect to this Reﬁnancing Amendment and the Prepayment and subject to the funding in
+full of the 2023 Other Term Loans), the aggregate outstanding principal amount of the 2023 Other Term Loans shall
+be $400,000,000.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(iv)            “Amended  Credit  Agreement”  means  the  Credit  Agreement  as  amended  hereby  and
+as the same may be further amended, amended and restated, supplemented and/or otherwise modiﬁed from time
+to time in accordance with the terms thereof.
+
+(v)             “Conversion  Amount”  means  as  to  any  Converting  Lender,  the  ﬁnal  amount  of  such
+Converting Lender’s 2023 Other Term Commitment on the Fourth Amendment Eﬀective Date. For the avoidance of
+doubt, the Conversion Amount of any Converting Lender shall not exceed (but may be less than) the outstanding
+principal  amount  of  such  Converting  Lender’s  Existing  Term  Loans  (after  giving  eﬀect  to  the  Prepayment).    The
+Conversion Amount will be determined by the Reﬁnancing Amendment Left Lead Arranger in consultation with the
+Borrower  and  all  such  determinations  (absent  manifest  error)  shall  be  ﬁnal,  conclusive  and  binding  on  the
+Administrative  Agent,  the  Borrower,  the  Lenders  and  the  other  Secured  Parties,  and  none  of  the  Administrative
+Agent,  the  Reﬁnancing  Amendment  Left  Lead  Arranger  or  the  Borrower  (or  any  of  their  respective  Aﬃliates)  shall
+have any liability to any Person with respect to any such determination.
+
+(vi)            “Converting  Lenders”  means  each  Existing  Term  Lender  that  (a)  executes  this
+Reﬁnancing Amendment by selecting boxes A and B on the Lender Election Form submitted by such Existing Term
+Lender  in  connection  with  this  Reﬁnancing  Amendment  on  or  prior  to  the  Fourth  Amendment  Eﬀective  Date  and
+attached hereto and (b) has a 2023 Other Term Commitment.
+
+Lender.
+
+(vii)           “Non-Converting Lenders” means each Existing Term Lender that is not a Converting
+
+(viii)          “Non-Converting  Portion”  means,  with  respect  to  any  Converting  Lender  whose
+Conversion  Amount  is  less  than  the  outstanding  principal  amount  of  its  Existing  Term  Loans  on  the  Fourth
+Amendment  Eﬀective  Date  (after  giving  eﬀect  to  the  Prepayment),  the  excess  (if  any)  of  the  aggregate  principal
+amount of such Converting Lender’s Existing Term Loans over its 2023 Other Term Commitment. For the avoidance
+of doubt, if there is no such excess, the Non-Converting Portion with respect to such Converting Lender will be zero.
+The Non-Converting Portion will be determined by the Reﬁnancing Amendment Left Lead Arranger in consultation
+with the Borrower and all such determinations (absent manifest error) shall be ﬁnal, conclusive and binding on the
+Administrative  Agent,  the  Borrower,  the  Lenders  and  the  other  Secured  Parties,  and  none  of  the  Administrative
+Agent,  the  Reﬁnancing  Amendment  Left  Lead  Arranger  or  the  Borrower  (or  any  of  their  respective  Aﬃliates)  shall
+have any liability to any Person with respect to any such determination.
+
+(b)            For  the  avoidance  of  doubt,  (i)  this  Reﬁnancing  Amendment  constitutes  a  “Reﬁnancing
+Amendment”  pursuant  to  which  a  new  Term  Facility  and  Class  of  Other  Term  Loans  is  established  pursuant  to
+Section  2.19  of  the  Credit  Agreement  and  (ii)  from  and  after  the  Fourth  Amendment  Eﬀective  Date  and  upon
+funding by the 2023 Other Term Lenders of the 2023 Other Term Loans in full to the Borrower, (A) each reference to
+“Tranche  B  Term  Loan”  in  the  Credit  Agreement  (as  amended  pursuant  to  Section  3  hereof)  and  the  other  Loan
+Documents  shall  be  deemed  to  refer  to,  and  constitute,  the  2023  Other  Term  Loans  (or  a  Borrowing  thereof,  as
+appropriate)  established  pursuant  to  this  Reﬁnancing  Amendment,  (B)  each  2023  Other  Term  Lender  shall
+constitute  a  “Lender”  and  a  “Tranche  B  Term  Loan  Lender”  as  deﬁned  in  the  Credit  Agreement  (as  amended
+pursuant to Section 3 hereof), (C) each reference to a “Tranche B Term Loan Commitment” in the Credit Agreement
+(as  amended  pursuant  to  Section  3  hereof)  shall  be  deemed  to  refer  to,  and  constitute,  a  2023  Other  Term
+Commitment,  and  (D)  each  reference  to  “Tranche  B  Term  Loan  Facility”  in  the  Credit  Agreement  (as  amended
+pursuant to Section 3 hereof) and the other Loan Documents shall be deemed to refer to, and constitute, the Term
+Facility consisting of 2023 Other Term Loans established pursuant to this Reﬁnancing Amendment.
+
+2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+occurrence of the Fourth Amendment Eﬀective Date),
+
+(c)            On  the  terms,  and  subject  only  to  the  conditions  set  forth  in  Section  5  hereof  (including  the
+
+(i)             Deutsche  Bank  AG  New  York  Branch  (in  such  capacity,  the  “New  2023  Other  Term
+Lender”)  will  make  an  Other  Term  Loan  to  the  Borrower  (the  “New  2023  Other  Term  Loan”)  in  a  principal  amount
+equal to its 2023 Other Term Commitment on the Fourth Amendment Eﬀective Date; and
+
+(ii)            each  2023  Other  Term  Lender  (other  than  Deutsche  Bank  AG  New  York  Branch)  will
+make Other Term Loans to the Borrower on the Fourth Amendment Eﬀective Date in a principal amount equal to its
+2023 Other Term Commitment on the Fourth Amendment Eﬀective Date (it being understood and agreed that each
+Other Term Loan made pursuant to this clause (ii) shall be made pursuant to a “cashless roll”).
+
+(d)            The Reﬁnancing Amendment Left Lead Arranger has notiﬁed each 2023 Other Term Lender of
+its 2023 Other Term Commitment and each 2023 Other Term Lender, by providing its executed counterpart (which,
+other than with respect to the New 2023 Other Term Lender, shall be in the form of such 2023 Other Term Lender’s
+executed Lender Election Form) to this Reﬁnancing Amendment to the Reﬁnancing Amendment Left Lead Arranger,
+(x)  agrees  to  (1)  its  2023  Other  Term  Commitment  and/or  (2)  the  Term  Loan  Conversion  (as  deﬁned  below),  as
+applicable, and (y) consents to the terms of this Reﬁnancing Amendment, the Credit Agreement (after giving eﬀect
+to this Reﬁnancing Amendment) and the other Loan Documents.
+
+giving eﬀect to the Prepayment) shall be repaid in full with the proceeds of the 2023 Other Term Loans as follows:
+
+(e)            On  the  Fourth  Amendment  Eﬀective  Date,  all  then  outstanding  Existing  Term  Loans  (after
+
+(i)             the outstanding aggregate principal amount of Existing Term Loans of each Converting
+Lender  (after  giving  eﬀect  to  the  Prepayment)  (other  than  any  Non-Converting  Portion  of  such
+Converting Lender, if any) shall automatically be converted (the “Term Loan Conversion”) into Other
+Term  Loans  (each,  a  “2023  Converted  Other  Term  Loan”)  in  a  principal  amount  equal  to  such
+Converting Lender’s Conversion Amount;
+
+(ii)            to the extent the outstanding principal amount of the Existing Term Loans (after giving
+eﬀect  to  the  Prepayment)  of  any  Converting  Lender  exceeds  its  Conversion  Amount,  such  Existing
+Term  Lender  shall  be  repaid  in  cash  with  the  proceeds  of  the  2023  Other  Term  Loans  in  an  amount
+equal to its Non-Converting Portion (if any); and
+
+(iii)           the outstanding aggregate principal amount of Existing Term Loans (after giving eﬀect
+to the Prepayment) of each Non-Converting Lender shall be repaid in full in cash with the proceeds of
+the 2023 Other Term Loans.
+
+(f)            Each  2023  Other  Term  Lender  hereby  agrees  to  “fund”  its  2023  Other  Term  Loans  on  the
+Fourth Amendment Eﬀective Date in an aggregate principal amount equal to such 2023 Other Term Lender’s 2023
+Other Term Commitment, as follows:
+
+(i)             each Converting Lender shall fund its 2023 Converted Other Term Loan to the Borrower
+by converting all or a portion of its then outstanding principal amount of Existing Term Loans (after
+giving eﬀect to the Prepayment) into a 2023 Converted Other Term Loan in a principal amount equal
+to its Conversion Amount; and
+
+3
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii)            the New 2023 Other Term Lender shall fund in cash an amount equal to its 2023 Other
+
+Term Commitment to the Borrower.
+
+(g)            On or prior to the Fourth Amendment Eﬀective Date, the Borrower shall (x) voluntarily prepay
+a portion of the Existing Term Loans in cash in an aggregate principal amount of $50,000,000 (the “Prepayment”),
+which Prepayment, for the avoidance of doubt, shall result in a corresponding reduction in the outstanding principal
+balance of the Existing Term Loans as of the date that the Prepayment is made, and (y) pay in cash all accrued and
+unpaid  interest,  fees  and  premiums  (if  any)  owing  with  respect  to  the  Existing  Term  Loans  (including,  for  the
+avoidance  of  doubt,  Existing  Term  Loans  repaid  by  the  Prepayment)  to  (but  excluding)  the  Fourth  Amendment
+Eﬀective Date.
+
+(h)            Promptly  following  the  Fourth  Amendment  Eﬀective  Date  (and  the  funding  in  full  of  the
+applicable  2023  Other  Term  Loans),  all  Notes,  if  any,  evidencing  the  Existing  Term  Loans  shall  be  cancelled  and
+returned  to  the  Borrower,  and  any  2023  Other  Term  Lender  may  request  that  its  2023  Other  Term  Loan  be
+evidenced by a Note pursuant to Section 2.05 of the Credit Agreement (as amended hereby).
+
+(i)            Notwithstanding anything to the contrary contained in the Credit Agreement, the proceeds of
+the 2023 Other Term Loans will be used, in part, to repay the outstanding amount of all Existing Term Loans on the
+Fourth Amendment Eﬀective Date and to pay fees, costs and expenses in connection therewith and this Reﬁnancing
+Amendment.
+
+(j)            The New 2023 Other Term Lender hereby (i) represents and warrants that (A) it has full power
+and  authority,  and  has  taken  all  action  necessary,  to  consummate  the  transactions  contemplated  hereby  and  to
+become a Lender under this Reﬁnancing Amendment and the Credit Agreement (as amended hereby), (B) it is not a
+Defaulting Lender or a Disqualiﬁed Institution, (C) it meets all of the requirements to be a Lender under the Credit
+Agreement, (D) from and after the Fourth Amendment Eﬀective Date, it shall be bound by the provisions hereof and
+of the Credit Agreement (as amended hereby) as a Lender hereunder and thereunder and, to the extent of its 2023
+Other Term Commitments and New 2023 Other Term Loans, shall have the obligations of a Lender hereunder and
+thereunder, (E) it is sophisticated with respect to decisions to acquire assets of the type represented by the 2023
+Other  Term  Loans  and  either  it,  or  the  Person  exercising  discretion  in  making  its  decision  to  make  the  New  2023
+Other  Term  Loans,  is  experienced  in  acquiring  assets  of  such  type,  (F)  it  has  received  a  copy  of  the  Credit
+Agreement,  together  with  copies  of  the  most  recent  ﬁnancial  statements  delivered  pursuant  to  Section  5.04
+thereof, and such other documents and information as it has deemed appropriate to make its own credit analysis
+and  decision  to  enter  into  this  Reﬁnancing  Amendment  and  to  provide  its  2023  Other  Term  Commitments  and  to
+make the New 2023 Other Term Loans and (G) it has, independently and without reliance upon the Administrative
+Agent,  Collateral  Agent  or  any  other  Lender  and  based  on  such  documents  and  information  as  it  has  deemed
+appropriate,  made  its  own  credit  analysis  and  decision  to  enter  into  this  Reﬁnancing  Amendment  and  make  the
+New 2023 Other Term Loans, and (ii) agrees that (A) if it is a Foreign Lender, it will promptly (and no later than the
+Fourth  Amendment  Eﬀective  Date)  deliver  to  the  Administrative  Agent  and  the  Borrower  any  information  that  is
+required  to  be  delivered  by  it  pursuant  to  Section  2.14(5)  of  the  Amended  Credit  Agreement,  (B)  it  will,
+independently  and  without  reliance  on  any  Agent  or  any  other  Lender,  and  based  on  such  documents  and
+information  as  it  shall  deem  appropriate  at  the  time,  continue  to  make  its  own  credit  decisions  in  taking  or  not
+taking action under the Amended Credit Agreement and (C) it will perform in accordance with their terms all of the
+obligations which by the terms of the Amended Credit Agreement are required to be performed by it as a Lender.
+
+(k)            The Borrower hereby consents, for purposes of Section 10.04(2)(a)(i) of the Credit Agreement
+(as amended hereby), to the assignment on or within ninety (90) days of the Fourth Amendment Eﬀective Date of
+any New 2023 Other Term Loans by DB, as a 2023 Other Term Lender, to (A) any Person that was an Existing Term
+Lender  on  the  Fourth  Amendment  Eﬀective  Date  (immediately  prior  to  giving  eﬀect  thereto)  or  (B)  any  eligible
+Assignee  that  is  not  a  Disqualiﬁed  Institution  separately  identiﬁed,  and  acceptable,  to  the  Borrower,  and  in  each
+case  of  the  preceding  clauses  (A)  and  (B),  with  respect  to  each  such  Person  or  eligible  Assignee,  in  an  amount
+separately identiﬁed, and acceptable, to the Borrower.
+
+4
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION  3            Amendments  to  the  Credit  Agreement.  Each  of  the  parties  hereto  (which,  for  the
+avoidance  of  doubt,  immediately  after  giving  eﬀect  to  the  incurrence  of  the  2023  Other  Term  Loans,  includes  the
+Required Lenders) agrees that, eﬀective on the Fourth Amendment Eﬀective Date (immediately after giving eﬀect
+to incurrence of the 2023 Other Term Loans), the Credit Agreement shall be amended as follows:
+
+hereby amended by amending and restating clause (1) thereof as follows:
+
+(a)            The  deﬁnition  of  “Applicable  Margin”  appearing  in  Section  1.01  of  the  Credit  Agreement  is
+
+(1)            with  respect  to  any  Tranche  B  Term  Loans  made  on  the  Fourth  Amendment  Eﬀective  Date,
+from  and  after  the  Fourth  Amendment  Eﬀective  Date,  (a)  for  ABR  Loans,  1.00%  per  annum,  and
+(b) for SOFR Loans, 2.00% per annum;
+
+amended and restated in its entirety as follows:
+
+(b)            The  deﬁnition  of  “Arrangers”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is  hereby
+
+““Arrangers”  means  (i)  with  respect  to  the  Transactions,  each  of  Nomura  Securities
+International,  Inc.  and  Jeﬀeries  Finance  LLC  and  (ii)  with  respect  to  the  Fourth  Amendment  and  the
+transactions  contemplated  thereby,  each  of  Deutsche  Bank  Securities  Inc.,  Nomura  Securities
+International, Inc., BofA Securities, Inc. and Wells Fargo Securities LLC.”
+
+by adding the following sentence at the end thereof:
+
+(c)            The deﬁnition of “Class” set forth in Section 1.01 of the Credit Agreement is hereby amended
+
+As  of  the  Fourth  Amendment  Eﬀective  Date,  immediately  after  giving  eﬀect  to  the  Fourth
+Amendment  and  the  funding  of  Term  Loans  thereunder,  there  is  one  Term  Facility  and  one
+Class of Term Loans, the Tranche B Term Loans (immediately after giving eﬀect to the Fourth
+Amendment).
+
+amended and restated in its entirety as follows:
+
+(d)            The deﬁnition of “Commitments” set forth in Section 1.01 of the Credit Agreement is hereby
+
+““Commitments”  means  the  Tranche  B  Term  Loan  Commitments.  On  the  Closing  Date,  the
+aggregate  amount  of  Commitments  of  all  Term  Loans  is  $1,925.0  million.  On  the  First  Reﬁnancing
+Amendment  Eﬀective  Date,  the  aggregate  amount  of  Commitments  of  all  Term  Loans  is
+$1,537,733,909.31. On the Second Reﬁnancing Amendment Eﬀective Date, the aggregate amount of
+Commitments of all Term Loans is $1,318,512,235.44. On the Fourth Amendment Eﬀective Date, the
+aggregate amount of Commitments of all Term Loans is $400,000,000.”
+
+hereby amended and restated in its entirety as follows:
+
+(e)            The  deﬁnition  of  “Excluded  Property”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is
+
+““Excluded  Property”  means  “Excluded  Property”  as  deﬁned  in  the  Security  Agreement;  provided
+that, notwithstanding anything to the contrary in any Loan Document, any Real Property with a fair
+market value (as reasonably determined in good faith by the Borrower) at the time of acquisition of
+the applicable Real Property of less than $200,000,000 shall be deemed to be Excluded Property.”
+
+5
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+appropriate alphabetical order:
+
+(f)            Section  1.01  of  the  Credit  Agreement  is  hereby  amended  by  adding  the  following  in  the
+
+(i)            “Fourth Amendment” means that certain Fourth Amendment to First Lien Term Loan
+Credit Agreement, dated as of the Fourth Amendment Eﬀective Date, by and among Holdings,
+the  Borrower,  the  other  Loan  Parties  that  are  party  thereto,  the  Lenders  party  thereto  and
+each Agent.
+
+(ii)            “Fourth Amendment Eﬀective Date” means October 12, 2023.
+
+amended by amending and restating clause (4) thereof as follows:
+
+(g)            The deﬁnition of “Interest Period” set forth in Section 1.01 of the Credit Agreement is hereby
+
+(4)            the initial Interest Period of 1 month related to Tranche B Term Loans outstanding on the
+Fourth Amendment Eﬀective Date (immediately after giving eﬀect to the Fourth Amendment),
+commencing on the Fourth Amendment Eﬀective Date, will end on November 12, 2023.
+
+(h)            The deﬁnition of “Maturity Date” set forth in Section 1.01 of the Credit Agreement is hereby
+amended by (i) deleting the text “Third Amendment Eﬀective Date” appearing in clause (1) thereof and inserting
+the text “Fourth Amendment Eﬀective Date” in lieu thereof, (ii)  deleting the text “Third Amendment” appearing in
+clause  (1)  thereof  and  inserting  the  text  “Fourth  Amendment”  in  lieu  thereof,  and  (iii) deleting  the  text  “2027”
+appearing in clause (1) thereof and inserting the text “2029” in lieu thereof.
+
+amended and restated in its entirety as follows:
+
+(i)            The  deﬁnition  of  “Mortgages”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is  hereby
+
+“Mortgages”  means  each  of  the  mortgages  and  deeds  of  trust  made  by  any  Loan  Party,
+reasonably  acceptable  to  the  Administrative  Agent  (it  being  agreed  that  any  mortgage  or  deed  of
+trust in the form substantially consistent or similar with any mortgage or deed of trust (as applicable)
+previously  delivered  to  the  Administrative  Agent  shall  be  deemed  acceptable  to  the  Administrative
+Agent), in favor of, or for the beneﬁt of, the Collateral Agent for the beneﬁt of the Secured Parties, as
+the  same  may  be  amended,  supplemented,  replaced  and/or  otherwise  modiﬁed  from  time  to  time;
+provided that, notwithstanding anything to the contrary in the Loan Documents, no such mortgage or
+deed  of  trust  shall  be  required  if  any  of  the  following  are  satisﬁed:  (i)  the  fair  market  value  (as
+reasonably determined in good faith by the Borrower) at the time of acquisition of the applicable Real
+Property  is  less  than  $200,000,000  (or  such  higher  amount  as  the  Administrative  Agent  may  agree
+from  time  to  time  in  its  reasonable  discretion),  (ii)  the  cost,  diﬃculty,  burden  or  consequences  of
+obtaining, perfecting or maintaining a Mortgage with respect to the applicable Real Property exceeds
+the  practical  beneﬁts  to  the  Lenders  aﬀorded  thereby  (as  determined  in  the  reasonable  good  faith
+judgment of the Borrower in consultation with the Collateral Agent), (iii) the applicable Real Property
+is  subject  to,  or  is  expected  within  twenty-four  (24)  months  (or  such  longer  period  as  the
+Administrative  Agent  may  agree  from  time  to  time  in  its  reasonable  discretion)  of  the  acquisition
+thereof to be subject to, a sale and lease-back transaction or is already mortgaged to a third party to
+the extent permitted by Section 6.02, or (iv) the Real Property was owned by a Loan Party as of the
+Fourth Amendment Eﬀective Date.
+
+hereby amended by inserting the following sentence at the end thereof:
+
+(j)            The  deﬁnition  of  “Reinvestment  Notice”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is
+
+“Notwithstanding  anything  to  the  contrary  herein,  with  respect  to  the  Net  Cash  Proceeds  of
+any Asset Sale related to Real Property, the Borrower shall automatically be deemed to have
+delivered  a  Reinvestment  Notice  pursuant  to  the  terms  of  this  Agreement  without  further
+action.”
+
+6
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+amended and restated in its entirety as follows:
+
+(k)            The  deﬁnition  of  “Term  Facility”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is  hereby
+
+““Term  Facility”  means  the  facility  and  commitments  utilized  in  making  Term  Loans
+hereunder. On the Closing Date, there was one Term Facility, the Tranche B Term Loan Facility.
+On the First Reﬁnancing Amendment Eﬀective Date, after giving eﬀect to the First Reﬁnancing
+Amendment  and  the  funding  of  Term  Loans  thereunder,  but  prior  to  the  Second  Reﬁnancing
+Amendment  Eﬀective  Date,  there  was  one  Term  Facility,  the  Tranche  B  Term  Loan  Facility
+(after  giving  eﬀect  to  the  First  Reﬁnancing  Amendment).  On  the  Second  Reﬁnancing
+Amendment Eﬀective Date, after giving eﬀect to the Second Reﬁnancing Amendment and the
+funding  of  Term  Loans  thereunder,  there  was  one  Term  Facility,  the  Tranche  B  Term  Loan
+Facility (after giving eﬀect to the Second Reﬁnancing Amendment). On the Fourth Amendment
+Eﬀective  Date,  immediately  after  giving  eﬀect  to  the  Fourth  Amendment  and  the  funding  of
+Term  Loans  thereunder,  there  is  one  Term  Facility,  the  Tranche  B  Term  Loan  Facility
+(immediately  after  giving  eﬀect  to  the  Fourth  Amendment).  Following  the  establishment  of
+any Incremental Term Loans (other than an increase to an existing Term Facility), Other Term
+Loans  (other  than  under  the  First  Reﬁnancing  Amendment,  the  Second  Reﬁnancing
+Amendment  or  the  Fourth  Amendment)  or  Extended  Term  Loans,  such  Incremental  Term
+Loans, Other Term Loans or Extended Term Loans will be considered a separate Term Facility
+hereunder.”
+
+(l)            The  deﬁnition  of  “Term  Loans”  set  forth  in  Section  1.01  of  the  Credit  Agreement  is  hereby
+amended by deleting the text “Second Reﬁnancing Amendment Eﬀective Date” appearing therein and inserting the
+text “Fourth Amendment Eﬀective Date” in lieu thereof.
+
+Agreement is hereby amended and restated in its entirety as follows:
+
+(m)          The deﬁnition of “Tranche B Term Loan Commitments” set forth in Section 1.01 of the Credit
+
+““Tranche B Term Loan Commitments” means as to each Tranche B Term Loan Lender, the
+commitment  of  such  Lender  to  make  Tranche  B  Term  Loans  as  set  forth  on  Schedule  2.01.  On  the
+Closing Date, the aggregate amount of Tranche B Term Loan Commitments was $1,925.0 million. On
+the  First  Reﬁnancing  Amendment  Eﬀective  Date,  the  aggregate  amount  of  Tranche  B  Term  Loan
+Commitments  was  $1,537,733,909.31.  On  the  Second  Reﬁnancing  Amendment  Eﬀective  Date,  the
+aggregate  amount  of  Tranche  B  Term  Loan  Commitments  was  $1,318,512,235.44.  On  the  Fourth
+Amendment  Eﬀective  Date,  the  aggregate  amount  of  Tranche  B  Term  Loan  Commitments  is
+$400,000,000.00.”
+
+hereby amended and restated in its entirety as follows:
+
+(n)            The deﬁnition of “Tranche B Term Loans” set forth in Section 1.01 of the Credit Agreement is
+
+““Tranche  B  Term  Loans”  means  (i)  prior  to  the  First  Reﬁnancing  Amendment  Eﬀective
+Date, the term loans made to the Borrower on the Closing Date pursuant to Section 2.01(1), (ii) after
+the  First  Reﬁnancing  Amendment  Eﬀective  Date  but  prior  to  the  Second  Reﬁnancing  Amendment
+Eﬀective  Date,  the  term  loans  made  to  the  Borrower  on  the  First  Reﬁnancing  Amendment  Eﬀective
+Date  pursuant  to  the  First  Reﬁnancing  Amendment,  (iii)  after  the  Second  Reﬁnancing  Amendment
+Eﬀective  Date  but  prior  to  the  Fourth  Amendment  Eﬀective  Date,  the  term  loans  made  to  the
+Borrower on the Second Reﬁnancing Amendment Eﬀective Date pursuant to the Second Reﬁnancing
+Amendment, and (iv) on and after the Fourth Amendment Eﬀective Date, the term loans made to the
+Borrower on the Fourth Amendment Eﬀective Date pursuant to the Fourth Amendment.”
+
+7
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+follows:
+
+follows:
+
+(o)            Section  2.01(1)  of  the  Credit  Agreement  is  hereby  amended  and  restated  in  its  entirety  as
+
+(1)            Subject  to,  and  in  accordance  with,  the  terms  and  conditions  set  forth  in  the  Fourth
+Amendment, each Tranche B Term Loan Lender severally agrees to make to the Borrower Tranche B
+Term Loans denominated in Dollars equal to such Tranche B Term Loan Lender’s Tranche B Term Loan
+Commitment on the Fourth Amendment Eﬀective Date.
+
+(p)            [Reserved.]
+
+(q)            Section  2.06(2)  of  the  Credit  Agreement  is  hereby  amended  and  restated  in  its  entirety  as
+
+(2)            In the event that any Incremental Term Loans are made, the Borrower will repay Borrowings
+consisting of Incremental Term Loans on the dates (each an “Incremental Term Loan Installment
+Date”)  and  in  the  amounts  set  forth  in  the  applicable  Incremental  Facility  Amendment,  (b)  in  the
+event  that  any  Other  Term  Loans  (other  than  pursuant  to  the  First  Reﬁnancing  Amendment,  the
+Second  Reﬁnancing  Amendment  or  the  Fourth  Amendment)  are  made,  the  Borrower  will  repay
+Borrowings  consisting  of  such  Other  Term  Loans  on  the  dates  (each  an  “Other  Term  Loan
+Installment  Date”)  and  in  the  amounts  set  forth  in  the  applicable  Reﬁnancing  Amendment  and
+(c)  in  the  event  that  any  Extended  Term  Loans  are  made,  the  Borrower  will  repay  Borrowings
+consisting  of  Extended  Term  Loans  on  the  dates  (each  an  “Extended  Term  Loan  Installment
+Date”) and in the amounts set forth in the applicable Extension Amendment;
+
+(r)             [Reserved.]
+
+(s)            [Reserved.]
+
+(t)             Section  2.21  of  the  Credit  Agreement  is  hereby  amended  by  deleting  the  text  “Third
+Amendment  Eﬀective  Date”  appearing  therein  and  inserting  the  text  “Fourth  Amendment  Eﬀective  Date”  in  lieu
+thereof;
+
+follows:
+
+(u)            Section  6.05(4)  of  the  Credit  Agreement  is  hereby  amended  and  restated  in  its  entirety  as
+
+(4)            “dispositions  in  connection  with  sale  and  lease-back  transactions;  provided  that,  such
+dispositions shall be for fair market value.”
+
+forth on Schedule 2.01 attached hereto.
+
+(v)            Schedule 2.01 of the Credit Agreement is hereby amended and restated in its entirety as set
+
+SECTION  4            Representations  and  Warranties.  To  induce  the  other  parties  hereto  to  enter  into  this
+Reﬁnancing Amendment, each Loan Party that is party hereto represents and warrants to each of the Lenders party
+hereto and the Administrative Agent on the Fourth Amendment Eﬀective Date that:
+
+(a)            the  execution,  delivery  and  performance  by  each  such  Loan  Party  of  this  Reﬁnancing
+Amendment  has  been  duly  authorized  by  all  necessary  corporate,  limited  liability  company  and/or  partnership
+action, as applicable, of such Loan Party;
+
+(b)            this Reﬁnancing Amendment has been duly executed and delivered by such Loan Party;
+
+8
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)            each  of  this  Reﬁnancing  Amendment  and  the  Credit  Agreement  (as  amended  hereby)
+constitutes  a  legal,  valid  and  binding  obligation  of  such  Loan  Party,  enforceable  against  it  in  accordance  with  its
+terms, subject to:
+
+conveyance or other similar laws aﬀecting creditors’ rights generally;
+
+(i)             the  eﬀects  of  bankruptcy, 
+
+insolvency,  moratorium,  reorganization, 
+
+fraudulent
+
+a proceeding in equity or at law);
+
+(ii)            general principles of equity (regardless of whether such enforceability is considered in
+
+(iii)           implied covenants of good faith and fair dealing; and
+
+Foreign Subsidiaries;
+
+(iv)           any foreign laws, rules and regulations as they relate to pledges of Equity Interests in
+
+(d)            no  action,  consent  or  approval  of,  registration  or  ﬁling  with,  or  any  other  action  by,  any
+Governmental  Authority  or  third  party  is  or  will  be  required  in  connection  with  the  execution,  delivery  or
+performance  by,  or  enforcement  by  Secured  Parties  against,  any  such  Loan  Party  under,  this  Reﬁnancing
+Amendment or the Amended Credit Agreement or for the consummation of the transactions contemplated hereby,
+except for:
+
+foreign jurisdictions;
+
+(i)             the  ﬁling  of  Uniform  Commercial  Code  ﬁnancing  statements  and  equivalent  ﬁlings  in
+
+Copyright Oﬃce and comparable oﬃces in foreign jurisdictions and equivalent ﬁlings in foreign jurisdictions;
+
+(ii)            ﬁlings  with  the  United  States  Patent  and  Trademark  Oﬃce  and  the  United  States
+
+(iii)           ﬁlings which may be required under Environmental Laws;
+
+rules in connection therewith;
+
+(iv)           ﬁlings  as  may  be  required  under  the  Exchange  Act  and  applicable  stock  exchange
+
+(v)            such as have been made or obtained and are in full force and eﬀect;
+
+would not reasonably be expected to have a Material Adverse Eﬀect; or
+
+(vi)           such  actions,  consents  and  approvals  the  failure  of  which  to  be  obtained  or  made
+
+(vii)          ﬁlings or other actions listed on Schedule 3.04 of the Credit Agreement;
+
+(e)            the  execution,  delivery  and  performance  by  such  Loan  Party  of  its  obligations  under  this
+Reﬁnancing  Amendment  and  its  performance  under  the  Amended  Credit  Agreement  are  within  such  Loan  Party’s
+corporate,  limited  liability  company  or  limited  partnership  powers,  as  applicable,  and  do  not  and  will  not
+(i) contravene the terms of any of such Person’s charter or other similar organizational document or (ii) violate any
+applicable material Law; in the case of this clause (ii), to the extent that such violations would not reasonably be
+expected to have a Material Adverse Eﬀect; and
+
+(f)            immediately  after  giving  eﬀect  to  this  Reﬁnancing  Amendment  (including,  without  limitation,
+Section  16  hereof)  and  the  transactions  contemplated  hereby,  (i)  the  representations  and  warranties  of  the
+Borrower  and  each  of  the  other  Loan  Parties  set  forth  in  Article  III  of  the  Credit  Agreement  and  in  the  other  Loan
+Documents are true and correct in all material respects on and as of the Fourth Amendment Eﬀective Date, except
+to the extent such representations and warranties expressly relate to an earlier date, in which case they were true
+and  correct  in  all  material  respects  as  of  such  earlier  date;  provided  that  any  representation  or  warranty  that  is
+qualiﬁed  as  to  “materiality”,  “Material  Adverse  Eﬀect”  or  similar  language  is  true  and  correct  (immediately  after
+giving  eﬀect  to  any  qualiﬁcation  therein)  in  all  respects  on  such  respective  dates,  and  (ii)  no  Default  or  Event  of
+Default is, or shall have occurred and be, continuing as of the Fourth Amendment Eﬀective Date.
+
+9
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION  5            Eﬀectiveness.  This  Reﬁnancing  Amendment  shall  become  eﬀective  as  of  the  date  (the
+“Fourth Amendment Eﬀective Date”, which date was October 12, 2023) on which each of the following conditions
+shall have been satisﬁed:
+
+(a)            the Administrative Agent (or its counsel) shall have received counterparts of this Reﬁnancing
+Amendment that, when taken together, bear the signatures of (i) Holdings, (ii) the Borrower, (iii) each other Loan
+Party  that  is  party  hereto,  (iv)  the  Administrative  Agent,  (v)  each  2023  Other  Term  Lender  speciﬁed  on  Schedule
+2.01 and (vi) solely with respect to Section 3 hereof, the Lenders constituting Required Lenders (immediately after
+giving eﬀect to the incurrence of the 2023 Other Term Loans);
+
+(b)            the Administrative Agent shall have received a solvency certiﬁcate substantially in the form of
+Exhibit B to the Credit Agreement (with appropriate modiﬁcations to reﬂect the consummation of the transactions
+contemplated by this Reﬁnancing Amendment on the Fourth Amendment Eﬀective Date);
+
+(c)            the Administrative Agent shall have received a certiﬁcate of a Responsible Oﬃcer of the Loan
+Parties  dated  the  Fourth  Amendment  Eﬀective  Date  and  certifying  as  of  the  Fourth  Amendment  Eﬀective  Date
+(i)  that  either  (A)  attached  thereto  is  a  true  and  complete  copy  of  the  charter  or  other  similar  organizational  or
+formation document of such Loan Party, and each amendment thereto, certiﬁed (within 30 days prior to the Fourth
+Amendment Eﬀective Date) as being a true and correct copy thereof by the Secretary of State or other applicable
+Governmental  Authority  of  the  jurisdiction  in  which  such  Loan  Party  is  organized  or  (B)  no  amendments  thereto
+have been made since the last version delivered to the Administrative Agent, (ii) that either (A) attached thereto is
+a  true  and  complete  copy  of  the  bylaws,  operating  agreement  or  similar  organizational  document  of  such  Loan
+Party,  and  each  amendment  thereto,  or  (B)  no  amendments  thereto  have  been  made  since  the  last  version
+delivered to the Administrative Agent, (iii) that attached thereto is a true and complete copy of a certiﬁcate of the
+Secretary  of  State  or  other  applicable  Governmental  Authority  of  the  jurisdiction  in  which  such  Loan  Party  is
+organized,  dated  within  30  days  prior  to  the  Fourth  Amendment  Eﬀective  Date  (or  such  longer  date  reasonably
+agreed  to  by  the  Administrative  Agent)  certifying  that  such  Person  is  in  good  standing  (or,  alternatively,  if
+applicable, is an entity) under the laws of such jurisdiction, (iv) that attached thereto is a true and complete copy of
+resolutions duly adopted by the Board of Directors (or similar governing body) of such Loan Party authorizing the
+execution,  delivery  and  performance  of  this  Reﬁnancing  Amendment  and  the  Credit  Agreement  (as  amended
+hereby) and certifying that such resolutions have not been modiﬁed, rescinded or amended and are in full force and
+eﬀect and (v) to the incumbency and specimen signature of each oﬃcer of a Loan Party executing this Reﬁnancing
+Amendment or any other document delivered in connection herewith on behalf of any Loan Party;
+
+LLP, counsel to the Loan Parties, dated as of the Fourth Amendment Eﬀective Date;
+
+(d)            the  Administrative  Agent  shall  have  received  a  customary  legal  opinion  of  Goodwin  Procter
+
+(e)            the  Administrative  Agent  shall  have  received  a  certiﬁcate  of  a  Responsible  Oﬃcer  of  the
+Borrower  dated  as  of  the  Fourth  Amendment  Eﬀective  Date  certifying  as  to  such  Responsible  Oﬃcer’s  actual
+knowledge (i) as to the accuracy in all material respects of the representations and warranties speciﬁed in Section 4
+hereof and (ii) that the representation set forth in Section 4(f)(ii) above is true and correct in all respects;
+
+10
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f)             the Administrative Agent and the Reﬁnancing Amendment Left Lead Arranger, as applicable,
+shall  have  received  (or  will  receive  substantially  simultaneously  with  the  funding  of  the  2023  Other  Term  Loans)
+payment  of  all  fees  and  other  amounts  due  and  payable  on  or  prior  to  the  Fourth  Amendment  Eﬀective  Date
+(i)  pursuant  to  that  certain  Engagement  Letter,  dated  as  of  September  26,2023,  by  and  among  the  Reﬁnancing
+Amendment  Left  Lead  Arranger  and  the  Borrower  (the  “Engagement  Letter”)  or  any  other  written  agreement  (if
+any)  that  the  Borrower  enters  into  with  any  other  arranger  with  respect  to  this  Reﬁnancing  Amendment  and
+(ii) including, to the extent invoiced at least 2 Business Days prior to the Fourth Amendment Eﬀective Date (or such
+later  date  as  the  Borrower  may  agree),  without  duplication,  reimbursement  or  payment  of  all  reasonable  and
+documented  out-of-pocket  costs  and  expenses  required  to  be  reimbursed  or  paid  by  the  Borrower,  under  the
+Engagement  Letter,  including  the  reasonable  and  documented  out-of-pocket  fees,  charges  and  disbursements  of
+counsel for the Administrative Agent required to be paid under the Engagement Letter;
+
+(g)            the Borrower shall have made the Prepayment;
+
+(h)            the  Borrower  shall  have  paid  all  then-accrued  and  outstanding  interest  with  respect  to  all
+Term  Loans  outstanding  immediately  prior  to  the  Fourth  Amendment  Eﬀective  Date,  irrespective  of  whether  such
+accrued  interest  is  otherwise  then  due  and  payable  by  the  terms  of  the  Credit  Agreement  (as  amended  hereby);
+and
+
+(i)             the  Administrative  Agent  shall  have  received,  no  later  than  the  date  that  is  three  Business
+Days  prior  to  the  Fourth  Amendment  Eﬀective  Date,  all  documentation  and  other  information  about  the  Loan
+Parties  required  by  regulatory  authorities  under  the  Beneﬁcial  Ownership  Regulation,  as  has  been  reasonably
+requested  in  writing  by  the  Administrative  Agent  at  least  ten  Business  Days  prior  to  the  Fourth  Amendment
+Eﬀective Date.
+
+The  Administrative  Agent  shall  notify  the  Borrower  and  the  2023  Other  Term  Lenders  of  the  Fourth
+
+Amendment Eﬀective Date, and such notice shall be conclusive and binding.
+
+SECTION 6          Mortgage Releases. Upon the eﬀectiveness of this Reﬁnancing Amendment, each Lender
+party  hereto  hereby  authorizes  the  release  of,  and  the  Borrower  or  its  designee  will  be  authorized  to  record  the
+release  of,  the  Mortgages  listed  on  Exhibit  A  hereto,  and  the  Administrative  Agent  will,  at  the  Borrower’s  sole
+expense, sign and deliver original wet-ink counterparts of the releases of such Mortgages in forms acceptable for
+recordation  of  such  releases,  and  execute  such  other  releases  and  documents  as  the  Borrower  may  reasonably
+request from time to time in order to evidence the release of such Mortgages.
+
+SECTION 7          Reaﬃrmation of Guaranty and Security.
+
+(a)            Each  Guarantor  party  hereto  reaﬃrms  its  guarantee  of  the  Guaranteed  Obligations  (as
+deﬁned  in  and  under  the  terms  and  conditions  of  the  Guaranty  Agreement)  and  agrees  that  such  guarantee
+remains  in  full  force  and  eﬀect  and  is  hereby  ratiﬁed,  reaﬃrmed  and  conﬁrmed.  Each  such  Guarantor  hereby
+conﬁrms that it consents to the terms of this Reﬁnancing Amendment. Each such Guarantor hereby (i) conﬁrms that
+each Loan Document to which it is a party or to which it is otherwise bound will continue to guarantee to the fullest
+extent  possible  in  accordance  with  the  Loan  Documents,  the  payment  and  performance  of  the  Guaranteed
+Obligations,  including  without  limitation,  the  payment  and  performance  of  all  such  applicable  Guaranteed
+Obligations  that  are  joint  and  several  obligations  of  each  such  Guarantor  now  or  hereafter  existing;
+(ii) acknowledges and agrees that its guarantee and each of the Loan Documents to which it is a party or otherwise
+bound shall continue in full force and eﬀect and that all of its obligations thereunder shall be valid and enforceable
+and  shall  not  be  impaired  or  limited  by  the  execution  or  eﬀectiveness  of  this  Reﬁnancing  Amendment;  and
+(iii)  acknowledges,  agrees  and  warrants  for  the  beneﬁt  of  the  Administrative  Agent  and  each  Secured  Party  that
+there are no rights of set-oﬀ or counterclaim, nor any defenses of any kind, whether legal, equitable or otherwise,
+that  would  enable  such  Guarantor  to  avoid  or  delay  timely  performance  of  its  obligations  under  the  Loan
+Documents  (except  to  the  extent  such  obligations  constitute  Excluded  Swap  Obligations  with  respect  to  such
+Guarantor).
+
+11
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)            Each Loan Party that is party hereto hereby acknowledges that it has reviewed and consents
+to the terms and conditions of this Reﬁnancing Amendment and the transactions contemplated hereby. In addition,
+each such Loan Party reaﬃrms the security interests granted by such Loan Party under the terms and conditions of
+the Security Agreement to secure the Obligations and agrees that such security interests remain in full force and
+eﬀect  and  are  hereby  ratiﬁed,  reaﬃrmed  and  conﬁrmed.  Each  such  Loan  Party  hereby  conﬁrms  that  the  security
+interests  granted  by  such  Loan  Party  under  the  terms  and  conditions  of  the  Security  Agreement  secure  the  2023
+Other Term Loans as part of the Obligations. Each such Loan Party hereby (i) conﬁrms that each Loan Document to
+which  it  is  a  party  or  to  which  it  is  otherwise  bound  and  all  Collateral  (as  deﬁned  in  the  Security  Agreement)
+encumbered  thereby  will  continue  to  guarantee  or  secure,  as  the  case  may  be,  to  the  fullest  extent  possible  in
+accordance  with  the  Loan  Documents,  the  payment  and  performance  of  the  Obligations,  as  the  case  may  be,
+including  without  limitation,  the  payment  and  performance  of  all  such  applicable  Obligations  that  are  joint  and
+several  obligations  of  each  such  Loan  Party  now  or  hereafter  existing,  (ii)  conﬁrms  its  respective  grant  to  the
+Collateral Agent for the beneﬁt of the Secured Parties of the security interest in and continuing Lien on all of such
+Loan Party’s right, title and interest in, to and under all Collateral (as deﬁned in the Security Agreement), whether
+now owned or existing or hereafter acquired or arising and wherever located, as collateral security for the prompt
+and  complete  payment  and  performance  in  full  when  due,  whether  at  stated  maturity,  by  required  prepayment,
+declaration,  acceleration,  demand  or  otherwise,  of  all  applicable  Obligations  (including  all  such  Obligations  as
+amended, reaﬃrmed and/or increased pursuant to this Reﬁnancing Amendment), subject to the terms contained in
+the  applicable  Loan  Documents,  and  (iii)  subject  to  Section  6  of  this  Reﬁnancing  Amendment,  conﬁrms  its
+respective guarantees, pledges, grants of security interests and other obligations, as applicable, under and subject
+to the terms of each of the Loan Documents to which it is a party.
+
+(c)            Each  Loan  Party  that  is  party  hereto  acknowledges  and  agrees  that  each  of  the  Loan
+Documents to which it is a party or to which it is otherwise bound shall continue in full force and eﬀect and that all
+of its obligations thereunder shall be valid and enforceable and shall not be impaired or limited by the execution or
+eﬀectiveness of this Reﬁnancing Amendment.
+
+SECTION  8           Counterparts.  This  Reﬁnancing  Amendment  may  be  executed  in  counterparts  (and  by
+diﬀerent parties hereto in diﬀerent counterparts), each of which constitute an original, but all of which when taken
+together shall constitute a single contract. Delivery by facsimile transmission or other electronic transmission (i.e. a
+“pdf”  or  “tif”)  of  an  executed  counterpart  of  a  signature  page  to  this  Reﬁnancing  Amendment  is  eﬀective  as
+delivery  of  an  original  executed  counterpart  hereof  and  the  words  “execution,”  “execute”,  “signed,”  “signature,”
+and words of like import in or related to any document to be signed in connection with this Reﬁnancing Amendment
+shall  be  deemed  to  include  electronic  signatures,  the  electronic  matching  of  assignment  terms  and  contract
+formations on electronic platforms reasonably approved by the Administrative Agent, or the keeping of records in
+electronic  form,  each  of  which  shall  be  of  the  same  legal  eﬀect,  validity  or  enforceability  as  a  manually  executed
+signature or the use of a paper based recordkeeping system, as the case may be, to the extent and as provided for
+in  any  applicable  law,  including  the  Federal  Electronic  Signatures  in  Global  and  National  Commerce  Act,  the  New
+York  State  Electronic  Signatures  and  Records  Act,  or  any  other  similar  state  laws  based  on  the  Uniform  Electronic
+Transactions Act.
+
+SECTION 9          Governing Law; Jurisdiction; Waiver of Jury Trial. THIS REFINANCING AMENDMENT AND
+ANY  CLAIM,  CONTROVERSY,  DISPUTE  OR  CAUSE  OF  ACTION  (WHETHER  IN  CONTRACT  OR  TORT  OR  OTHERWISE)
+BASED  UPON,  ARISING  OUT  OF  OR  RELATING  TO  THIS  REFINANCING  AMENDMENT  SHALL  BE  GOVERNED  BY,  AND
+CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. The provisions of Sections 10.11 and
+10.15 of the Credit Agreement are hereby incorporated by reference herein, mutatis mutandis.
+
+SECTION 10        Headings. Section headings herein are included herein for convenience of reference only
+
+and shall not constitute a part hereof for any other purpose or be given any substantive eﬀect.
+
+12
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION  11         No  Novation;  Eﬀect  of  this  Reﬁnancing  Amendment.  This  Reﬁnancing  Amendment
+does  not  extinguish  the  Obligations  for  the  payment  of  money  outstanding  under  the  Credit  Agreement  or
+discharge  or  release  the  lien  or  priority  of  any  Loan  Document  or  any  other  security  therefor  or  any  guarantee
+thereof,  and,  subject  to  Section  6  of  this  Reﬁnancing  Amendment,  the  liens  and  security  interests  existing
+immediately  prior  to  the  Fourth  Amendment  Eﬀective  Date  in  favor  of  the  Collateral  Agent  for  the  beneﬁt  of  the
+Secured Parties securing payment of the Obligations are in all respects continuing and in full force and eﬀect with
+respect  to  all  Obligations.  Except  as  expressly  provided,  nothing  herein  contained  shall  be  construed  as  a
+substitution or novation, or a payment and reborrowing, or a termination, of the Obligations outstanding under the
+Credit  Agreement  or  instruments  guaranteeing  or  securing  the  same,  which  shall  remain  in  full  force  and  eﬀect,
+except as modiﬁed hereby or by instruments executed concurrently herewith. Nothing expressed or implied in this
+Reﬁnancing  Amendment  or  any  other  document  contemplated  hereby  shall  be  construed  as  a  release  or  other
+discharge of Holdings or the Borrower under the Credit Agreement or the Borrower or any other Loan Party under
+any  Loan  Document  from  any  of  its  obligations  and  liabilities  thereunder,  and  except  as  expressly  provided,  such
+obligations  are  in  all  respects  continuing  with  only  the  terms  being  modiﬁed  as  provided  in  this  Reﬁnancing
+Amendment. The Credit Agreement and each of the other Loan Documents shall remain in full force and eﬀect, until
+and except as modiﬁed. Except as expressly set forth herein, this Reﬁnancing Amendment shall not by implication
+or otherwise limit, impair, constitute a waiver of, or otherwise aﬀect the rights and remedies of the Lenders or the
+Agents under the Credit Agreement or any other Loan Document, and shall not alter, modify, amend or in any way
+aﬀect any of the terms, conditions, obligations, covenants or agreements contained in the Credit Agreement or any
+other Loan Document, all of which are ratiﬁed and aﬃrmed in all respects and shall continue in full force and eﬀect.
+Nothing herein shall be deemed to entitle any Loan Party to a consent to, or a waiver, amendment, modiﬁcation or
+other  change  of,  any  of  the  terms,  conditions,  obligations,  covenants  or  agreements  contained  in  the  Credit
+Agreement  or  any  other  Loan  Document  in  similar  or  diﬀerent  circumstances.  This  Reﬁnancing  Amendment  shall
+apply  and  be  eﬀective  only  with  respect  to  the  provisions  of  the  Credit  Agreement  speciﬁcally  referred  to  herein.
+Each  Subsidiary  Loan  Party  further  agrees  that  nothing  in  the  Credit  Agreement,  this  Reﬁnancing  Amendment  or
+any  other  Loan  Document  shall  be  deemed  to  require  the  consent  of  such  Subsidiary  Loan  Party  to  any  future
+amendment  to  the  Credit  Agreement.  This  Reﬁnancing  Amendment  constitutes  a  “Loan  Document”  and  a
+“Reﬁnancing Amendment” for all purposes of the Credit Agreement and the other Loan Documents.
+
+SECTION 12       Severability. In the event any one or more of the provisions contained in this Reﬁnancing
+Amendment  or  in  any  other  Loan  Document  should  be  held  invalid,  illegal  or  unenforceable  in  any  respect,  the
+validity, legality and enforceability of the remaining provisions contained herein and therein shall not in any way be
+aﬀected or impaired thereby. The parties shall endeavor in good faith negotiations to replace the invalid, illegal or
+unenforceable provisions with valid provisions, the economic eﬀect of which comes as close as possible to that of
+the invalid, illegal or unenforceable provisions.
+
+SECTION 13        No Waiver. Except as expressly set forth herein, this Reﬁnancing Amendment shall not by
+implication  or  otherwise  limit,  impair,  constitute  a  waiver  of  or  otherwise  aﬀect  the  rights  and  remedies  of  the
+Lenders or the Agents under the Credit Agreement or any other Loan Document, and shall not alter, modify, amend
+or  in  any  way  aﬀect  any  of  the  terms,  conditions,  obligations,  covenants  or  agreements  contained  in  the  Credit
+Agreement or any other provision of the Credit Agreement or of any other Loan Document, all of which are ratiﬁed
+and aﬃrmed in all respects and shall continue in full force and eﬀect. Nothing herein shall be deemed to entitle the
+Borrower  to  receive  a  consent  to,  or  a  waiver,  amendment,  modiﬁcation  or  other  change  of,  any  of  the  terms,
+conditions, obligations, covenants or agreements contained in the Credit Agreement or any other Loan Document in
+similar or diﬀerent circumstances.
+
+13
+
+ 
+ 
+ 
+ 
+ 
+SECTION 14       Additional Arrangers. Pursuant to the terms of the Engagement Letter, the Borrower may
+appoint additional arrangers and bookrunners for this Reﬁnancing Amendment and the transactions contemplated
+hereby with the consent of the Reﬁnancing Amendment Left Lead Arranger (such consent not to be unreasonably
+withheld, delayed or conditioned). The Borrower has appointed each of Nomura Securities International, Inc., BofA
+Securities, Inc. and Wells Fargo Securities LLC (in each case, acting alone or through or with aﬃliates selected by it)
+to  act  as  a  joint  lead  arranger  and  joint  bookrunner  with  respect  to  this  Reﬁnancing  Amendment  and  the
+transactions  contemplated  hereby  (and  the  Reﬁnancing  Amendment  Left  Lead  Arranger  hereby  consents  to  such
+appointment), in each case, with the rights and privileges aﬀorded to arrangers pursuant to the Engagement Letter.
+
+SECTION 15        Assignments of Term Loans. The Borrower and the Administrative Agent hereby consent
+to  each  assignment  of  2023  Other  Term  Loans  made  by  Deutsche  Bank  AG  New  York  Branch  (or  any  Aﬃliate
+thereof)  to  any  assignee  (but  only  to  the  extent  the  applicable  assignee  (or  an  Aﬃliate  thereof,  other  than  a
+Disqualiﬁed Institution) has been identiﬁed on a list approved by the Borrower on or prior to the Fourth Amendment
+Eﬀective Date).
+
+SECTION  16         Limited  Waiver.  The  Borrower  acknowledges  and  agrees  that,  as  of  the  Fourth
+Amendment  Eﬀective  Date,  (i)  one  or  more  Defaults  or  Events  of  Default  pursuant  to  Section  8.01  of  the  Credit
+Agreement  may  have  occurred  and  may  currently  exist  under  the  Credit  Agreement  as  a  direct  result  of  the
+Borrower’s failure to deliver one or more Reinvestment Notices pursuant to Section 2.08(1) of the Credit Agreement
+that would have allowed the Borrower and/or its Restricted Subsidiaries to use the Net Cash Proceeds of Asset Sales
+related to the disposition of certain Real Estate to restore, rebuild, repair, construct, improve, replace or otherwise
+acquire assets used or useful in the Borrower’s or a Restricted Subsidiary’s business (any such Default and/or Event
+of  Default  described  in  this  clause  (i),  the  “Default  Resulting  from  Failure  to  Deliver  Reinvestment  Notices”),  (ii)  a
+Default  or  Event  of  Default  pursuant  to  Section  8.01(4)  of  the  Credit  Agreement  may  have  occurred  and  may
+currently  exist  under  the  Credit  Agreement  as  the  result  of  the  Borrower’s  failure  to  deliver  a  notice  of  the
+occurrence or existence of any Default from Failure to Deliver Reinvestment Notices, any Representation Default or
+any  Default  or  Event  of  Default  resulting  from  the  failure  to  deliver  a  notice  of  the  occurrence  or  existence  of  a
+Default  or  Event  of  Default  resulting  from  the  failure  to  deliver  a  notice  of  the  occurrence  or  existence  of  any
+Default from Failure to Deliver Reinvestment Notices or any Representation Default (and, in each case, the nature
+and extent thereof and any corrective action proposed to be taken or actually taken with respect thereto) pursuant
+to  Section  5.05(1)  of  the  Credit  Agreement  (any  Default  and/or  Event  of  Default  described  in  this  clause  (ii),  the
+“Notice Default”), and (iii) a Default or Event of Default pursuant to Section 8.01(1) of the Credit Agreement may
+have  occurred  and  may  currently  exist  under  the  Credit  Agreement  as  a  result  of  any  misrepresentation  made  or
+deemed  to  be  made  by  the  Borrower  with  respect  to  the  absence  of  a  Default  or  Event  of  Default,  which
+misrepresentation  was  materially  incorrect  or  misleading  solely  due  to  the  occurrence  of  any  Existing  Event  of
+Default  (any  Default  and/or  Event  of  Default  described  in  this  clause  (iii),  the  “Representation  Default”  and,
+collectively  with  the  Default  Resulting  from  Failure  to  Deliver  Reinvestment  Notices  and  the  Notice  Default,  the
+“Existing Events of Default”, and each, an “Existing Event of Default”). Subject to the terms and conditions set forth
+herein,  the  Required  Lenders  hereby  unconditionally  and  irrevocably  waive  the  Existing  Events  of  Default  (the
+“Waiver”).  The  Waiver  is  limited  precisely  as  written  and  relates  solely  to  the  Existing  Events  of  Default,  and
+nothing contained in this Reﬁnancing Amendment shall be deemed to constitute a waiver of any other provision of
+the Credit Agreement or for any other time periods (including any time after the Fourth Amendment Eﬀective Date),
+any other rights or remedies the Lenders may have under the Credit Agreement or any other Loan Documents or
+under applicable law, in each case, with respect to any Default or Event of Default (other than, for the avoidance of
+doubt, the Existing Events of Default) that may hereafter exist.
+
+[Remainder of this page intentionally left blank]
+
+14
+
+ 
+ 
+ 
+ 
+ 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Reﬁnancing Amendment to be duly executed by
+
+their duly authorized oﬃcers, all as of the date and year ﬁrst above written.
+
+BJ’S WHOLESALE CLUB, INC.,
+
+By
+
+/s/ Kristyn Sugrue
+Name: Kristyn Sugrue
+Title:   Treasurer
+
+ BJ’S WHOLESALE CLUB HOLDINGS, INC.,
+
+By
+
+/s/ Kristyn Sugrue
+Name: Kristyn Sugrue
+Title:   Treasurer
+
+EACH OF THE LOAN PARTIES LISTED BELOW, hereby
+consents to the entering into of this Reﬁnancing
+Amendment and agrees to the provisions hereof: 
+
+BJME OPERATING CORP.,
+
+By
+
+/s/ Lawrence Whelan
+Name: Lawrence Whelan
+Title:   Assistant Treasurer
+
+BJNH OPERATING CO., LLC,
+
+By
+
+/s/ Lawrence Whelan
+Name: Lawrence Whelan
+Title:   Assistant Treasurer
+
+NATICK REALTY, INC.,
+
+By
+
+/s/ Kristyn Sugrue
+Name: Kristyn Sugrue
+Title:   Treasurer
+
+[Signature Page to Fourth Amendment (BJs)]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MOMENTUM FUEL COMPANY, LLC,
+
+By
+
+/s/ Kristyn Sugrue
+Name: Kristyn Sugrue
+Title:   Treasurer
+
+[Signature Page to Fourth Amendment (BJs)]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOMURA CORPORATE FUNDING AMERICAS, LLC, as
+Administrative Agent
+
+By
+
+/s/ Andrew Keith
+Name: Andrew Keith
+Title: Executive Director
+
+[Signature Page to Fourth Amendment (BJs)]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEUTSCHE BANK AG NEW YORK BRANCH, as a 2023
+Other Term Lender and the New 2023 Other Term Lender
+
+By
+
+By
+
+/s/ Philip Tancorra
+Name: Philip Tancorra
+Title: Director
+
+/s/ Lauren Danbury
+Name: Lauren Danbury
+Title: Vice President
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule 2.01
+
+Commitments
+
+[On ﬁle with the Administrative Agent]
+
+ 
+ 
+ 
+ 
+ 
+Exhibit A
+
+Mortgages
+
+1. That  certain  First  Lien  Open-End  Mortgage  Deed,  Security  Agreement,  Assignment  of  Leases,  Rents  and
+Proﬁts,  Financing  Statement  and  Fixture  Filing,  made  by  NATICK  REALTY,  INC.,  a  Maryland  corporation,  as
+mortgagor, successor by merger to Natick Sixth Realty Corp., a Connecticut corporation, in favor of NOMURA
+CORPORATE  FUNDING  AMERICAS,  LLC,  as  Collateral  Agent,  as  mortgagee,  dated  as  of  May  4,  2017  and
+recorded  in  the  land  records  of  the  Town  of  Fairﬁeld,  County  of  Fairﬁeld  and  State  of  Connecticut  (the
+“Oﬃcial  Records”)  on  May  8,  2017,  as  Instrument  Number  2017-3184  in  Volume  5543,  Page  106,  as
+amended  by  First  Amendment  to  First  Lien  Open-End  Mortgage  Deed,  Security  Agreement,  Assignment  of
+Leases, Rents and Proﬁts, Financing Statement and Fixture Filing, between mortgagor and mortgagee, dated
+as of November 2, 2018 and recorded in the Oﬃcial Records on November 8, 2018 as Instrument Number
+2018-7401  in  Volume  5723,  Page  248,  as  further  amended  by  Second  Amendment  to  First  Lien  Open-End
+Mortgage  Deed,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and
+Fixture  Filing,  between  mortgagor  and  mortgagee,  dated  as  of  June  18,  2020  and  recorded  in  the  Oﬃcial
+Records  on  June  19,  2020  as  Instrument  Number  2020-4353  in  Volume  5930,  Page  256,  and  as  further
+amended by Third Amendment to First Lien Open-End Mortgage Deed, Security Agreement, Assignment of
+Leases, Rents and Proﬁts, Financing Statement and Fixture Filing, between mortgagor and mortgagee, dated
+as  of  February  14,  2023  and  recorded  in  the  Oﬃcial  Records  on  February  17,  2023  as  Instrument  Number
+2023-712 in Volume 6392, Page 208.
+
+2. That  certain  First  Lien  Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing
+Statement and Fixture Filing (With Future Advance Clause), made by NATICK NJ FLEMINGTON REALTY CORP.,
+a  New  Jersey  corporation,  as  mortgagor,  in  favor  of  NOMURA  CORPORATE  FUNDING  AMERICAS,  LLC,  as
+Collateral Agent, as mortgagee, dated as of May 4, 2017 and recorded in the Oﬃce of the County Clerk of
+Hunterdon  County,  State  of  New  Jersey  (the  “Hunterdon  Clerk’s  Oﬃce”)  on  May  10,  2017,  as  Instrument
+Number  20170510000102350  in  Book  4027,  Page  487,  as  amended  by  First  Amendment  to  First  Lien
+Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and  Fixture
+Filing (With Future Advance Clause), between mortgagor and mortgagee, dated as of November 2, 2018 and
+Instrument  Number
+recorded 
+20181114000228350 in Book 4126, Page 252, and as further amended by Second Amendment to First Lien
+Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and  Fixture
+Filing  (With  Future  Advance  Clause),  between  mortgagor  and  mortgagee,  dated  as  of  June  18,  2020  and
+recorded  in  the  Hunterdon  Clerk’s  Oﬃce  on  June  19,  2020  as  Instrument  Number  20200619000120740  in
+Book 4237, Page 894.
+
+the  Hunterdon  Clerk’s  Oﬃce  on  November  14,  2018  as 
+
+in 
+
+3. That  certain  First  Lien  Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing
+Statement and Fixture Filing (With Future Advance Clause), made by NATICK NJ 1993 REALTY CORP., a New
+Jersey  corporation,  as  mortgagor,  in  favor  of  NOMURA  CORPORATE  FUNDING  AMERICAS,  LLC,  as  Collateral
+Agent,  as  mortgagee,  dated  as  of  May  4,  2017  and  recorded  in  the  Oﬃce  of  the  County  Clerk  of  Union
+County, State of New Jersey (the “Union Clerk’s Oﬃce”) on May 10, 2017, as Instrument Number 640159 in
+Mortgage  Book  14268,  Page  810,  as  amended  by  First  Amendment  to  First  Lien  Mortgage,  Security
+Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and  Fixture  Filing  (With  Future
+Advance  Clause),  between  mortgagor  and  mortgagee,  dated  as  of  November  2,  2018  and  recorded  in  the
+Union  Clerk’s  Oﬃce  on  November  13,  2018  as  Instrument  Number  665220  in  Mortgage  Book  14506,
+Page  2282,  and  as  further  amended  by  Second  Amendment  to  First  Lien  Mortgage,  Security  Agreement,
+Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and  Fixture  Filing  (With  Future  Advance
+Clause),  between  mortgagor  and  mortgagee,  dated  as  of  June  18,  2020  and  recorded  in  the  Union  Clerk’s
+Oﬃce on June 19, 2020 as Instrument Number 693399 in Mortgage Book 14714, Page 2072.
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. That  certain  First  Lien  Open-End  Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,
+Financing  Statement  and  Fixture  Filing,  made  by  NATICK  REALTY,  INC.,  a  Maryland  corporation,  as
+mortgagor,  in  favor  of  NOMURA  CORPORATE  FUNDING  AMERICAS,  LLC,  as  Collateral  Agent,  as  mortgagee,
+dated  as  of  April  28,  2017,  eﬀective  as  of  May  4,  2017  and  recorded  on  May  10  2017  in  the  Oﬃce  of  the
+Recorder  of  Deeds  of  Berks  County,  Pennsylvania  (the  “Berks  Recorder’s  Oﬃce”),  as  Instrument  Number
+2017016663,  as  amended  by  First  Amendment  to  First  Lien  Open-End  Mortgage,  Security  Agreement,
+Assignment  of  Leases,  Rents  and  Proﬁts,  Financing  Statement  and  Fixture  Filing,  between  mortgagor  and
+mortgagee, dated as of October 29, 2018 and eﬀective as of November 2, 2018 and recorded in the Berks
+Recorder’s  Oﬃce  on  November  13,  2018  as  Instrument  Number  2018039355,  and  as  further  amended  by
+Second Amendment to First Lien Open-End Mortgage, Security Agreement, Assignment of Leases, Rents and
+Proﬁts, Financing Statement and Fixture Filing, between mortgagor and mortgagee, dated as of June 9, 2020
+and  eﬀective  as  of  June  18,  2020  and  recorded  in  the  Berks  Recorder’s  Oﬃce  on  June  19,  2020  as
+Instrument Number 2020020152.
+
+5. That  certain  First  Lien  Open-End  Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,
+Financing  Statement  and  Fixture  Filing,  made  by  NATICK  REALTY,  INC.,  a  Maryland  corporation,  as
+mortgagor,  successor  by  merger  to  Natick  PA  1995  Realty  Corp.,  a  Pennsylvania  corporation,  in  favor  of
+NOMURA  CORPORATE  FUNDING  AMERICAS,  LLC,  as  Collateral  Agent,  as  mortgagee,  dated  as  of  April  28,
+2017,  eﬀective  as  of  May  4,  2017  and  recorded  on  May  9,  2017  in  the  Oﬃce  of  the  Recorder  of  Deeds  of
+Bucks  County,  Pennsylvania  (the  “Bucks  Recorder’s  Oﬃce”),  as  Instrument  Number  2017026594,  as
+amended by First Amendment to First Lien Open-End Mortgage, Security Agreement, Assignment of Leases,
+Rents  and  Proﬁts,  Financing  Statement  and  Fixture  Filing,  between  mortgagor  and  mortgagee,  dated  as  of
+October  29,  2018  and  eﬀective  as  of  November  2,  2018  and  recorded  in  the  Bucks  Recorder’s  Oﬃce  on
+November 13, 2018 as Instrument Number 2018062524, and as further amended by Second Amendment to
+First  Lien  Open-End  Mortgage,  Security  Agreement,  Assignment  of  Leases,  Rents  and  Proﬁts,  Financing
+Statement and Fixture Filing, between mortgagor and mortgagee, dated as of June 9, 2020 and eﬀective as
+of  June  18,  2020  and  recorded  in  the  Bucks  Recorder’s  Oﬃce  on  June  19,  2020  as  Instrument  Number
+2020038175.
+
+ 
+ 
+ 
+ 
+ 
+

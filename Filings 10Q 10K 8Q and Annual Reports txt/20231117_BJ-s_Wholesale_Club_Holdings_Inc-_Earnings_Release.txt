@@ -1,0 +1,1440 @@
+.
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+__________________________________
+
+FORM 8-K
+__________________________________
+
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported) November 17, 2023
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+(Exact name of registrant as speciﬁed in its charter)
+__________________________________
+
+Delaware
+(State or other jurisdiction
+of incorporation)
+
+001-38559
+(Commission
+File Number)
+
+45-2936287
+(IRS Employer
+Identiﬁcation No.)
+
+350 Campus Drive
+Marlborough, Massachusetts
+(Address of principal executive oﬃces)
+
+01752
+(Zip Code)
+
+(774) 512-7400
+(Registrant’s telephone number, including area code)
+
+N/A
+(Former name, former address and former ﬁscal year, if changed since last report)
+
+Check the appropriate box below if the Form 8-K ﬁling is intended to simultaneously satisfy the ﬁling obligations of
+the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered or to be registered pursuant to Section 12(b) of the Act:
+
+Title of each class
+Common Stock, par value $0.01
+
+Trading Symbol(s)
+BJ
+
+Name of each exchange on which
+registered
+New York Stock Exchange
+
+Indicate by check mark whether the registrant is an emerging growth company as deﬁned in Rule 405 of the
+Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2
+of this chapter).
+
+Emerging growth company      ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised ﬁnancial accounting standards provided pursuant to Section
+
+13(a) of the Exchange Act.      ☐
+
+.
+
+.
+
+Item 2.02     Results of Operations and Financial Condition.
+
+On  November  17,  2023,  BJ’s  Wholesale  Club  Holdings,  Inc.  (the  “Company”)  issued  a  press  release
+announcing its ﬁnancial results for the third quarter (thirteen weeks) of ﬁscal year 2023 ended October 28, 2023.
+The full text of the press release is furnished as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated
+herein by reference.
+
+The  information  in  this  Current  Report  on  Form  8-K  (including  Exhibit  99.1)  shall  not  be  deemed  “ﬁled”  for
+purposes  of  Section  18  of  the  Securities  Exchange  Act  of  1934,  as  amended  (the  “Exchange  Act”),  or  otherwise
+subject to the liabilities of that Section, nor shall it be deemed to be incorporated by reference into any ﬁling of the
+Company  under  the  Securities  Act  of  1933,  as  amended,  or  the  Exchange  Act,  except  as  expressly  set  forth  by
+speciﬁc reference in such ﬁlings.
+
+Item 9.01    Financial Statements and Exhibits.
+
+(d)     Exhibits
+
+Exhibit
+No.
+99.1
+
+104
+
+.
+
+Description
+Press Release of BJ's Wholesale Club Holdings, Inc. dated November 17, 2023
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+.
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this
+
+report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+SIGNATURES
+
+Date: November 17, 2023
+
+BJ’S WHOLESALE CLUB HOLDINGS, INC.
+
+By:
+Name:
+Title:
+
+/s/ Laura Felice
+Laura Felice
+Executive Vice President and Chief Financial Oﬃcer
+
+.
+
+.
+
+BJ’s Wholesale Club Holdings, Inc. Announces Third Quarter Fiscal 2023 Results
+Strong third quarter earnings led by membership growth, traﬃc and margin improvement
+
+Third Quarter Fiscal 2023 Highlights
+
+•
+
+Comparable club sales, excluding gasoline sales, remained approximately ﬂat year-over-year
+
+Exhibit 99.1
+
+• Digitally enabled comparable sales growth was 16.0% year-over-year
+
+• Membership fee income increased by 6.6% year-over-year to $106.1 million
+
+• Merchandise gross margin rate increased by 30 basis points year-over-year
+
+•
+
+•
+
+•
+
+Earnings per diluted share of $0.97 and adjusted earnings per diluted share of $0.98
+
+Income from continuing operations of $130.5 million
+
+Adjusted EBITDA of $274.9 million
+
+Marlborough, Mass. (November 17, 2023) – BJ’s Wholesale Club Holdings, Inc. (NYSE: BJ) (the "Company") today
+announced its ﬁnancial results for the thirteen weeks and thirty-nine weeks ended October 28, 2023.
+
+“Our  advantaged  model  and  strong  value  proposition  continue  to  resonate  with  our  members.  During  the  third
+quarter, we posted accelerating membership growth, robust traﬃc gains and continued increases in market share.
+These gains continue to reinforce the underlying strength of our business and we remain conﬁdent in the long-term
+growth  prospects  of  our  Company,”  said  Bob  Eddy,  Chairman  and  Chief  Executive  Oﬃcer,  BJ’s  Wholesale  Club.  “I
+am proud of our team members for their continued dedication to our members during these dynamic times.”
+
+Key Measures for the Thirteen Weeks Ended October 28, 2023 (Third Quarter of Fiscal 2023) and for
+the Thirty-Nine Weeks Ended October 28, 2023, (First Nine Months of Fiscal 2023):
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+(Amounts in thousands, except per share amounts)
+
+13 Weeks
+Ended October
+28, 2023
+
+13 Weeks
+Ended October
+29, 2022
+
+%
+Growth
+(Decline)
+
+39 Weeks
+Ended October
+28, 2023
+
+39 Weeks
+Ended October
+29, 2022
+
+%
+Growth
+(Decline)
+
+Net sales
+Membership fee income
+
+Total revenues
+
+$
+
+4,818,670  $
+106,053 
+4,924,723 
+
+4,685,834 
+99,485 
+4,785,319 
+
+2.8 % $
+6.6 %
+2.9 %
+
+14,299,132  $
+312,273 
+14,611,405 
+
+14,090,673 
+294,897 
+14,385,570 
+
+1.5 %
+5.9 %
+1.6 %
+
+Operating income
+Income from continuing
+operations
+
+Adjusted EBITDA
+
+ (a)
+
+Net income
+(b)
+EPS 
+
+Adjusted net income
+
+ (a)
+
+Adjusted EPS
+
+ (a)
+
+Basic weighted-average shares
+outstanding
+Diluted weighted-average
+shares outstanding
+
+199,375 
+
+191,968 
+
+3.9 %
+
+586,414 
+
+545,193 
+
+7.6 %
+
+130,467 
+
+274,920 
+130,467 
+
+0.97 
+
+131,779 
+
+0.98 
+
+131,394 
+
+272,305 
+129,942 
+
+0.95 
+
+135,830 
+
+0.99 
+
+(0.7)%
+
+1.0 %
+0.4 %
+
+2.1 %
+
+(3.0)%
+
+(1.0)%
+
+377,780 
+
+800,663 
+377,869 
+
+2.79 
+
+378,617 
+
+2.80 
+
+384,862 
+
+766,804 
+383,396 
+
+2.81 
+
+398,550 
+
+2.92 
+
+(1.8)%
+
+4.4 %
+(1.4)%
+
+(0.7)%
+
+(5.0)%
+
+(4.1)%
+
+133,069 
+
+134,091 
+
+133,232 
+
+134,225 
+
+134,984 
+
+136,621 
+
+135,338 
+
+136,630 
+
+(a) See “Note Regarding Non-GAAP Financial Information.”
+(b) EPS represents net income per diluted share. 
+
+1
+
+.
+
+Additional Highlights:
+
+•
+
+Total  comparable  club  sales  increased  by  0.3%  in  the  third  quarter  of  ﬁscal  2023  compared  to  the  third
+quarter  of  ﬁscal  2022.  Excluding  the  impact  of  gasoline  sales,  comparable  club  sales  remained
+approximately ﬂat, with a decrease of 0.1% in the third quarter of ﬁscal 2023 compared to the same period
+in  ﬁscal  2022.  Total  comparable  club  sales  decreased  by  1.2%  in  the  ﬁrst  nine  months  of  ﬁscal  2023
+compared  to  the  ﬁrst  nine  months  of  ﬁscal  2022.  Excluding  the  impact  of  gasoline  sales,  comparable  club
+sales  increased  by  2.1%  in  the  ﬁrst  nine  months  of  ﬁscal  2023  compared  to  the  ﬁrst  nine  months  of  ﬁscal
+2022.
+
+• Gross  proﬁt  increased  to  $902.5  million  in  the  third  quarter  of  ﬁscal  2023  from  $877.1  million  in  the  third
+quarter  of  ﬁscal  2022.  Merchandise  gross  margin  rate,  which  excludes  gasoline  sales  and  membership  fee
+income,  increased  by  30  basis  points  over  the  same  quarter  of  ﬁscal  2022.  Gross  proﬁt  increased  to
+$2,679.3 million in the ﬁrst nine months of ﬁscal 2023 from $2,528.3 million in the ﬁrst nine months of ﬁscal
+2022.  Merchandise  gross  margin  rate  increased  by  70  basis  points  in  the  ﬁrst  nine  months  of  ﬁscal  2023.
+Merchandise  margins  were  positively  impacted  by  moderated  supply  chain  costs  and  improved  inventory
+management for both comparative periods.
+
+•
+
+•
+
+•
+
+Selling,  general  and  administrative  expenses  ("SG&A")  increased  to  $697.1  million  in  the  third  quarter  of
+ﬁscal  2023  compared  to  $674.4  million  in  the  third  quarter  of  ﬁscal  2022.  SG&A  increased  to  $2,081.4
+million in the ﬁrst nine months of ﬁscal 2023 compared to $1,961.6 million in the ﬁrst nine months of ﬁscal
+2022.  The  increase  in  both  comparative  periods  was  primarily  driven  by  increased  labor  and  occupancy
+costs  as  a  result  of  new  club  and  gas  station  openings  in  addition  to  other  investments  to  drive  strategic
+priorities.
+
+Income from continuing operations before income taxes increased to $181.4 million in the third quarter of
+ﬁscal 2023 compared to $179.5 million in the third quarter of ﬁscal 2022. Income from continuing operations
+before income taxes increased to $537.4 million in the ﬁrst nine months of ﬁscal 2023 compared to $514.0
+million in the ﬁrst nine months of ﬁscal 2022.
+
+Income tax expense increased to $50.9 million in the third quarter of ﬁscal 2023 compared to $48.1 million
+in the third quarter of ﬁscal 2022. Income tax expense increased to $159.7 million in the ﬁrst nine months of
+ﬁscal 2023 compared to $129.2 million in the ﬁrst nine months of ﬁscal 2022. The increases in the income
+tax expense for both comparative periods are driven by lower tax beneﬁts from stock-based compensation.
+Income tax expense for the ﬁrst nine months of ﬁscal 2023 also increased due to an immaterial adjustment
+to certain deferred tax assets related to prior periods.
+
+• Net income increased to $130.5 million in the third quarter of ﬁscal 2023 compared to $129.9 million in the
+third quarter of ﬁscal 2022. Net income decreased to $377.9 million in the ﬁrst nine months of ﬁscal 2023
+compared to $383.4 million in the ﬁrst nine months of ﬁscal 2022.
+
+•
+
+•
+
+Adjusted  EBITDA  increased  by  1.0%  to  $274.9  million  in  the  third  quarter  of  ﬁscal  2023  compared  to
+$272.3 million in the third quarter of ﬁscal 2022. Adjusted EBITDA increased by 4.4% to $800.7 million in the
+ﬁrst nine months of ﬁscal 2023 compared to $766.8 million in the ﬁrst nine months of ﬁscal 2022.
+
+The  Company  repaid  $50.0  million  of  principal  and  amended  its  senior  secured  ﬁrst  lien  term  loan  in  the
+third  quarter  of  ﬁscal  2023,  extending  the  maturity  date  from  February  3,  2027  to  February  3,  2029.  The
+interest  rate  was  reduced  from  the  Secured  Overnight  Financing  Rate  (“SOFR”)  plus  275  basis  points  per
+annum to SOFR plus 200 basis points per annum.
+
+• Under its existing share repurchase program, the Company repurchased 242,000 shares of common stock,
+totaling  $17.1  million,  inclusive  of  associated  costs,  in  the  third  quarter  of  ﬁscal  2023.  In  the  ﬁrst  nine
+months of ﬁscal 2023, the Company repurchased 1,161,162 shares of common stock, totaling $77.0 million,
+inclusive of associated costs, under such program.
+
+2
+
+.
+
+Fiscal 2023 Ending February 3, 2024 Outlook
+
+“As  we  look  ahead  to  the  rest  of  the  year,  we  remain  conﬁdent  in  our  ability  to  maintain  the  momentum  in  our
+traﬃc  and  market  share  gains  due  to  our  unrelenting  focus  on  value.  We  also  continue  to  navigate  shifts  in
+consumer  behavior  driven  by  the  broader  macroeconomic  environment.  As  a  result,  we  are  reﬁning  our  sales
+outlook for the rest of the year,” said Laura Felice, Executive Vice President, Chief Financial Oﬃcer, BJ's Wholesale
+Club. “We expect our comparable club sales, excluding the impact of gasoline sales, to range from a 2% decrease
+to 1% increase year-over-year in the fourth quarter ﬁscal 2023, and to increase by 1.0% to 1.8% year-over-year for
+the  full  year  ﬁscal  2023.  Our  outlook  on  ﬁscal  2023  GAAP  and  adjusted  EPS  remains  unchanged  in  the  $3.80  to
+$3.92 range.”
+
+Conference Call Details
+
+A conference call to discuss the third quarter of ﬁscal 2023 ﬁnancial results is scheduled for today, November 17,
+2023,  at  8:00  A.M.  Eastern  Time.  The  live  audio  webcast  of  the  call can be  accessed under  the  “Events  &
+Presentations”  section  of  the  Company’s  investor  relations  website  at  https://investors.bjs.com  and  will  remain
+available for one year. Participants may also dial (833) 470-1428 within the U.S. or (646) 904-5544 outside the U.S.
+and reference conference ID 604879. A telephonic replay will be available two hours after the conclusion of the call
+for  one  week  and  can  be  accessed  by  dialing (929)  458-6194  or  (866)  813-9403 and referencing conference
+ID 413792.
+
+About BJ’s Wholesale Club Holdings, Inc.
+
+BJ’s  Wholesale  Club  Holdings,  Inc.  (NYSE:  BJ)  is  a  leading  operator  of  membership  warehouse  clubs  focused  on
+delivering signiﬁcant value to its members and serving a shared purpose: “We take care of the families who depend
+on  us.”  The  Company  provides  a  curated  assortment  of  grocery,  general  merchandise,  gasoline  and  ancillary
+services  to  oﬀer  a  diﬀerentiated  shopping  experience  that  is  further  enhanced  by  its  omnichannel  capabilities.
+Headquartered in Marlborough, Massachusetts, the Company pioneered the warehouse club model in New England
+in  1984  and  currently  operates  239  clubs  and  169  BJ's  Gas   locations  in  20  states.  For  more  information,  please
+visit us at www.bjs.com.
+
+®
+
+Forward-Looking Statements
+
+This  press  release  contains  forward-looking  statements  within  the  meaning  of  the  Private  Securities  Litigation
+Reform  Act  of  1995.  All  statements  contained  in  this  press  release  that  do  not  relate  to  matters  of  historical  fact
+should be considered forward-looking statements, including, without limitation, statements regarding our strategic
+priorities; our anticipated ﬁscal 2023 outlook; and our future progress, as well as statements that include the words
+“expect,”  “intend,”  “plan,”  “believe,”  “project,”  “forecast,”  “estimate,”  “may,”  “should,”  “anticipate”  and  similar
+statements  of  a  future  or  forward-looking  nature.  These  forward-looking  statements  are  based  on  management’s
+current  expectations.  These  statements  are  neither  promises  nor  guarantees,  but  involve  known  and  unknown
+risks, uncertainties and other important factors that may cause actual results, performance or achievements to be
+materially  diﬀerent  from  any  future  results,  performance  or  achievements  expressed  or  implied  by  the  forward-
+looking  statements,  including,  but  not  limited  to:  uncertainties  in  the  ﬁnancial  markets,  including,  without
+limitation, as a result of disruptions and instability in the banking and ﬁnancial services industries or as a result of
+wars and global political conﬂicts, consumer and small business spending patterns and debt levels; our dependence
+on  having  a  large  and  loyal  membership;  domestic  and  international  economic  conditions,  including  inﬂation  and
+exchange  rates;  our  ability  to  procure  the  merchandise  we  sell  at  the  best  possible  prices;  the  eﬀects  of
+competition and regulation; our dependence on vendors to supply us with quality merchandise at the right time and
+at  the  right  price;  breaches  of  security  or  privacy  of  member  or  business  information;  conditions  aﬀecting  the
+acquisition,  development,  ownership  or  use  of  real  estate;  our  capital  spending;  actions  of  vendors;  our  ability  to
+attract  and  retain  a  qualiﬁed  management  team  and  other  team  members;  costs  associated  with  employees
+(generally including health care costs), energy and certain commodities, geopolitical conditions (including tariﬀs);
+changes in our product mix or in our revenues from gasoline sales; our failure to successfully maintain a relevant
+omnichannel experience for our members; risks related to our growth strategy to open new clubs; risks related to
+our  e-commerce  business;  our  ability  to  grow  our  BJ's  One  Mastercard®  program;  and  other  important  factors
+discussed under the caption “Risk Factors” in our Form 10-K ﬁled with the U.S. Securities and Exchange Commission
+(“SEC”)  on  March  16,  2023,  and  subsequent  ﬁlings  with  the  SEC,  which  are  accessible  on  the  SEC’s  website  at
+www.sec.gov. These and other important factors could cause actual results to diﬀer materially from those indicated
+by  the  forward-looking  statements  made  in  this  press  release.  Any  such  forward-looking  statements  represent
+management’s estimates as of the date of this press release. While we may elect to update such forward-looking
+statements at some point in the future, unless required by law, we disclaim any obligation to do so, even
+
+3
+
+.
+
+if  subsequent  events  cause  our  views  to  change.  Thus,  one  should  not  assume  that  our  silence  over  time  means
+that  actual  events  are  bearing  out  as  expressed  or  implied  in  such  forward-looking  statements.  These  forward-
+looking statements should not be relied upon as representing our views as of any date subsequent to the date of
+this press release.
+
+Non-GAAP Financial Measures
+
+We refer to certain ﬁnancial measures that are not recognized under United States generally accepted accounting
+principles  (“GAAP”).  Please  see  “Note  Regarding  Non-GAAP  Financial  Information"  and  “Reconciliation  of  GAAP  to
+Non-GAAP  Financial  Information”  below  for  additional  information  and  a  reconciliation  of  the  Non-GAAP  ﬁnancial
+measures to the most comparable GAAP ﬁnancial measures.
+
+4
+
+.
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Thirteen Weeks
+Ended October 28,
+2023
+
+Thirteen Weeks
+Ended October 29,
+2022
+
+Thirty-Nine Weeks
+Ended October 28,
+2023
+
+Thirty-Nine Weeks
+Ended October 29,
+2022
+
+Net sales
+Membership fee income
+
+Total revenues
+
+Cost of sales
+Selling, general and administrative expenses
+Pre-opening expense
+Operating income
+Interest expense, net
+
+Income from continuing operations before
+income taxes
+
+Provision for income taxes
+
+Income from continuing operations
+
+Income (loss) from discontinued operations,
+net of income taxes
+
+Net income
+
+Income per share attributable to common
+stockholders - basic:
+
+Income from continuing operations
+Income (loss) from discontinued operations
+
+Net income
+
+Income per share attributable to common
+stockholders - diluted:
+
+Income from continuing operations
+
+Income (loss) from discontinued operations
+
+Net income
+
+Weighted-average number of shares
+outstanding:
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+Basic
+Diluted
+
+4,818,670  $
+106,053 
+4,924,723 
+4,022,243 
+697,104 
+6,001 
+
+199,375 
+18,004 
+
+181,371 
+50,904 
+
+130,467 
+
+4,685,834  $
+99,485 
+4,785,319 
+3,908,219 
+674,426 
+10,706 
+
+191,968 
+12,450 
+
+179,518 
+48,124 
+
+131,394 
+
+14,299,132  $
+312,273 
+14,611,405 
+11,932,120 
+2,081,392 
+11,479 
+
+586,414 
+48,968 
+
+537,446 
+159,666 
+
+377,780 
+
+— 
+
+130,467  $
+
+(1,452)
+129,942  $
+
+89 
+
+377,869  $
+
+0.98  $
+— 
+0.98  $
+
+0.97  $
+— 
+
+0.97  $
+
+0.98  $
+(0.01)
+0.97  $
+
+0.96  $
+(0.01)
+
+0.95  $
+
+2.84  $
+— 
+2.84  $
+
+2.79  $
+— 
+
+2.79  $
+
+14,090,673 
+294,897 
+14,385,570 
+11,857,263 
+1,961,606 
+21,508 
+
+545,193 
+31,166 
+
+514,027 
+129,165 
+
+384,862 
+
+(1,466)
+383,396 
+
+2.87 
+(0.01)
+2.86 
+
+2.82 
+(0.01)
+
+2.81 
+
+133,069 
+134,984 
+
+134,091 
+136,621 
+
+133,232 
+135,338 
+
+134,225 
+136,630 
+
+5
+
+.
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+ASSETS
+Current assets:
+
+Cash and cash equivalents
+Accounts receivable, net
+Merchandise inventories
+Prepaid expense and other current assets
+
+Total current assets
+
+Operating lease right-of-use assets, net
+Property and equipment, net
+Goodwill
+Intangibles, net
+Deferred taxes
+Other assets
+
+Total assets
+
+LIABILITIES
+Current liabilities:
+Short-term debt
+Current portion of operating lease liabilities
+Accounts payable
+Accrued expenses and other current liabilities
+
+Total current liabilities
+
+Long-term operating lease liabilities
+Long-term debt
+Deferred income taxes
+Other non-current liabilities
+
+STOCKHOLDERS' EQUITY
+
+Total liabilities and stockholders' equity
+
+6
+
+October 28, 2023
+
+October 29, 2022
+
+$
+
+33,551  $
+
+224,505 
+1,661,852 
+80,550 
+
+2,000,458 
+
+2,174,706 
+1,495,912 
+1,008,816 
+109,600 
+7,429 
+40,323 
+6,837,244  $
+
+434,000  $
+180,490 
+1,318,959 
+805,607 
+
+2,739,056 
+
+2,084,744 
+398,355 
+65,104 
+196,289 
+
+1,353,696 
+
+6,837,244  $
+
+$
+
+$
+
+$
+
+34,644 
+251,978 
+1,504,368 
+72,285 
+
+1,863,275 
+
+2,163,504 
+1,296,151 
+1,008,816 
+117,814 
+4,341 
+25,002 
+6,478,903 
+
+295,000 
+176,659 
+1,363,734 
+764,572 
+
+2,599,965 
+
+2,085,625 
+600,123 
+70,432 
+179,883 
+
+942,875 
+
+6,478,903 
+
+.
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Amounts in thousands, except per share amounts)
+(Unaudited) 
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income
+Adjustments to reconcile net income to net cash provided by operating activities:
+
+Depreciation and amortization
+Amortization of debt issuance costs and accretion of original issue discount
+Debt extinguishment charges
+Stock-based compensation expense
+Deferred income tax provision
+Changes in operating leases and other non-cash items
+Increase (decrease) in cash due to changes in:
+Accounts receivable
+Merchandise inventories
+Accounts payable
+Accrued expenses and other current liabilities
+Other operating assets and liabilities, net
+
+Net cash provided by operating activities
+CASH FLOWS FROM INVESTING ACTIVITIES
+Additions to property and equipment, net of disposals and proceeds from sale leaseback
+transactions
+Acquisition
+
+Net cash used in investing activities
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from the issuance of long-term debt
+Payments on long-term debt
+Proceeds from revolving lines of credit
+Payments on revolving lines of credit
+Debt issuance costs paid
+Net cash received from stock option exercises
+Net cash received from Employee Stock Purchase Program (ESPP)
+Acquisition of treasury stock
+Proceeds from ﬁnancing obligations
+Other ﬁnancing activities
+
+Net cash (used in) provided by ﬁnancing activities
+Net decrease in cash and cash equivalents
+Cash and cash equivalents at beginning of period
+
+Cash and cash equivalents at end of period
+
+Thirty-Nine Weeks
+Ended October 28,
+2023
+
+Thirty-Nine Weeks
+Ended October 29,
+2022
+
+$
+
+377,869  $
+
+383,396 
+
+166,421 
+900 
+1,830 
+29,011 
+12,149 
+3,684 
+
+15,205 
+(283,301)
+123,262 
+29,916 
+(32,415)
+444,531 
+
+(335,641)
+— 
+
+(335,641)
+
+305,041 
+(355,041)
+564,000 
+(535,000)
+(1,722)
+2,369 
+3,255 
+(101,819)
+11,691 
+(2,028)
+(109,254)
+
+149,259 
+2,282 
+687 
+27,965 
+18,474 
+26,235 
+
+(73,162)
+(173,361)
+250,951 
+(3,802)
+3,933 
+612,857 
+
+(283,216)
+(376,521)
+
+(659,737)
+
+— 
+(150,000)
+1,110,000 
+(815,000)
+(2,733)
+6,545 
+2,331 
+(127,458)
+16,949 
+(4,546)
+36,088 
+
+(10,792)
+45,436 
+34,644 
+
+$
+
+(364)
+33,915 
+33,551  $
+
+7
+
+.
+
+Note Regarding Non-GAAP Financial Information
+
+This press release includes ﬁnancial measures that are not calculated in accordance with GAAP, including adjusted
+net income, adjusted net income per diluted share, adjusted EBITDA, free cash ﬂow, net debt and net debt to last
+twelve months (“LTM”) adjusted EBITDA.
+
+We  deﬁne  adjusted  net  income  as  net  income  attributable  to  common  stockholders  adjusted  for:  acquisition  and
+integration  costs;  home  oﬃce  transition  costs;  impairment  charges;  charges  related  to  debt  payments;  other
+adjustments and the tax impact of the foregoing adjustments on net income.
+
+We deﬁne adjusted net income per diluted share as adjusted net income divided by the weighted-average diluted
+shares outstanding.
+
+We deﬁne adjusted EBITDA as income from continuing operations before interest expense, net, provision for income
+taxes  and  depreciation  and  amortization,  adjusted  for  the  impact  of  certain  other  items,  including:  stock-based
+compensation  expense;  pre-opening  expenses;  non-cash  rent;  acquisition  and  integration  costs  and  other
+adjustments.
+
+We deﬁne free cash ﬂow as net cash provided by operating activities less additions to property and equipment, net
+of disposals, plus proceeds from sale leaseback transactions.
+
+We deﬁne net debt as total debt outstanding less cash and cash equivalents.
+
+We deﬁne net debt to LTM adjusted EBITDA as net debt at the balance sheet date divided by adjusted EBITDA for
+the trailing twelve-month period.
+
+We  present  adjusted  net  income,  adjusted  net  income  per  diluted  share  and  adjusted  EBITDA,  which  are  not
+recognized  ﬁnancial  measures  under  GAAP,  because  we  believe  such  measures  assist  investors  and  analysts  in
+comparing our operating performance across reporting periods on a consistent basis by excluding items that we do
+not  believe  are  indicative  of  our  core  operating  performance.  In  addition,  adjusted  EBITDA  excludes  pre-opening
+expenses, because we do not believe these expenses are indicative of the underlying operating performance of our
+clubs.  The  amount  and  timing  of  pre-opening  expenses  are  dependent  on,  among  other  things,  the  size  of  new
+clubs opened and the number of new clubs opened during any given period.
+
+Management  believes  that  adjusted  net  income,  adjusted  net  income  per  diluted  share  and  adjusted  EBITDA  are
+helpful  in  highlighting  trends  in  our  core  operating  performance  compared  to  other  measures,  which  can  diﬀer
+signiﬁcantly  depending  on  long-term  strategic  decisions  regarding  capital  structure,  the  tax  jurisdictions  in  which
+companies  operate  and  capital  investments.  We  use  adjusted  net  income,  adjusted  net  income  per  diluted  share
+and  adjusted  EBITDA  to  supplement  GAAP  measures  of  performance  in  the  evaluation  of  the  eﬀectiveness  of  our
+business  strategies;  to  make  budgeting  decisions;  and  to  compare  our  performance  against  that  of  other  peer
+companies  using  similar  measures.  We  also  use  adjusted  EBITDA  in  connection  with  establishing  discretionary
+annual incentive compensation.
+
+We present free cash ﬂow, which is not a recognized ﬁnancial measure under GAAP, because we use it to report to
+our  Board  of  Directors  and  we  believe  it  assists  investors  and  analysts  in  evaluating  our  liquidity.  Free  cash  ﬂow
+should  not  be  considered  as  an  alternative  to  cash  ﬂows  from  operations  as  a  liquidity  measure.  We  present  net
+debt and net debt to LTM adjusted EBITDA, which are not recognized as ﬁnancial measures under GAAP, because
+we use them to report to our Board of Directors and we believe they assist investors and analysts in evaluating our
+borrowing  capacity.  Net  debt  to  LTM  adjusted  EBITDA  is  a  key  ﬁnancial  measure  that  is  used  by  management  to
+assess the borrowing capacity of the Company.
+
+You are encouraged to evaluate these adjustments and the reasons we consider them appropriate for supplemental
+analysis. In evaluating adjusted net income, adjusted net income per diluted share, adjusted EBITDA and net debt
+to LTM adjusted EBITDA, you should be aware that in the future we may incur expenses that are the same as or like
+some  of  the  adjustments  in  our  presentation  of  these  metrics.  Our  presentation  of  adjusted  net  income,  adjusted
+net  income  per  diluted  share,  adjusted  EBITDA,  free  cash  ﬂow,  net  debt  and  net  debt  to  LTM  adjusted  EBITDA
+should not be considered as alternatives to any other measure derived in accordance with GAAP and they should
+not  be  construed  as  an  inference  that  the  Company’s  future  results  will  be  unaﬀected  by  unusual  or  non-
+recurring  items.  There  can  be  no  assurance  that  we  will  not  modify  the  presentation  of  adjusted  net  income,
+adjusted net income per diluted share, adjusted EBITDA or net debt to LTM adjusted EBITDA in the
+
+8
+
+.
+
+future,  and  any  such  modiﬁcation  may  be  material.  In  addition,  adjusted  net  income,  adjusted  net  income  per
+diluted  share,  adjusted  EBITDA,  free  cash  ﬂow,  net  debt  and  net  debt  to  LTM  adjusted  EBITDA  may  not  be
+comparable  to  similarly  titled  measures  used  by  other  companies  in  our  industry  or  across  diﬀerent  industries.
+Additionally, adjusted net income, adjusted net income per diluted share, adjusted EBITDA, free cash ﬂow, net debt
+and  net  debt  to  LTM  adjusted  EBITDA  have  limitations  as  analytical  tools,  and  you  should  not  consider  them  in
+isolation or as a substitute for analysis of our results as reported under GAAP.
+
+The  Company  does  not  provide  a  reconciliation  for  non-GAAP  estimates  on  a  forward-looking  basis,  including  the
+information  under  "Fiscal  2023  Ending  February  3,  2024"  above,  where  it  is  unable  to  provide  a  meaningful  or
+accurate calculation or estimation of reconciling items or there are no meaningful adjustments to be presented in
+the  reconciliation  and  the  information  is  not  available  without  unreasonable  eﬀort.  This  is  due  to  the  inherent
+diﬃculty of forecasting the timing and/or amount of various items that would impact net income per diluted share,
+if any, which is the most directly comparable forward-looking GAAP ﬁnancial measure. This includes items that have
+not  yet  occurred,  are  out  of  the  Company's  control,  cannot  be  reasonably  predicted  and/or  for  which  there  would
+not  be  any  meaningful  adjustment  or  diﬀerence.  For  the  same  reasons,  the  Company  is  unable  to  address  the
+probable signiﬁcance of the unavailable information. The information under "Fiscal 2023 Ending February 3, 2024"
+above,  including  expectations  that  GAAP  and  adjusted  EPS  reﬂects  management’s  view  of  current  and  future
+market  conditions.  To  the  extent  actual  results  diﬀer  from  our  current  expectations,  the  Company’s  results  may
+diﬀer materially from the expectations set forth above. Other factors, as referenced elsewhere in this press release,
+may also cause the Company’s results to diﬀer materially from the expectations set forth above.
+
+9
+
+.
+
+Reconciliation of GAAP to Non-GAAP Financial Information
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+Reconciliation of net income to adjusted net income and adjusted net income per diluted share
+(Amounts in thousands, except per share amounts)
+(Unaudited)
+
+Net income as reported
+Adjustments:
+Acquisition and integration costs 
+Home oﬃce transition costs 
+Impairment expense on discontinued operations club lease
+Charges related to debt 
+Other adjustments 
+Tax impact of adjustments to net income 
+
+(d)
+
+(b)
+
+(e)
+
+(a)
+
+(c)
+
+Adjusted net income
+
+Weighted-average diluted shares outstanding
+Adjusted EPS 
+
+(f)
+
+$
+
+$
+
+13 Weeks
+Ended
+October 28,
+2023
+
+13 Weeks
+Ended
+October 29,
+2022
+
+39 Weeks
+Ended
+October 28,
+2023
+
+39 Weeks
+Ended
+October 29,
+2022
+
+$
+
+130,467  $
+
+129,942  $
+
+377,869  $
+
+383,396 
+
+— 
+— 
+— 
+1,830 
+— 
+(518)
+
+857 
+5,897 
+1,199 
+298 
+— 
+(2,363)
+
+— 
+— 
+— 
+1,830 
+(786)
+(296)
+
+12,324 
+7,096 
+1,199 
+687 
+(165)
+(5,987)
+
+131,779  $
+
+135,830  $
+
+378,617  $
+
+398,550 
+
+134,984 
+
+0.98  $
+
+136,621 
+
+0.99  $
+
+135,338 
+
+2.80  $
+
+136,630 
+2.92 
+
+(a) Represents  costs  related  to  the  acquisition  and  integration  of  assets  from  Burris  Logistics,  including  due  diligence,  legal,  and  other
+
+consulting expenses.
+
+(b) Represents incremental rent expense, other non-recurring lease costs and write-oﬀ of impaired assets as the Company transitioned home
+
+oﬃce locations in ﬁscal 2022.
+
+(c) Represents  the  expensing  of  fees  and  deferred  fees  and  original  issue  discount  associated  with  the  extinguishment  of  the  ABL  Facility  in
+
+ﬁscal 2022 and amendment of the senior secured ﬁrst lien term loan in ﬁscal 2023.
+
+(d) Other non-cash items related to the reclassiﬁcation into earnings of accumulated other comprehensive income/ loss associated with the de-
+
+designation of hedge accounting and other adjustments.
+
+(e) Represents the tax eﬀect of the above adjustments at a statutory tax rate of approximately 28%.
+(f) Adjusted EPS is measured using weighted-average diluted shares outstanding. 
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+Reconciliation to Adjusted EBITDA
+(Amounts in thousands)
+(Unaudited)
+
+Income from continuing operations
+Interest expense, net
+Provision for income taxes
+Depreciation and amortization
+Stock-based compensation expense
+Pre-opening expenses 
+Non-cash rent 
+Acquisition and integration costs 
+Home oﬃce transition costs 
+Other adjustments 
+
+(b)
+
+(d)
+
+(e)
+
+(a)
+
+(c)
+
+Adjusted EBITDA
+
+13 Weeks Ended
+October 28, 2023
+
+13 Weeks Ended
+October 29, 2022
+
+39 Weeks Ended
+October 28, 2023
+
+39 Weeks Ended
+October 29, 2022
+
+$
+
+$
+
+130,467  $
+18,004 
+50,904 
+57,406 
+9,380 
+6,001 
+2,394 
+— 
+— 
+364 
+274,920  $
+
+131,394  $
+12,450 
+48,124 
+52,166 
+9,463 
+10,707 
+1,025 
+857 
+5,897 
+222 
+272,305  $
+
+377,780  $
+48,968 
+159,666 
+166,421 
+29,011 
+11,479 
+6,226 
+— 
+— 
+1,112 
+800,663  $
+
+384,862 
+31,166 
+129,165 
+149,259 
+27,965 
+21,508 
+3,127 
+12,324 
+7,096 
+332 
+766,804 
+
+(a) Represents direct incremental costs of opening or relocating a facility that are charged to operations as incurred.
+(b) Consists of an adjustment to remove the non-cash portion of rent expense.
+(c) Represents costs related to the acquisition and integration of assets from Burris Logistics, including due diligence, legal, and other
+
+consulting expenses.
+
+(d) Represents incremental rent expense, other non-recurring lease costs and write-oﬀ of impaired assets as the Company transitioned home
+
+oﬃce locations in ﬁscal 2022.
+
+(e) Other non-cash items, including non-cash accretion on asset retirement obligations and obligations associated with our post-retirement
+
+medical plan.
+
+10
+
+.
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+Reconciliation to Free Cash Flow
+(Amounts in thousands)
+(Unaudited)  
+
+Net cash provided by operating activities
+Less: Additions to property and equipment, net of disposals
+Plus: Proceeds from sale leaseback transactions
+
+Free cash ﬂow
+
+13 Weeks
+Ended
+October 28,
+2023
+
+13 Weeks
+Ended
+October 29,
+2022
+
+39 Weeks
+Ended
+October 28,
+2023
+
+39 Weeks
+Ended
+October 29,
+2022
+
+$
+
+$
+
+175,031  $
+(133,711)
+6,322 
+
+47,642  $
+
+169,805  $
+(102,774)
+8,418 
+
+75,449  $
+
+444,531  $
+(347,951)
+12,310 
+
+108,890  $
+
+612,857 
+(294,308)
+11,092 
+
+329,641 
+
+BJ'S WHOLESALE CLUB HOLDINGS, INC.
+Reconciliation of Net Debt and Net Debt to LTM adjusted EBITDA
+(Amounts in thousands)
+(Unaudited)
+
+$
+
+$
+
+$
+
+$
+
+October 28, 2023
+
+832,355 
+33,551 
+
+798,804 
+
+507,180 
+65,264 
+206,763 
+218,096 
+43,663 
+14,904 
+7,090 
+7,610 
+1,422 
+1,071,992 
+
+0.7x
+
+Total debt
+Less: Cash and cash equivalents
+
+Net Debt
+
+Income from continuing operations
+Interest expense, net
+Provision for income taxes
+Depreciation and amortization
+Stock-based compensation expense 
+Pre-opening expenses 
+Non-cash rent 
+Home oﬃce transition costs
+Other adjustments 
+
+Adjusted EBITDA
+
+Net debt to LTM adjusted EBITDA
+
+See descriptions of adjustments in the “Reconciliation to Adjusted EBITDA (unaudited)” table above.
+
+Investor Contact:
+Catherine Park
+Vice President, Investor Relations
+cpark@bjs.com
+774-512-6744
+
+Media Contact:
+Kirk Saville
+Head of Corporate Communications
+ksaville@bjs.com
+774-512-5597
+
+11
+
+
